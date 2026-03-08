@@ -1,0 +1,12 @@
+{
+  "name": "data-mining-mba-main",
+  "version": "1.0.0",
+  "description": "> *A fully automated MBA system that mines purchase patterns, detects trend drift, and generates live game bundle recommendations — inspired by platforms like Steam and PlayStation Store.*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
