@@ -1,0 +1,162 @@
+{
+  "Elden Ring OST": {
+    "genre": "Soundtrack",
+    "price": 349.0,
+    "popularity": 0
+  },
+  "Civilization VI": {
+    "genre": "Strategy/4X",
+    "price": 1499.0,
+    "popularity": 0
+  },
+  "Cyberpunk 2077": {
+    "genre": "Action RPG",
+    "price": 2699.0,
+    "popularity": 0
+  },
+  "God of War": {
+    "genre": "Action/Adventure",
+    "price": 2499.0,
+    "popularity": 0
+  },
+  "Horizon Zero Dawn": {
+    "genre": "Action RPG",
+    "price": 2499.0,
+    "popularity": 0
+  },
+  "Planet Coaster": {
+    "genre": "Simulation/Management",
+    "price": 1499.0,
+    "popularity": 0
+  },
+  "Hades": {
+    "genre": "Roguelike Action",
+    "price": 829.0,
+    "popularity": 0
+  },
+  "Elden Ring": {
+    "genre": "Action RPG",
+    "price": 2399.0,
+    "popularity": 0
+  },
+  "Among Us": {
+    "genre": "Party/Social Deduction",
+    "price": 119.0,
+    "popularity": 0
+  },
+  "Hades OST": {
+    "genre": "Soundtrack",
+    "price": 199.0,
+    "popularity": 0
+  },
+  "Valorant": {
+    "genre": "Tactical FPS",
+    "price": 0.0,
+    "popularity": 0
+  },
+  "Counter-Strike 2": {
+    "genre": "FPS",
+    "price": 0.0,
+    "popularity": 0
+  },
+  "Overwatch 2": {
+    "genre": "Hero Shooter",
+    "price": 0.0,
+    "popularity": 0
+  },
+  "Total War: Warhammer III": {
+    "genre": "Strategy/RTS",
+    "price": 3499.0,
+    "popularity": 0
+  },
+  "Battlefield 2042": {
+    "genre": "FPS",
+    "price": 2799.0,
+    "popularity": 0
+  },
+  "Cyberpunk 2077: Phantom Liberty DLC": {
+    "genre": "Action RPG DLC",
+    "price": 1599.0,
+    "popularity": 0
+  },
+  "The Witcher 3": {
+    "genre": "Action RPG",
+    "price": 1299.0,
+    "popularity": 0
+  },
+  "Terraria": {
+    "genre": "Sandbox/Adventure",
+    "price": 299.0,
+    "popularity": 0
+  },
+  "Cities: Skylines": {
+    "genre": "City Builder/Simulation",
+    "price": 699.0,
+    "popularity": 0
+  },
+  "Red Dead Redemption 2": {
+    "genre": "Open World Action",
+    "price": 2699.0,
+    "popularity": 0
+  },
+  "Cyberpunk 2077 OST": {
+    "genre": "Soundtrack",
+    "price": 199.0,
+    "popularity": 0
+  },
+  "Call of Duty MW3": {
+    "genre": "FPS",
+    "price": 3499.0,
+    "popularity": 0
+  },
+  "The Witcher 3: Blood and Wine DLC": {
+    "genre": "Action RPG DLC",
+    "price": 699.0,
+    "popularity": 0
+  },
+  "Stardew Valley": {
+    "genre": "Farming/Life Sim",
+    "price": 419.0,
+    "popularity": 0
+  },
+  "Hollow Knight": {
+    "genre": "Metroidvania",
+    "price": 419.0,
+    "popularity": 0
+  },
+  "Civilization VI: New Frontier Pass": {
+    "genre": "Strategy DLC",
+    "price": 999.0,
+    "popularity": 0
+  },
+  "Ghost of Tsushima": {
+    "genre": "Action/Adventure",
+    "price": 3499.0,
+    "popularity": 0
+  },
+  "Stardew Valley OST": {
+    "genre": "Soundtrack",
+    "price": 199.0,
+    "popularity": 0
+  },
+  "Apex Legends": {
+    "genre": "Battle Royale/FPS",
+    "price": 0.0,
+    "popularity": 0
+  },
+  "Elden Ring: Shadow of the Erdtree DLC": {
+    "genre": "Action RPG DLC",
+    "price": 1999.0,
+    "popularity": 0
+  },
+  "Celeste": {
+    "genre": "Platformer",
+    "price": 419.0,
+    "popularity": 0
+  },
+  "Death Stranding": {
+    "genre": "Action/Adventure",
+    "price": 1799.0,
+    "popularity": 0
+  }
+}

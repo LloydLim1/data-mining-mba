@@ -1,0 +1,1215 @@
+{
+  "dataset": "dsa",
+  "last_updated": "2026-03-09T04:17:11.501802",
+  "total_iterations": 1,
+  "iterations": [
+    {
+      "iteration": 1,
+      "label": "Initial Baseline",
+      "timestamp": "2026-03-09T04:17:11.501759",
+      "dataset": "dsa",
+      "n_transactions": 1500,
+      "minsup": 0.032,
+      "minconf": 0.27,
+      "tune_log": "  Tune iter 1: minsup=0.0400, minconf=0.30 \u2192 13 rules\n  Tune iter 2: minsup=0.0320, minconf=0.27 \u2192 22 rules\n  \u2705 Target achieved at iteration 2",
+      "n_frequent_itemsets": 44,
+      "n_rules": 22,
+      "rules": [
+        {
+          "antecedent": [
+            "Cyberpunk 2077: Phantom Liberty DLC"
+          ],
+          "consequent": [
+            "Cyberpunk 2077"
+          ],
+          "support": 0.046667,
+          "confidence": 0.555556,
+          "lift": 3.472222,
+          "leverage": 0.033227,
+          "conviction": 1.89,
+          "itemset_count": 70,
+          "score": 0.473907
+        },
+        {
+          "antecedent": [
+            "Elden Ring: Shadow of the Erdtree DLC"
+          ],
+          "consequent": [
+            "Elden Ring"
+          ],
+          "support": 0.044,
+          "confidence": 0.536585,
+          "lift": 3.743619,
+          "leverage": 0.032247,
+          "conviction": 1.848596,
+          "itemset_count": 66,
+          "score": 0.470449
+        },
+        {
+          "antecedent": [
+            "The Witcher 3: Blood and Wine DLC"
+          ],
+          "consequent": [
+            "The Witcher 3"
+          ],
+          "support": 0.041333,
+          "confidence": 0.476923,
+          "lift": 3.358613,
+          "leverage": 0.029027,
+          "conviction": 1.640294,
+          "itemset_count": 62,
+          "score": 0.426025
+        },
+        {
+          "antecedent": [
+            "Horizon Zero Dawn"
+          ],
+          "consequent": [
+            "God of War"
+          ],
+          "support": 0.037333,
+          "confidence": 0.4375,
+          "lift": 3.625691,
+          "leverage": 0.027036,
+          "conviction": 1.563259,
+          "itemset_count": 56,
+          "score": 0.411726
+        },
+        {
+          "antecedent": [
+            "Ghost of Tsushima"
+          ],
+          "consequent": [
+            "God of War"
+          ],
+          "support": 0.042,
+          "confidence": 0.398734,
+          "lift": 3.304427,
+          "leverage": 0.02929,
+          "conviction": 1.46247,
+          "itemset_count": 63,
+          "score": 0.399734
+        },
+        {
+          "antecedent": [
+            "Elden Ring"
+          ],
+          "consequent": [
+            "Elden Ring: Shadow of the Erdtree DLC"
+          ],
+          "support": 0.044,
+          "confidence": 0.306977,
+          "lift": 3.743619,
+          "leverage": 0.032247,
+          "conviction": 1.324631,
+          "itemset_count": 66,
+          "score": 0.393707
+        },
+        {
+          "antecedent": [
+            "Cyberpunk 2077"
+          ],
+          "consequent": [
+            "Cyberpunk 2077: Phantom Liberty DLC"
+          ],
+          "support": 0.046667,
+          "confidence": 0.291667,
+          "lift": 3.472222,
+          "leverage": 0.033227,
+          "conviction": 1.293176,
+          "itemset_count": 70,
+          "score": 0.385788
+        },
+        {
+          "antecedent": [
+            "God of War"
+          ],
+          "consequent": [
+            "Ghost of Tsushima"
+          ],
+          "support": 0.042,
+          "confidence": 0.348066,
+          "lift": 3.304427,
+          "leverage": 0.02929,
+          "conviction": 1.372328,
+          "itemset_count": 63,
+          "score": 0.383182
+        },
+        {
+          "antecedent": [
+            "Valorant"
+          ],
+          "consequent": [
+            "Counter-Strike 2"
+          ],
+          "support": 0.047333,
+          "confidence": 0.369792,
+          "lift": 2.666767,
+          "leverage": 0.029584,
+          "conviction": 1.366744,
+          "itemset_count": 71,
+          "score": 0.380108
+        },
+        {
+          "antecedent": [
+            "The Witcher 3"
+          ],
+          "consequent": [
+            "Cyberpunk 2077"
+          ],
+          "support": 0.052,
+          "confidence": 0.366197,
+          "lift": 2.288732,
+          "leverage": 0.02928,
+          "conviction": 1.325333,
+          "itemset_count": 78,
+          "score": 0.371288
+        },
+        {
+          "antecedent": [
+            "Counter-Strike 2"
+          ],
+          "consequent": [
+            "Valorant"
+          ],
+          "support": 0.047333,
+          "confidence": 0.341346,
+          "lift": 2.666767,
+          "leverage": 0.029584,
+          "conviction": 1.323912,
+          "itemset_count": 71,
+          "score": 0.370932
+        },
+        {
+          "antecedent": [
+            "God of War"
+          ],
+          "consequent": [
+            "Horizon Zero Dawn"
+          ],
+          "support": 0.037333,
+          "confidence": 0.309392,
+          "lift": 3.625691,
+          "leverage": 0.027036,
+          "conviction": 1.324437,
+          "itemset_count": 56,
+          "score": 0.369711
+        },
+        {
+          "antecedent": [
+            "The Witcher 3"
+          ],
+          "consequent": [
+            "The Witcher 3: Blood and Wine DLC"
+          ],
+          "support": 0.041333,
+          "confidence": 0.29108,
+          "lift": 3.358613,
+          "leverage": 0.029027,
+          "conviction": 1.288344,
+          "itemset_count": 62,
+          "score": 0.364993
+        },
+        {
+          "antecedent": [
+            "Cyberpunk 2077"
+          ],
+          "consequent": [
+            "The Witcher 3"
+          ],
+          "support": 0.052,
+          "confidence": 0.325,
+          "lift": 2.288732,
+          "leverage": 0.02928,
+          "conviction": 1.271111,
+          "itemset_count": 78,
+          "score": 0.358116
+        },
+        {
+          "antecedent": [
+            "Terraria"
+          ],
+          "consequent": [
+            "Stardew Valley"
+          ],
+          "support": 0.038667,
+          "confidence": 0.341176,
+          "lift": 2.958177,
+          "leverage": 0.025596,
+          "conviction": 1.342798,
+          "itemset_count": 58,
+          "score": 0.356823
+        },
+        {
+          "antecedent": [
+            "Stardew Valley"
+          ],
+          "consequent": [
+            "Terraria"
+          ],
+          "support": 0.038667,
+          "confidence": 0.33526,
+          "lift": 2.958177,
+          "leverage": 0.025596,
+          "conviction": 1.333855,
+          "itemset_count": 58,
+          "score": 0.354914
+        },
+        {
+          "antecedent": [
+            "Hollow Knight"
+          ],
+          "consequent": [
+            "Hades"
+          ],
+          "support": 0.033333,
+          "confidence": 0.357143,
+          "lift": 2.678571,
+          "leverage": 0.020889,
+          "conviction": 1.348148,
+          "itemset_count": 50,
+          "score": 0.334507
+        },
+        {
+          "antecedent": [
+            "Celeste"
+          ],
+          "consequent": [
+            "Hades"
+          ],
+          "support": 0.032,
+          "confidence": 0.358209,
+          "lift": 2.686567,
+          "leverage": 0.020089,
+          "conviction": 1.350388,
+          "itemset_count": 48,
+          "score": 0.331181
+        },
+        {
+          "antecedent": [
+            "The Witcher 3"
+          ],
+          "consequent": [
+            "Elden Ring"
+          ],
+          "support": 0.044,
+          "confidence": 0.309859,
+          "lift": 2.161808,
+          "leverage": 0.023647,
+          "conviction": 1.241293,
+          "itemset_count": 66,
+          "score": 0.330049
+        },
+        {
+          "antecedent": [
+            "Elden Ring"
+          ],
+          "consequent": [
+            "The Witcher 3"
+          ],
+          "support": 0.044,
+          "confidence": 0.306977,
+          "lift": 2.161808,
+          "leverage": 0.023647,
+          "conviction": 1.238054,
+          "itemset_count": 66,
+          "score": 0.329136
+        },
+        {
+          "antecedent": [
+            "Elden Ring"
+          ],
+          "consequent": [
+            "Cyberpunk 2077"
+          ],
+          "support": 0.044,
+          "confidence": 0.306977,
+          "lift": 1.918605,
+          "leverage": 0.021067,
+          "conviction": 1.212081,
+          "itemset_count": 66,
+          "score": 0.319019
+        },
+        {
+          "antecedent": [
+            "Cyberpunk 2077"
+          ],
+          "consequent": [
+            "Elden Ring"
+          ],
+          "support": 0.044,
+          "confidence": 0.275,
+          "lift": 1.918605,
+          "leverage": 0.021067,
+          "conviction": 1.181609,
+          "itemset_count": 66,
+          "score": 0.308968
+        }
+      ],
+      "drift_events": [],
+      "recommendations": {
+        "top_bundles": [
+          {
+            "bundle_id": "BUNDLE_01",
+            "name": "Top Picks Bundle #1",
+            "items": [
+              "Cyberpunk 2077: Phantom Liberty DLC",
+              "Cyberpunk 2077"
+            ],
+            "support": 0.046667,
+            "confidence": 0.555556,
+            "lift": 3.472222,
+            "score": 0.473907,
+            "total_price": 4298.0,
+            "suggested_discount": "15%"
+          },
+          {
+            "bundle_id": "BUNDLE_02",
+            "name": "Top Picks Bundle #2",
+            "items": [
+              "Elden Ring: Shadow of the Erdtree DLC",
+              "Elden Ring"
+            ],
+            "support": 0.044,
+            "confidence": 0.536585,
+            "lift": 3.743619,
+            "score": 0.470449,
+            "total_price": 4398.0,
+            "suggested_discount": "15%"
+          },
+          {
+            "bundle_id": "BUNDLE_03",
+            "name": "Top Picks Bundle #3",
+            "items": [
+              "The Witcher 3: Blood and Wine DLC",
+              "The Witcher 3"
+            ],
+            "support": 0.041333,
+            "confidence": 0.476923,
+            "lift": 3.358613,
+            "score": 0.426025,
+            "total_price": 1998.0,
+            "suggested_discount": "15%"
+          },
+          {
+            "bundle_id": "BUNDLE_04",
+            "name": "Top Picks Bundle #4",
+            "items": [
+              "Horizon Zero Dawn",
+              "God of War"
+            ],
+            "support": 0.037333,
+            "confidence": 0.4375,
+            "lift": 3.625691,
+            "score": 0.411726,
+            "total_price": 4998.0,
+            "suggested_discount": "15%"
+          },
+          {
+            "bundle_id": "BUNDLE_05",
+            "name": "Top Picks Bundle #5",
+            "items": [
+              "Ghost of Tsushima",
+              "God of War"
+            ],
+            "support": 0.042,
+            "confidence": 0.398734,
+            "lift": 3.304427,
+            "score": 0.399734,
+            "total_price": 5998.0,
+            "suggested_discount": "15%"
+          },
+          {
+            "bundle_id": "BUNDLE_06",
+            "name": "Top Picks Bundle #6",
+            "items": [
+              "Elden Ring",
+              "Elden Ring: Shadow of the Erdtree DLC"
+            ],
+            "support": 0.044,
+            "confidence": 0.306977,
+            "lift": 3.743619,
+            "score": 0.393707,
+            "total_price": 4398.0,
+            "suggested_discount": "15%"
+          },
+          {
+            "bundle_id": "BUNDLE_07",
+            "name": "Top Picks Bundle #7",
+            "items": [
+              "Cyberpunk 2077",
+              "Cyberpunk 2077: Phantom Liberty DLC"
+            ],
+            "support": 0.046667,
+            "confidence": 0.291667,
+            "lift": 3.472222,
+            "score": 0.385788,
+            "total_price": 4298.0,
+            "suggested_discount": "15%"
+          },
+          {
+            "bundle_id": "BUNDLE_08",
+            "name": "Top Picks Bundle #8",
+            "items": [
+              "God of War",
+              "Ghost of Tsushima"
+            ],
+            "support": 0.042,
+            "confidence": 0.348066,
+            "lift": 3.304427,
+            "score": 0.383182,
+            "total_price": 5998.0,
+            "suggested_discount": "15%"
+          },
+          {
+            "bundle_id": "BUNDLE_09",
+            "name": "Top Picks Bundle #9",
+            "items": [
+              "Valorant",
+              "Counter-Strike 2"
+            ],
+            "support": 0.047333,
+            "confidence": 0.369792,
+            "lift": 2.666767,
+            "score": 0.380108,
+            "total_price": 0.0,
+            "suggested_discount": "10%"
+          },
+          {
+            "bundle_id": "BUNDLE_10",
+            "name": "Top Picks Bundle #10",
+            "items": [
+              "The Witcher 3",
+              "Cyberpunk 2077"
+            ],
+            "support": 0.052,
+            "confidence": 0.366197,
+            "lift": 2.288732,
+            "score": 0.371288,
+            "total_price": 3998.0,
+            "suggested_discount": "15%"
+          }
+        ],
+        "homepage_ranking": [
+          {
+            "item": "Elden Ring: Shadow of the Erdtree DLC",
+            "genre": "Action RPG DLC",
+            "price": 1999.0,
+            "popularity_score": 0.432078,
+            "rule_appearances": 2
+          },
+          {
+            "item": "Cyberpunk 2077: Phantom Liberty DLC",
+            "genre": "Action RPG DLC",
+            "price": 1599.0,
+            "popularity_score": 0.429848,
+            "rule_appearances": 2
+          },
+          {
+            "item": "The Witcher 3: Blood and Wine DLC",
+            "genre": "Action RPG DLC",
+            "price": 699.0,
+            "popularity_score": 0.395509,
+            "rule_appearances": 2
+          },
+          {
+            "item": "Ghost of Tsushima",
+            "genre": "Action/Adventure",
+            "price": 3499.0,
+            "popularity_score": 0.391458,
+            "rule_appearances": 2
+          },
+          {
+            "item": "God of War",
+            "genre": "Action/Adventure",
+            "price": 2499.0,
+            "popularity_score": 0.391088,
+            "rule_appearances": 4
+          },
+          {
+            "item": "Horizon Zero Dawn",
+            "genre": "Action RPG",
+            "price": 2499.0,
+            "popularity_score": 0.390718,
+            "rule_appearances": 2
+          },
+          {
+            "item": "Valorant",
+            "genre": "Tactical FPS",
+            "price": 0.0,
+            "popularity_score": 0.37552,
+            "rule_appearances": 2
+          },
+          {
+            "item": "Counter-Strike 2",
+            "genre": "FPS",
+            "price": 0.0,
+            "popularity_score": 0.37552,
+            "rule_appearances": 2
+          },
+          {
+            "item": "Cyberpunk 2077",
+            "genre": "Action RPG",
+            "price": 2699.0,
+            "popularity_score": 0.369514,
+            "rule_appearances": 6
+          },
+          {
+            "item": "The Witcher 3",
+            "genre": "Action RPG",
+            "price": 1299.0,
+            "popularity_score": 0.363268,
+            "rule_appearances": 6
+          },
+          {
+            "item": "Elden Ring",
+            "genre": "Action RPG",
+            "price": 2399.0,
+            "popularity_score": 0.358555,
+            "rule_appearances": 6
+          },
+          {
+            "item": "Terraria",
+            "genre": "Sandbox/Adventure",
+            "price": 299.0,
+            "popularity_score": 0.355869,
+            "rule_appearances": 2
+          },
+          {
+            "item": "Stardew Valley",
+            "genre": "Farming/Life Sim",
+            "price": 419.0,
+            "popularity_score": 0.355869,
+            "rule_appearances": 2
+          },
+          {
+            "item": "Hollow Knight",
+            "genre": "Metroidvania",
+            "price": 419.0,
+            "popularity_score": 0.334507,
+            "rule_appearances": 1
+          },
+          {
+            "item": "Hades",
+            "genre": "Roguelike Action",
+            "price": 829.0,
+            "popularity_score": 0.332844,
+            "rule_appearances": 2
+          },
+          {
+            "item": "Celeste",
+            "genre": "Platformer",
+            "price": 419.0,
+            "popularity_score": 0.331181,
+            "rule_appearances": 1
+          }
+        ],
+        "cross_sell_map": {
+          "Cyberpunk 2077: Phantom Liberty DLC": [
+            {
+              "suggest": "Cyberpunk 2077",
+              "confidence": 0.555556,
+              "lift": 3.472222,
+              "score": 0.473907
+            }
+          ],
+          "Elden Ring: Shadow of the Erdtree DLC": [
+            {
+              "suggest": "Elden Ring",
+              "confidence": 0.536585,
+              "lift": 3.743619,
+              "score": 0.470449
+            }
+          ],
+          "The Witcher 3: Blood and Wine DLC": [
+            {
+              "suggest": "The Witcher 3",
+              "confidence": 0.476923,
+              "lift": 3.358613,
+              "score": 0.426025
+            }
+          ],
+          "Horizon Zero Dawn": [
+            {
+              "suggest": "God of War",
+              "confidence": 0.4375,
+              "lift": 3.625691,
+              "score": 0.411726
+            }
+          ],
+          "Ghost of Tsushima": [
+            {
+              "suggest": "God of War",
+              "confidence": 0.398734,
+              "lift": 3.304427,
+              "score": 0.399734
+            }
+          ],
+          "Elden Ring": [
+            {
+              "suggest": "Elden Ring: Shadow of the Erdtree DLC",
+              "confidence": 0.306977,
+              "lift": 3.743619,
+              "score": 0.393707
+            },
+            {
+              "suggest": "The Witcher 3",
+              "confidence": 0.306977,
+              "lift": 2.161808,
+              "score": 0.329136
+            },
+            {
+              "suggest": "Cyberpunk 2077",
+              "confidence": 0.306977,
+              "lift": 1.918605,
+              "score": 0.319019
+            }
+          ],
+          "Cyberpunk 2077": [
+            {
+              "suggest": "Cyberpunk 2077: Phantom Liberty DLC",
+              "confidence": 0.291667,
+              "lift": 3.472222,
+              "score": 0.385788
+            },
+            {
+              "suggest": "The Witcher 3",
+              "confidence": 0.325,
+              "lift": 2.288732,
+              "score": 0.358116
+            },
+            {
+              "suggest": "Elden Ring",
+              "confidence": 0.275,
+              "lift": 1.918605,
+              "score": 0.308968
+            }
+          ],
+          "God of War": [
+            {
+              "suggest": "Ghost of Tsushima",
+              "confidence": 0.348066,
+              "lift": 3.304427,
+              "score": 0.383182
+            },
+            {
+              "suggest": "Horizon Zero Dawn",
+              "confidence": 0.309392,
+              "lift": 3.625691,
+              "score": 0.369711
+            }
+          ],
+          "Valorant": [
+            {
+              "suggest": "Counter-Strike 2",
+              "confidence": 0.369792,
+              "lift": 2.666767,
+              "score": 0.380108
+            }
+          ],
+          "The Witcher 3": [
+            {
+              "suggest": "Cyberpunk 2077",
+              "confidence": 0.366197,
+              "lift": 2.288732,
+              "score": 0.371288
+            },
+            {
+              "suggest": "The Witcher 3: Blood and Wine DLC",
+              "confidence": 0.29108,
+              "lift": 3.358613,
+              "score": 0.364993
+            },
+            {
+              "suggest": "Elden Ring",
+              "confidence": 0.309859,
+              "lift": 2.161808,
+              "score": 0.330049
+            }
+          ],
+          "Counter-Strike 2": [
+            {
+              "suggest": "Valorant",
+              "confidence": 0.341346,
+              "lift": 2.666767,
+              "score": 0.370932
+            }
+          ],
+          "Terraria": [
+            {
+              "suggest": "Stardew Valley",
+              "confidence": 0.341176,
+              "lift": 2.958177,
+              "score": 0.356823
+            }
+          ],
+          "Stardew Valley": [
+            {
+              "suggest": "Terraria",
+              "confidence": 0.33526,
+              "lift": 2.958177,
+              "score": 0.354914
+            }
+          ],
+          "Hollow Knight": [
+            {
+              "suggest": "Hades",
+              "confidence": 0.357143,
+              "lift": 2.678571,
+              "score": 0.334507
+            }
+          ],
+          "Celeste": [
+            {
+              "suggest": "Hades",
+              "confidence": 0.358209,
+              "lift": 2.686567,
+              "score": 0.331181
+            }
+          ]
+        },
+        "promo_suggestions": [
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "Cyberpunk 2077: Phantom Liberty DLC",
+              "Cyberpunk 2077"
+            ],
+            "headline": "Bundle & Save: Cyberpunk 2077: Phantom Liberty DLC + Cyberpunk 2077",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 3.472222,
+            "score": 0.473907
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "Elden Ring: Shadow of the Erdtree DLC",
+              "Elden Ring"
+            ],
+            "headline": "Bundle & Save: Elden Ring: Shadow of the Erdtree DLC + Elden Ring",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 3.743619,
+            "score": 0.470449
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "The Witcher 3: Blood and Wine DLC",
+              "The Witcher 3"
+            ],
+            "headline": "Bundle & Save: The Witcher 3: Blood and Wine DLC + The Witcher 3",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 3.358613,
+            "score": 0.426025
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "Horizon Zero Dawn",
+              "God of War"
+            ],
+            "headline": "Bundle & Save: Horizon Zero Dawn + God of War",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 3.625691,
+            "score": 0.411726
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "Ghost of Tsushima",
+              "God of War"
+            ],
+            "headline": "Bundle & Save: Ghost of Tsushima + God of War",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 3.304427,
+            "score": 0.399734
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "Elden Ring",
+              "Elden Ring: Shadow of the Erdtree DLC"
+            ],
+            "headline": "Bundle & Save: Elden Ring + Elden Ring: Shadow of the Erdtree DLC",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 3.743619,
+            "score": 0.393707
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "Cyberpunk 2077",
+              "Cyberpunk 2077: Phantom Liberty DLC"
+            ],
+            "headline": "Bundle & Save: Cyberpunk 2077 + Cyberpunk 2077: Phantom Liberty DLC",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 3.472222,
+            "score": 0.385788
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "God of War",
+              "Ghost of Tsushima"
+            ],
+            "headline": "Bundle & Save: God of War + Ghost of Tsushima",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 3.304427,
+            "score": 0.383182
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "Valorant",
+              "Counter-Strike 2"
+            ],
+            "headline": "Bundle & Save: Valorant + Counter-Strike 2",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 2.666767,
+            "score": 0.380108
+          },
+          {
+            "type": "BUY_TOGETHER",
+            "items": [
+              "The Witcher 3",
+              "Cyberpunk 2077"
+            ],
+            "headline": "Bundle & Save: The Witcher 3 + Cyberpunk 2077",
+            "discount": "20%",
+            "trigger": "cart_add",
+            "lift": 2.288732,
+            "score": 0.371288
+          }
+        ],
+        "top_rules": [
+          {
+            "antecedent": [
+              "Cyberpunk 2077: Phantom Liberty DLC"
+            ],
+            "consequent": [
+              "Cyberpunk 2077"
+            ],
+            "support": 0.046667,
+            "confidence": 0.555556,
+            "lift": 3.472222,
+            "leverage": 0.033227,
+            "conviction": 1.89,
+            "itemset_count": 70,
+            "score": 0.473907
+          },
+          {
+            "antecedent": [
+              "Elden Ring: Shadow of the Erdtree DLC"
+            ],
+            "consequent": [
+              "Elden Ring"
+            ],
+            "support": 0.044,
+            "confidence": 0.536585,
+            "lift": 3.743619,
+            "leverage": 0.032247,
+            "conviction": 1.848596,
+            "itemset_count": 66,
+            "score": 0.470449
+          },
+          {
+            "antecedent": [
+              "The Witcher 3: Blood and Wine DLC"
+            ],
+            "consequent": [
+              "The Witcher 3"
+            ],
+            "support": 0.041333,
+            "confidence": 0.476923,
+            "lift": 3.358613,
+            "leverage": 0.029027,
+            "conviction": 1.640294,
+            "itemset_count": 62,
+            "score": 0.426025
+          },
+          {
+            "antecedent": [
+              "Horizon Zero Dawn"
+            ],
+            "consequent": [
+              "God of War"
+            ],
+            "support": 0.037333,
+            "confidence": 0.4375,
+            "lift": 3.625691,
+            "leverage": 0.027036,
+            "conviction": 1.563259,
+            "itemset_count": 56,
+            "score": 0.411726
+          },
+          {
+            "antecedent": [
+              "Ghost of Tsushima"
+            ],
+            "consequent": [
+              "God of War"
+            ],
+            "support": 0.042,
+            "confidence": 0.398734,
+            "lift": 3.304427,
+            "leverage": 0.02929,
+            "conviction": 1.46247,
+            "itemset_count": 63,
+            "score": 0.399734
+          },
+          {
+            "antecedent": [
+              "Elden Ring"
+            ],
+            "consequent": [
+              "Elden Ring: Shadow of the Erdtree DLC"
+            ],
+            "support": 0.044,
+            "confidence": 0.306977,
+            "lift": 3.743619,
+            "leverage": 0.032247,
+            "conviction": 1.324631,
+            "itemset_count": 66,
+            "score": 0.393707
+          },
+          {
+            "antecedent": [
+              "Cyberpunk 2077"
+            ],
+            "consequent": [
+              "Cyberpunk 2077: Phantom Liberty DLC"
+            ],
+            "support": 0.046667,
+            "confidence": 0.291667,
+            "lift": 3.472222,
+            "leverage": 0.033227,
+            "conviction": 1.293176,
+            "itemset_count": 70,
+            "score": 0.385788
+          },
+          {
+            "antecedent": [
+              "God of War"
+            ],
+            "consequent": [
+              "Ghost of Tsushima"
+            ],
+            "support": 0.042,
+            "confidence": 0.348066,
+            "lift": 3.304427,
+            "leverage": 0.02929,
+            "conviction": 1.372328,
+            "itemset_count": 63,
+            "score": 0.383182
+          },
+          {
+            "antecedent": [
+              "Valorant"
+            ],
+            "consequent": [
+              "Counter-Strike 2"
+            ],
+            "support": 0.047333,
+            "confidence": 0.369792,
+            "lift": 2.666767,
+            "leverage": 0.029584,
+            "conviction": 1.366744,
+            "itemset_count": 71,
+            "score": 0.380108
+          },
+          {
+            "antecedent": [
+              "The Witcher 3"
+            ],
+            "consequent": [
+              "Cyberpunk 2077"
+            ],
+            "support": 0.052,
+            "confidence": 0.366197,
+            "lift": 2.288732,
+            "leverage": 0.02928,
+            "conviction": 1.325333,
+            "itemset_count": 78,
+            "score": 0.371288
+          },
+          {
+            "antecedent": [
+              "Counter-Strike 2"
+            ],
+            "consequent": [
+              "Valorant"
+            ],
+            "support": 0.047333,
+            "confidence": 0.341346,
+            "lift": 2.666767,
+            "leverage": 0.029584,
+            "conviction": 1.323912,
+            "itemset_count": 71,
+            "score": 0.370932
+          },
+          {
+            "antecedent": [
+              "God of War"
+            ],
+            "consequent": [
+              "Horizon Zero Dawn"
+            ],
+            "support": 0.037333,
+            "confidence": 0.309392,
+            "lift": 3.625691,
+            "leverage": 0.027036,
+            "conviction": 1.324437,
+            "itemset_count": 56,
+            "score": 0.369711
+          },
+          {
+            "antecedent": [
+              "The Witcher 3"
+            ],
+            "consequent": [
+              "The Witcher 3: Blood and Wine DLC"
+            ],
+            "support": 0.041333,
+            "confidence": 0.29108,
+            "lift": 3.358613,
+            "leverage": 0.029027,
+            "conviction": 1.288344,
+            "itemset_count": 62,
+            "score": 0.364993
+          },
+          {
+            "antecedent": [
+              "Cyberpunk 2077"
+            ],
+            "consequent": [
+              "The Witcher 3"
+            ],
+            "support": 0.052,
+            "confidence": 0.325,
+            "lift": 2.288732,
+            "leverage": 0.02928,
+            "conviction": 1.271111,
+            "itemset_count": 78,
+            "score": 0.358116
+          },
+          {
+            "antecedent": [
+              "Terraria"
+            ],
+            "consequent": [
+              "Stardew Valley"
+            ],
+            "support": 0.038667,
+            "confidence": 0.341176,
+            "lift": 2.958177,
+            "leverage": 0.025596,
+            "conviction": 1.342798,
+            "itemset_count": 58,
+            "score": 0.356823
+          },
+          {
+            "antecedent": [
+              "Stardew Valley"
+            ],
+            "consequent": [
+              "Terraria"
+            ],
+            "support": 0.038667,
+            "confidence": 0.33526,
+            "lift": 2.958177,
+            "leverage": 0.025596,
+            "conviction": 1.333855,
+            "itemset_count": 58,
+            "score": 0.354914
+          },
+          {
+            "antecedent": [
+              "Hollow Knight"
+            ],
+            "consequent": [
+              "Hades"
+            ],
+            "support": 0.033333,
+            "confidence": 0.357143,
+            "lift": 2.678571,
+            "leverage": 0.020889,
+            "conviction": 1.348148,
+            "itemset_count": 50,
+            "score": 0.334507
+          },
+          {
+            "antecedent": [
+              "Celeste"
+            ],
+            "consequent": [
+              "Hades"
+            ],
+            "support": 0.032,
+            "confidence": 0.358209,
+            "lift": 2.686567,
+            "leverage": 0.020089,
+            "conviction": 1.350388,
+            "itemset_count": 48,
+            "score": 0.331181
+          },
+          {
+            "antecedent": [
+              "The Witcher 3"
+            ],
+            "consequent": [
+              "Elden Ring"
+            ],
+            "support": 0.044,
+            "confidence": 0.309859,
+            "lift": 2.161808,
+            "leverage": 0.023647,
+            "conviction": 1.241293,
+            "itemset_count": 66,
+            "score": 0.330049
+          },
+          {
+            "antecedent": [
+              "Elden Ring"
+            ],
+            "consequent": [
+              "The Witcher 3"
+            ],
+            "support": 0.044,
+            "confidence": 0.306977,
+            "lift": 2.161808,
+            "leverage": 0.023647,
+            "conviction": 1.238054,
+            "itemset_count": 66,
+            "score": 0.329136
+          }
+        ]
+      },
+      "top_rule": {
+        "antecedent": [
+          "Cyberpunk 2077: Phantom Liberty DLC"
+        ],
+        "consequent": [
+          "Cyberpunk 2077"
+        ],
+        "support": 0.046667,
+        "confidence": 0.555556,
+        "lift": 3.472222,
+        "leverage": 0.033227,
+        "conviction": 1.89,
+        "itemset_count": 70,
+        "score": 0.473907
+      },
+      "avg_lift": 2.9256,
+      "avg_confidence": 0.3612
+    }
+  ]
+}
