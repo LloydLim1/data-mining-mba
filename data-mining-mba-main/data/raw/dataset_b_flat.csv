@@ -1,0 +1,3700 @@
+transaction_id,date,item
+B_TXN_0001,2023-02-14,Disco Elysium
+B_TXN_0001,2023-02-14,Undertale
+B_TXN_0002,2023-12-05,Hollow Knight
+B_TXN_0002,2023-12-05,Axiom Verge
+B_TXN_0003,2023-09-03,Axiom Verge
+B_TXN_0003,2023-09-03,Ori and the Blind Forest
+B_TXN_0003,2023-09-03,Dead Cells
+B_TXN_0004,2023-02-11,Cuphead OST
+B_TXN_0004,2023-02-11,Undertale
+B_TXN_0004,2023-02-11,Omori
+B_TXN_0004,2023-02-11,Terraria
+B_TXN_0004,2023-02-11,Disco Elysium
+B_TXN_0004,2023-02-11,Deltarune
+B_TXN_0004,2023-02-11,Undertale OST
+B_TXN_0005,2023-07-23,Nuclear Throne
+B_TXN_0005,2023-07-23,Enter the Gungeon
+B_TXN_0006,2023-12-05,Celeste
+B_TXN_0006,2023-12-05,Enter the Gungeon
+B_TXN_0006,2023-12-05,Terraria
+B_TXN_0006,2023-12-05,Binding of Isaac: Rebirth
+B_TXN_0007,2023-11-25,Cuphead
+B_TXN_0007,2023-11-25,Cuphead: The Delicious Last Course DLC
+B_TXN_0008,2023-04-05,Binding of Isaac: Rebirth
+B_TXN_0008,2023-04-05,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0009,2023-01-23,Cuphead OST
+B_TXN_0009,2023-01-23,Cuphead
+B_TXN_0009,2023-01-23,Celeste
+B_TXN_0009,2023-01-23,Cuphead: The Delicious Last Course DLC
+B_TXN_0010,2023-08-27,Undertale
+B_TXN_0010,2023-08-27,Undertale OST
+B_TXN_0011,2023-10-16,Hades
+B_TXN_0011,2023-10-16,Dead Cells
+B_TXN_0012,2023-12-23,Stardew Valley
+B_TXN_0012,2023-12-23,Terraria
+B_TXN_0013,2023-10-05,Hades
+B_TXN_0013,2023-10-05,Risk of Rain 2
+B_TXN_0013,2023-10-05,Dead Cells
+B_TXN_0014,2023-02-01,Cuphead OST
+B_TXN_0014,2023-02-01,Cuphead
+B_TXN_0015,2023-09-01,Undertale
+B_TXN_0015,2023-09-01,Omori
+B_TXN_0016,2023-07-22,Cuphead OST
+B_TXN_0016,2023-07-22,Cuphead
+B_TXN_0016,2023-07-22,Disco Elysium
+B_TXN_0016,2023-07-22,Cuphead: The Delicious Last Course DLC
+B_TXN_0017,2023-01-18,Dead Cells: Fatal Falls DLC
+B_TXN_0017,2023-01-18,Undertale OST
+B_TXN_0018,2023-12-13,Axiom Verge
+B_TXN_0018,2023-12-13,Celeste
+B_TXN_0019,2023-03-17,Nuclear Throne
+B_TXN_0019,2023-03-17,Omori
+B_TXN_0020,2023-08-18,Axiom Verge
+B_TXN_0020,2023-08-18,Enter the Gungeon
+B_TXN_0020,2023-08-18,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0020,2023-08-18,Disco Elysium
+B_TXN_0020,2023-08-18,Binding of Isaac: Rebirth
+B_TXN_0021,2023-04-19,Enter the Gungeon
+B_TXN_0021,2023-04-19,Risk of Rain 2
+B_TXN_0022,2023-08-11,Undertale
+B_TXN_0022,2023-08-11,Undertale OST
+B_TXN_0023,2023-03-17,Enter the Gungeon
+B_TXN_0023,2023-03-17,Risk of Rain 2
+B_TXN_0024,2023-05-13,Axiom Verge
+B_TXN_0024,2023-05-13,Binding of Isaac: Rebirth
+B_TXN_0024,2023-05-13,Deltarune
+B_TXN_0024,2023-05-13,Cuphead: The Delicious Last Course DLC
+B_TXN_0025,2023-02-04,Cuphead OST
+B_TXN_0025,2023-02-04,Cuphead
+B_TXN_0025,2023-02-04,Risk of Rain 2
+B_TXN_0026,2023-10-12,Hades
+B_TXN_0026,2023-10-12,Celeste
+B_TXN_0026,2023-10-12,Celeste OST
+B_TXN_0027,2023-06-16,Shovel Knight
+B_TXN_0027,2023-06-16,Deltarune
+B_TXN_0027,2023-06-16,Stardew Valley
+B_TXN_0027,2023-06-16,Terraria
+B_TXN_0028,2023-09-24,Hades OST
+B_TXN_0028,2023-09-24,Terraria
+B_TXN_0029,2023-12-25,Hollow Knight
+B_TXN_0029,2023-12-25,Stardew Valley
+B_TXN_0029,2023-12-25,Risk of Rain 2
+B_TXN_0030,2023-09-25,Axiom Verge
+B_TXN_0030,2023-09-25,Omori
+B_TXN_0031,2023-02-27,Omori
+B_TXN_0032,2023-08-01,Shovel Knight
+B_TXN_0032,2023-08-01,Deltarune
+B_TXN_0033,2023-10-18,Hollow Knight
+B_TXN_0033,2023-10-18,Hollow Knight OST
+B_TXN_0034,2023-02-21,Risk of Rain 2
+B_TXN_0034,2023-02-21,Nuclear Throne
+B_TXN_0034,2023-02-21,Enter the Gungeon
+B_TXN_0034,2023-02-21,Dead Cells: Fatal Falls DLC
+B_TXN_0034,2023-02-21,Hades
+B_TXN_0035,2023-10-16,Deltarune
+B_TXN_0035,2023-10-16,Stardew Valley
+B_TXN_0035,2023-10-16,Risk of Rain 2
+B_TXN_0035,2023-10-16,Terraria
+B_TXN_0036,2023-10-02,Risk of Rain 2
+B_TXN_0037,2023-10-20,Undertale
+B_TXN_0037,2023-10-20,Omori
+B_TXN_0038,2023-01-20,Hades
+B_TXN_0038,2023-01-20,Stardew Valley
+B_TXN_0039,2023-07-26,Hades
+B_TXN_0039,2023-07-26,Dead Cells: Fatal Falls DLC
+B_TXN_0039,2023-07-26,Dead Cells
+B_TXN_0040,2023-11-08,Hades
+B_TXN_0040,2023-11-08,Hades OST
+B_TXN_0041,2023-07-25,Hades
+B_TXN_0041,2023-07-25,Risk of Rain 2
+B_TXN_0041,2023-07-25,Deltarune
+B_TXN_0042,2023-06-19,Celeste
+B_TXN_0042,2023-06-19,Cuphead: The Delicious Last Course DLC
+B_TXN_0042,2023-06-19,Terraria
+B_TXN_0042,2023-06-19,Cuphead
+B_TXN_0042,2023-06-19,Hades
+B_TXN_0043,2023-12-20,Shovel Knight
+B_TXN_0044,2023-05-02,Shovel Knight
+B_TXN_0045,2023-09-01,Hollow Knight
+B_TXN_0045,2023-09-01,Hollow Knight OST
+B_TXN_0046,2023-07-10,Hades
+B_TXN_0046,2023-07-10,Binding of Isaac: Rebirth
+B_TXN_0046,2023-07-10,Cuphead: The Delicious Last Course DLC
+B_TXN_0047,2023-01-11,Cuphead OST
+B_TXN_0047,2023-01-11,Ori and the Blind Forest
+B_TXN_0047,2023-01-11,Shovel Knight
+B_TXN_0047,2023-01-11,Risk of Rain 2
+B_TXN_0048,2023-06-22,Shovel Knight
+B_TXN_0048,2023-06-22,Hollow Knight OST
+B_TXN_0049,2023-05-24,Nuclear Throne
+B_TXN_0049,2023-05-24,Enter the Gungeon
+B_TXN_0050,2023-12-23,Risk of Rain 2
+B_TXN_0050,2023-12-23,Celeste
+B_TXN_0050,2023-12-23,Undertale OST
+B_TXN_0050,2023-12-23,Cuphead: The Delicious Last Course DLC
+B_TXN_0051,2023-06-03,Hades
+B_TXN_0051,2023-06-03,Cuphead OST
+B_TXN_0051,2023-06-03,Risk of Rain 2
+B_TXN_0052,2023-08-02,Cuphead: The Delicious Last Course DLC
+B_TXN_0052,2023-08-02,Undertale
+B_TXN_0052,2023-08-02,Enter the Gungeon
+B_TXN_0052,2023-08-02,Disco Elysium
+B_TXN_0052,2023-08-02,Hollow Knight
+B_TXN_0053,2023-07-28,Celeste
+B_TXN_0053,2023-07-28,Celeste OST
+B_TXN_0054,2023-09-22,Hollow Knight OST
+B_TXN_0054,2023-09-22,Deltarune
+B_TXN_0055,2023-01-29,Axiom Verge
+B_TXN_0055,2023-01-29,Celeste
+B_TXN_0055,2023-01-29,Stardew Valley
+B_TXN_0056,2023-03-23,Risk of Rain 2
+B_TXN_0056,2023-03-23,Enter the Gungeon
+B_TXN_0056,2023-03-23,Disco Elysium
+B_TXN_0056,2023-03-23,Deltarune
+B_TXN_0056,2023-03-23,Binding of Isaac: Rebirth
+B_TXN_0056,2023-03-23,Ori and the Blind Forest
+B_TXN_0056,2023-03-23,Shovel Knight
+B_TXN_0057,2023-09-26,Hades
+B_TXN_0057,2023-09-26,Hades OST
+B_TXN_0058,2023-01-30,Hollow Knight
+B_TXN_0058,2023-01-30,Celeste
+B_TXN_0058,2023-01-30,Ori and the Blind Forest
+B_TXN_0059,2023-08-22,Binding of Isaac: Rebirth
+B_TXN_0059,2023-08-22,Hades OST
+B_TXN_0059,2023-08-22,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0060,2023-07-04,Undertale
+B_TXN_0060,2023-07-04,Deltarune
+B_TXN_0061,2023-08-26,Nuclear Throne
+B_TXN_0061,2023-08-26,Enter the Gungeon
+B_TXN_0062,2023-01-16,Cuphead OST
+B_TXN_0062,2023-01-16,Cuphead
+B_TXN_0062,2023-01-16,Undertale
+B_TXN_0062,2023-01-16,Cuphead: The Delicious Last Course DLC
+B_TXN_0063,2023-08-31,Celeste
+B_TXN_0063,2023-08-31,Cuphead: The Delicious Last Course DLC
+B_TXN_0063,2023-08-31,Cuphead
+B_TXN_0063,2023-08-31,Stardew Valley
+B_TXN_0063,2023-08-31,Dead Cells
+B_TXN_0064,2023-06-29,Celeste OST
+B_TXN_0065,2023-05-13,Hollow Knight
+B_TXN_0065,2023-05-13,Undertale
+B_TXN_0065,2023-05-13,Nuclear Throne
+B_TXN_0065,2023-05-13,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0066,2023-12-19,Celeste
+B_TXN_0066,2023-12-19,Stardew Valley
+B_TXN_0067,2023-01-15,Celeste
+B_TXN_0067,2023-01-15,Stardew Valley
+B_TXN_0067,2023-01-15,Terraria
+B_TXN_0067,2023-01-15,Dead Cells
+B_TXN_0068,2023-03-25,Hollow Knight
+B_TXN_0068,2023-03-25,Cuphead
+B_TXN_0068,2023-03-25,Cuphead: The Delicious Last Course DLC
+B_TXN_0069,2023-04-20,Stardew Valley
+B_TXN_0070,2023-11-28,Hollow Knight
+B_TXN_0070,2023-11-28,Ori and the Blind Forest
+B_TXN_0070,2023-11-28,Shovel Knight
+B_TXN_0070,2023-11-28,Terraria
+B_TXN_0071,2023-04-16,Enter the Gungeon
+B_TXN_0071,2023-04-16,Stardew Valley
+B_TXN_0071,2023-04-16,Terraria
+B_TXN_0071,2023-04-16,Binding of Isaac: Rebirth
+B_TXN_0072,2023-07-29,Hollow Knight
+B_TXN_0072,2023-07-29,Ori and the Blind Forest
+B_TXN_0073,2023-12-16,Hades
+B_TXN_0074,2023-03-09,Binding of Isaac: Rebirth
+B_TXN_0074,2023-03-09,Undertale OST
+B_TXN_0074,2023-03-09,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0075,2023-01-05,Hades
+B_TXN_0075,2023-01-05,Cuphead: The Delicious Last Course DLC
+B_TXN_0075,2023-01-05,Dead Cells
+B_TXN_0076,2023-11-08,Nuclear Throne
+B_TXN_0076,2023-11-08,Stardew Valley
+B_TXN_0076,2023-11-08,Terraria
+B_TXN_0077,2023-06-06,Binding of Isaac: Rebirth
+B_TXN_0077,2023-06-06,Celeste
+B_TXN_0077,2023-06-06,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0077,2023-06-06,Cuphead: The Delicious Last Course DLC
+B_TXN_0078,2023-05-21,Axiom Verge
+B_TXN_0078,2023-05-21,Risk of Rain 2
+B_TXN_0079,2023-08-27,Axiom Verge
+B_TXN_0079,2023-08-27,Celeste
+B_TXN_0079,2023-08-27,Terraria
+B_TXN_0079,2023-08-27,Hollow Knight
+B_TXN_0079,2023-08-27,Ori and the Blind Forest
+B_TXN_0079,2023-08-27,Dead Cells
+B_TXN_0080,2023-11-16,Hades
+B_TXN_0080,2023-11-16,Cuphead
+B_TXN_0080,2023-11-16,Dead Cells: Fatal Falls DLC
+B_TXN_0080,2023-11-16,Dead Cells
+B_TXN_0081,2023-02-22,Cuphead
+B_TXN_0081,2023-02-22,Celeste
+B_TXN_0081,2023-02-22,Celeste OST
+B_TXN_0082,2023-12-06,Enter the Gungeon
+B_TXN_0082,2023-12-06,Nuclear Throne
+B_TXN_0083,2023-07-11,Hades
+B_TXN_0083,2023-07-11,Risk of Rain 2
+B_TXN_0083,2023-07-11,Celeste OST
+B_TXN_0084,2023-12-17,Hades
+B_TXN_0084,2023-12-17,Risk of Rain 2
+B_TXN_0085,2023-02-02,Stardew Valley
+B_TXN_0085,2023-02-02,Terraria
+B_TXN_0085,2023-02-02,Binding of Isaac: Rebirth
+B_TXN_0086,2023-05-22,Undertale
+B_TXN_0086,2023-05-22,Deltarune
+B_TXN_0087,2023-05-22,Cuphead OST
+B_TXN_0087,2023-05-22,Axiom Verge
+B_TXN_0088,2023-12-31,Hollow Knight
+B_TXN_0088,2023-12-31,Ori and the Blind Forest
+B_TXN_0089,2023-11-30,Shovel Knight
+B_TXN_0089,2023-11-30,Celeste OST
+B_TXN_0089,2023-11-30,Hades OST
+B_TXN_0090,2023-05-04,Hades
+B_TXN_0090,2023-05-04,Enter the Gungeon
+B_TXN_0090,2023-05-04,Risk of Rain 2
+B_TXN_0091,2023-11-04,Enter the Gungeon
+B_TXN_0091,2023-11-04,Hollow Knight OST
+B_TXN_0091,2023-11-04,Deltarune
+B_TXN_0091,2023-11-04,Undertale OST
+B_TXN_0091,2023-11-04,Dead Cells
+B_TXN_0092,2023-03-13,Hades
+B_TXN_0092,2023-03-13,Dead Cells: Fatal Falls DLC
+B_TXN_0092,2023-03-13,Dead Cells
+B_TXN_0093,2023-05-13,Hades
+B_TXN_0093,2023-05-13,Celeste
+B_TXN_0094,2023-10-20,Undertale
+B_TXN_0095,2023-12-18,Hades
+B_TXN_0095,2023-12-18,Celeste
+B_TXN_0095,2023-12-18,Risk of Rain 2
+B_TXN_0095,2023-12-18,Dead Cells
+B_TXN_0096,2023-09-01,Celeste OST
+B_TXN_0097,2023-12-10,Enter the Gungeon
+B_TXN_0097,2023-12-10,Ori and the Blind Forest
+B_TXN_0097,2023-12-10,Stardew Valley
+B_TXN_0097,2023-12-10,Risk of Rain 2
+B_TXN_0098,2023-03-29,Hades
+B_TXN_0098,2023-03-29,Enter the Gungeon
+B_TXN_0098,2023-03-29,Risk of Rain 2
+B_TXN_0099,2023-03-07,Hollow Knight
+B_TXN_0099,2023-03-07,Axiom Verge
+B_TXN_0099,2023-03-07,Ori and the Blind Forest
+B_TXN_0100,2023-10-14,Stardew Valley
+B_TXN_0100,2023-10-14,Hades OST
+B_TXN_0101,2023-04-04,Cuphead OST
+B_TXN_0101,2023-04-04,Cuphead
+B_TXN_0101,2023-04-04,Enter the Gungeon
+B_TXN_0101,2023-04-04,Dead Cells
+B_TXN_0102,2023-04-24,Hades
+B_TXN_0102,2023-04-24,Disco Elysium
+B_TXN_0102,2023-04-24,Nuclear Throne
+B_TXN_0102,2023-04-24,Celeste OST
+B_TXN_0103,2023-06-19,Undertale
+B_TXN_0103,2023-06-19,Omori
+B_TXN_0103,2023-06-19,Deltarune
+B_TXN_0104,2023-10-27,Axiom Verge
+B_TXN_0104,2023-10-27,Nuclear Throne
+B_TXN_0105,2023-03-02,Hollow Knight OST
+B_TXN_0105,2023-03-02,Hollow Knight
+B_TXN_0105,2023-03-02,Hades OST
+B_TXN_0105,2023-03-02,Binding of Isaac: Rebirth
+B_TXN_0105,2023-03-02,Shovel Knight
+B_TXN_0105,2023-03-02,Dead Cells
+B_TXN_0106,2023-08-29,Shovel Knight
+B_TXN_0107,2023-10-25,Risk of Rain 2
+B_TXN_0107,2023-10-25,Hollow Knight
+B_TXN_0107,2023-10-25,Binding of Isaac: Rebirth
+B_TXN_0107,2023-10-25,Hades
+B_TXN_0107,2023-10-25,Shovel Knight
+B_TXN_0108,2023-02-06,Hades
+B_TXN_0108,2023-02-06,Terraria
+B_TXN_0109,2023-12-15,Cuphead OST
+B_TXN_0109,2023-12-15,Cuphead
+B_TXN_0109,2023-12-15,Risk of Rain 2
+B_TXN_0109,2023-12-15,Cuphead: The Delicious Last Course DLC
+B_TXN_0110,2023-06-02,Stardew Valley
+B_TXN_0110,2023-06-02,Terraria
+B_TXN_0111,2023-06-25,Hollow Knight
+B_TXN_0111,2023-06-25,Ori and the Blind Forest
+B_TXN_0112,2023-07-29,Risk of Rain 2
+B_TXN_0112,2023-07-29,Cuphead: The Delicious Last Course DLC
+B_TXN_0112,2023-07-29,Cuphead OST
+B_TXN_0112,2023-07-29,Cuphead
+B_TXN_0112,2023-07-29,Shovel Knight
+B_TXN_0113,2023-08-23,Omori
+B_TXN_0113,2023-08-23,Celeste OST
+B_TXN_0113,2023-08-23,Dead Cells: Fatal Falls DLC
+B_TXN_0113,2023-08-23,Hades
+B_TXN_0113,2023-08-23,Undertale OST
+B_TXN_0113,2023-08-23,Dead Cells
+B_TXN_0114,2023-02-11,Hollow Knight
+B_TXN_0114,2023-02-11,Cuphead
+B_TXN_0114,2023-02-11,Celeste
+B_TXN_0115,2023-11-20,Cuphead
+B_TXN_0115,2023-11-20,Cuphead: The Delicious Last Course DLC
+B_TXN_0116,2023-08-20,Cuphead
+B_TXN_0116,2023-08-20,Celeste
+B_TXN_0116,2023-08-20,Celeste OST
+B_TXN_0117,2023-03-28,Cuphead OST
+B_TXN_0117,2023-03-28,Cuphead
+B_TXN_0118,2023-03-08,Undertale
+B_TXN_0118,2023-03-08,Undertale OST
+B_TXN_0118,2023-03-08,Deltarune
+B_TXN_0119,2023-11-21,Cuphead OST
+B_TXN_0120,2023-08-08,Hades
+B_TXN_0120,2023-08-08,Celeste
+B_TXN_0120,2023-08-08,Shovel Knight
+B_TXN_0120,2023-08-08,Terraria
+B_TXN_0121,2023-09-02,Undertale
+B_TXN_0121,2023-09-02,Enter the Gungeon
+B_TXN_0121,2023-09-02,Omori
+B_TXN_0121,2023-09-02,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0121,2023-09-02,Deltarune
+B_TXN_0122,2023-04-13,Hades
+B_TXN_0122,2023-04-13,Dead Cells: Fatal Falls DLC
+B_TXN_0122,2023-04-13,Disco Elysium
+B_TXN_0122,2023-04-13,Dead Cells
+B_TXN_0123,2023-09-29,Disco Elysium
+B_TXN_0123,2023-09-29,Celeste
+B_TXN_0123,2023-09-29,Stardew Valley
+B_TXN_0124,2023-12-13,Risk of Rain 2
+B_TXN_0124,2023-12-13,Cuphead: The Delicious Last Course DLC
+B_TXN_0124,2023-12-13,Undertale
+B_TXN_0124,2023-12-13,Terraria
+B_TXN_0124,2023-12-13,Dead Cells: Fatal Falls DLC
+B_TXN_0124,2023-12-13,Hades OST
+B_TXN_0124,2023-12-13,Deltarune
+B_TXN_0125,2023-06-26,Hades
+B_TXN_0125,2023-06-26,Risk of Rain 2
+B_TXN_0125,2023-06-26,Hades OST
+B_TXN_0126,2023-02-03,Hollow Knight
+B_TXN_0126,2023-02-03,Axiom Verge
+B_TXN_0126,2023-02-03,Celeste
+B_TXN_0126,2023-02-03,Hollow Knight OST
+B_TXN_0127,2023-09-24,Cuphead: The Delicious Last Course DLC
+B_TXN_0127,2023-09-24,Cuphead OST
+B_TXN_0127,2023-09-24,Cuphead
+B_TXN_0127,2023-09-24,Binding of Isaac: Rebirth
+B_TXN_0127,2023-09-24,Ori and the Blind Forest
+B_TXN_0128,2023-12-18,Dead Cells: Fatal Falls DLC
+B_TXN_0128,2023-12-18,Undertale OST
+B_TXN_0128,2023-12-18,Dead Cells
+B_TXN_0129,2023-06-25,Undertale
+B_TXN_0129,2023-06-25,Nuclear Throne
+B_TXN_0129,2023-06-25,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0129,2023-06-25,Hollow Knight
+B_TXN_0129,2023-06-25,Hades
+B_TXN_0130,2023-09-08,Terraria
+B_TXN_0131,2023-04-07,Stardew Valley
+B_TXN_0131,2023-04-07,Terraria
+B_TXN_0132,2023-04-25,Disco Elysium
+B_TXN_0132,2023-04-25,Undertale
+B_TXN_0132,2023-04-25,Deltarune
+B_TXN_0133,2023-03-09,Cuphead
+B_TXN_0133,2023-03-09,Cuphead: The Delicious Last Course DLC
+B_TXN_0133,2023-03-09,Deltarune
+B_TXN_0133,2023-03-09,Binding of Isaac: Rebirth
+B_TXN_0134,2023-03-05,Cuphead
+B_TXN_0134,2023-03-05,Celeste
+B_TXN_0134,2023-03-05,Cuphead: The Delicious Last Course DLC
+B_TXN_0135,2023-01-20,Hades
+B_TXN_0135,2023-01-20,Risk of Rain 2
+B_TXN_0136,2023-11-01,Undertale
+B_TXN_0136,2023-11-01,Shovel Knight
+B_TXN_0136,2023-11-01,Deltarune
+B_TXN_0136,2023-11-01,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0137,2023-12-05,Omori
+B_TXN_0137,2023-12-05,Deltarune
+B_TXN_0137,2023-12-05,Dead Cells
+B_TXN_0138,2023-01-11,Disco Elysium
+B_TXN_0138,2023-01-11,Undertale
+B_TXN_0138,2023-01-11,Cuphead OST
+B_TXN_0139,2023-03-01,Undertale
+B_TXN_0139,2023-03-01,Stardew Valley
+B_TXN_0139,2023-03-01,Omori
+B_TXN_0140,2023-07-14,Terraria
+B_TXN_0140,2023-07-14,Dead Cells: Fatal Falls DLC
+B_TXN_0140,2023-07-14,Deltarune
+B_TXN_0140,2023-07-14,Binding of Isaac: Rebirth
+B_TXN_0140,2023-07-14,Dead Cells
+B_TXN_0141,2023-12-26,Hades
+B_TXN_0141,2023-12-26,Dead Cells: Fatal Falls DLC
+B_TXN_0141,2023-12-26,Dead Cells
+B_TXN_0142,2023-06-04,Cuphead
+B_TXN_0142,2023-06-04,Celeste
+B_TXN_0143,2023-02-21,Risk of Rain 2
+B_TXN_0143,2023-02-21,Stardew Valley
+B_TXN_0143,2023-02-21,Hades
+B_TXN_0143,2023-02-21,Ori and the Blind Forest
+B_TXN_0143,2023-02-21,Undertale OST
+B_TXN_0144,2023-03-12,Celeste
+B_TXN_0144,2023-03-12,Celeste OST
+B_TXN_0145,2023-02-23,Undertale
+B_TXN_0145,2023-02-23,Nuclear Throne
+B_TXN_0145,2023-02-23,Deltarune
+B_TXN_0146,2023-05-25,Undertale
+B_TXN_0146,2023-05-25,Dead Cells
+B_TXN_0147,2023-02-24,Celeste
+B_TXN_0147,2023-02-24,Undertale
+B_TXN_0147,2023-02-24,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0147,2023-02-24,Stardew Valley
+B_TXN_0147,2023-02-24,Binding of Isaac: Rebirth
+B_TXN_0148,2023-05-15,Risk of Rain 2
+B_TXN_0148,2023-05-15,Terraria
+B_TXN_0148,2023-05-15,Cuphead
+B_TXN_0148,2023-05-15,Hades
+B_TXN_0148,2023-05-15,Shovel Knight
+B_TXN_0148,2023-05-15,Undertale OST
+B_TXN_0148,2023-05-15,Dead Cells
+B_TXN_0149,2023-04-14,Enter the Gungeon
+B_TXN_0149,2023-04-14,Nuclear Throne
+B_TXN_0149,2023-04-14,Hades OST
+B_TXN_0149,2023-04-14,Terraria
+B_TXN_0150,2023-07-29,Hollow Knight
+B_TXN_0150,2023-07-29,Ori and the Blind Forest
+B_TXN_0151,2023-01-21,Cuphead OST
+B_TXN_0151,2023-01-21,Cuphead
+B_TXN_0152,2023-04-17,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0152,2023-04-17,Binding of Isaac: Rebirth
+B_TXN_0153,2023-01-07,Cuphead OST
+B_TXN_0153,2023-01-07,Cuphead
+B_TXN_0153,2023-01-07,Cuphead: The Delicious Last Course DLC
+B_TXN_0154,2023-12-10,Undertale
+B_TXN_0154,2023-12-10,Shovel Knight
+B_TXN_0155,2023-02-16,Hollow Knight
+B_TXN_0155,2023-02-16,Celeste
+B_TXN_0155,2023-02-16,Hollow Knight OST
+B_TXN_0156,2023-02-08,Cuphead: The Delicious Last Course DLC
+B_TXN_0156,2023-02-08,Enter the Gungeon
+B_TXN_0156,2023-02-08,Hollow Knight
+B_TXN_0156,2023-02-08,Ori and the Blind Forest
+B_TXN_0156,2023-02-08,Undertale OST
+B_TXN_0157,2023-04-29,Hades
+B_TXN_0157,2023-04-29,Risk of Rain 2
+B_TXN_0157,2023-04-29,Dead Cells
+B_TXN_0158,2023-06-01,Hollow Knight
+B_TXN_0158,2023-06-01,Axiom Verge
+B_TXN_0158,2023-06-01,Disco Elysium
+B_TXN_0158,2023-06-01,Terraria
+B_TXN_0159,2023-01-26,Dead Cells: Fatal Falls DLC
+B_TXN_0159,2023-01-26,Undertale
+B_TXN_0159,2023-01-26,Hollow Knight OST
+B_TXN_0159,2023-01-26,Dead Cells
+B_TXN_0160,2023-03-31,Enter the Gungeon
+B_TXN_0160,2023-03-31,Nuclear Throne
+B_TXN_0161,2023-05-29,Hollow Knight OST
+B_TXN_0161,2023-05-29,Celeste
+B_TXN_0161,2023-05-29,Celeste OST
+B_TXN_0162,2023-12-13,Axiom Verge
+B_TXN_0162,2023-12-13,Dead Cells: Fatal Falls DLC
+B_TXN_0162,2023-12-13,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0162,2023-12-13,Dead Cells
+B_TXN_0163,2023-01-24,Risk of Rain 2
+B_TXN_0163,2023-01-24,Hollow Knight OST
+B_TXN_0163,2023-01-24,Hollow Knight
+B_TXN_0163,2023-01-24,Stardew Valley
+B_TXN_0163,2023-01-24,Hades
+B_TXN_0163,2023-01-24,Ori and the Blind Forest
+B_TXN_0164,2023-03-12,Undertale
+B_TXN_0164,2023-03-12,Undertale OST
+B_TXN_0165,2023-08-13,Hades
+B_TXN_0165,2023-08-13,Risk of Rain 2
+B_TXN_0165,2023-08-13,Dead Cells
+B_TXN_0166,2023-05-18,Stardew Valley
+B_TXN_0167,2023-06-25,Risk of Rain 2
+B_TXN_0167,2023-06-25,Cuphead: The Delicious Last Course DLC
+B_TXN_0167,2023-06-25,Enter the Gungeon
+B_TXN_0167,2023-06-25,Hollow Knight
+B_TXN_0167,2023-06-25,Stardew Valley
+B_TXN_0167,2023-06-25,Deltarune
+B_TXN_0168,2023-05-20,Hollow Knight
+B_TXN_0168,2023-05-20,Celeste
+B_TXN_0168,2023-05-20,Celeste OST
+B_TXN_0169,2023-12-20,Hades
+B_TXN_0169,2023-12-20,Nuclear Throne
+B_TXN_0169,2023-12-20,Omori
+B_TXN_0170,2023-11-29,Hades OST
+B_TXN_0170,2023-11-29,Terraria
+B_TXN_0170,2023-11-29,Dead Cells
+B_TXN_0171,2023-03-27,Undertale OST
+B_TXN_0172,2023-03-23,Hollow Knight
+B_TXN_0172,2023-03-23,Cuphead
+B_TXN_0172,2023-03-23,Celeste
+B_TXN_0173,2023-02-23,Dead Cells: Fatal Falls DLC
+B_TXN_0173,2023-02-23,Shovel Knight
+B_TXN_0173,2023-02-23,Cuphead: The Delicious Last Course DLC
+B_TXN_0174,2023-10-30,Celeste
+B_TXN_0174,2023-10-30,Undertale
+B_TXN_0174,2023-10-30,Omori
+B_TXN_0174,2023-10-30,Stardew Valley
+B_TXN_0174,2023-10-30,Deltarune
+B_TXN_0174,2023-10-30,Binding of Isaac: Rebirth
+B_TXN_0174,2023-10-30,Hades
+B_TXN_0175,2023-10-19,Binding of Isaac: Rebirth
+B_TXN_0175,2023-10-19,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0176,2023-07-03,Celeste
+B_TXN_0176,2023-07-03,Celeste OST
+B_TXN_0176,2023-07-03,Cuphead
+B_TXN_0176,2023-07-03,Hades OST
+B_TXN_0176,2023-07-03,Shovel Knight
+B_TXN_0177,2023-12-17,Binding of Isaac: Rebirth
+B_TXN_0178,2023-03-08,Terraria
+B_TXN_0179,2023-09-07,Dead Cells: Fatal Falls DLC
+B_TXN_0179,2023-09-07,Dead Cells
+B_TXN_0180,2023-01-24,Hades
+B_TXN_0180,2023-01-24,Risk of Rain 2
+B_TXN_0181,2023-12-02,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0181,2023-12-02,Binding of Isaac: Rebirth
+B_TXN_0182,2023-10-23,Undertale
+B_TXN_0182,2023-10-23,Terraria
+B_TXN_0182,2023-10-23,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0182,2023-10-23,Hades OST
+B_TXN_0182,2023-10-23,Hades
+B_TXN_0183,2023-12-09,Nuclear Throne
+B_TXN_0183,2023-12-09,Enter the Gungeon
+B_TXN_0184,2023-11-13,Hades
+B_TXN_0184,2023-11-13,Hollow Knight OST
+B_TXN_0184,2023-11-13,Omori
+B_TXN_0184,2023-11-13,Cuphead: The Delicious Last Course DLC
+B_TXN_0185,2023-12-05,Undertale
+B_TXN_0185,2023-12-05,Stardew Valley
+B_TXN_0185,2023-12-05,Undertale OST
+B_TXN_0186,2023-09-04,Omori
+B_TXN_0186,2023-09-04,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0187,2023-12-13,Undertale
+B_TXN_0187,2023-12-13,Omori
+B_TXN_0188,2023-03-18,Undertale
+B_TXN_0188,2023-03-18,Ori and the Blind Forest
+B_TXN_0188,2023-03-18,Omori
+B_TXN_0188,2023-03-18,Cuphead: The Delicious Last Course DLC
+B_TXN_0189,2023-01-28,Cuphead
+B_TXN_0189,2023-01-28,Dead Cells: Fatal Falls DLC
+B_TXN_0189,2023-01-28,Cuphead: The Delicious Last Course DLC
+B_TXN_0190,2023-03-22,Hollow Knight
+B_TXN_0190,2023-03-22,Ori and the Blind Forest
+B_TXN_0190,2023-03-22,Hades
+B_TXN_0191,2023-08-29,Axiom Verge
+B_TXN_0191,2023-08-29,Undertale OST
+B_TXN_0192,2023-03-26,Deltarune
+B_TXN_0193,2023-01-26,Hollow Knight
+B_TXN_0193,2023-01-26,Ori and the Blind Forest
+B_TXN_0193,2023-01-26,Hollow Knight OST
+B_TXN_0194,2023-10-09,Ori and the Blind Forest
+B_TXN_0194,2023-10-09,Stardew Valley
+B_TXN_0195,2023-07-26,Disco Elysium
+B_TXN_0195,2023-07-26,Undertale OST
+B_TXN_0196,2023-10-21,Cuphead
+B_TXN_0196,2023-10-21,Cuphead: The Delicious Last Course DLC
+B_TXN_0197,2023-09-13,Cuphead
+B_TXN_0197,2023-09-13,Nuclear Throne
+B_TXN_0198,2023-02-22,Hollow Knight
+B_TXN_0198,2023-02-22,Undertale
+B_TXN_0198,2023-02-22,Celeste
+B_TXN_0198,2023-02-22,Nuclear Throne
+B_TXN_0199,2023-01-19,Stardew Valley
+B_TXN_0199,2023-01-19,Dead Cells
+B_TXN_0200,2023-11-13,Hollow Knight
+B_TXN_0200,2023-11-13,Celeste
+B_TXN_0200,2023-11-13,Ori and the Blind Forest
+B_TXN_0200,2023-11-13,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0201,2023-09-18,Hades OST
+B_TXN_0202,2023-12-02,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0202,2023-12-02,Binding of Isaac: Rebirth
+B_TXN_0203,2023-06-24,Hades
+B_TXN_0203,2023-06-24,Celeste OST
+B_TXN_0204,2023-01-28,Undertale
+B_TXN_0204,2023-01-28,Omori
+B_TXN_0205,2023-06-19,Dead Cells
+B_TXN_0206,2023-11-14,Enter the Gungeon
+B_TXN_0206,2023-11-14,Celeste OST
+B_TXN_0206,2023-11-14,Disco Elysium
+B_TXN_0206,2023-11-14,Stardew Valley
+B_TXN_0206,2023-11-14,Shovel Knight
+B_TXN_0206,2023-11-14,Undertale OST
+B_TXN_0207,2023-12-03,Cuphead OST
+B_TXN_0207,2023-12-03,Enter the Gungeon
+B_TXN_0207,2023-12-03,Shovel Knight
+B_TXN_0208,2023-12-04,Hades
+B_TXN_0208,2023-12-04,Risk of Rain 2
+B_TXN_0208,2023-12-04,Hades OST
+B_TXN_0209,2023-06-24,Cuphead OST
+B_TXN_0209,2023-06-24,Cuphead
+B_TXN_0210,2023-11-21,Axiom Verge
+B_TXN_0210,2023-11-21,Dead Cells: Fatal Falls DLC
+B_TXN_0210,2023-11-21,Omori
+B_TXN_0210,2023-11-21,Dead Cells
+B_TXN_0211,2023-05-30,Shovel Knight
+B_TXN_0212,2023-07-11,Nuclear Throne
+B_TXN_0212,2023-07-11,Stardew Valley
+B_TXN_0213,2023-07-29,Hollow Knight
+B_TXN_0213,2023-07-29,Axiom Verge
+B_TXN_0213,2023-07-29,Celeste
+B_TXN_0213,2023-07-29,Ori and the Blind Forest
+B_TXN_0214,2023-07-21,Undertale
+B_TXN_0214,2023-07-21,Omori
+B_TXN_0214,2023-07-21,Deltarune
+B_TXN_0215,2023-04-08,Risk of Rain 2
+B_TXN_0215,2023-04-08,Disco Elysium
+B_TXN_0215,2023-04-08,Dead Cells: Fatal Falls DLC
+B_TXN_0215,2023-04-08,Hades OST
+B_TXN_0215,2023-04-08,Deltarune
+B_TXN_0215,2023-04-08,Hades
+B_TXN_0216,2023-08-01,Dead Cells: Fatal Falls DLC
+B_TXN_0216,2023-08-01,Omori
+B_TXN_0216,2023-08-01,Terraria
+B_TXN_0216,2023-08-01,Dead Cells
+B_TXN_0217,2023-11-21,Celeste
+B_TXN_0217,2023-11-21,Terraria
+B_TXN_0217,2023-11-21,Hollow Knight
+B_TXN_0217,2023-11-21,Stardew Valley
+B_TXN_0217,2023-11-21,Binding of Isaac: Rebirth
+B_TXN_0217,2023-11-21,Dead Cells
+B_TXN_0218,2023-08-19,Hades
+B_TXN_0218,2023-08-19,Axiom Verge
+B_TXN_0218,2023-08-19,Shovel Knight
+B_TXN_0218,2023-08-19,Cuphead: The Delicious Last Course DLC
+B_TXN_0219,2023-08-23,Shovel Knight
+B_TXN_0219,2023-08-23,Omori
+B_TXN_0220,2023-09-16,Cuphead OST
+B_TXN_0220,2023-09-16,Celeste
+B_TXN_0221,2023-08-10,Hollow Knight
+B_TXN_0221,2023-08-10,Axiom Verge
+B_TXN_0221,2023-08-10,Hollow Knight OST
+B_TXN_0222,2023-04-01,Celeste
+B_TXN_0222,2023-04-01,Omori
+B_TXN_0222,2023-04-01,Cuphead: The Delicious Last Course DLC
+B_TXN_0223,2023-03-30,Ori and the Blind Forest
+B_TXN_0223,2023-03-30,Stardew Valley
+B_TXN_0223,2023-03-30,Dead Cells
+B_TXN_0224,2023-11-04,Hades
+B_TXN_0224,2023-11-04,Cuphead
+B_TXN_0224,2023-11-04,Cuphead: The Delicious Last Course DLC
+B_TXN_0225,2023-11-08,Axiom Verge
+B_TXN_0225,2023-11-08,Celeste
+B_TXN_0225,2023-11-08,Risk of Rain 2
+B_TXN_0225,2023-11-08,Enter the Gungeon
+B_TXN_0225,2023-11-08,Hollow Knight
+B_TXN_0225,2023-11-08,Dead Cells: Fatal Falls DLC
+B_TXN_0225,2023-11-08,Hades
+B_TXN_0226,2023-05-08,Hades
+B_TXN_0226,2023-05-08,Cuphead
+B_TXN_0226,2023-05-08,Enter the Gungeon
+B_TXN_0226,2023-05-08,Hollow Knight OST
+B_TXN_0227,2023-08-20,Cuphead
+B_TXN_0227,2023-08-20,Celeste
+B_TXN_0227,2023-08-20,Enter the Gungeon
+B_TXN_0227,2023-08-20,Undertale
+B_TXN_0228,2023-11-05,Celeste
+B_TXN_0228,2023-11-05,Risk of Rain 2
+B_TXN_0228,2023-11-05,Enter the Gungeon
+B_TXN_0228,2023-11-05,Shovel Knight
+B_TXN_0228,2023-11-05,Undertale OST
+B_TXN_0229,2023-06-10,Undertale
+B_TXN_0229,2023-06-10,Omori
+B_TXN_0230,2023-10-11,Omori
+B_TXN_0231,2023-06-26,Disco Elysium
+B_TXN_0231,2023-06-26,Undertale
+B_TXN_0231,2023-06-26,Undertale OST
+B_TXN_0231,2023-06-26,Deltarune
+B_TXN_0232,2023-03-09,Dead Cells: Fatal Falls DLC
+B_TXN_0232,2023-03-09,Nuclear Throne
+B_TXN_0233,2023-11-29,Disco Elysium
+B_TXN_0234,2023-11-23,Hades
+B_TXN_0234,2023-11-23,Dead Cells
+B_TXN_0235,2023-06-30,Nuclear Throne
+B_TXN_0235,2023-06-30,Enter the Gungeon
+B_TXN_0235,2023-06-30,Risk of Rain 2
+B_TXN_0235,2023-06-30,Dead Cells
+B_TXN_0236,2023-12-30,Hades
+B_TXN_0236,2023-12-30,Risk of Rain 2
+B_TXN_0237,2023-10-01,Cuphead OST
+B_TXN_0238,2023-08-05,Disco Elysium
+B_TXN_0238,2023-08-05,Undertale
+B_TXN_0238,2023-08-05,Celeste OST
+B_TXN_0238,2023-08-05,Terraria
+B_TXN_0239,2023-01-13,Disco Elysium
+B_TXN_0239,2023-01-13,Dead Cells: Fatal Falls DLC
+B_TXN_0239,2023-01-13,Dead Cells
+B_TXN_0240,2023-01-29,Hades OST
+B_TXN_0240,2023-01-29,Enter the Gungeon
+B_TXN_0240,2023-01-29,Risk of Rain 2
+B_TXN_0240,2023-01-29,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0241,2023-05-27,Celeste
+B_TXN_0241,2023-05-27,Hollow Knight
+B_TXN_0241,2023-05-27,Cuphead
+B_TXN_0241,2023-05-27,Stardew Valley
+B_TXN_0241,2023-05-27,Binding of Isaac: Rebirth
+B_TXN_0242,2023-03-16,Dead Cells: Fatal Falls DLC
+B_TXN_0242,2023-03-16,Binding of Isaac: Rebirth
+B_TXN_0242,2023-03-16,Terraria
+B_TXN_0242,2023-03-16,Dead Cells
+B_TXN_0243,2023-12-20,Deltarune
+B_TXN_0244,2023-04-15,Ori and the Blind Forest
+B_TXN_0245,2023-12-12,Disco Elysium
+B_TXN_0245,2023-12-12,Undertale
+B_TXN_0245,2023-12-12,Undertale OST
+B_TXN_0246,2023-04-25,Risk of Rain 2
+B_TXN_0246,2023-04-25,Terraria
+B_TXN_0246,2023-04-25,Cuphead: The Delicious Last Course DLC
+B_TXN_0247,2023-12-23,Hades
+B_TXN_0247,2023-12-23,Risk of Rain 2
+B_TXN_0248,2023-07-18,Cuphead: The Delicious Last Course DLC
+B_TXN_0248,2023-07-18,Omori
+B_TXN_0248,2023-07-18,Hades OST
+B_TXN_0248,2023-07-18,Hades
+B_TXN_0248,2023-07-18,Undertale OST
+B_TXN_0249,2023-10-10,Axiom Verge
+B_TXN_0249,2023-10-10,Celeste
+B_TXN_0249,2023-10-10,Risk of Rain 2
+B_TXN_0249,2023-10-10,Hollow Knight OST
+B_TXN_0249,2023-10-10,Hollow Knight
+B_TXN_0249,2023-10-10,Stardew Valley
+B_TXN_0249,2023-10-10,Ori and the Blind Forest
+B_TXN_0250,2023-04-14,Hades
+B_TXN_0250,2023-04-14,Shovel Knight
+B_TXN_0250,2023-04-14,Risk of Rain 2
+B_TXN_0251,2023-08-15,Dead Cells
+B_TXN_0251,2023-08-15,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0252,2023-11-21,Nuclear Throne
+B_TXN_0252,2023-11-21,Cuphead
+B_TXN_0252,2023-11-21,Stardew Valley
+B_TXN_0252,2023-11-21,Binding of Isaac: Rebirth
+B_TXN_0253,2023-11-28,Undertale
+B_TXN_0253,2023-11-28,Undertale OST
+B_TXN_0253,2023-11-28,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0254,2023-04-11,Hades
+B_TXN_0254,2023-04-11,Hades OST
+B_TXN_0255,2023-04-10,Ori and the Blind Forest
+B_TXN_0255,2023-04-10,Undertale OST
+B_TXN_0256,2023-04-01,Celeste
+B_TXN_0256,2023-04-01,Hades OST
+B_TXN_0256,2023-04-01,Binding of Isaac: Rebirth
+B_TXN_0256,2023-04-01,Hades
+B_TXN_0256,2023-04-01,Ori and the Blind Forest
+B_TXN_0257,2023-02-08,Nuclear Throne
+B_TXN_0257,2023-02-08,Deltarune
+B_TXN_0258,2023-03-30,Disco Elysium
+B_TXN_0258,2023-03-30,Enter the Gungeon
+B_TXN_0258,2023-03-30,Nuclear Throne
+B_TXN_0259,2023-03-03,Disco Elysium
+B_TXN_0259,2023-03-03,Stardew Valley
+B_TXN_0260,2023-08-08,Disco Elysium
+B_TXN_0260,2023-08-08,Enter the Gungeon
+B_TXN_0260,2023-08-08,Stardew Valley
+B_TXN_0260,2023-08-08,Shovel Knight
+B_TXN_0261,2023-05-16,Hollow Knight
+B_TXN_0261,2023-05-16,Hollow Knight OST
+B_TXN_0262,2023-10-27,Hollow Knight
+B_TXN_0262,2023-10-27,Stardew Valley
+B_TXN_0262,2023-10-27,Risk of Rain 2
+B_TXN_0262,2023-10-27,Terraria
+B_TXN_0263,2023-01-03,Disco Elysium
+B_TXN_0263,2023-01-03,Stardew Valley
+B_TXN_0263,2023-01-03,Omori
+B_TXN_0264,2023-03-21,Hades
+B_TXN_0264,2023-03-21,Dead Cells
+B_TXN_0265,2023-11-17,Undertale
+B_TXN_0265,2023-11-17,Omori
+B_TXN_0265,2023-11-17,Hollow Knight
+B_TXN_0265,2023-11-17,Stardew Valley
+B_TXN_0265,2023-11-17,Deltarune
+B_TXN_0265,2023-11-17,Binding of Isaac: Rebirth
+B_TXN_0266,2023-12-05,Dead Cells
+B_TXN_0266,2023-12-05,Binding of Isaac: Rebirth
+B_TXN_0267,2023-10-21,Undertale
+B_TXN_0267,2023-10-21,Deltarune
+B_TXN_0268,2023-09-27,Cuphead
+B_TXN_0268,2023-09-27,Cuphead: The Delicious Last Course DLC
+B_TXN_0269,2023-02-04,Hades
+B_TXN_0269,2023-02-04,Enter the Gungeon
+B_TXN_0269,2023-02-04,Risk of Rain 2
+B_TXN_0270,2023-06-28,Undertale
+B_TXN_0270,2023-06-28,Celeste
+B_TXN_0270,2023-06-28,Shovel Knight
+B_TXN_0270,2023-06-28,Undertale OST
+B_TXN_0271,2023-04-20,Celeste OST
+B_TXN_0271,2023-04-20,Terraria
+B_TXN_0271,2023-04-20,Hollow Knight
+B_TXN_0271,2023-04-20,Stardew Valley
+B_TXN_0271,2023-04-20,Deltarune
+B_TXN_0271,2023-04-20,Binding of Isaac: Rebirth
+B_TXN_0271,2023-04-20,Undertale OST
+B_TXN_0272,2023-05-31,Celeste
+B_TXN_0272,2023-05-31,Enter the Gungeon
+B_TXN_0272,2023-05-31,Terraria
+B_TXN_0272,2023-05-31,Cuphead
+B_TXN_0272,2023-05-31,Deltarune
+B_TXN_0272,2023-05-31,Ori and the Blind Forest
+B_TXN_0273,2023-11-13,Undertale
+B_TXN_0273,2023-11-13,Omori
+B_TXN_0274,2023-11-29,Hollow Knight OST
+B_TXN_0274,2023-11-29,Ori and the Blind Forest
+B_TXN_0274,2023-11-29,Celeste OST
+B_TXN_0274,2023-11-29,Risk of Rain 2
+B_TXN_0275,2023-11-11,Hollow Knight
+B_TXN_0275,2023-11-11,Hollow Knight OST
+B_TXN_0276,2023-05-05,Hades OST
+B_TXN_0276,2023-05-05,Undertale OST
+B_TXN_0276,2023-05-05,Terraria
+B_TXN_0276,2023-05-05,Cuphead: The Delicious Last Course DLC
+B_TXN_0277,2023-02-28,Hollow Knight
+B_TXN_0277,2023-02-28,Cuphead
+B_TXN_0277,2023-02-28,Ori and the Blind Forest
+B_TXN_0278,2023-05-25,Stardew Valley
+B_TXN_0278,2023-05-25,Risk of Rain 2
+B_TXN_0279,2023-01-13,Undertale
+B_TXN_0279,2023-01-13,Celeste
+B_TXN_0279,2023-01-13,Shovel Knight
+B_TXN_0279,2023-01-13,Stardew Valley
+B_TXN_0280,2023-07-11,Cuphead OST
+B_TXN_0280,2023-07-11,Omori
+B_TXN_0280,2023-07-11,Enter the Gungeon
+B_TXN_0280,2023-07-11,Shovel Knight
+B_TXN_0281,2023-09-18,Undertale
+B_TXN_0281,2023-09-18,Deltarune
+B_TXN_0282,2023-11-30,Celeste
+B_TXN_0282,2023-11-30,Nuclear Throne
+B_TXN_0282,2023-11-30,Enter the Gungeon
+B_TXN_0282,2023-11-30,Hades OST
+B_TXN_0282,2023-11-30,Dead Cells
+B_TXN_0283,2023-09-21,Axiom Verge
+B_TXN_0283,2023-09-21,Hollow Knight OST
+B_TXN_0283,2023-09-21,Omori
+B_TXN_0283,2023-09-21,Hollow Knight
+B_TXN_0283,2023-09-21,Ori and the Blind Forest
+B_TXN_0284,2023-02-19,Hollow Knight
+B_TXN_0284,2023-02-19,Ori and the Blind Forest
+B_TXN_0285,2023-02-03,Undertale
+B_TXN_0285,2023-02-03,Celeste OST
+B_TXN_0285,2023-02-03,Disco Elysium
+B_TXN_0285,2023-02-03,Deltarune
+B_TXN_0285,2023-02-03,Dead Cells
+B_TXN_0286,2023-11-19,Cuphead OST
+B_TXN_0286,2023-11-19,Undertale
+B_TXN_0286,2023-11-19,Omori
+B_TXN_0286,2023-11-19,Deltarune
+B_TXN_0287,2023-04-20,Shovel Knight
+B_TXN_0288,2023-10-03,Hades
+B_TXN_0288,2023-10-03,Risk of Rain 2
+B_TXN_0289,2023-08-11,Nuclear Throne
+B_TXN_0289,2023-08-11,Hollow Knight OST
+B_TXN_0289,2023-08-11,Terraria
+B_TXN_0289,2023-08-11,Hades OST
+B_TXN_0289,2023-08-11,Binding of Isaac: Rebirth
+B_TXN_0289,2023-08-11,Shovel Knight
+B_TXN_0290,2023-02-06,Hades
+B_TXN_0290,2023-02-06,Nuclear Throne
+B_TXN_0290,2023-02-06,Stardew Valley
+B_TXN_0291,2023-03-20,Stardew Valley
+B_TXN_0292,2023-04-02,Hollow Knight
+B_TXN_0292,2023-04-02,Axiom Verge
+B_TXN_0292,2023-04-02,Ori and the Blind Forest
+B_TXN_0292,2023-04-02,Hollow Knight OST
+B_TXN_0293,2023-05-13,Hollow Knight
+B_TXN_0293,2023-05-13,Axiom Verge
+B_TXN_0293,2023-05-13,Stardew Valley
+B_TXN_0293,2023-05-13,Terraria
+B_TXN_0294,2023-08-19,Celeste
+B_TXN_0294,2023-08-19,Cuphead: The Delicious Last Course DLC
+B_TXN_0294,2023-08-19,Cuphead OST
+B_TXN_0294,2023-08-19,Undertale
+B_TXN_0294,2023-08-19,Omori
+B_TXN_0294,2023-08-19,Stardew Valley
+B_TXN_0295,2023-08-10,Ori and the Blind Forest
+B_TXN_0295,2023-08-10,Celeste OST
+B_TXN_0296,2023-07-19,Stardew Valley
+B_TXN_0296,2023-07-19,Terraria
+B_TXN_0297,2023-10-27,Hollow Knight
+B_TXN_0297,2023-10-27,Ori and the Blind Forest
+B_TXN_0298,2023-07-03,Enter the Gungeon
+B_TXN_0298,2023-07-03,Risk of Rain 2
+B_TXN_0299,2023-09-15,Celeste
+B_TXN_0299,2023-09-15,Nuclear Throne
+B_TXN_0299,2023-09-15,Hollow Knight OST
+B_TXN_0299,2023-09-15,Dead Cells: Fatal Falls DLC
+B_TXN_0299,2023-09-15,Stardew Valley
+B_TXN_0299,2023-09-15,Shovel Knight
+B_TXN_0300,2023-12-18,Cuphead
+B_TXN_0300,2023-12-18,Risk of Rain 2
+B_TXN_0300,2023-12-18,Cuphead: The Delicious Last Course DLC
+B_TXN_0301,2023-02-14,Celeste OST
+B_TXN_0301,2023-02-14,Terraria
+B_TXN_0301,2023-02-14,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0301,2023-02-14,Stardew Valley
+B_TXN_0301,2023-02-14,Binding of Isaac: Rebirth
+B_TXN_0301,2023-02-14,Hades
+B_TXN_0302,2023-08-13,Hollow Knight
+B_TXN_0302,2023-08-13,Stardew Valley
+B_TXN_0302,2023-08-13,Terraria
+B_TXN_0303,2023-12-05,Undertale
+B_TXN_0303,2023-12-05,Omori
+B_TXN_0304,2023-03-22,Axiom Verge
+B_TXN_0304,2023-03-22,Undertale
+B_TXN_0304,2023-03-22,Terraria
+B_TXN_0304,2023-03-22,Disco Elysium
+B_TXN_0304,2023-03-22,Cuphead
+B_TXN_0304,2023-03-22,Binding of Isaac: Rebirth
+B_TXN_0305,2023-10-07,Nuclear Throne
+B_TXN_0305,2023-10-07,Hollow Knight
+B_TXN_0305,2023-10-07,Disco Elysium
+B_TXN_0305,2023-10-07,Cuphead
+B_TXN_0305,2023-10-07,Hades
+B_TXN_0305,2023-10-07,Dead Cells
+B_TXN_0306,2023-11-28,Hollow Knight
+B_TXN_0306,2023-11-28,Cuphead
+B_TXN_0306,2023-11-28,Celeste
+B_TXN_0307,2023-03-05,Hollow Knight
+B_TXN_0307,2023-03-05,Hollow Knight OST
+B_TXN_0308,2023-10-21,Dead Cells: Fatal Falls DLC
+B_TXN_0308,2023-10-21,Dead Cells
+B_TXN_0309,2023-10-03,Hollow Knight
+B_TXN_0309,2023-10-03,Enter the Gungeon
+B_TXN_0309,2023-10-03,Celeste OST
+B_TXN_0309,2023-10-03,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0310,2023-02-13,Binding of Isaac: Rebirth
+B_TXN_0310,2023-02-13,Dead Cells: Fatal Falls DLC
+B_TXN_0310,2023-02-13,Omori
+B_TXN_0310,2023-02-13,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0311,2023-06-26,Binding of Isaac: Rebirth
+B_TXN_0311,2023-06-26,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0312,2023-11-27,Cuphead OST
+B_TXN_0312,2023-11-27,Cuphead
+B_TXN_0312,2023-11-27,Dead Cells: Fatal Falls DLC
+B_TXN_0312,2023-11-27,Hades
+B_TXN_0313,2023-11-12,Cuphead
+B_TXN_0313,2023-11-12,Celeste
+B_TXN_0313,2023-11-12,Celeste OST
+B_TXN_0314,2023-01-28,Celeste
+B_TXN_0314,2023-01-28,Cuphead: The Delicious Last Course DLC
+B_TXN_0314,2023-01-28,Celeste OST
+B_TXN_0314,2023-01-28,Hollow Knight
+B_TXN_0314,2023-01-28,Disco Elysium
+B_TXN_0314,2023-01-28,Stardew Valley
+B_TXN_0314,2023-01-28,Ori and the Blind Forest
+B_TXN_0315,2023-10-09,Celeste
+B_TXN_0315,2023-10-09,Risk of Rain 2
+B_TXN_0315,2023-10-09,Hollow Knight
+B_TXN_0315,2023-10-09,Hades OST
+B_TXN_0315,2023-10-09,Shovel Knight
+B_TXN_0316,2023-12-10,Stardew Valley
+B_TXN_0316,2023-12-10,Terraria
+B_TXN_0317,2023-02-20,Dead Cells: Fatal Falls DLC
+B_TXN_0317,2023-02-20,Dead Cells
+B_TXN_0318,2023-04-12,Celeste
+B_TXN_0318,2023-04-12,Omori
+B_TXN_0318,2023-04-12,Stardew Valley
+B_TXN_0318,2023-04-12,Deltarune
+B_TXN_0318,2023-04-12,Hades
+B_TXN_0318,2023-04-12,Shovel Knight
+B_TXN_0319,2023-09-07,Stardew Valley
+B_TXN_0319,2023-09-07,Terraria
+B_TXN_0320,2023-07-02,Nuclear Throne
+B_TXN_0321,2023-12-02,Disco Elysium
+B_TXN_0321,2023-12-02,Undertale
+B_TXN_0321,2023-12-02,Binding of Isaac: Rebirth
+B_TXN_0321,2023-12-02,Hollow Knight
+B_TXN_0322,2023-04-10,Celeste
+B_TXN_0322,2023-04-10,Cuphead: The Delicious Last Course DLC
+B_TXN_0322,2023-04-10,Cuphead OST
+B_TXN_0322,2023-04-10,Cuphead
+B_TXN_0322,2023-04-10,Ori and the Blind Forest
+B_TXN_0322,2023-04-10,Dead Cells
+B_TXN_0323,2023-06-06,Hades
+B_TXN_0323,2023-06-06,Ori and the Blind Forest
+B_TXN_0323,2023-06-06,Hades OST
+B_TXN_0324,2023-03-20,Disco Elysium
+B_TXN_0324,2023-03-20,Undertale
+B_TXN_0324,2023-03-20,Stardew Valley
+B_TXN_0325,2023-01-03,Hollow Knight
+B_TXN_0325,2023-01-03,Celeste
+B_TXN_0325,2023-01-03,Ori and the Blind Forest
+B_TXN_0326,2023-04-24,Hades
+B_TXN_0326,2023-04-24,Hades OST
+B_TXN_0327,2023-05-22,Enter the Gungeon
+B_TXN_0328,2023-07-04,Hollow Knight OST
+B_TXN_0328,2023-07-04,Disco Elysium
+B_TXN_0328,2023-07-04,Stardew Valley
+B_TXN_0328,2023-07-04,Hades OST
+B_TXN_0328,2023-07-04,Shovel Knight
+B_TXN_0329,2023-08-25,Hollow Knight
+B_TXN_0329,2023-08-25,Undertale
+B_TXN_0329,2023-08-25,Celeste
+B_TXN_0329,2023-08-25,Risk of Rain 2
+B_TXN_0330,2023-11-27,Hollow Knight
+B_TXN_0330,2023-11-27,Axiom Verge
+B_TXN_0331,2023-05-24,Dead Cells: Fatal Falls DLC
+B_TXN_0332,2023-03-13,Disco Elysium
+B_TXN_0332,2023-03-13,Axiom Verge
+B_TXN_0333,2023-04-11,Celeste OST
+B_TXN_0333,2023-04-11,Terraria
+B_TXN_0333,2023-04-11,Binding of Isaac: Rebirth
+B_TXN_0333,2023-04-11,Hades
+B_TXN_0333,2023-04-11,Shovel Knight
+B_TXN_0334,2023-11-17,Disco Elysium
+B_TXN_0334,2023-11-17,Stardew Valley
+B_TXN_0334,2023-11-17,Terraria
+B_TXN_0335,2023-02-08,Hades
+B_TXN_0335,2023-02-08,Stardew Valley
+B_TXN_0335,2023-02-08,Hollow Knight OST
+B_TXN_0335,2023-02-08,Terraria
+B_TXN_0336,2023-09-17,Nuclear Throne
+B_TXN_0336,2023-09-17,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0337,2023-04-19,Hollow Knight
+B_TXN_0337,2023-04-19,Celeste
+B_TXN_0338,2023-10-06,Disco Elysium
+B_TXN_0338,2023-10-06,Binding of Isaac: Rebirth
+B_TXN_0338,2023-10-06,Omori
+B_TXN_0338,2023-10-06,Dead Cells
+B_TXN_0339,2023-07-20,Disco Elysium
+B_TXN_0339,2023-07-20,Undertale
+B_TXN_0340,2023-10-29,Stardew Valley
+B_TXN_0340,2023-10-29,Terraria
+B_TXN_0340,2023-10-29,Cuphead: The Delicious Last Course DLC
+B_TXN_0341,2023-05-29,Dead Cells: Fatal Falls DLC
+B_TXN_0342,2023-09-14,Enter the Gungeon
+B_TXN_0342,2023-09-14,Stardew Valley
+B_TXN_0342,2023-09-14,Terraria
+B_TXN_0343,2023-12-06,Hades
+B_TXN_0343,2023-12-06,Dead Cells
+B_TXN_0344,2023-11-11,Stardew Valley
+B_TXN_0344,2023-11-11,Risk of Rain 2
+B_TXN_0344,2023-11-11,Terraria
+B_TXN_0345,2023-09-21,Celeste OST
+B_TXN_0345,2023-09-21,Terraria
+B_TXN_0346,2023-03-23,Undertale
+B_TXN_0346,2023-03-23,Deltarune
+B_TXN_0347,2023-10-17,Dead Cells: Fatal Falls DLC
+B_TXN_0347,2023-10-17,Hades OST
+B_TXN_0347,2023-10-17,Omori
+B_TXN_0347,2023-10-17,Dead Cells
+B_TXN_0348,2023-07-03,Undertale
+B_TXN_0348,2023-07-03,Celeste OST
+B_TXN_0349,2023-04-29,Celeste
+B_TXN_0349,2023-04-29,Risk of Rain 2
+B_TXN_0349,2023-04-29,Enter the Gungeon
+B_TXN_0349,2023-04-29,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0349,2023-04-29,Ori and the Blind Forest
+B_TXN_0350,2023-04-16,Cuphead OST
+B_TXN_0350,2023-04-16,Cuphead
+B_TXN_0350,2023-04-16,Celeste
+B_TXN_0350,2023-04-16,Cuphead: The Delicious Last Course DLC
+B_TXN_0351,2023-09-23,Ori and the Blind Forest
+B_TXN_0351,2023-09-23,Shovel Knight
+B_TXN_0352,2023-07-04,Axiom Verge
+B_TXN_0353,2023-08-21,Undertale
+B_TXN_0353,2023-08-21,Ori and the Blind Forest
+B_TXN_0353,2023-08-21,Deltarune
+B_TXN_0354,2023-01-21,Ori and the Blind Forest
+B_TXN_0354,2023-01-21,Nuclear Throne
+B_TXN_0354,2023-01-21,Hades OST
+B_TXN_0354,2023-01-21,Binding of Isaac: Rebirth
+B_TXN_0355,2023-09-24,Hades
+B_TXN_0355,2023-09-24,Dead Cells
+B_TXN_0356,2023-05-21,Cuphead
+B_TXN_0356,2023-05-21,Dead Cells: Fatal Falls DLC
+B_TXN_0357,2023-03-31,Hades
+B_TXN_0357,2023-03-31,Dead Cells
+B_TXN_0358,2023-10-28,Risk of Rain 2
+B_TXN_0358,2023-10-28,Enter the Gungeon
+B_TXN_0358,2023-10-28,Stardew Valley
+B_TXN_0358,2023-10-28,Hades
+B_TXN_0358,2023-10-28,Shovel Knight
+B_TXN_0359,2023-09-22,Cuphead
+B_TXN_0359,2023-09-22,Risk of Rain 2
+B_TXN_0359,2023-09-22,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0360,2023-04-25,Enter the Gungeon
+B_TXN_0360,2023-04-25,Risk of Rain 2
+B_TXN_0361,2023-06-30,Disco Elysium
+B_TXN_0362,2023-06-26,Celeste
+B_TXN_0362,2023-06-26,Stardew Valley
+B_TXN_0363,2023-09-14,Cuphead
+B_TXN_0363,2023-09-14,Dead Cells: Fatal Falls DLC
+B_TXN_0363,2023-09-14,Enter the Gungeon
+B_TXN_0363,2023-09-14,Cuphead: The Delicious Last Course DLC
+B_TXN_0364,2023-08-14,Ori and the Blind Forest
+B_TXN_0364,2023-08-14,Risk of Rain 2
+B_TXN_0364,2023-08-14,Binding of Isaac: Rebirth
+B_TXN_0365,2023-02-09,Hollow Knight
+B_TXN_0365,2023-02-09,Axiom Verge
+B_TXN_0365,2023-02-09,Stardew Valley
+B_TXN_0365,2023-02-09,Binding of Isaac: Rebirth
+B_TXN_0366,2023-05-24,Axiom Verge
+B_TXN_0366,2023-05-24,Deltarune
+B_TXN_0367,2023-04-06,Hollow Knight
+B_TXN_0367,2023-04-06,Risk of Rain 2
+B_TXN_0367,2023-04-06,Stardew Valley
+B_TXN_0367,2023-04-06,Hollow Knight OST
+B_TXN_0368,2023-12-05,Celeste
+B_TXN_0368,2023-12-05,Cuphead: The Delicious Last Course DLC
+B_TXN_0368,2023-12-05,Enter the Gungeon
+B_TXN_0368,2023-12-05,Hollow Knight
+B_TXN_0368,2023-12-05,Cuphead
+B_TXN_0369,2023-09-03,Axiom Verge
+B_TXN_0369,2023-09-03,Celeste
+B_TXN_0369,2023-09-03,Undertale
+B_TXN_0369,2023-09-03,Cuphead
+B_TXN_0369,2023-09-03,Deltarune
+B_TXN_0370,2023-07-30,Undertale
+B_TXN_0370,2023-07-30,Celeste
+B_TXN_0370,2023-07-30,Terraria
+B_TXN_0370,2023-07-30,Cuphead: The Delicious Last Course DLC
+B_TXN_0371,2023-01-23,Hollow Knight
+B_TXN_0371,2023-01-23,Ori and the Blind Forest
+B_TXN_0372,2023-10-31,Undertale
+B_TXN_0372,2023-10-31,Undertale OST
+B_TXN_0373,2023-11-19,Cuphead
+B_TXN_0373,2023-11-19,Undertale
+B_TXN_0373,2023-11-19,Hollow Knight OST
+B_TXN_0373,2023-11-19,Deltarune
+B_TXN_0374,2023-03-17,Stardew Valley
+B_TXN_0374,2023-03-17,Dead Cells
+B_TXN_0375,2023-11-03,Celeste
+B_TXN_0375,2023-11-03,Hollow Knight OST
+B_TXN_0375,2023-11-03,Hollow Knight
+B_TXN_0375,2023-11-03,Cuphead
+B_TXN_0375,2023-11-03,Ori and the Blind Forest
+B_TXN_0375,2023-11-03,Dead Cells
+B_TXN_0376,2023-11-23,Stardew Valley
+B_TXN_0377,2023-12-05,Celeste
+B_TXN_0377,2023-12-05,Cuphead OST
+B_TXN_0377,2023-12-05,Undertale
+B_TXN_0377,2023-12-05,Enter the Gungeon
+B_TXN_0377,2023-12-05,Deltarune
+B_TXN_0378,2023-08-30,Axiom Verge
+B_TXN_0378,2023-08-30,Celeste
+B_TXN_0378,2023-08-30,Undertale
+B_TXN_0378,2023-08-30,Omori
+B_TXN_0378,2023-08-30,Hollow Knight
+B_TXN_0378,2023-08-30,Stardew Valley
+B_TXN_0378,2023-08-30,Shovel Knight
+B_TXN_0379,2023-03-29,Stardew Valley
+B_TXN_0379,2023-03-29,Cuphead: The Delicious Last Course DLC
+B_TXN_0380,2023-04-23,Celeste OST
+B_TXN_0380,2023-04-23,Dead Cells: Fatal Falls DLC
+B_TXN_0380,2023-04-23,Cuphead
+B_TXN_0380,2023-04-23,Hades
+B_TXN_0380,2023-04-23,Shovel Knight
+B_TXN_0380,2023-04-23,Undertale OST
+B_TXN_0380,2023-04-23,Dead Cells
+B_TXN_0381,2023-11-04,Risk of Rain 2
+B_TXN_0381,2023-11-04,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0381,2023-11-04,Hades
+B_TXN_0381,2023-11-04,Ori and the Blind Forest
+B_TXN_0381,2023-11-04,Dead Cells
+B_TXN_0382,2023-03-15,Shovel Knight
+B_TXN_0382,2023-03-15,Binding of Isaac: Rebirth
+B_TXN_0383,2023-04-04,Cuphead OST
+B_TXN_0383,2023-04-04,Celeste
+B_TXN_0384,2023-09-19,Axiom Verge
+B_TXN_0384,2023-09-19,Omori
+B_TXN_0385,2023-12-18,Hades
+B_TXN_0385,2023-12-18,Hollow Knight OST
+B_TXN_0385,2023-12-18,Dead Cells: Fatal Falls DLC
+B_TXN_0385,2023-12-18,Hades OST
+B_TXN_0386,2023-08-21,Axiom Verge
+B_TXN_0386,2023-08-21,Cuphead: The Delicious Last Course DLC
+B_TXN_0386,2023-08-21,Undertale
+B_TXN_0386,2023-08-21,Terraria
+B_TXN_0386,2023-08-21,Stardew Valley
+B_TXN_0387,2023-02-05,Undertale
+B_TXN_0387,2023-02-05,Deltarune
+B_TXN_0388,2023-07-17,Undertale
+B_TXN_0388,2023-07-17,Undertale OST
+B_TXN_0389,2023-09-16,Hollow Knight
+B_TXN_0389,2023-09-16,Celeste
+B_TXN_0389,2023-09-16,Celeste OST
+B_TXN_0390,2023-04-01,Hades
+B_TXN_0390,2023-04-01,Cuphead
+B_TXN_0390,2023-04-01,Celeste
+B_TXN_0391,2023-09-15,Undertale
+B_TXN_0391,2023-09-15,Omori
+B_TXN_0391,2023-09-15,Deltarune
+B_TXN_0392,2023-02-17,Axiom Verge
+B_TXN_0392,2023-02-17,Undertale
+B_TXN_0392,2023-02-17,Ori and the Blind Forest
+B_TXN_0392,2023-02-17,Binding of Isaac: Rebirth
+B_TXN_0393,2023-12-14,Hollow Knight
+B_TXN_0393,2023-12-14,Dead Cells: Fatal Falls DLC
+B_TXN_0393,2023-12-14,Celeste
+B_TXN_0393,2023-12-14,Deltarune
+B_TXN_0394,2023-01-23,Cuphead
+B_TXN_0394,2023-01-23,Cuphead: The Delicious Last Course DLC
+B_TXN_0395,2023-08-08,Omori
+B_TXN_0395,2023-08-08,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0395,2023-08-08,Cuphead
+B_TXN_0395,2023-08-08,Stardew Valley
+B_TXN_0395,2023-08-08,Binding of Isaac: Rebirth
+B_TXN_0395,2023-08-08,Undertale OST
+B_TXN_0396,2023-07-15,Hades
+B_TXN_0396,2023-07-15,Cuphead
+B_TXN_0396,2023-07-15,Enter the Gungeon
+B_TXN_0396,2023-07-15,Dead Cells
+B_TXN_0397,2023-12-23,Hollow Knight
+B_TXN_0397,2023-12-23,Hollow Knight OST
+B_TXN_0398,2023-08-06,Omori
+B_TXN_0399,2023-09-02,Celeste
+B_TXN_0399,2023-09-02,Celeste OST
+B_TXN_0399,2023-09-02,Terraria
+B_TXN_0399,2023-09-02,Disco Elysium
+B_TXN_0399,2023-09-02,Hades
+B_TXN_0400,2023-02-12,Undertale OST
+B_TXN_0401,2023-07-29,Celeste
+B_TXN_0401,2023-07-29,Undertale
+B_TXN_0401,2023-07-29,Celeste OST
+B_TXN_0401,2023-07-29,Hades
+B_TXN_0401,2023-07-29,Dead Cells
+B_TXN_0402,2023-01-03,Stardew Valley
+B_TXN_0402,2023-01-03,Terraria
+B_TXN_0403,2023-03-02,Cuphead
+B_TXN_0404,2023-07-12,Risk of Rain 2
+B_TXN_0404,2023-07-12,Nuclear Throne
+B_TXN_0404,2023-07-12,Celeste OST
+B_TXN_0404,2023-07-12,Hollow Knight
+B_TXN_0404,2023-07-12,Ori and the Blind Forest
+B_TXN_0404,2023-07-12,Shovel Knight
+B_TXN_0405,2023-06-11,Celeste
+B_TXN_0405,2023-06-11,Risk of Rain 2
+B_TXN_0405,2023-06-11,Celeste OST
+B_TXN_0405,2023-06-11,Stardew Valley
+B_TXN_0405,2023-06-11,Undertale OST
+B_TXN_0406,2023-05-14,Undertale
+B_TXN_0406,2023-05-14,Undertale OST
+B_TXN_0406,2023-05-14,Deltarune
+B_TXN_0407,2023-08-05,Terraria
+B_TXN_0408,2023-11-10,Celeste
+B_TXN_0408,2023-11-10,Undertale
+B_TXN_0408,2023-11-10,Omori
+B_TXN_0408,2023-11-10,Terraria
+B_TXN_0408,2023-11-10,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0408,2023-11-10,Ori and the Blind Forest
+B_TXN_0409,2023-04-15,Hades
+B_TXN_0409,2023-04-15,Dead Cells
+B_TXN_0410,2023-07-31,Nuclear Throne
+B_TXN_0410,2023-07-31,Cuphead
+B_TXN_0410,2023-07-31,Ori and the Blind Forest
+B_TXN_0410,2023-07-31,Shovel Knight
+B_TXN_0411,2023-10-13,Cuphead
+B_TXN_0411,2023-10-13,Hollow Knight OST
+B_TXN_0412,2023-05-10,Hades
+B_TXN_0412,2023-05-10,Dead Cells
+B_TXN_0413,2023-10-23,Hollow Knight OST
+B_TXN_0413,2023-10-23,Celeste OST
+B_TXN_0413,2023-10-23,Deltarune
+B_TXN_0414,2023-12-28,Undertale
+B_TXN_0414,2023-12-28,Omori
+B_TXN_0415,2023-03-12,Undertale
+B_TXN_0415,2023-03-12,Hollow Knight
+B_TXN_0415,2023-03-12,Dead Cells: Fatal Falls DLC
+B_TXN_0415,2023-03-12,Ori and the Blind Forest
+B_TXN_0415,2023-03-12,Dead Cells
+B_TXN_0416,2023-04-28,Hollow Knight
+B_TXN_0416,2023-04-28,Dead Cells
+B_TXN_0417,2023-08-17,Hollow Knight
+B_TXN_0417,2023-08-17,Cuphead
+B_TXN_0417,2023-08-17,Shovel Knight
+B_TXN_0418,2023-03-24,Undertale
+B_TXN_0418,2023-03-24,Undertale OST
+B_TXN_0418,2023-03-24,Omori
+B_TXN_0418,2023-03-24,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0419,2023-10-09,Cuphead
+B_TXN_0419,2023-10-09,Celeste
+B_TXN_0419,2023-10-09,Cuphead: The Delicious Last Course DLC
+B_TXN_0420,2023-01-27,Disco Elysium
+B_TXN_0420,2023-01-27,Dead Cells
+B_TXN_0421,2023-11-22,Undertale
+B_TXN_0421,2023-11-22,Hollow Knight OST
+B_TXN_0421,2023-11-22,Terraria
+B_TXN_0421,2023-11-22,Hollow Knight
+B_TXN_0421,2023-11-22,Stardew Valley
+B_TXN_0422,2023-02-16,Stardew Valley
+B_TXN_0422,2023-02-16,Terraria
+B_TXN_0423,2023-05-15,Hollow Knight
+B_TXN_0423,2023-05-15,Axiom Verge
+B_TXN_0423,2023-05-15,Undertale
+B_TXN_0424,2023-01-20,Nuclear Throne
+B_TXN_0424,2023-01-20,Enter the Gungeon
+B_TXN_0424,2023-01-20,Risk of Rain 2
+B_TXN_0425,2023-07-25,Celeste
+B_TXN_0425,2023-07-25,Undertale
+B_TXN_0425,2023-07-25,Ori and the Blind Forest
+B_TXN_0426,2023-09-24,Undertale OST
+B_TXN_0427,2023-11-02,Hollow Knight
+B_TXN_0427,2023-11-02,Axiom Verge
+B_TXN_0428,2023-03-31,Axiom Verge
+B_TXN_0428,2023-03-31,Undertale
+B_TXN_0428,2023-03-31,Omori
+B_TXN_0428,2023-03-31,Cuphead: The Delicious Last Course DLC
+B_TXN_0429,2023-04-14,Nuclear Throne
+B_TXN_0429,2023-04-14,Enter the Gungeon
+B_TXN_0429,2023-04-14,Hollow Knight
+B_TXN_0429,2023-04-14,Stardew Valley
+B_TXN_0429,2023-04-14,Hades
+B_TXN_0430,2023-09-23,Hollow Knight
+B_TXN_0430,2023-09-23,Hades OST
+B_TXN_0431,2023-01-18,Hollow Knight
+B_TXN_0431,2023-01-18,Undertale
+B_TXN_0431,2023-01-18,Deltarune
+B_TXN_0431,2023-01-18,Cuphead: The Delicious Last Course DLC
+B_TXN_0432,2023-09-19,Enter the Gungeon
+B_TXN_0432,2023-09-19,Stardew Valley
+B_TXN_0433,2023-04-29,Risk of Rain 2
+B_TXN_0433,2023-04-29,Undertale
+B_TXN_0433,2023-04-29,Stardew Valley
+B_TXN_0433,2023-04-29,Undertale OST
+B_TXN_0434,2023-12-02,Hades
+B_TXN_0434,2023-12-02,Risk of Rain 2
+B_TXN_0435,2023-03-22,Disco Elysium
+B_TXN_0435,2023-03-22,Undertale
+B_TXN_0435,2023-03-22,Risk of Rain 2
+B_TXN_0435,2023-03-22,Deltarune
+B_TXN_0436,2023-05-22,Stardew Valley
+B_TXN_0436,2023-05-22,Terraria
+B_TXN_0437,2023-09-23,Omori
+B_TXN_0437,2023-09-23,Undertale
+B_TXN_0437,2023-09-23,Undertale OST
+B_TXN_0438,2023-10-14,Undertale
+B_TXN_0438,2023-10-14,Deltarune
+B_TXN_0438,2023-10-14,Binding of Isaac: Rebirth
+B_TXN_0439,2023-06-28,Hollow Knight
+B_TXN_0439,2023-06-28,Nuclear Throne
+B_TXN_0439,2023-06-28,Stardew Valley
+B_TXN_0439,2023-06-28,Dead Cells
+B_TXN_0440,2023-05-22,Axiom Verge
+B_TXN_0440,2023-05-22,Cuphead: The Delicious Last Course DLC
+B_TXN_0440,2023-05-22,Undertale
+B_TXN_0440,2023-05-22,Cuphead
+B_TXN_0440,2023-05-22,Deltarune
+B_TXN_0440,2023-05-22,Hades
+B_TXN_0441,2023-04-10,Hollow Knight
+B_TXN_0441,2023-04-10,Hollow Knight OST
+B_TXN_0442,2023-03-31,Cuphead OST
+B_TXN_0442,2023-03-31,Cuphead
+B_TXN_0442,2023-03-31,Cuphead: The Delicious Last Course DLC
+B_TXN_0443,2023-02-24,Hollow Knight OST
+B_TXN_0444,2023-06-24,Ori and the Blind Forest
+B_TXN_0444,2023-06-24,Celeste OST
+B_TXN_0444,2023-06-24,Risk of Rain 2
+B_TXN_0445,2023-10-22,Hollow Knight
+B_TXN_0445,2023-10-22,Cuphead: The Delicious Last Course DLC
+B_TXN_0445,2023-10-22,Dead Cells
+B_TXN_0446,2023-08-15,Hollow Knight
+B_TXN_0446,2023-08-15,Ori and the Blind Forest
+B_TXN_0446,2023-08-15,Stardew Valley
+B_TXN_0446,2023-08-15,Disco Elysium
+B_TXN_0447,2023-06-23,Cuphead
+B_TXN_0447,2023-06-23,Cuphead: The Delicious Last Course DLC
+B_TXN_0448,2023-08-23,Dead Cells: Fatal Falls DLC
+B_TXN_0448,2023-08-23,Shovel Knight
+B_TXN_0449,2023-01-15,Omori
+B_TXN_0449,2023-01-15,Dead Cells
+B_TXN_0450,2023-04-23,Celeste
+B_TXN_0450,2023-04-23,Cuphead: The Delicious Last Course DLC
+B_TXN_0450,2023-04-23,Cuphead
+B_TXN_0450,2023-04-23,Binding of Isaac: Rebirth
+B_TXN_0450,2023-04-23,Ori and the Blind Forest
+B_TXN_0451,2023-04-28,Dead Cells: Fatal Falls DLC
+B_TXN_0451,2023-04-28,Undertale OST
+B_TXN_0451,2023-04-28,Cuphead: The Delicious Last Course DLC
+B_TXN_0452,2023-07-31,Hollow Knight
+B_TXN_0452,2023-07-31,Cuphead OST
+B_TXN_0452,2023-07-31,Omori
+B_TXN_0453,2023-05-15,Hades
+B_TXN_0453,2023-05-15,Risk of Rain 2
+B_TXN_0454,2023-05-08,Deltarune
+B_TXN_0454,2023-05-08,Shovel Knight
+B_TXN_0454,2023-05-08,Terraria
+B_TXN_0455,2023-05-28,Risk of Rain 2
+B_TXN_0455,2023-05-28,Shovel Knight
+B_TXN_0455,2023-05-28,Stardew Valley
+B_TXN_0455,2023-05-28,Deltarune
+B_TXN_0456,2023-04-02,Disco Elysium
+B_TXN_0456,2023-04-02,Undertale
+B_TXN_0456,2023-04-02,Risk of Rain 2
+B_TXN_0456,2023-04-02,Deltarune
+B_TXN_0457,2023-07-01,Hollow Knight OST
+B_TXN_0458,2023-10-21,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0458,2023-10-21,Binding of Isaac: Rebirth
+B_TXN_0459,2023-12-16,Hades
+B_TXN_0459,2023-12-16,Dead Cells
+B_TXN_0460,2023-04-08,Hollow Knight OST
+B_TXN_0460,2023-04-08,Stardew Valley
+B_TXN_0460,2023-04-08,Hades OST
+B_TXN_0461,2023-04-13,Hades
+B_TXN_0461,2023-04-13,Dead Cells: Fatal Falls DLC
+B_TXN_0461,2023-04-13,Omori
+B_TXN_0462,2023-05-04,Celeste
+B_TXN_0462,2023-05-04,Celeste OST
+B_TXN_0463,2023-04-16,Nuclear Throne
+B_TXN_0463,2023-04-16,Enter the Gungeon
+B_TXN_0463,2023-04-16,Hollow Knight OST
+B_TXN_0463,2023-04-16,Stardew Valley
+B_TXN_0463,2023-04-16,Hades
+B_TXN_0464,2023-02-24,Hollow Knight
+B_TXN_0464,2023-02-24,Omori
+B_TXN_0464,2023-02-24,Hollow Knight OST
+B_TXN_0465,2023-12-06,Hades
+B_TXN_0465,2023-12-06,Dead Cells: Fatal Falls DLC
+B_TXN_0465,2023-12-06,Dead Cells
+B_TXN_0466,2023-09-04,Undertale
+B_TXN_0466,2023-09-04,Undertale OST
+B_TXN_0466,2023-09-04,Deltarune
+B_TXN_0467,2023-10-22,Hollow Knight
+B_TXN_0467,2023-10-22,Celeste
+B_TXN_0467,2023-10-22,Celeste OST
+B_TXN_0468,2023-09-19,Dead Cells: Fatal Falls DLC
+B_TXN_0468,2023-09-19,Stardew Valley
+B_TXN_0468,2023-09-19,Dead Cells
+B_TXN_0469,2023-04-24,Stardew Valley
+B_TXN_0469,2023-04-24,Terraria
+B_TXN_0469,2023-04-24,Binding of Isaac: Rebirth
+B_TXN_0470,2023-03-07,Undertale
+B_TXN_0470,2023-03-07,Nuclear Throne
+B_TXN_0471,2023-09-02,Hades
+B_TXN_0471,2023-09-02,Risk of Rain 2
+B_TXN_0471,2023-09-02,Hollow Knight
+B_TXN_0472,2023-01-17,Axiom Verge
+B_TXN_0472,2023-01-17,Celeste
+B_TXN_0472,2023-01-17,Terraria
+B_TXN_0473,2023-07-21,Celeste OST
+B_TXN_0474,2023-03-03,Hades
+B_TXN_0474,2023-03-03,Ori and the Blind Forest
+B_TXN_0474,2023-03-03,Terraria
+B_TXN_0475,2023-04-18,Hollow Knight
+B_TXN_0475,2023-04-18,Axiom Verge
+B_TXN_0475,2023-04-18,Cuphead
+B_TXN_0475,2023-04-18,Hades OST
+B_TXN_0476,2023-07-05,Hades
+B_TXN_0476,2023-07-05,Dead Cells: Fatal Falls DLC
+B_TXN_0476,2023-07-05,Dead Cells
+B_TXN_0477,2023-05-13,Celeste
+B_TXN_0477,2023-05-13,Terraria
+B_TXN_0477,2023-05-13,Hollow Knight
+B_TXN_0477,2023-05-13,Cuphead
+B_TXN_0477,2023-05-13,Hades OST
+B_TXN_0477,2023-05-13,Shovel Knight
+B_TXN_0478,2023-05-15,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0478,2023-05-15,Binding of Isaac: Rebirth
+B_TXN_0479,2023-09-13,Undertale
+B_TXN_0479,2023-09-13,Celeste OST
+B_TXN_0479,2023-09-13,Stardew Valley
+B_TXN_0479,2023-09-13,Deltarune
+B_TXN_0479,2023-09-13,Dead Cells
+B_TXN_0480,2023-07-06,Hollow Knight
+B_TXN_0480,2023-07-06,Celeste
+B_TXN_0480,2023-07-06,Enter the Gungeon
+B_TXN_0480,2023-07-06,Celeste OST
+B_TXN_0481,2023-05-24,Hades
+B_TXN_0481,2023-05-24,Stardew Valley
+B_TXN_0481,2023-05-24,Celeste OST
+B_TXN_0482,2023-02-21,Celeste
+B_TXN_0482,2023-02-21,Undertale
+B_TXN_0482,2023-02-21,Omori
+B_TXN_0482,2023-02-21,Deltarune
+B_TXN_0482,2023-02-21,Shovel Knight
+B_TXN_0483,2023-05-01,Shovel Knight
+B_TXN_0483,2023-05-01,Hollow Knight OST
+B_TXN_0484,2023-04-11,Enter the Gungeon
+B_TXN_0484,2023-04-11,Dead Cells
+B_TXN_0485,2023-03-18,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0485,2023-03-18,Terraria
+B_TXN_0485,2023-03-18,Binding of Isaac: Rebirth
+B_TXN_0486,2023-03-10,Hades
+B_TXN_0486,2023-03-10,Hollow Knight OST
+B_TXN_0486,2023-03-10,Dead Cells
+B_TXN_0487,2023-11-19,Nuclear Throne
+B_TXN_0488,2023-06-11,Hollow Knight OST
+B_TXN_0488,2023-06-11,Binding of Isaac: Rebirth
+B_TXN_0489,2023-10-18,Terraria
+B_TXN_0489,2023-10-18,Cuphead
+B_TXN_0489,2023-10-18,Deltarune
+B_TXN_0489,2023-10-18,Cuphead: The Delicious Last Course DLC
+B_TXN_0490,2023-04-21,Hades
+B_TXN_0490,2023-04-21,Risk of Rain 2
+B_TXN_0490,2023-04-21,Hades OST
+B_TXN_0490,2023-04-21,Dead Cells
+B_TXN_0491,2023-09-01,Axiom Verge
+B_TXN_0491,2023-09-01,Cuphead: The Delicious Last Course DLC
+B_TXN_0491,2023-09-01,Stardew Valley
+B_TXN_0491,2023-09-01,Hades OST
+B_TXN_0491,2023-09-01,Deltarune
+B_TXN_0491,2023-09-01,Shovel Knight
+B_TXN_0492,2023-02-19,Undertale
+B_TXN_0492,2023-02-19,Risk of Rain 2
+B_TXN_0492,2023-02-19,Binding of Isaac: Rebirth
+B_TXN_0493,2023-06-21,Hollow Knight
+B_TXN_0493,2023-06-21,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0493,2023-06-21,Binding of Isaac: Rebirth
+B_TXN_0494,2023-07-04,Undertale
+B_TXN_0494,2023-07-04,Omori
+B_TXN_0494,2023-07-04,Cuphead
+B_TXN_0494,2023-07-04,Deltarune
+B_TXN_0494,2023-07-04,Shovel Knight
+B_TXN_0495,2023-05-12,Celeste
+B_TXN_0495,2023-05-12,Cuphead OST
+B_TXN_0495,2023-05-12,Disco Elysium
+B_TXN_0495,2023-05-12,Deltarune
+B_TXN_0495,2023-05-12,Binding of Isaac: Rebirth
+B_TXN_0496,2023-12-14,Cuphead
+B_TXN_0496,2023-12-14,Celeste
+B_TXN_0496,2023-12-14,Omori
+B_TXN_0496,2023-12-14,Cuphead: The Delicious Last Course DLC
+B_TXN_0497,2023-03-31,Undertale
+B_TXN_0497,2023-03-31,Undertale OST
+B_TXN_0498,2023-05-26,Cuphead
+B_TXN_0498,2023-05-26,Nuclear Throne
+B_TXN_0498,2023-05-26,Celeste OST
+B_TXN_0498,2023-05-26,Terraria
+B_TXN_0499,2023-12-11,Undertale
+B_TXN_0499,2023-12-11,Omori
+B_TXN_0500,2023-08-17,Stardew Valley
+B_TXN_0500,2023-08-17,Omori
+B_TXN_0500,2023-08-17,Dead Cells
+B_TXN_0501,2023-07-15,Hades
+B_TXN_0501,2023-07-15,Nuclear Throne
+B_TXN_0501,2023-07-15,Stardew Valley
+B_TXN_0501,2023-07-15,Hollow Knight OST
+B_TXN_0502,2023-08-26,Hollow Knight OST
+B_TXN_0502,2023-08-26,Disco Elysium
+B_TXN_0502,2023-08-26,Stardew Valley
+B_TXN_0502,2023-08-26,Hades
+B_TXN_0502,2023-08-26,Shovel Knight
+B_TXN_0502,2023-08-26,Dead Cells
+B_TXN_0503,2023-03-16,Disco Elysium
+B_TXN_0503,2023-03-16,Dead Cells: Fatal Falls DLC
+B_TXN_0504,2023-06-22,Shovel Knight
+B_TXN_0504,2023-06-22,Dead Cells
+B_TXN_0505,2023-02-06,Hades
+B_TXN_0505,2023-02-06,Stardew Valley
+B_TXN_0505,2023-02-06,Terraria
+B_TXN_0506,2023-06-25,Hollow Knight
+B_TXN_0506,2023-06-25,Cuphead
+B_TXN_0506,2023-06-25,Celeste OST
+B_TXN_0506,2023-06-25,Hollow Knight OST
+B_TXN_0507,2023-06-12,Hollow Knight
+B_TXN_0507,2023-06-12,Axiom Verge
+B_TXN_0508,2023-12-30,Undertale
+B_TXN_0508,2023-12-30,Hollow Knight OST
+B_TXN_0508,2023-12-30,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0508,2023-12-30,Hades
+B_TXN_0508,2023-12-30,Undertale OST
+B_TXN_0509,2023-11-27,Undertale
+B_TXN_0509,2023-11-27,Deltarune
+B_TXN_0510,2023-08-16,Stardew Valley
+B_TXN_0510,2023-08-16,Terraria
+B_TXN_0511,2023-07-05,Terraria
+B_TXN_0511,2023-07-05,Deltarune
+B_TXN_0512,2023-08-19,Risk of Rain 2
+B_TXN_0512,2023-08-19,Cuphead: The Delicious Last Course DLC
+B_TXN_0512,2023-08-19,Undertale
+B_TXN_0512,2023-08-19,Celeste OST
+B_TXN_0512,2023-08-19,Hades
+B_TXN_0513,2023-07-31,Hollow Knight
+B_TXN_0513,2023-07-31,Shovel Knight
+B_TXN_0513,2023-07-31,Risk of Rain 2
+B_TXN_0514,2023-03-06,Cuphead: The Delicious Last Course DLC
+B_TXN_0514,2023-03-06,Celeste OST
+B_TXN_0514,2023-03-06,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0514,2023-03-06,Hades
+B_TXN_0514,2023-03-06,Dead Cells
+B_TXN_0515,2023-12-05,Ori and the Blind Forest
+B_TXN_0515,2023-12-05,Celeste OST
+B_TXN_0516,2023-07-23,Hollow Knight
+B_TXN_0516,2023-07-23,Axiom Verge
+B_TXN_0516,2023-07-23,Hollow Knight OST
+B_TXN_0517,2023-02-02,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0517,2023-02-02,Binding of Isaac: Rebirth
+B_TXN_0518,2023-08-31,Shovel Knight
+B_TXN_0518,2023-08-31,Dead Cells
+B_TXN_0519,2023-02-12,Hollow Knight
+B_TXN_0519,2023-02-12,Celeste
+B_TXN_0519,2023-02-12,Ori and the Blind Forest
+B_TXN_0520,2023-07-19,Hollow Knight
+B_TXN_0520,2023-07-19,Cuphead
+B_TXN_0520,2023-07-19,Celeste
+B_TXN_0520,2023-07-19,Dead Cells
+B_TXN_0521,2023-05-07,Undertale
+B_TXN_0521,2023-05-07,Omori
+B_TXN_0522,2023-08-15,Ori and the Blind Forest
+B_TXN_0522,2023-08-15,Undertale OST
+B_TXN_0523,2023-12-06,Hollow Knight
+B_TXN_0523,2023-12-06,Axiom Verge
+B_TXN_0523,2023-12-06,Celeste
+B_TXN_0524,2023-06-16,Hades
+B_TXN_0524,2023-06-16,Hades OST
+B_TXN_0525,2023-05-20,Celeste
+B_TXN_0525,2023-05-20,Nuclear Throne
+B_TXN_0526,2023-03-11,Hollow Knight
+B_TXN_0526,2023-03-11,Stardew Valley
+B_TXN_0526,2023-03-11,Hades
+B_TXN_0527,2023-11-02,Cuphead OST
+B_TXN_0527,2023-11-02,Cuphead
+B_TXN_0527,2023-11-02,Omori
+B_TXN_0528,2023-08-22,Shovel Knight
+B_TXN_0528,2023-08-22,Undertale OST
+B_TXN_0528,2023-08-22,Cuphead: The Delicious Last Course DLC
+B_TXN_0529,2023-09-26,Hades
+B_TXN_0529,2023-09-26,Celeste
+B_TXN_0529,2023-09-26,Omori
+B_TXN_0529,2023-09-26,Dead Cells
+B_TXN_0530,2023-09-04,Risk of Rain 2
+B_TXN_0530,2023-09-04,Undertale
+B_TXN_0530,2023-09-04,Omori
+B_TXN_0530,2023-09-04,Disco Elysium
+B_TXN_0530,2023-09-04,Hades OST
+B_TXN_0530,2023-09-04,Hades
+B_TXN_0530,2023-09-04,Shovel Knight
+B_TXN_0531,2023-02-15,Celeste OST
+B_TXN_0532,2023-07-07,Hollow Knight
+B_TXN_0532,2023-07-07,Axiom Verge
+B_TXN_0532,2023-07-07,Dead Cells: Fatal Falls DLC
+B_TXN_0532,2023-07-07,Undertale OST
+B_TXN_0533,2023-03-21,Disco Elysium
+B_TXN_0533,2023-03-21,Axiom Verge
+B_TXN_0533,2023-03-21,Celeste
+B_TXN_0534,2023-06-26,Celeste
+B_TXN_0534,2023-06-26,Risk of Rain 2
+B_TXN_0534,2023-06-26,Hollow Knight OST
+B_TXN_0534,2023-06-26,Hollow Knight
+B_TXN_0534,2023-06-26,Cuphead
+B_TXN_0534,2023-06-26,Deltarune
+B_TXN_0534,2023-06-26,Undertale OST
+B_TXN_0535,2023-10-01,Undertale
+B_TXN_0535,2023-10-01,Enter the Gungeon
+B_TXN_0535,2023-10-01,Omori
+B_TXN_0536,2023-09-02,Hades
+B_TXN_0536,2023-09-02,Dead Cells
+B_TXN_0537,2023-08-09,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0537,2023-08-09,Binding of Isaac: Rebirth
+B_TXN_0538,2023-11-02,Stardew Valley
+B_TXN_0539,2023-01-04,Binding of Isaac: Rebirth
+B_TXN_0539,2023-01-04,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0540,2023-04-07,Risk of Rain 2
+B_TXN_0540,2023-04-07,Hollow Knight
+B_TXN_0540,2023-04-07,Cuphead
+B_TXN_0540,2023-04-07,Stardew Valley
+B_TXN_0540,2023-04-07,Ori and the Blind Forest
+B_TXN_0540,2023-04-07,Shovel Knight
+B_TXN_0541,2023-10-15,Undertale
+B_TXN_0541,2023-10-15,Enter the Gungeon
+B_TXN_0541,2023-10-15,Hollow Knight OST
+B_TXN_0542,2023-05-08,Shovel Knight
+B_TXN_0542,2023-05-08,Omori
+B_TXN_0542,2023-05-08,Deltarune
+B_TXN_0543,2023-07-19,Enter the Gungeon
+B_TXN_0543,2023-07-19,Risk of Rain 2
+B_TXN_0544,2023-04-23,Nuclear Throne
+B_TXN_0544,2023-04-23,Omori
+B_TXN_0544,2023-04-23,Hollow Knight
+B_TXN_0544,2023-04-23,Stardew Valley
+B_TXN_0544,2023-04-23,Ori and the Blind Forest
+B_TXN_0544,2023-04-23,Dead Cells
+B_TXN_0545,2023-08-05,Enter the Gungeon
+B_TXN_0545,2023-08-05,Hollow Knight OST
+B_TXN_0545,2023-08-05,Hollow Knight
+B_TXN_0545,2023-08-05,Stardew Valley
+B_TXN_0545,2023-08-05,Hades OST
+B_TXN_0545,2023-08-05,Deltarune
+B_TXN_0545,2023-08-05,Dead Cells
+B_TXN_0546,2023-09-22,Disco Elysium
+B_TXN_0546,2023-09-22,Undertale
+B_TXN_0546,2023-09-22,Omori
+B_TXN_0546,2023-09-22,Deltarune
+B_TXN_0547,2023-12-22,Enter the Gungeon
+B_TXN_0547,2023-12-22,Celeste OST
+B_TXN_0547,2023-12-22,Dead Cells
+B_TXN_0548,2023-05-18,Celeste
+B_TXN_0548,2023-05-18,Celeste OST
+B_TXN_0548,2023-05-18,Terraria
+B_TXN_0549,2023-05-29,Hollow Knight
+B_TXN_0549,2023-05-29,Cuphead
+B_TXN_0549,2023-05-29,Celeste
+B_TXN_0550,2023-09-09,Terraria
+B_TXN_0550,2023-09-09,Undertale
+B_TXN_0550,2023-09-09,Deltarune
+B_TXN_0551,2023-04-06,Omori
+B_TXN_0551,2023-04-06,Undertale
+B_TXN_0551,2023-04-06,Undertale OST
+B_TXN_0551,2023-04-06,Deltarune
+B_TXN_0552,2023-05-25,Cuphead OST
+B_TXN_0553,2023-01-05,Ori and the Blind Forest
+B_TXN_0553,2023-01-05,Enter the Gungeon
+B_TXN_0553,2023-01-05,Risk of Rain 2
+B_TXN_0554,2023-03-19,Undertale
+B_TXN_0554,2023-03-19,Undertale OST
+B_TXN_0555,2023-09-13,Undertale
+B_TXN_0555,2023-09-13,Undertale OST
+B_TXN_0555,2023-09-13,Deltarune
+B_TXN_0556,2023-03-16,Hollow Knight
+B_TXN_0556,2023-03-16,Axiom Verge
+B_TXN_0556,2023-03-16,Dead Cells: Fatal Falls DLC
+B_TXN_0557,2023-01-29,Celeste
+B_TXN_0557,2023-01-29,Shovel Knight
+B_TXN_0557,2023-01-29,Dead Cells
+B_TXN_0558,2023-10-06,Celeste
+B_TXN_0558,2023-10-06,Risk of Rain 2
+B_TXN_0558,2023-10-06,Enter the Gungeon
+B_TXN_0558,2023-10-06,Stardew Valley
+B_TXN_0558,2023-10-06,Shovel Knight
+B_TXN_0559,2023-04-09,Disco Elysium
+B_TXN_0559,2023-04-09,Cuphead
+B_TXN_0560,2023-05-09,Undertale OST
+B_TXN_0560,2023-05-09,Terraria
+B_TXN_0560,2023-05-09,Dead Cells
+B_TXN_0561,2023-01-07,Shovel Knight
+B_TXN_0561,2023-01-07,Deltarune
+B_TXN_0562,2023-05-08,Axiom Verge
+B_TXN_0562,2023-05-08,Undertale
+B_TXN_0562,2023-05-08,Stardew Valley
+B_TXN_0562,2023-05-08,Omori
+B_TXN_0563,2023-01-18,Hollow Knight
+B_TXN_0563,2023-01-18,Cuphead
+B_TXN_0563,2023-01-18,Celeste
+B_TXN_0564,2023-02-18,Hades
+B_TXN_0564,2023-02-18,Enter the Gungeon
+B_TXN_0564,2023-02-18,Disco Elysium
+B_TXN_0564,2023-02-18,Dead Cells
+B_TXN_0565,2023-04-17,Undertale
+B_TXN_0565,2023-04-17,Deltarune
+B_TXN_0566,2023-06-15,Cuphead
+B_TXN_0566,2023-06-15,Celeste
+B_TXN_0567,2023-10-09,Hades
+B_TXN_0567,2023-10-09,Risk of Rain 2
+B_TXN_0568,2023-09-24,Shovel Knight
+B_TXN_0568,2023-09-24,Deltarune
+B_TXN_0568,2023-09-24,Dead Cells
+B_TXN_0569,2023-01-27,Hollow Knight
+B_TXN_0569,2023-01-27,Ori and the Blind Forest
+B_TXN_0569,2023-01-27,Hollow Knight OST
+B_TXN_0570,2023-11-21,Cuphead: The Delicious Last Course DLC
+B_TXN_0570,2023-11-21,Cuphead OST
+B_TXN_0570,2023-11-21,Cuphead
+B_TXN_0570,2023-11-21,Hades
+B_TXN_0570,2023-11-21,Shovel Knight
+B_TXN_0571,2023-10-27,Hollow Knight
+B_TXN_0571,2023-10-27,Celeste
+B_TXN_0571,2023-10-27,Celeste OST
+B_TXN_0572,2023-01-05,Hades
+B_TXN_0572,2023-01-05,Risk of Rain 2
+B_TXN_0573,2023-12-20,Enter the Gungeon
+B_TXN_0573,2023-12-20,Stardew Valley
+B_TXN_0574,2023-07-10,Hades
+B_TXN_0574,2023-07-10,Risk of Rain 2
+B_TXN_0575,2023-06-23,Undertale
+B_TXN_0575,2023-06-23,Shovel Knight
+B_TXN_0575,2023-06-23,Undertale OST
+B_TXN_0576,2023-11-17,Cuphead OST
+B_TXN_0576,2023-11-17,Hades OST
+B_TXN_0576,2023-11-17,Terraria
+B_TXN_0577,2023-10-02,Cuphead OST
+B_TXN_0577,2023-10-02,Cuphead
+B_TXN_0577,2023-10-02,Celeste
+B_TXN_0577,2023-10-02,Cuphead: The Delicious Last Course DLC
+B_TXN_0578,2023-03-06,Disco Elysium
+B_TXN_0578,2023-03-06,Deltarune
+B_TXN_0579,2023-06-12,Risk of Rain 2
+B_TXN_0579,2023-06-12,Cuphead: The Delicious Last Course DLC
+B_TXN_0579,2023-06-12,Terraria
+B_TXN_0579,2023-06-12,Disco Elysium
+B_TXN_0579,2023-06-12,Ori and the Blind Forest
+B_TXN_0580,2023-08-13,Hollow Knight
+B_TXN_0580,2023-08-13,Undertale
+B_TXN_0580,2023-08-13,Omori
+B_TXN_0580,2023-08-13,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0581,2023-07-13,Hollow Knight
+B_TXN_0581,2023-07-13,Enter the Gungeon
+B_TXN_0581,2023-07-13,Risk of Rain 2
+B_TXN_0582,2023-03-10,Undertale
+B_TXN_0582,2023-03-10,Omori
+B_TXN_0582,2023-03-10,Deltarune
+B_TXN_0582,2023-03-10,Hades
+B_TXN_0582,2023-03-10,Ori and the Blind Forest
+B_TXN_0583,2023-12-28,Nuclear Throne
+B_TXN_0583,2023-12-28,Enter the Gungeon
+B_TXN_0583,2023-12-28,Risk of Rain 2
+B_TXN_0584,2023-05-31,Undertale OST
+B_TXN_0584,2023-05-31,Terraria
+B_TXN_0585,2023-10-06,Hades
+B_TXN_0585,2023-10-06,Undertale
+B_TXN_0585,2023-10-06,Ori and the Blind Forest
+B_TXN_0585,2023-10-06,Stardew Valley
+B_TXN_0586,2023-11-03,Celeste
+B_TXN_0586,2023-11-03,Risk of Rain 2
+B_TXN_0586,2023-11-03,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0586,2023-11-03,Hollow Knight
+B_TXN_0586,2023-11-03,Cuphead
+B_TXN_0587,2023-10-11,Hades
+B_TXN_0587,2023-10-11,Stardew Valley
+B_TXN_0587,2023-10-11,Cuphead: The Delicious Last Course DLC
+B_TXN_0588,2023-10-05,Cuphead: The Delicious Last Course DLC
+B_TXN_0588,2023-10-05,Undertale
+B_TXN_0588,2023-10-05,Hollow Knight OST
+B_TXN_0588,2023-10-05,Terraria
+B_TXN_0588,2023-10-05,Deltarune
+B_TXN_0588,2023-10-05,Ori and the Blind Forest
+B_TXN_0589,2023-04-05,Celeste
+B_TXN_0589,2023-04-05,Cuphead: The Delicious Last Course DLC
+B_TXN_0589,2023-04-05,Hollow Knight OST
+B_TXN_0589,2023-04-05,Terraria
+B_TXN_0589,2023-04-05,Hollow Knight
+B_TXN_0589,2023-04-05,Hades
+B_TXN_0589,2023-04-05,Shovel Knight
+B_TXN_0590,2023-11-14,Dead Cells: Fatal Falls DLC
+B_TXN_0590,2023-11-14,Celeste
+B_TXN_0591,2023-11-14,Stardew Valley
+B_TXN_0591,2023-11-14,Omori
+B_TXN_0592,2023-02-02,Hollow Knight
+B_TXN_0592,2023-02-02,Ori and the Blind Forest
+B_TXN_0592,2023-02-02,Stardew Valley
+B_TXN_0592,2023-02-02,Terraria
+B_TXN_0593,2023-12-04,Hades
+B_TXN_0593,2023-12-04,Celeste
+B_TXN_0593,2023-12-04,Shovel Knight
+B_TXN_0594,2023-07-18,Omori
+B_TXN_0594,2023-07-18,Cuphead: The Delicious Last Course DLC
+B_TXN_0595,2023-12-16,Dead Cells: Fatal Falls DLC
+B_TXN_0595,2023-12-16,Ori and the Blind Forest
+B_TXN_0595,2023-12-16,Undertale
+B_TXN_0595,2023-12-16,Dead Cells
+B_TXN_0596,2023-11-10,Celeste
+B_TXN_0596,2023-11-10,Dead Cells
+B_TXN_0597,2023-07-29,Cuphead OST
+B_TXN_0597,2023-07-29,Cuphead
+B_TXN_0597,2023-07-29,Dead Cells
+B_TXN_0598,2023-02-26,Nuclear Throne
+B_TXN_0599,2023-12-04,Cuphead
+B_TXN_0599,2023-12-04,Cuphead: The Delicious Last Course DLC
+B_TXN_0600,2023-03-08,Hollow Knight
+B_TXN_0600,2023-03-08,Risk of Rain 2
+B_TXN_0600,2023-03-08,Undertale
+B_TXN_0600,2023-03-08,Hollow Knight OST
+B_TXN_0601,2023-02-24,Hades
+B_TXN_0601,2023-02-24,Enter the Gungeon
+B_TXN_0601,2023-02-24,Risk of Rain 2
+B_TXN_0602,2023-10-20,Dead Cells: Fatal Falls DLC
+B_TXN_0602,2023-10-20,Dead Cells
+B_TXN_0603,2023-07-18,Dead Cells: Fatal Falls DLC
+B_TXN_0603,2023-07-18,Stardew Valley
+B_TXN_0603,2023-07-18,Binding of Isaac: Rebirth
+B_TXN_0604,2023-05-12,Hades
+B_TXN_0604,2023-05-12,Omori
+B_TXN_0604,2023-05-12,Binding of Isaac: Rebirth
+B_TXN_0605,2023-04-24,Celeste
+B_TXN_0605,2023-04-24,Cuphead: The Delicious Last Course DLC
+B_TXN_0605,2023-04-24,Celeste OST
+B_TXN_0605,2023-04-24,Hollow Knight
+B_TXN_0605,2023-04-24,Disco Elysium
+B_TXN_0606,2023-04-17,Hades
+B_TXN_0606,2023-04-17,Binding of Isaac: Rebirth
+B_TXN_0606,2023-04-17,Dead Cells
+B_TXN_0607,2023-02-10,Dead Cells
+B_TXN_0608,2023-11-24,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0608,2023-11-24,Celeste OST
+B_TXN_0608,2023-11-24,Binding of Isaac: Rebirth
+B_TXN_0609,2023-08-01,Hollow Knight
+B_TXN_0609,2023-08-01,Undertale
+B_TXN_0609,2023-08-01,Enter the Gungeon
+B_TXN_0609,2023-08-01,Risk of Rain 2
+B_TXN_0610,2023-12-29,Stardew Valley
+B_TXN_0611,2023-06-05,Undertale
+B_TXN_0611,2023-06-05,Deltarune
+B_TXN_0611,2023-06-05,Binding of Isaac: Rebirth
+B_TXN_0612,2023-02-21,Hollow Knight
+B_TXN_0612,2023-02-21,Celeste
+B_TXN_0612,2023-02-21,Celeste OST
+B_TXN_0613,2023-09-30,Cuphead: The Delicious Last Course DLC
+B_TXN_0614,2023-04-09,Hades
+B_TXN_0614,2023-04-09,Cuphead
+B_TXN_0614,2023-04-09,Cuphead OST
+B_TXN_0614,2023-04-09,Hades OST
+B_TXN_0615,2023-05-08,Cuphead OST
+B_TXN_0616,2023-10-13,Risk of Rain 2
+B_TXN_0616,2023-10-13,Dead Cells
+B_TXN_0617,2023-08-01,Ori and the Blind Forest
+B_TXN_0617,2023-08-01,Enter the Gungeon
+B_TXN_0617,2023-08-01,Celeste OST
+B_TXN_0618,2023-11-23,Terraria
+B_TXN_0619,2023-08-07,Axiom Verge
+B_TXN_0619,2023-08-07,Cuphead
+B_TXN_0620,2023-03-27,Celeste OST
+B_TXN_0621,2023-12-03,Cuphead
+B_TXN_0621,2023-12-03,Cuphead: The Delicious Last Course DLC
+B_TXN_0622,2023-11-04,Hollow Knight
+B_TXN_0622,2023-11-04,Ori and the Blind Forest
+B_TXN_0623,2023-06-30,Undertale
+B_TXN_0623,2023-06-30,Stardew Valley
+B_TXN_0623,2023-06-30,Undertale OST
+B_TXN_0623,2023-06-30,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0624,2023-06-16,Enter the Gungeon
+B_TXN_0625,2023-11-21,Undertale
+B_TXN_0625,2023-11-21,Risk of Rain 2
+B_TXN_0625,2023-11-21,Hades OST
+B_TXN_0626,2023-06-15,Omori
+B_TXN_0626,2023-06-15,Terraria
+B_TXN_0626,2023-06-15,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0626,2023-06-15,Binding of Isaac: Rebirth
+B_TXN_0626,2023-06-15,Ori and the Blind Forest
+B_TXN_0627,2023-04-20,Celeste
+B_TXN_0627,2023-04-20,Risk of Rain 2
+B_TXN_0627,2023-04-20,Undertale
+B_TXN_0627,2023-04-20,Terraria
+B_TXN_0627,2023-04-20,Hollow Knight
+B_TXN_0627,2023-04-20,Deltarune
+B_TXN_0627,2023-04-20,Ori and the Blind Forest
+B_TXN_0628,2023-05-11,Hades
+B_TXN_0628,2023-05-11,Dead Cells
+B_TXN_0629,2023-08-20,Undertale
+B_TXN_0629,2023-08-20,Omori
+B_TXN_0629,2023-08-20,Dead Cells
+B_TXN_0630,2023-07-23,Celeste
+B_TXN_0630,2023-07-23,Terraria
+B_TXN_0631,2023-01-09,Hollow Knight
+B_TXN_0631,2023-01-09,Cuphead
+B_TXN_0631,2023-01-09,Celeste
+B_TXN_0631,2023-01-09,Celeste OST
+B_TXN_0632,2023-06-04,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0632,2023-06-04,Risk of Rain 2
+B_TXN_0632,2023-06-04,Deltarune
+B_TXN_0632,2023-06-04,Binding of Isaac: Rebirth
+B_TXN_0633,2023-12-20,Hollow Knight
+B_TXN_0633,2023-12-20,Axiom Verge
+B_TXN_0633,2023-12-20,Ori and the Blind Forest
+B_TXN_0633,2023-12-20,Hollow Knight OST
+B_TXN_0634,2023-10-11,Disco Elysium
+B_TXN_0634,2023-10-11,Nuclear Throne
+B_TXN_0634,2023-10-11,Omori
+B_TXN_0635,2023-10-20,Enter the Gungeon
+B_TXN_0635,2023-10-20,Risk of Rain 2
+B_TXN_0636,2023-01-20,Nuclear Throne
+B_TXN_0636,2023-01-20,Hollow Knight
+B_TXN_0636,2023-01-20,Stardew Valley
+B_TXN_0636,2023-01-20,Hades OST
+B_TXN_0636,2023-01-20,Ori and the Blind Forest
+B_TXN_0637,2023-03-21,Stardew Valley
+B_TXN_0637,2023-03-21,Terraria
+B_TXN_0637,2023-03-21,Binding of Isaac: Rebirth
+B_TXN_0638,2023-04-30,Celeste
+B_TXN_0638,2023-04-30,Hollow Knight OST
+B_TXN_0638,2023-04-30,Celeste OST
+B_TXN_0638,2023-04-30,Terraria
+B_TXN_0638,2023-04-30,Hollow Knight
+B_TXN_0638,2023-04-30,Stardew Valley
+B_TXN_0639,2023-10-19,Hollow Knight
+B_TXN_0639,2023-10-19,Celeste
+B_TXN_0639,2023-10-19,Celeste OST
+B_TXN_0640,2023-02-09,Axiom Verge
+B_TXN_0640,2023-02-09,Celeste
+B_TXN_0640,2023-02-09,Cuphead: The Delicious Last Course DLC
+B_TXN_0640,2023-02-09,Binding of Isaac: Rebirth
+B_TXN_0641,2023-06-16,Undertale
+B_TXN_0641,2023-06-16,Enter the Gungeon
+B_TXN_0641,2023-06-16,Hollow Knight OST
+B_TXN_0641,2023-06-16,Terraria
+B_TXN_0641,2023-06-16,Shovel Knight
+B_TXN_0642,2023-03-30,Cuphead OST
+B_TXN_0642,2023-03-30,Ori and the Blind Forest
+B_TXN_0642,2023-03-30,Shovel Knight
+B_TXN_0643,2023-12-26,Hollow Knight
+B_TXN_0643,2023-12-26,Ori and the Blind Forest
+B_TXN_0643,2023-12-26,Stardew Valley
+B_TXN_0643,2023-12-26,Risk of Rain 2
+B_TXN_0644,2023-02-18,Hollow Knight
+B_TXN_0644,2023-02-18,Stardew Valley
+B_TXN_0644,2023-02-18,Disco Elysium
+B_TXN_0644,2023-02-18,Cuphead: The Delicious Last Course DLC
+B_TXN_0645,2023-06-03,Undertale
+B_TXN_0645,2023-06-03,Deltarune
+B_TXN_0646,2023-10-23,Undertale
+B_TXN_0646,2023-10-23,Undertale OST
+B_TXN_0647,2023-01-29,Celeste
+B_TXN_0647,2023-01-29,Celeste OST
+B_TXN_0648,2023-06-21,Cuphead OST
+B_TXN_0648,2023-06-21,Stardew Valley
+B_TXN_0649,2023-04-27,Celeste
+B_TXN_0649,2023-04-27,Celeste OST
+B_TXN_0649,2023-04-27,Hollow Knight OST
+B_TXN_0649,2023-04-27,Hollow Knight
+B_TXN_0649,2023-04-27,Binding of Isaac: Rebirth
+B_TXN_0649,2023-04-27,Hades
+B_TXN_0650,2023-11-05,Stardew Valley
+B_TXN_0650,2023-11-05,Hollow Knight OST
+B_TXN_0651,2023-01-28,Hades
+B_TXN_0651,2023-01-28,Dead Cells: Fatal Falls DLC
+B_TXN_0651,2023-01-28,Hollow Knight
+B_TXN_0652,2023-10-04,Hades
+B_TXN_0652,2023-10-04,Enter the Gungeon
+B_TXN_0652,2023-10-04,Risk of Rain 2
+B_TXN_0653,2023-03-20,Celeste
+B_TXN_0653,2023-03-20,Risk of Rain 2
+B_TXN_0653,2023-03-20,Cuphead: The Delicious Last Course DLC
+B_TXN_0653,2023-03-20,Terraria
+B_TXN_0653,2023-03-20,Cuphead
+B_TXN_0654,2023-07-21,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0654,2023-07-21,Binding of Isaac: Rebirth
+B_TXN_0655,2023-11-01,Terraria
+B_TXN_0655,2023-11-01,Deltarune
+B_TXN_0656,2023-02-16,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0656,2023-02-16,Binding of Isaac: Rebirth
+B_TXN_0657,2023-07-21,Hades
+B_TXN_0657,2023-07-21,Enter the Gungeon
+B_TXN_0657,2023-07-21,Risk of Rain 2
+B_TXN_0658,2023-09-01,Enter the Gungeon
+B_TXN_0658,2023-09-01,Risk of Rain 2
+B_TXN_0659,2023-09-14,Undertale
+B_TXN_0659,2023-09-14,Omori
+B_TXN_0659,2023-09-14,Disco Elysium
+B_TXN_0659,2023-09-14,Deltarune
+B_TXN_0659,2023-09-14,Undertale OST
+B_TXN_0660,2023-12-24,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0660,2023-12-24,Binding of Isaac: Rebirth
+B_TXN_0661,2023-03-11,Hades
+B_TXN_0661,2023-03-11,Hades OST
+B_TXN_0662,2023-07-22,Celeste
+B_TXN_0662,2023-07-22,Terraria
+B_TXN_0662,2023-07-22,Disco Elysium
+B_TXN_0662,2023-07-22,Dead Cells: Fatal Falls DLC
+B_TXN_0662,2023-07-22,Dead Cells
+B_TXN_0663,2023-11-12,Shovel Knight
+B_TXN_0663,2023-11-12,Enter the Gungeon
+B_TXN_0663,2023-11-12,Risk of Rain 2
+B_TXN_0663,2023-11-12,Terraria
+B_TXN_0664,2023-05-17,Cuphead
+B_TXN_0664,2023-05-17,Celeste
+B_TXN_0665,2023-06-15,Shovel Knight
+B_TXN_0665,2023-06-15,Ori and the Blind Forest
+B_TXN_0665,2023-06-15,Enter the Gungeon
+B_TXN_0665,2023-06-15,Omori
+B_TXN_0666,2023-07-07,Hollow Knight
+B_TXN_0666,2023-07-07,Ori and the Blind Forest
+B_TXN_0667,2023-06-14,Dead Cells: Fatal Falls DLC
+B_TXN_0667,2023-06-14,Dead Cells
+B_TXN_0668,2023-12-02,Terraria
+B_TXN_0668,2023-12-02,Hollow Knight
+B_TXN_0668,2023-12-02,Stardew Valley
+B_TXN_0668,2023-12-02,Hades OST
+B_TXN_0668,2023-12-02,Deltarune
+B_TXN_0669,2023-06-06,Hollow Knight
+B_TXN_0669,2023-06-06,Hollow Knight OST
+B_TXN_0670,2023-06-29,Hollow Knight
+B_TXN_0670,2023-06-29,Ori and the Blind Forest
+B_TXN_0670,2023-06-29,Celeste OST
+B_TXN_0671,2023-08-15,Terraria
+B_TXN_0672,2023-04-30,Cuphead
+B_TXN_0672,2023-04-30,Undertale
+B_TXN_0672,2023-04-30,Cuphead: The Delicious Last Course DLC
+B_TXN_0673,2023-07-11,Hollow Knight
+B_TXN_0673,2023-07-11,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0673,2023-07-11,Binding of Isaac: Rebirth
+B_TXN_0674,2023-02-13,Cuphead OST
+B_TXN_0674,2023-02-13,Hollow Knight
+B_TXN_0674,2023-02-13,Cuphead
+B_TXN_0674,2023-02-13,Hades
+B_TXN_0674,2023-02-13,Shovel Knight
+B_TXN_0674,2023-02-13,Dead Cells
+B_TXN_0675,2023-03-17,Hades
+B_TXN_0675,2023-03-17,Hades OST
+B_TXN_0675,2023-03-17,Dead Cells
+B_TXN_0676,2023-05-28,Binding of Isaac: Rebirth
+B_TXN_0677,2023-01-08,Celeste
+B_TXN_0677,2023-01-08,Undertale
+B_TXN_0677,2023-01-08,Hollow Knight
+B_TXN_0677,2023-01-08,Cuphead
+B_TXN_0677,2023-01-08,Shovel Knight
+B_TXN_0678,2023-02-26,Undertale
+B_TXN_0678,2023-02-26,Omori
+B_TXN_0679,2023-08-30,Hollow Knight
+B_TXN_0679,2023-08-30,Hollow Knight OST
+B_TXN_0680,2023-04-18,Undertale
+B_TXN_0680,2023-04-18,Terraria
+B_TXN_0680,2023-04-18,Disco Elysium
+B_TXN_0680,2023-04-18,Stardew Valley
+B_TXN_0680,2023-04-18,Ori and the Blind Forest
+B_TXN_0681,2023-04-19,Ori and the Blind Forest
+B_TXN_0681,2023-04-19,Hollow Knight OST
+B_TXN_0681,2023-04-19,Deltarune
+B_TXN_0681,2023-04-19,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0682,2023-09-05,Hollow Knight
+B_TXN_0682,2023-09-05,Cuphead
+B_TXN_0682,2023-09-05,Celeste
+B_TXN_0683,2023-07-12,Undertale
+B_TXN_0683,2023-07-12,Deltarune
+B_TXN_0684,2023-12-06,Hades
+B_TXN_0684,2023-12-06,Hades OST
+B_TXN_0685,2023-05-11,Enter the Gungeon
+B_TXN_0685,2023-05-11,Terraria
+B_TXN_0686,2023-05-26,Binding of Isaac: Rebirth
+B_TXN_0686,2023-05-26,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0687,2023-01-05,Undertale
+B_TXN_0687,2023-01-05,Omori
+B_TXN_0687,2023-01-05,Deltarune
+B_TXN_0688,2023-12-05,Undertale
+B_TXN_0688,2023-12-05,Deltarune
+B_TXN_0689,2023-12-04,Stardew Valley
+B_TXN_0689,2023-12-04,Omori
+B_TXN_0689,2023-12-04,Terraria
+B_TXN_0689,2023-12-04,Cuphead: The Delicious Last Course DLC
+B_TXN_0690,2023-07-17,Hollow Knight
+B_TXN_0690,2023-07-17,Celeste
+B_TXN_0690,2023-07-17,Ori and the Blind Forest
+B_TXN_0690,2023-07-17,Hollow Knight OST
+B_TXN_0691,2023-12-30,Enter the Gungeon
+B_TXN_0691,2023-12-30,Risk of Rain 2
+B_TXN_0692,2023-06-11,Hollow Knight
+B_TXN_0692,2023-06-11,Axiom Verge
+B_TXN_0692,2023-06-11,Undertale
+B_TXN_0692,2023-06-11,Omori
+B_TXN_0693,2023-04-12,Cuphead OST
+B_TXN_0693,2023-04-12,Cuphead
+B_TXN_0693,2023-04-12,Cuphead: The Delicious Last Course DLC
+B_TXN_0694,2023-12-31,Dead Cells: Fatal Falls DLC
+B_TXN_0694,2023-12-31,Dead Cells
+B_TXN_0695,2023-09-29,Hades
+B_TXN_0695,2023-09-29,Dead Cells: Fatal Falls DLC
+B_TXN_0695,2023-09-29,Dead Cells
+B_TXN_0696,2023-09-08,Stardew Valley
+B_TXN_0696,2023-09-08,Terraria
+B_TXN_0697,2023-03-22,Undertale
+B_TXN_0697,2023-03-22,Undertale OST
+B_TXN_0698,2023-12-17,Hollow Knight
+B_TXN_0698,2023-12-17,Ori and the Blind Forest
+B_TXN_0699,2023-09-14,Hollow Knight
+B_TXN_0699,2023-09-14,Ori and the Blind Forest
+B_TXN_0699,2023-09-14,Hollow Knight OST
+B_TXN_0700,2023-01-16,Hollow Knight
+B_TXN_0700,2023-01-16,Celeste
+B_TXN_0700,2023-01-16,Ori and the Blind Forest
+B_TXN_0700,2023-01-16,Hollow Knight OST
+B_TXN_0701,2023-05-24,Celeste
+B_TXN_0701,2023-05-24,Risk of Rain 2
+B_TXN_0701,2023-05-24,Disco Elysium
+B_TXN_0701,2023-05-24,Hollow Knight
+B_TXN_0701,2023-05-24,Stardew Valley
+B_TXN_0701,2023-05-24,Hades OST
+B_TXN_0702,2023-06-24,Stardew Valley
+B_TXN_0702,2023-06-24,Terraria
+B_TXN_0703,2023-07-15,Risk of Rain 2
+B_TXN_0703,2023-07-15,Cuphead: The Delicious Last Course DLC
+B_TXN_0703,2023-07-15,Undertale
+B_TXN_0703,2023-07-15,Cuphead
+B_TXN_0703,2023-07-15,Hades
+B_TXN_0704,2023-08-02,Undertale
+B_TXN_0704,2023-08-02,Deltarune
+B_TXN_0705,2023-03-20,Undertale
+B_TXN_0705,2023-03-20,Omori
+B_TXN_0706,2023-06-09,Undertale
+B_TXN_0706,2023-06-09,Omori
+B_TXN_0706,2023-06-09,Deltarune
+B_TXN_0706,2023-06-09,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0707,2023-06-18,Shovel Knight
+B_TXN_0707,2023-06-18,Omori
+B_TXN_0707,2023-06-18,Terraria
+B_TXN_0707,2023-06-18,Hades OST
+B_TXN_0708,2023-08-18,Dead Cells: Fatal Falls DLC
+B_TXN_0708,2023-08-18,Shovel Knight
+B_TXN_0709,2023-04-16,Cuphead OST
+B_TXN_0710,2023-10-25,Dead Cells: Fatal Falls DLC
+B_TXN_0711,2023-04-14,Omori
+B_TXN_0711,2023-04-14,Hades OST
+B_TXN_0712,2023-06-08,Hollow Knight
+B_TXN_0712,2023-06-08,Stardew Valley
+B_TXN_0713,2023-08-09,Cuphead
+B_TXN_0714,2023-10-17,Hades
+B_TXN_0714,2023-10-17,Undertale
+B_TXN_0714,2023-10-17,Risk of Rain 2
+B_TXN_0715,2023-06-12,Dead Cells
+B_TXN_0715,2023-06-12,Celeste
+B_TXN_0715,2023-06-12,Binding of Isaac: Rebirth
+B_TXN_0716,2023-02-04,Cuphead: The Delicious Last Course DLC
+B_TXN_0716,2023-02-04,Nuclear Throne
+B_TXN_0716,2023-02-04,Terraria
+B_TXN_0716,2023-02-04,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0716,2023-02-04,Shovel Knight
+B_TXN_0716,2023-02-04,Dead Cells
+B_TXN_0717,2023-10-13,Hades
+B_TXN_0717,2023-10-13,Shovel Knight
+B_TXN_0718,2023-03-02,Disco Elysium
+B_TXN_0718,2023-03-02,Deltarune
+B_TXN_0718,2023-03-02,Terraria
+B_TXN_0719,2023-03-16,Hades
+B_TXN_0719,2023-03-16,Risk of Rain 2
+B_TXN_0720,2023-07-31,Terraria
+B_TXN_0720,2023-07-31,Disco Elysium
+B_TXN_0720,2023-07-31,Binding of Isaac: Rebirth
+B_TXN_0720,2023-07-31,Hades
+B_TXN_0720,2023-07-31,Dead Cells
+B_TXN_0721,2023-07-30,Celeste
+B_TXN_0721,2023-07-30,Terraria
+B_TXN_0721,2023-07-30,Stardew Valley
+B_TXN_0721,2023-07-30,Hades OST
+B_TXN_0721,2023-07-30,Shovel Knight
+B_TXN_0721,2023-07-30,Undertale OST
+B_TXN_0722,2023-11-23,Hades
+B_TXN_0722,2023-11-23,Cuphead
+B_TXN_0722,2023-11-23,Cuphead: The Delicious Last Course DLC
+B_TXN_0723,2023-05-21,Hades OST
+B_TXN_0724,2023-01-14,Hades
+B_TXN_0724,2023-01-14,Risk of Rain 2
+B_TXN_0724,2023-01-14,Hades OST
+B_TXN_0724,2023-01-14,Dead Cells
+B_TXN_0725,2023-11-10,Hollow Knight
+B_TXN_0725,2023-11-10,Terraria
+B_TXN_0726,2023-04-29,Hollow Knight
+B_TXN_0726,2023-04-29,Undertale
+B_TXN_0727,2023-07-03,Risk of Rain 2
+B_TXN_0727,2023-07-03,Cuphead OST
+B_TXN_0727,2023-07-03,Omori
+B_TXN_0727,2023-07-03,Celeste OST
+B_TXN_0727,2023-07-03,Dead Cells
+B_TXN_0728,2023-09-02,Celeste
+B_TXN_0728,2023-09-02,Celeste OST
+B_TXN_0729,2023-11-06,Dead Cells
+B_TXN_0729,2023-11-06,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0729,2023-11-06,Enter the Gungeon
+B_TXN_0729,2023-11-06,Binding of Isaac: Rebirth
+B_TXN_0730,2023-04-05,Cuphead
+B_TXN_0730,2023-04-05,Enter the Gungeon
+B_TXN_0731,2023-09-09,Nuclear Throne
+B_TXN_0731,2023-09-09,Deltarune
+B_TXN_0732,2023-03-25,Cuphead
+B_TXN_0732,2023-03-25,Shovel Knight
+B_TXN_0732,2023-03-25,Risk of Rain 2
+B_TXN_0732,2023-03-25,Cuphead: The Delicious Last Course DLC
+B_TXN_0733,2023-01-08,Hades
+B_TXN_0733,2023-01-08,Hades OST
+B_TXN_0733,2023-01-08,Dead Cells
+B_TXN_0734,2023-12-10,Cuphead OST
+B_TXN_0734,2023-12-10,Cuphead
+B_TXN_0735,2023-04-15,Hades
+B_TXN_0735,2023-04-15,Celeste OST
+B_TXN_0736,2023-08-13,Celeste OST
+B_TXN_0736,2023-08-13,Celeste
+B_TXN_0736,2023-08-13,Enter the Gungeon
+B_TXN_0736,2023-08-13,Risk of Rain 2
+B_TXN_0737,2023-09-08,Disco Elysium
+B_TXN_0737,2023-09-08,Nuclear Throne
+B_TXN_0737,2023-09-08,Shovel Knight
+B_TXN_0738,2023-01-22,Hollow Knight
+B_TXN_0738,2023-01-22,Deltarune
+B_TXN_0738,2023-01-22,Cuphead: The Delicious Last Course DLC
+B_TXN_0739,2023-07-21,Nuclear Throne
+B_TXN_0739,2023-07-21,Cuphead
+B_TXN_0739,2023-07-21,Enter the Gungeon
+B_TXN_0740,2023-10-20,Deltarune
+B_TXN_0740,2023-10-20,Terraria
+B_TXN_0741,2023-09-26,Cuphead: The Delicious Last Course DLC
+B_TXN_0741,2023-09-26,Undertale
+B_TXN_0741,2023-09-26,Omori
+B_TXN_0741,2023-09-26,Cuphead
+B_TXN_0741,2023-09-26,Dead Cells: Fatal Falls DLC
+B_TXN_0742,2023-12-27,Cuphead
+B_TXN_0742,2023-12-27,Cuphead: The Delicious Last Course DLC
+B_TXN_0743,2023-09-24,Dead Cells: Fatal Falls DLC
+B_TXN_0743,2023-09-24,Ori and the Blind Forest
+B_TXN_0743,2023-09-24,Risk of Rain 2
+B_TXN_0744,2023-05-06,Hades
+B_TXN_0744,2023-05-06,Hades OST
+B_TXN_0745,2023-10-13,Celeste
+B_TXN_0745,2023-10-13,Shovel Knight
+B_TXN_0745,2023-10-13,Celeste OST
+B_TXN_0745,2023-10-13,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0746,2023-11-19,Undertale
+B_TXN_0746,2023-11-19,Undertale OST
+B_TXN_0747,2023-01-26,Celeste
+B_TXN_0747,2023-01-26,Enter the Gungeon
+B_TXN_0747,2023-01-26,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0747,2023-01-26,Hollow Knight
+B_TXN_0747,2023-01-26,Deltarune
+B_TXN_0747,2023-01-26,Hades
+B_TXN_0747,2023-01-26,Shovel Knight
+B_TXN_0748,2023-06-05,Hades
+B_TXN_0748,2023-06-05,Dead Cells: Fatal Falls DLC
+B_TXN_0748,2023-06-05,Dead Cells
+B_TXN_0749,2023-03-27,Undertale
+B_TXN_0749,2023-03-27,Nuclear Throne
+B_TXN_0749,2023-03-27,Enter the Gungeon
+B_TXN_0749,2023-03-27,Dead Cells: Fatal Falls DLC
+B_TXN_0749,2023-03-27,Cuphead
+B_TXN_0749,2023-03-27,Ori and the Blind Forest
+B_TXN_0750,2023-11-10,Shovel Knight
+B_TXN_0750,2023-11-10,Stardew Valley
+B_TXN_0750,2023-11-10,Risk of Rain 2
+B_TXN_0751,2023-03-14,Omori
+B_TXN_0751,2023-03-14,Hollow Knight
+B_TXN_0751,2023-03-14,Deltarune
+B_TXN_0751,2023-03-14,Ori and the Blind Forest
+B_TXN_0751,2023-03-14,Undertale OST
+B_TXN_0751,2023-03-14,Dead Cells
+B_TXN_0752,2023-04-03,Undertale
+B_TXN_0752,2023-04-03,Omori
+B_TXN_0752,2023-04-03,Deltarune
+B_TXN_0753,2023-12-23,Enter the Gungeon
+B_TXN_0753,2023-12-23,Binding of Isaac: Rebirth
+B_TXN_0754,2023-10-07,Disco Elysium
+B_TXN_0754,2023-10-07,Shovel Knight
+B_TXN_0754,2023-10-07,Omori
+B_TXN_0754,2023-10-07,Terraria
+B_TXN_0755,2023-04-02,Hades
+B_TXN_0755,2023-04-02,Hades OST
+B_TXN_0755,2023-04-02,Dead Cells
+B_TXN_0756,2023-08-21,Hades
+B_TXN_0756,2023-08-21,Enter the Gungeon
+B_TXN_0757,2023-06-15,Undertale
+B_TXN_0757,2023-06-15,Undertale OST
+B_TXN_0757,2023-06-15,Binding of Isaac: Rebirth
+B_TXN_0758,2023-12-31,Hades OST
+B_TXN_0759,2023-03-05,Celeste OST
+B_TXN_0759,2023-03-05,Terraria
+B_TXN_0759,2023-03-05,Stardew Valley
+B_TXN_0759,2023-03-05,Deltarune
+B_TXN_0759,2023-03-05,Undertale OST
+B_TXN_0760,2023-11-21,Hades
+B_TXN_0760,2023-11-21,Dead Cells
+B_TXN_0761,2023-09-26,Stardew Valley
+B_TXN_0761,2023-09-26,Terraria
+B_TXN_0762,2023-09-19,Cuphead OST
+B_TXN_0762,2023-09-19,Dead Cells: Fatal Falls DLC
+B_TXN_0762,2023-09-19,Disco Elysium
+B_TXN_0762,2023-09-19,Hollow Knight
+B_TXN_0763,2023-10-09,Dead Cells: Fatal Falls DLC
+B_TXN_0763,2023-10-09,Omori
+B_TXN_0763,2023-10-09,Dead Cells
+B_TXN_0764,2023-03-29,Axiom Verge
+B_TXN_0764,2023-03-29,Undertale OST
+B_TXN_0764,2023-03-29,Nuclear Throne
+B_TXN_0764,2023-03-29,Omori
+B_TXN_0765,2023-03-16,Disco Elysium
+B_TXN_0765,2023-03-16,Undertale
+B_TXN_0765,2023-03-16,Shovel Knight
+B_TXN_0766,2023-06-08,Cuphead
+B_TXN_0766,2023-06-08,Celeste
+B_TXN_0766,2023-06-08,Stardew Valley
+B_TXN_0766,2023-06-08,Dead Cells
+B_TXN_0767,2023-05-28,Hades
+B_TXN_0767,2023-05-28,Risk of Rain 2
+B_TXN_0768,2023-11-17,Hollow Knight
+B_TXN_0768,2023-11-17,Shovel Knight
+B_TXN_0768,2023-11-17,Hades
+B_TXN_0769,2023-03-09,Nuclear Throne
+B_TXN_0769,2023-03-09,Terraria
+B_TXN_0769,2023-03-09,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0769,2023-03-09,Cuphead
+B_TXN_0769,2023-03-09,Binding of Isaac: Rebirth
+B_TXN_0769,2023-03-09,Undertale OST
+B_TXN_0770,2023-05-10,Nuclear Throne
+B_TXN_0770,2023-05-10,Enter the Gungeon
+B_TXN_0771,2023-11-08,Undertale
+B_TXN_0771,2023-11-08,Deltarune
+B_TXN_0772,2023-05-02,Axiom Verge
+B_TXN_0772,2023-05-02,Risk of Rain 2
+B_TXN_0772,2023-05-02,Enter the Gungeon
+B_TXN_0772,2023-05-02,Disco Elysium
+B_TXN_0772,2023-05-02,Stardew Valley
+B_TXN_0772,2023-05-02,Hades
+B_TXN_0773,2023-11-04,Axiom Verge
+B_TXN_0773,2023-11-04,Celeste OST
+B_TXN_0773,2023-11-04,Hollow Knight OST
+B_TXN_0773,2023-11-04,Hollow Knight
+B_TXN_0773,2023-11-04,Ori and the Blind Forest
+B_TXN_0773,2023-11-04,Shovel Knight
+B_TXN_0774,2023-05-06,Celeste
+B_TXN_0774,2023-05-06,Hollow Knight OST
+B_TXN_0774,2023-05-06,Cuphead: The Delicious Last Course DLC
+B_TXN_0775,2023-11-18,Disco Elysium
+B_TXN_0775,2023-11-18,Dead Cells: Fatal Falls DLC
+B_TXN_0775,2023-11-18,Binding of Isaac: Rebirth
+B_TXN_0775,2023-11-18,Dead Cells
+B_TXN_0776,2023-04-17,Nuclear Throne
+B_TXN_0776,2023-04-17,Undertale OST
+B_TXN_0777,2023-01-17,Disco Elysium
+B_TXN_0777,2023-01-17,Undertale
+B_TXN_0777,2023-01-17,Undertale OST
+B_TXN_0777,2023-01-17,Deltarune
+B_TXN_0778,2023-11-05,Disco Elysium
+B_TXN_0778,2023-11-05,Enter the Gungeon
+B_TXN_0778,2023-11-05,Hollow Knight
+B_TXN_0779,2023-01-26,Hades
+B_TXN_0779,2023-01-26,Dead Cells
+B_TXN_0780,2023-04-02,Axiom Verge
+B_TXN_0780,2023-04-02,Dead Cells: Fatal Falls DLC
+B_TXN_0780,2023-04-02,Omori
+B_TXN_0780,2023-04-02,Dead Cells
+B_TXN_0781,2023-05-26,Hollow Knight
+B_TXN_0781,2023-05-26,Axiom Verge
+B_TXN_0781,2023-05-26,Cuphead
+B_TXN_0782,2023-04-01,Hollow Knight
+B_TXN_0782,2023-04-01,Cuphead OST
+B_TXN_0782,2023-04-01,Celeste
+B_TXN_0782,2023-04-01,Hades
+B_TXN_0783,2023-01-19,Hades
+B_TXN_0783,2023-01-19,Risk of Rain 2
+B_TXN_0784,2023-06-03,Hollow Knight
+B_TXN_0784,2023-06-03,Hollow Knight OST
+B_TXN_0785,2023-07-14,Disco Elysium
+B_TXN_0785,2023-07-14,Undertale
+B_TXN_0785,2023-07-14,Hades OST
+B_TXN_0786,2023-02-03,Disco Elysium
+B_TXN_0786,2023-02-03,Cuphead
+B_TXN_0787,2023-12-22,Nuclear Throne
+B_TXN_0787,2023-12-22,Enter the Gungeon
+B_TXN_0787,2023-12-22,Risk of Rain 2
+B_TXN_0788,2023-06-18,Celeste
+B_TXN_0788,2023-06-18,Terraria
+B_TXN_0789,2023-02-25,Undertale
+B_TXN_0789,2023-02-25,Deltarune
+B_TXN_0790,2023-11-19,Axiom Verge
+B_TXN_0790,2023-11-19,Celeste
+B_TXN_0790,2023-11-19,Risk of Rain 2
+B_TXN_0790,2023-11-19,Disco Elysium
+B_TXN_0790,2023-11-19,Hades
+B_TXN_0790,2023-11-19,Shovel Knight
+B_TXN_0791,2023-12-19,Dead Cells: Fatal Falls DLC
+B_TXN_0791,2023-12-19,Dead Cells
+B_TXN_0792,2023-06-12,Hollow Knight
+B_TXN_0792,2023-06-12,Omori
+B_TXN_0792,2023-06-12,Stardew Valley
+B_TXN_0792,2023-06-12,Disco Elysium
+B_TXN_0793,2023-10-22,Hollow Knight
+B_TXN_0793,2023-10-22,Axiom Verge
+B_TXN_0793,2023-10-22,Binding of Isaac: Rebirth
+B_TXN_0794,2023-03-08,Celeste
+B_TXN_0794,2023-03-08,Celeste OST
+B_TXN_0794,2023-03-08,Dead Cells: Fatal Falls DLC
+B_TXN_0794,2023-03-08,Ori and the Blind Forest
+B_TXN_0794,2023-03-08,Dead Cells
+B_TXN_0795,2023-09-12,Disco Elysium
+B_TXN_0795,2023-09-12,Hades
+B_TXN_0795,2023-09-12,Terraria
+B_TXN_0796,2023-09-10,Dead Cells: Fatal Falls DLC
+B_TXN_0796,2023-09-10,Deltarune
+B_TXN_0796,2023-09-10,Dead Cells
+B_TXN_0797,2023-05-29,Cuphead
+B_TXN_0797,2023-05-29,Celeste
+B_TXN_0797,2023-05-29,Stardew Valley
+B_TXN_0798,2023-01-01,Hades
+B_TXN_0798,2023-01-01,Dead Cells: Fatal Falls DLC
+B_TXN_0798,2023-01-01,Risk of Rain 2
+B_TXN_0798,2023-01-01,Binding of Isaac: Rebirth
+B_TXN_0799,2023-04-17,Hollow Knight
+B_TXN_0799,2023-04-17,Undertale
+B_TXN_0799,2023-04-17,Hollow Knight OST
+B_TXN_0800,2023-07-31,Cuphead
+B_TXN_0800,2023-07-31,Risk of Rain 2
+B_TXN_0801,2023-06-29,Dead Cells: Fatal Falls DLC
+B_TXN_0801,2023-06-29,Celeste
+B_TXN_0801,2023-06-29,Celeste OST
+B_TXN_0802,2023-11-23,Undertale
+B_TXN_0802,2023-11-23,Terraria
+B_TXN_0802,2023-11-23,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0802,2023-11-23,Hollow Knight
+B_TXN_0802,2023-11-23,Undertale OST
+B_TXN_0803,2023-11-24,Cuphead OST
+B_TXN_0803,2023-11-24,Cuphead
+B_TXN_0804,2023-05-25,Dead Cells: Fatal Falls DLC
+B_TXN_0804,2023-05-25,Celeste
+B_TXN_0804,2023-05-25,Dead Cells
+B_TXN_0805,2023-02-04,Enter the Gungeon
+B_TXN_0805,2023-02-04,Nuclear Throne
+B_TXN_0806,2023-09-17,Cuphead
+B_TXN_0806,2023-09-17,Cuphead: The Delicious Last Course DLC
+B_TXN_0807,2023-02-28,Risk of Rain 2
+B_TXN_0808,2023-06-24,Enter the Gungeon
+B_TXN_0808,2023-06-24,Terraria
+B_TXN_0809,2023-03-31,Hades
+B_TXN_0809,2023-03-31,Hades OST
+B_TXN_0810,2023-06-23,Stardew Valley
+B_TXN_0810,2023-06-23,Terraria
+B_TXN_0811,2023-09-03,Undertale
+B_TXN_0811,2023-09-03,Omori
+B_TXN_0811,2023-09-03,Binding of Isaac: Rebirth
+B_TXN_0812,2023-11-18,Hollow Knight
+B_TXN_0812,2023-11-18,Ori and the Blind Forest
+B_TXN_0813,2023-10-02,Celeste
+B_TXN_0813,2023-10-02,Terraria
+B_TXN_0813,2023-10-02,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0813,2023-10-02,Hollow Knight
+B_TXN_0813,2023-10-02,Hades OST
+B_TXN_0813,2023-10-02,Deltarune
+B_TXN_0813,2023-10-02,Ori and the Blind Forest
+B_TXN_0814,2023-08-25,Celeste
+B_TXN_0814,2023-08-25,Enter the Gungeon
+B_TXN_0814,2023-08-25,Undertale OST
+B_TXN_0815,2023-07-31,Nuclear Throne
+B_TXN_0816,2023-01-29,Hollow Knight
+B_TXN_0816,2023-01-29,Risk of Rain 2
+B_TXN_0816,2023-01-29,Terraria
+B_TXN_0816,2023-01-29,Cuphead: The Delicious Last Course DLC
+B_TXN_0817,2023-09-24,Hollow Knight
+B_TXN_0817,2023-09-24,Enter the Gungeon
+B_TXN_0817,2023-09-24,Cuphead
+B_TXN_0817,2023-09-24,Shovel Knight
+B_TXN_0818,2023-06-11,Hades
+B_TXN_0818,2023-06-11,Dead Cells
+B_TXN_0819,2023-07-01,Undertale
+B_TXN_0819,2023-07-01,Undertale OST
+B_TXN_0819,2023-07-01,Deltarune
+B_TXN_0820,2023-03-18,Undertale
+B_TXN_0820,2023-03-18,Shovel Knight
+B_TXN_0820,2023-03-18,Deltarune
+B_TXN_0821,2023-01-16,Stardew Valley
+B_TXN_0821,2023-01-16,Terraria
+B_TXN_0822,2023-07-12,Hollow Knight
+B_TXN_0822,2023-07-12,Axiom Verge
+B_TXN_0823,2023-03-26,Enter the Gungeon
+B_TXN_0823,2023-03-26,Omori
+B_TXN_0823,2023-03-26,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0823,2023-03-26,Binding of Isaac: Rebirth
+B_TXN_0823,2023-03-26,Hades
+B_TXN_0824,2023-07-19,Undertale
+B_TXN_0824,2023-07-19,Deltarune
+B_TXN_0825,2023-03-01,Cuphead
+B_TXN_0825,2023-03-01,Cuphead: The Delicious Last Course DLC
+B_TXN_0826,2023-06-07,Celeste OST
+B_TXN_0827,2023-06-11,Undertale
+B_TXN_0827,2023-06-11,Terraria
+B_TXN_0827,2023-06-11,Dead Cells: Fatal Falls DLC
+B_TXN_0827,2023-06-11,Deltarune
+B_TXN_0827,2023-06-11,Binding of Isaac: Rebirth
+B_TXN_0828,2023-05-20,Omori
+B_TXN_0828,2023-05-20,Nuclear Throne
+B_TXN_0828,2023-05-20,Hollow Knight OST
+B_TXN_0828,2023-05-20,Deltarune
+B_TXN_0829,2023-09-12,Stardew Valley
+B_TXN_0829,2023-09-12,Undertale OST
+B_TXN_0829,2023-09-12,Deltarune
+B_TXN_0829,2023-09-12,Dead Cells
+B_TXN_0830,2023-07-10,Hollow Knight
+B_TXN_0830,2023-07-10,Dead Cells: Fatal Falls DLC
+B_TXN_0830,2023-07-10,Risk of Rain 2
+B_TXN_0830,2023-07-10,Deltarune
+B_TXN_0831,2023-02-27,Hollow Knight
+B_TXN_0831,2023-02-27,Axiom Verge
+B_TXN_0831,2023-02-27,Ori and the Blind Forest
+B_TXN_0831,2023-02-27,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0832,2023-04-14,Hades
+B_TXN_0832,2023-04-14,Dead Cells: Fatal Falls DLC
+B_TXN_0832,2023-04-14,Dead Cells
+B_TXN_0833,2023-02-17,Shovel Knight
+B_TXN_0833,2023-02-17,Stardew Valley
+B_TXN_0834,2023-09-14,Hades
+B_TXN_0834,2023-09-14,Dead Cells
+B_TXN_0835,2023-09-26,Hades
+B_TXN_0835,2023-09-26,Cuphead
+B_TXN_0835,2023-09-26,Hades OST
+B_TXN_0835,2023-09-26,Dead Cells
+B_TXN_0836,2023-06-17,Stardew Valley
+B_TXN_0836,2023-06-17,Terraria
+B_TXN_0837,2023-02-20,Terraria
+B_TXN_0837,2023-02-20,Undertale
+B_TXN_0837,2023-02-20,Dead Cells: Fatal Falls DLC
+B_TXN_0837,2023-02-20,Deltarune
+B_TXN_0838,2023-03-09,Hades
+B_TXN_0839,2023-03-01,Omori
+B_TXN_0839,2023-03-01,Undertale
+B_TXN_0839,2023-03-01,Undertale OST
+B_TXN_0839,2023-03-01,Deltarune
+B_TXN_0840,2023-01-23,Disco Elysium
+B_TXN_0840,2023-01-23,Stardew Valley
+B_TXN_0840,2023-01-23,Terraria
+B_TXN_0840,2023-01-23,Dead Cells
+B_TXN_0841,2023-11-01,Undertale
+B_TXN_0841,2023-11-01,Stardew Valley
+B_TXN_0842,2023-01-24,Dead Cells: Fatal Falls DLC
+B_TXN_0842,2023-01-24,Risk of Rain 2
+B_TXN_0842,2023-01-24,Dead Cells
+B_TXN_0843,2023-02-22,Omori
+B_TXN_0843,2023-02-22,Terraria
+B_TXN_0843,2023-02-22,Ori and the Blind Forest
+B_TXN_0843,2023-02-22,Shovel Knight
+B_TXN_0843,2023-02-22,Undertale OST
+B_TXN_0844,2023-12-04,Terraria
+B_TXN_0845,2023-01-12,Undertale OST
+B_TXN_0846,2023-06-09,Dead Cells: Fatal Falls DLC
+B_TXN_0846,2023-06-09,Deltarune
+B_TXN_0846,2023-06-09,Enter the Gungeon
+B_TXN_0846,2023-06-09,Terraria
+B_TXN_0847,2023-04-18,Hollow Knight OST
+B_TXN_0847,2023-04-18,Omori
+B_TXN_0847,2023-04-18,Terraria
+B_TXN_0847,2023-04-18,Stardew Valley
+B_TXN_0847,2023-04-18,Undertale OST
+B_TXN_0848,2023-06-13,Cuphead OST
+B_TXN_0848,2023-06-13,Cuphead
+B_TXN_0848,2023-06-13,Celeste
+B_TXN_0848,2023-06-13,Cuphead: The Delicious Last Course DLC
+B_TXN_0849,2023-03-22,Cuphead OST
+B_TXN_0849,2023-03-22,Cuphead
+B_TXN_0850,2023-01-08,Disco Elysium
+B_TXN_0850,2023-01-08,Undertale
+B_TXN_0850,2023-01-08,Deltarune
+B_TXN_0851,2023-10-14,Nuclear Throne
+B_TXN_0851,2023-10-14,Hollow Knight
+B_TXN_0851,2023-10-14,Stardew Valley
+B_TXN_0851,2023-10-14,Deltarune
+B_TXN_0851,2023-10-14,Hades
+B_TXN_0851,2023-10-14,Ori and the Blind Forest
+B_TXN_0851,2023-10-14,Shovel Knight
+B_TXN_0852,2023-03-14,Hollow Knight
+B_TXN_0852,2023-03-14,Axiom Verge
+B_TXN_0852,2023-03-14,Celeste
+B_TXN_0852,2023-03-14,Ori and the Blind Forest
+B_TXN_0853,2023-05-26,Axiom Verge
+B_TXN_0854,2023-03-29,Cuphead OST
+B_TXN_0855,2023-08-16,Hades
+B_TXN_0855,2023-08-16,Risk of Rain 2
+B_TXN_0855,2023-08-16,Hades OST
+B_TXN_0856,2023-01-15,Stardew Valley
+B_TXN_0856,2023-01-15,Terraria
+B_TXN_0857,2023-12-12,Binding of Isaac: Rebirth
+B_TXN_0857,2023-12-12,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0858,2023-07-20,Celeste
+B_TXN_0858,2023-07-20,Cuphead: The Delicious Last Course DLC
+B_TXN_0858,2023-07-20,Cuphead OST
+B_TXN_0858,2023-07-20,Hollow Knight
+B_TXN_0858,2023-07-20,Cuphead
+B_TXN_0858,2023-07-20,Deltarune
+B_TXN_0859,2023-12-25,Undertale
+B_TXN_0859,2023-12-25,Shovel Knight
+B_TXN_0859,2023-12-25,Deltarune
+B_TXN_0860,2023-06-20,Enter the Gungeon
+B_TXN_0860,2023-06-20,Risk of Rain 2
+B_TXN_0861,2023-12-10,Enter the Gungeon
+B_TXN_0861,2023-12-10,Dead Cells
+B_TXN_0862,2023-02-10,Hades
+B_TXN_0862,2023-02-10,Nuclear Throne
+B_TXN_0862,2023-02-10,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0863,2023-03-09,Hades
+B_TXN_0863,2023-03-09,Enter the Gungeon
+B_TXN_0863,2023-03-09,Deltarune
+B_TXN_0864,2023-02-19,Risk of Rain 2
+B_TXN_0864,2023-02-19,Disco Elysium
+B_TXN_0864,2023-02-19,Hades OST
+B_TXN_0864,2023-02-19,Hades
+B_TXN_0864,2023-02-19,Ori and the Blind Forest
+B_TXN_0864,2023-02-19,Undertale OST
+B_TXN_0865,2023-12-17,Cuphead OST
+B_TXN_0865,2023-12-17,Undertale
+B_TXN_0865,2023-12-17,Celeste OST
+B_TXN_0865,2023-12-17,Dead Cells: Fatal Falls DLC
+B_TXN_0865,2023-12-17,Stardew Valley
+B_TXN_0865,2023-12-17,Shovel Knight
+B_TXN_0866,2023-03-15,Hollow Knight
+B_TXN_0866,2023-03-15,Cuphead
+B_TXN_0867,2023-11-12,Deltarune
+B_TXN_0867,2023-11-12,Dead Cells
+B_TXN_0868,2023-04-04,Celeste
+B_TXN_0868,2023-04-04,Risk of Rain 2
+B_TXN_0868,2023-04-04,Enter the Gungeon
+B_TXN_0868,2023-04-04,Hollow Knight
+B_TXN_0868,2023-04-04,Undertale OST
+B_TXN_0869,2023-12-07,Hollow Knight OST
+B_TXN_0869,2023-12-07,Binding of Isaac: Rebirth
+B_TXN_0870,2023-09-07,Hollow Knight
+B_TXN_0870,2023-09-07,Cuphead
+B_TXN_0870,2023-09-07,Celeste
+B_TXN_0870,2023-09-07,Omori
+B_TXN_0871,2023-06-29,Hades
+B_TXN_0871,2023-06-29,Dead Cells: Fatal Falls DLC
+B_TXN_0871,2023-06-29,Dead Cells
+B_TXN_0872,2023-06-28,Hades
+B_TXN_0872,2023-06-28,Hollow Knight OST
+B_TXN_0872,2023-06-28,Risk of Rain 2
+B_TXN_0872,2023-06-28,Deltarune
+B_TXN_0873,2023-03-07,Undertale OST
+B_TXN_0874,2023-07-27,Axiom Verge
+B_TXN_0874,2023-07-27,Undertale
+B_TXN_0874,2023-07-27,Stardew Valley
+B_TXN_0874,2023-07-27,Hades
+B_TXN_0874,2023-07-27,Shovel Knight
+B_TXN_0874,2023-07-27,Undertale OST
+B_TXN_0874,2023-07-27,Dead Cells
+B_TXN_0875,2023-06-04,Hollow Knight
+B_TXN_0875,2023-06-04,Ori and the Blind Forest
+B_TXN_0875,2023-06-04,Celeste OST
+B_TXN_0875,2023-06-04,Terraria
+B_TXN_0876,2023-07-31,Dead Cells: Fatal Falls DLC
+B_TXN_0876,2023-07-31,Dead Cells
+B_TXN_0877,2023-05-05,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0877,2023-05-05,Enter the Gungeon
+B_TXN_0877,2023-05-05,Binding of Isaac: Rebirth
+B_TXN_0878,2023-10-08,Shovel Knight
+B_TXN_0878,2023-10-08,Undertale OST
+B_TXN_0879,2023-09-04,Undertale
+B_TXN_0879,2023-09-04,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0879,2023-09-04,Stardew Valley
+B_TXN_0879,2023-09-04,Deltarune
+B_TXN_0879,2023-09-04,Hades
+B_TXN_0880,2023-06-24,Undertale
+B_TXN_0880,2023-06-24,Deltarune
+B_TXN_0881,2023-08-09,Celeste OST
+B_TXN_0881,2023-08-09,Enter the Gungeon
+B_TXN_0881,2023-08-09,Risk of Rain 2
+B_TXN_0881,2023-08-09,Hollow Knight
+B_TXN_0882,2023-08-11,Dead Cells: Fatal Falls DLC
+B_TXN_0882,2023-08-11,Ori and the Blind Forest
+B_TXN_0882,2023-08-11,Stardew Valley
+B_TXN_0883,2023-06-25,Hades OST
+B_TXN_0884,2023-05-01,Hades OST
+B_TXN_0884,2023-05-01,Terraria
+B_TXN_0885,2023-12-09,Dead Cells: Fatal Falls DLC
+B_TXN_0885,2023-12-09,Risk of Rain 2
+B_TXN_0885,2023-12-09,Dead Cells
+B_TXN_0886,2023-12-31,Undertale
+B_TXN_0886,2023-12-31,Omori
+B_TXN_0887,2023-09-07,Disco Elysium
+B_TXN_0887,2023-09-07,Risk of Rain 2
+B_TXN_0887,2023-09-07,Celeste
+B_TXN_0887,2023-09-07,Celeste OST
+B_TXN_0888,2023-08-16,Disco Elysium
+B_TXN_0888,2023-08-16,Undertale
+B_TXN_0888,2023-08-16,Omori
+B_TXN_0888,2023-08-16,Deltarune
+B_TXN_0889,2023-02-25,Hollow Knight
+B_TXN_0889,2023-02-25,Cuphead
+B_TXN_0889,2023-02-25,Celeste
+B_TXN_0890,2023-11-02,Dead Cells
+B_TXN_0890,2023-11-02,Nuclear Throne
+B_TXN_0890,2023-11-02,Cuphead: The Delicious Last Course DLC
+B_TXN_0891,2023-09-11,Risk of Rain 2
+B_TXN_0891,2023-09-11,Enter the Gungeon
+B_TXN_0891,2023-09-11,Omori
+B_TXN_0891,2023-09-11,Stardew Valley
+B_TXN_0891,2023-09-11,Hades OST
+B_TXN_0892,2023-02-01,Undertale
+B_TXN_0892,2023-02-01,Celeste OST
+B_TXN_0892,2023-02-01,Disco Elysium
+B_TXN_0892,2023-02-01,Deltarune
+B_TXN_0892,2023-02-01,Shovel Knight
+B_TXN_0893,2023-02-16,Shovel Knight
+B_TXN_0893,2023-02-16,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0894,2023-10-25,Nuclear Throne
+B_TXN_0894,2023-10-25,Enter the Gungeon
+B_TXN_0894,2023-10-25,Risk of Rain 2
+B_TXN_0895,2023-11-22,Ori and the Blind Forest
+B_TXN_0896,2023-01-01,Shovel Knight
+B_TXN_0897,2023-12-05,Cuphead
+B_TXN_0897,2023-12-05,Nuclear Throne
+B_TXN_0897,2023-12-05,Hades OST
+B_TXN_0897,2023-12-05,Deltarune
+B_TXN_0898,2023-07-19,Enter the Gungeon
+B_TXN_0898,2023-07-19,Risk of Rain 2
+B_TXN_0898,2023-07-19,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0899,2023-06-03,Undertale
+B_TXN_0899,2023-06-03,Omori
+B_TXN_0899,2023-06-03,Deltarune
+B_TXN_0900,2023-12-14,Risk of Rain 2
+B_TXN_0900,2023-12-14,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0900,2023-12-14,Stardew Valley
+B_TXN_0900,2023-12-14,Binding of Isaac: Rebirth
+B_TXN_0900,2023-12-14,Ori and the Blind Forest
+B_TXN_0901,2023-08-11,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0901,2023-08-11,Binding of Isaac: Rebirth
+B_TXN_0902,2023-10-26,Undertale
+B_TXN_0902,2023-10-26,Enter the Gungeon
+B_TXN_0902,2023-10-26,Deltarune
+B_TXN_0902,2023-10-26,Hades
+B_TXN_0902,2023-10-26,Shovel Knight
+B_TXN_0903,2023-09-19,Hades
+B_TXN_0903,2023-09-19,Undertale
+B_TXN_0903,2023-09-19,Hades OST
+B_TXN_0904,2023-03-07,Celeste
+B_TXN_0904,2023-03-07,Cuphead OST
+B_TXN_0904,2023-03-07,Cuphead
+B_TXN_0904,2023-03-07,Hades
+B_TXN_0904,2023-03-07,Undertale OST
+B_TXN_0905,2023-10-09,Dead Cells: Fatal Falls DLC
+B_TXN_0905,2023-10-09,Dead Cells
+B_TXN_0906,2023-10-14,Omori
+B_TXN_0906,2023-10-14,Terraria
+B_TXN_0906,2023-10-14,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0906,2023-10-14,Hollow Knight
+B_TXN_0906,2023-10-14,Dead Cells: Fatal Falls DLC
+B_TXN_0906,2023-10-14,Shovel Knight
+B_TXN_0906,2023-10-14,Dead Cells
+B_TXN_0907,2023-07-03,Undertale
+B_TXN_0907,2023-07-03,Enter the Gungeon
+B_TXN_0907,2023-07-03,Hollow Knight
+B_TXN_0907,2023-07-03,Cuphead
+B_TXN_0907,2023-07-03,Shovel Knight
+B_TXN_0908,2023-05-25,Dead Cells: Fatal Falls DLC
+B_TXN_0908,2023-05-25,Dead Cells
+B_TXN_0909,2023-05-01,Terraria
+B_TXN_0909,2023-05-01,Undertale
+B_TXN_0909,2023-05-01,Deltarune
+B_TXN_0909,2023-05-01,Cuphead: The Delicious Last Course DLC
+B_TXN_0910,2023-08-10,Shovel Knight
+B_TXN_0910,2023-08-10,Stardew Valley
+B_TXN_0911,2023-07-15,Omori
+B_TXN_0911,2023-07-15,Undertale
+B_TXN_0911,2023-07-15,Undertale OST
+B_TXN_0912,2023-04-19,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0912,2023-04-19,Binding of Isaac: Rebirth
+B_TXN_0913,2023-04-07,Dead Cells: Fatal Falls DLC
+B_TXN_0913,2023-04-07,Dead Cells
+B_TXN_0914,2023-08-02,Cuphead
+B_TXN_0914,2023-08-02,Terraria
+B_TXN_0915,2023-12-10,Undertale
+B_TXN_0915,2023-12-10,Deltarune
+B_TXN_0916,2023-11-28,Hades
+B_TXN_0916,2023-11-28,Dead Cells: Fatal Falls DLC
+B_TXN_0916,2023-11-28,Dead Cells
+B_TXN_0917,2023-09-07,Hades
+B_TXN_0917,2023-09-07,Hades OST
+B_TXN_0918,2023-08-01,Disco Elysium
+B_TXN_0918,2023-08-01,Undertale
+B_TXN_0918,2023-08-01,Omori
+B_TXN_0919,2023-12-23,Omori
+B_TXN_0920,2023-08-06,Enter the Gungeon
+B_TXN_0920,2023-08-06,Stardew Valley
+B_TXN_0920,2023-08-06,Dead Cells
+B_TXN_0921,2023-08-21,Dead Cells: Fatal Falls DLC
+B_TXN_0921,2023-08-21,Hollow Knight OST
+B_TXN_0922,2023-10-10,Omori
+B_TXN_0923,2023-08-06,Cuphead
+B_TXN_0923,2023-08-06,Celeste
+B_TXN_0923,2023-08-06,Celeste OST
+B_TXN_0924,2023-05-02,Hades
+B_TXN_0924,2023-05-02,Binding of Isaac: Rebirth
+B_TXN_0925,2023-10-23,Hades
+B_TXN_0925,2023-10-23,Hollow Knight
+B_TXN_0925,2023-10-23,Dead Cells
+B_TXN_0926,2023-10-18,Hades
+B_TXN_0926,2023-10-18,Ori and the Blind Forest
+B_TXN_0926,2023-10-18,Terraria
+B_TXN_0926,2023-10-18,Dead Cells
+B_TXN_0927,2023-07-08,Axiom Verge
+B_TXN_0927,2023-07-08,Cuphead
+B_TXN_0927,2023-07-08,Celeste
+B_TXN_0928,2023-09-27,Disco Elysium
+B_TXN_0928,2023-09-27,Undertale
+B_TXN_0928,2023-09-27,Deltarune
+B_TXN_0929,2023-05-24,Hollow Knight
+B_TXN_0929,2023-05-24,Shovel Knight
+B_TXN_0929,2023-05-24,Stardew Valley
+B_TXN_0930,2023-02-10,Deltarune
+B_TXN_0930,2023-02-10,Undertale OST
+B_TXN_0930,2023-02-10,Terraria
+B_TXN_0931,2023-11-09,Ori and the Blind Forest
+B_TXN_0931,2023-11-09,Hollow Knight OST
+B_TXN_0931,2023-11-09,Cuphead: The Delicious Last Course DLC
+B_TXN_0932,2023-02-15,Shovel Knight
+B_TXN_0932,2023-02-15,Omori
+B_TXN_0933,2023-11-19,Undertale
+B_TXN_0933,2023-11-19,Celeste
+B_TXN_0933,2023-11-19,Omori
+B_TXN_0933,2023-11-19,Binding of Isaac: Rebirth
+B_TXN_0934,2023-12-09,Axiom Verge
+B_TXN_0934,2023-12-09,Undertale
+B_TXN_0934,2023-12-09,Risk of Rain 2
+B_TXN_0934,2023-12-09,Hades OST
+B_TXN_0935,2023-11-21,Enter the Gungeon
+B_TXN_0935,2023-11-21,Stardew Valley
+B_TXN_0935,2023-11-21,Hades OST
+B_TXN_0935,2023-11-21,Terraria
+B_TXN_0936,2023-10-24,Axiom Verge
+B_TXN_0936,2023-10-24,Cuphead
+B_TXN_0936,2023-10-24,Binding of Isaac: Rebirth
+B_TXN_0937,2023-01-28,Binding of Isaac: Rebirth
+B_TXN_0937,2023-01-28,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0938,2023-08-29,Cuphead
+B_TXN_0938,2023-08-29,Undertale
+B_TXN_0938,2023-08-29,Ori and the Blind Forest
+B_TXN_0938,2023-08-29,Omori
+B_TXN_0939,2023-06-30,Dead Cells: Fatal Falls DLC
+B_TXN_0939,2023-06-30,Dead Cells
+B_TXN_0940,2023-05-31,Disco Elysium
+B_TXN_0940,2023-05-31,Cuphead OST
+B_TXN_0940,2023-05-31,Shovel Knight
+B_TXN_0940,2023-05-31,Deltarune
+B_TXN_0941,2023-06-05,Hollow Knight
+B_TXN_0941,2023-06-05,Celeste
+B_TXN_0941,2023-06-05,Celeste OST
+B_TXN_0942,2023-10-16,Terraria
+B_TXN_0943,2023-12-03,Undertale
+B_TXN_0943,2023-12-03,Celeste
+B_TXN_0943,2023-12-03,Deltarune
+B_TXN_0944,2023-11-16,Hades
+B_TXN_0944,2023-11-16,Celeste
+B_TXN_0944,2023-11-16,Omori
+B_TXN_0945,2023-03-06,Hades
+B_TXN_0945,2023-03-06,Dead Cells: Fatal Falls DLC
+B_TXN_0945,2023-03-06,Dead Cells
+B_TXN_0946,2023-05-23,Undertale OST
+B_TXN_0946,2023-05-23,Dead Cells
+B_TXN_0947,2023-05-12,Celeste
+B_TXN_0947,2023-05-12,Cuphead OST
+B_TXN_0947,2023-05-12,Omori
+B_TXN_0947,2023-05-12,Cuphead
+B_TXN_0947,2023-05-12,Ori and the Blind Forest
+B_TXN_0948,2023-03-31,Nuclear Throne
+B_TXN_0948,2023-03-31,Enter the Gungeon
+B_TXN_0948,2023-03-31,Risk of Rain 2
+B_TXN_0949,2023-03-19,Dead Cells: Fatal Falls DLC
+B_TXN_0949,2023-03-19,Celeste OST
+B_TXN_0949,2023-03-19,Dead Cells
+B_TXN_0950,2023-12-25,Hades
+B_TXN_0950,2023-12-25,Undertale
+B_TXN_0950,2023-12-25,Risk of Rain 2
+B_TXN_0950,2023-12-25,Dead Cells
+B_TXN_0951,2023-05-01,Shovel Knight
+B_TXN_0952,2023-09-28,Undertale
+B_TXN_0952,2023-09-28,Stardew Valley
+B_TXN_0953,2023-03-16,Risk of Rain 2
+B_TXN_0953,2023-03-16,Nuclear Throne
+B_TXN_0953,2023-03-16,Cuphead
+B_TXN_0953,2023-03-16,Hades
+B_TXN_0953,2023-03-16,Undertale OST
+B_TXN_0953,2023-03-16,Dead Cells
+B_TXN_0954,2023-07-31,Hades
+B_TXN_0954,2023-07-31,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0955,2023-08-14,Enter the Gungeon
+B_TXN_0955,2023-08-14,Risk of Rain 2
+B_TXN_0956,2023-03-27,Omori
+B_TXN_0956,2023-03-27,Deltarune
+B_TXN_0956,2023-03-27,Binding of Isaac: Rebirth
+B_TXN_0957,2023-06-26,Hades
+B_TXN_0957,2023-06-26,Risk of Rain 2
+B_TXN_0958,2023-01-27,Celeste
+B_TXN_0958,2023-01-27,Celeste OST
+B_TXN_0958,2023-01-27,Hollow Knight
+B_TXN_0958,2023-01-27,Binding of Isaac: Rebirth
+B_TXN_0958,2023-01-27,Hades
+B_TXN_0959,2023-09-30,Omori
+B_TXN_0959,2023-09-30,Undertale
+B_TXN_0959,2023-09-30,Undertale OST
+B_TXN_0959,2023-09-30,Deltarune
+B_TXN_0960,2023-12-16,Undertale
+B_TXN_0960,2023-12-16,Omori
+B_TXN_0961,2023-08-31,Deltarune
+B_TXN_0962,2023-05-15,Cuphead OST
+B_TXN_0962,2023-05-15,Enter the Gungeon
+B_TXN_0962,2023-05-15,Shovel Knight
+B_TXN_0962,2023-05-15,Omori
+B_TXN_0963,2023-08-18,Undertale
+B_TXN_0963,2023-08-18,Nuclear Throne
+B_TXN_0963,2023-08-18,Omori
+B_TXN_0963,2023-08-18,Deltarune
+B_TXN_0964,2023-01-22,Hades
+B_TXN_0964,2023-01-22,Hades OST
+B_TXN_0964,2023-01-22,Dead Cells
+B_TXN_0965,2023-11-09,Undertale
+B_TXN_0965,2023-11-09,Omori
+B_TXN_0965,2023-11-09,Deltarune
+B_TXN_0966,2023-05-20,Ori and the Blind Forest
+B_TXN_0966,2023-05-20,Enter the Gungeon
+B_TXN_0966,2023-05-20,Risk of Rain 2
+B_TXN_0966,2023-05-20,Terraria
+B_TXN_0967,2023-05-17,Stardew Valley
+B_TXN_0967,2023-05-17,Terraria
+B_TXN_0968,2023-08-25,Celeste
+B_TXN_0968,2023-08-25,Celeste OST
+B_TXN_0969,2023-10-29,Axiom Verge
+B_TXN_0969,2023-10-29,Celeste
+B_TXN_0969,2023-10-29,Risk of Rain 2
+B_TXN_0969,2023-10-29,Disco Elysium
+B_TXN_0969,2023-10-29,Hades OST
+B_TXN_0969,2023-10-29,Hades
+B_TXN_0969,2023-10-29,Ori and the Blind Forest
+B_TXN_0970,2023-09-24,Undertale
+B_TXN_0970,2023-09-24,Ori and the Blind Forest
+B_TXN_0971,2023-12-20,Hollow Knight OST
+B_TXN_0971,2023-12-20,Undertale
+B_TXN_0971,2023-12-20,Omori
+B_TXN_0971,2023-12-20,Hollow Knight
+B_TXN_0972,2023-06-10,Hollow Knight
+B_TXN_0972,2023-06-10,Celeste OST
+B_TXN_0972,2023-06-10,Terraria
+B_TXN_0973,2023-12-11,Cuphead
+B_TXN_0973,2023-12-11,Binding of Isaac: Rebirth
+B_TXN_0973,2023-12-11,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0974,2023-12-17,Celeste
+B_TXN_0974,2023-12-17,Risk of Rain 2
+B_TXN_0974,2023-12-17,Hollow Knight OST
+B_TXN_0974,2023-12-17,Hollow Knight
+B_TXN_0974,2023-12-17,Binding of Isaac: Rebirth
+B_TXN_0975,2023-01-13,Hollow Knight
+B_TXN_0975,2023-01-13,Axiom Verge
+B_TXN_0975,2023-01-13,Celeste
+B_TXN_0975,2023-01-13,Ori and the Blind Forest
+B_TXN_0976,2023-01-30,Undertale
+B_TXN_0976,2023-01-30,Enter the Gungeon
+B_TXN_0976,2023-01-30,Omori
+B_TXN_0976,2023-01-30,Hollow Knight
+B_TXN_0976,2023-01-30,Deltarune
+B_TXN_0977,2023-11-03,Cuphead
+B_TXN_0978,2023-12-29,Stardew Valley
+B_TXN_0979,2023-02-14,Binding of Isaac: Afterbirth+ DLC
+B_TXN_0979,2023-02-14,Omori
+B_TXN_0979,2023-02-14,Cuphead: The Delicious Last Course DLC
+B_TXN_0980,2023-10-17,Hollow Knight
+B_TXN_0980,2023-10-17,Celeste
+B_TXN_0980,2023-10-17,Enter the Gungeon
+B_TXN_0981,2023-04-05,Stardew Valley
+B_TXN_0981,2023-04-05,Risk of Rain 2
+B_TXN_0982,2023-12-23,Hades
+B_TXN_0982,2023-12-23,Celeste OST
+B_TXN_0983,2023-08-21,Hollow Knight
+B_TXN_0983,2023-08-21,Axiom Verge
+B_TXN_0983,2023-08-21,Celeste
+B_TXN_0983,2023-08-21,Hollow Knight OST
+B_TXN_0984,2023-12-08,Celeste
+B_TXN_0984,2023-12-08,Disco Elysium
+B_TXN_0984,2023-12-08,Hades
+B_TXN_0984,2023-12-08,Ori and the Blind Forest
+B_TXN_0984,2023-12-08,Dead Cells
+B_TXN_0985,2023-06-15,Deltarune
+B_TXN_0985,2023-06-15,Terraria
+B_TXN_0986,2023-02-07,Hollow Knight
+B_TXN_0986,2023-02-07,Ori and the Blind Forest
+B_TXN_0987,2023-07-18,Nuclear Throne
+B_TXN_0987,2023-07-18,Enter the Gungeon
+B_TXN_0987,2023-07-18,Risk of Rain 2
+B_TXN_0987,2023-07-18,Binding of Isaac: Rebirth
+B_TXN_0988,2023-01-31,Hollow Knight
+B_TXN_0988,2023-01-31,Axiom Verge
+B_TXN_0988,2023-01-31,Celeste
+B_TXN_0989,2023-05-16,Cuphead
+B_TXN_0989,2023-05-16,Cuphead: The Delicious Last Course DLC
+B_TXN_0990,2023-02-05,Celeste
+B_TXN_0990,2023-02-05,Undertale
+B_TXN_0990,2023-02-05,Omori
+B_TXN_0990,2023-02-05,Terraria
+B_TXN_0990,2023-02-05,Hollow Knight
+B_TXN_0990,2023-02-05,Hades
+B_TXN_0990,2023-02-05,Ori and the Blind Forest
+B_TXN_0991,2023-04-13,Risk of Rain 2
+B_TXN_0991,2023-04-13,Nuclear Throne
+B_TXN_0991,2023-04-13,Celeste OST
+B_TXN_0991,2023-04-13,Terraria
+B_TXN_0991,2023-04-13,Disco Elysium
+B_TXN_0991,2023-04-13,Stardew Valley
+B_TXN_0992,2023-04-02,Celeste
+B_TXN_0992,2023-04-02,Cuphead: The Delicious Last Course DLC
+B_TXN_0992,2023-04-02,Nuclear Throne
+B_TXN_0992,2023-04-02,Omori
+B_TXN_0992,2023-04-02,Cuphead
+B_TXN_0992,2023-04-02,Hades OST
+B_TXN_0992,2023-04-02,Binding of Isaac: Rebirth
+B_TXN_0993,2023-02-25,Hollow Knight
+B_TXN_0993,2023-02-25,Stardew Valley
+B_TXN_0994,2023-08-09,Hades
+B_TXN_0994,2023-08-09,Cuphead
+B_TXN_0994,2023-08-09,Cuphead: The Delicious Last Course DLC
+B_TXN_0995,2023-11-26,Stardew Valley
+B_TXN_0995,2023-11-26,Terraria
+B_TXN_0995,2023-11-26,Dead Cells
+B_TXN_0996,2023-08-15,Cuphead OST
+B_TXN_0996,2023-08-15,Cuphead
+B_TXN_0997,2023-10-20,Cuphead OST
+B_TXN_0997,2023-10-20,Cuphead
+B_TXN_0997,2023-10-20,Cuphead: The Delicious Last Course DLC
+B_TXN_0998,2023-01-10,Risk of Rain 2
+B_TXN_0999,2023-11-24,Celeste
+B_TXN_0999,2023-11-24,Enter the Gungeon
+B_TXN_0999,2023-11-24,Risk of Rain 2
+B_TXN_1000,2023-01-20,Axiom Verge
+B_TXN_1000,2023-01-20,Undertale
+B_TXN_1000,2023-01-20,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1000,2023-01-20,Disco Elysium
+B_TXN_1000,2023-01-20,Deltarune
+B_TXN_1001,2023-05-17,Axiom Verge
+B_TXN_1001,2023-05-17,Nuclear Throne
+B_TXN_1001,2023-05-17,Hollow Knight OST
+B_TXN_1001,2023-05-17,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1001,2023-05-17,Cuphead
+B_TXN_1002,2023-03-19,Hollow Knight
+B_TXN_1002,2023-03-19,Shovel Knight
+B_TXN_1002,2023-03-19,Cuphead: The Delicious Last Course DLC
+B_TXN_1003,2023-07-20,Ori and the Blind Forest
+B_TXN_1003,2023-07-20,Risk of Rain 2
+B_TXN_1003,2023-07-20,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1004,2023-09-21,Binding of Isaac: Rebirth
+B_TXN_1004,2023-09-21,Shovel Knight
+B_TXN_1004,2023-09-21,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1005,2023-09-09,Hollow Knight
+B_TXN_1005,2023-09-09,Stardew Valley
+B_TXN_1005,2023-09-09,Deltarune
+B_TXN_1006,2023-07-26,Stardew Valley
+B_TXN_1006,2023-07-26,Terraria
+B_TXN_1006,2023-07-26,Binding of Isaac: Rebirth
+B_TXN_1007,2023-10-04,Hades
+B_TXN_1008,2023-04-26,Undertale
+B_TXN_1008,2023-04-26,Celeste
+B_TXN_1008,2023-04-26,Shovel Knight
+B_TXN_1009,2023-12-19,Hollow Knight
+B_TXN_1009,2023-12-19,Ori and the Blind Forest
+B_TXN_1009,2023-12-19,Binding of Isaac: Rebirth
+B_TXN_1010,2023-09-04,Ori and the Blind Forest
+B_TXN_1010,2023-09-04,Risk of Rain 2
+B_TXN_1010,2023-09-04,Binding of Isaac: Rebirth
+B_TXN_1011,2023-10-02,Hollow Knight
+B_TXN_1011,2023-10-02,Stardew Valley
+B_TXN_1011,2023-10-02,Terraria
+B_TXN_1012,2023-07-03,Disco Elysium
+B_TXN_1012,2023-07-03,Hollow Knight OST
+B_TXN_1012,2023-07-03,Cuphead: The Delicious Last Course DLC
+B_TXN_1013,2023-06-20,Ori and the Blind Forest
+B_TXN_1013,2023-06-20,Shovel Knight
+B_TXN_1013,2023-06-20,Dead Cells
+B_TXN_1014,2023-07-25,Axiom Verge
+B_TXN_1014,2023-07-25,Omori
+B_TXN_1015,2023-11-28,Undertale
+B_TXN_1015,2023-11-28,Undertale OST
+B_TXN_1016,2023-10-01,Hollow Knight
+B_TXN_1016,2023-10-01,Hollow Knight OST
+B_TXN_1017,2023-06-24,Risk of Rain 2
+B_TXN_1017,2023-06-24,Undertale
+B_TXN_1017,2023-06-24,Stardew Valley
+B_TXN_1017,2023-06-24,Binding of Isaac: Rebirth
+B_TXN_1017,2023-06-24,Ori and the Blind Forest
+B_TXN_1018,2023-08-24,Stardew Valley
+B_TXN_1018,2023-08-24,Terraria
+B_TXN_1019,2023-05-29,Disco Elysium
+B_TXN_1019,2023-05-29,Shovel Knight
+B_TXN_1019,2023-05-29,Terraria
+B_TXN_1020,2023-04-08,Hollow Knight
+B_TXN_1020,2023-04-08,Celeste
+B_TXN_1020,2023-04-08,Ori and the Blind Forest
+B_TXN_1021,2023-12-19,Hollow Knight
+B_TXN_1021,2023-12-19,Cuphead
+B_TXN_1021,2023-12-19,Celeste
+B_TXN_1021,2023-12-19,Celeste OST
+B_TXN_1022,2023-02-13,Cuphead
+B_TXN_1022,2023-02-13,Cuphead: The Delicious Last Course DLC
+B_TXN_1023,2023-04-08,Risk of Rain 2
+B_TXN_1024,2023-04-09,Hades
+B_TXN_1024,2023-04-09,Hades OST
+B_TXN_1025,2023-10-31,Hollow Knight
+B_TXN_1025,2023-10-31,Axiom Verge
+B_TXN_1025,2023-10-31,Stardew Valley
+B_TXN_1026,2023-07-19,Stardew Valley
+B_TXN_1026,2023-07-19,Terraria
+B_TXN_1027,2023-10-04,Cuphead OST
+B_TXN_1027,2023-10-04,Cuphead
+B_TXN_1028,2023-09-13,Ori and the Blind Forest
+B_TXN_1028,2023-09-13,Binding of Isaac: Rebirth
+B_TXN_1029,2023-08-19,Cuphead
+B_TXN_1029,2023-08-19,Cuphead: The Delicious Last Course DLC
+B_TXN_1030,2023-01-09,Hades
+B_TXN_1030,2023-01-09,Binding of Isaac: Rebirth
+B_TXN_1031,2023-01-29,Hades
+B_TXN_1031,2023-01-29,Cuphead
+B_TXN_1031,2023-01-29,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1031,2023-01-29,Binding of Isaac: Rebirth
+B_TXN_1032,2023-01-22,Undertale
+B_TXN_1032,2023-01-22,Undertale OST
+B_TXN_1033,2023-04-19,Undertale
+B_TXN_1033,2023-04-19,Deltarune
+B_TXN_1034,2023-10-02,Undertale
+B_TXN_1035,2023-10-24,Omori
+B_TXN_1035,2023-10-24,Undertale
+B_TXN_1035,2023-10-24,Undertale OST
+B_TXN_1036,2023-02-06,Hollow Knight
+B_TXN_1036,2023-02-06,Axiom Verge
+B_TXN_1036,2023-02-06,Stardew Valley
+B_TXN_1036,2023-02-06,Terraria
+B_TXN_1037,2023-03-14,Undertale
+B_TXN_1037,2023-03-14,Undertale OST
+B_TXN_1037,2023-03-14,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1038,2023-11-13,Cuphead
+B_TXN_1038,2023-11-13,Cuphead: The Delicious Last Course DLC
+B_TXN_1039,2023-12-26,Celeste
+B_TXN_1039,2023-12-26,Celeste OST
+B_TXN_1040,2023-01-08,Undertale
+B_TXN_1040,2023-01-08,Nuclear Throne
+B_TXN_1040,2023-01-08,Omori
+B_TXN_1040,2023-01-08,Deltarune
+B_TXN_1040,2023-01-08,Shovel Knight
+B_TXN_1041,2023-08-22,Hollow Knight
+B_TXN_1041,2023-08-22,Celeste
+B_TXN_1041,2023-08-22,Ori and the Blind Forest
+B_TXN_1041,2023-08-22,Hollow Knight OST
+B_TXN_1042,2023-10-30,Hades OST
+B_TXN_1043,2023-11-12,Undertale
+B_TXN_1043,2023-11-12,Stardew Valley
+B_TXN_1043,2023-11-12,Omori
+B_TXN_1043,2023-11-12,Deltarune
+B_TXN_1044,2023-04-14,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1044,2023-04-14,Binding of Isaac: Rebirth
+B_TXN_1045,2023-12-14,Dead Cells
+B_TXN_1045,2023-12-14,Ori and the Blind Forest
+B_TXN_1045,2023-12-14,Nuclear Throne
+B_TXN_1045,2023-12-14,Binding of Isaac: Rebirth
+B_TXN_1046,2023-03-03,Ori and the Blind Forest
+B_TXN_1046,2023-03-03,Binding of Isaac: Rebirth
+B_TXN_1047,2023-04-20,Hades
+B_TXN_1047,2023-04-20,Risk of Rain 2
+B_TXN_1048,2023-10-31,Cuphead OST
+B_TXN_1048,2023-10-31,Cuphead
+B_TXN_1049,2023-03-28,Omori
+B_TXN_1049,2023-03-28,Undertale
+B_TXN_1049,2023-03-28,Undertale OST
+B_TXN_1049,2023-03-28,Deltarune
+B_TXN_1050,2023-10-11,Omori
+B_TXN_1051,2023-05-05,Axiom Verge
+B_TXN_1051,2023-05-05,Undertale
+B_TXN_1051,2023-05-05,Omori
+B_TXN_1051,2023-05-05,Hades OST
+B_TXN_1052,2023-01-21,Hollow Knight OST
+B_TXN_1053,2023-11-20,Stardew Valley
+B_TXN_1053,2023-11-20,Terraria
+B_TXN_1054,2023-03-22,Hades
+B_TXN_1054,2023-03-22,Axiom Verge
+B_TXN_1054,2023-03-22,Ori and the Blind Forest
+B_TXN_1054,2023-03-22,Binding of Isaac: Rebirth
+B_TXN_1055,2023-09-07,Dead Cells: Fatal Falls DLC
+B_TXN_1055,2023-09-07,Dead Cells
+B_TXN_1056,2023-01-04,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1056,2023-01-04,Binding of Isaac: Rebirth
+B_TXN_1057,2023-02-15,Cuphead OST
+B_TXN_1057,2023-02-15,Hollow Knight OST
+B_TXN_1057,2023-02-15,Terraria
+B_TXN_1057,2023-02-15,Stardew Valley
+B_TXN_1057,2023-02-15,Deltarune
+B_TXN_1057,2023-02-15,Ori and the Blind Forest
+B_TXN_1058,2023-10-31,Risk of Rain 2
+B_TXN_1058,2023-10-31,Undertale
+B_TXN_1058,2023-10-31,Hades OST
+B_TXN_1058,2023-10-31,Deltarune
+B_TXN_1058,2023-10-31,Undertale OST
+B_TXN_1059,2023-08-02,Terraria
+B_TXN_1059,2023-08-02,Binding of Isaac: Rebirth
+B_TXN_1060,2023-03-06,Risk of Rain 2
+B_TXN_1060,2023-03-06,Nuclear Throne
+B_TXN_1060,2023-03-06,Cuphead
+B_TXN_1060,2023-03-06,Stardew Valley
+B_TXN_1060,2023-03-06,Binding of Isaac: Rebirth
+B_TXN_1060,2023-03-06,Shovel Knight
+B_TXN_1061,2023-11-24,Undertale
+B_TXN_1061,2023-11-24,Omori
+B_TXN_1062,2023-12-21,Disco Elysium
+B_TXN_1062,2023-12-21,Undertale
+B_TXN_1062,2023-12-21,Omori
+B_TXN_1062,2023-12-21,Deltarune
+B_TXN_1063,2023-04-03,Undertale
+B_TXN_1063,2023-04-03,Undertale OST
+B_TXN_1064,2023-11-10,Undertale
+B_TXN_1064,2023-11-10,Ori and the Blind Forest
+B_TXN_1064,2023-11-10,Binding of Isaac: Rebirth
+B_TXN_1065,2023-01-03,Undertale
+B_TXN_1065,2023-01-03,Stardew Valley
+B_TXN_1066,2023-04-09,Hades
+B_TXN_1066,2023-04-09,Omori
+B_TXN_1066,2023-04-09,Dead Cells
+B_TXN_1067,2023-09-29,Hollow Knight
+B_TXN_1067,2023-09-29,Hollow Knight OST
+B_TXN_1068,2023-10-04,Undertale
+B_TXN_1068,2023-10-04,Celeste OST
+B_TXN_1068,2023-10-04,Risk of Rain 2
+B_TXN_1069,2023-08-26,Disco Elysium
+B_TXN_1069,2023-08-26,Nuclear Throne
+B_TXN_1069,2023-08-26,Undertale OST
+B_TXN_1070,2023-12-04,Hollow Knight
+B_TXN_1070,2023-12-04,Dead Cells
+B_TXN_1070,2023-12-04,Shovel Knight
+B_TXN_1070,2023-12-04,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1071,2023-04-17,Shovel Knight
+B_TXN_1072,2023-12-17,Cuphead
+B_TXN_1072,2023-12-17,Celeste
+B_TXN_1072,2023-12-17,Cuphead: The Delicious Last Course DLC
+B_TXN_1073,2023-08-31,Hollow Knight
+B_TXN_1073,2023-08-31,Undertale
+B_TXN_1073,2023-08-31,Stardew Valley
+B_TXN_1073,2023-08-31,Hades
+B_TXN_1074,2023-01-23,Nuclear Throne
+B_TXN_1074,2023-01-23,Enter the Gungeon
+B_TXN_1074,2023-01-23,Binding of Isaac: Rebirth
+B_TXN_1075,2023-11-12,Axiom Verge
+B_TXN_1075,2023-11-12,Celeste
+B_TXN_1075,2023-11-12,Hollow Knight OST
+B_TXN_1075,2023-11-12,Hollow Knight
+B_TXN_1075,2023-11-12,Ori and the Blind Forest
+B_TXN_1076,2023-08-21,Celeste
+B_TXN_1076,2023-08-21,Cuphead: The Delicious Last Course DLC
+B_TXN_1076,2023-08-21,Hollow Knight OST
+B_TXN_1076,2023-08-21,Celeste OST
+B_TXN_1076,2023-08-21,Hollow Knight
+B_TXN_1076,2023-08-21,Dead Cells: Fatal Falls DLC
+B_TXN_1077,2023-01-27,Undertale
+B_TXN_1077,2023-01-27,Enter the Gungeon
+B_TXN_1077,2023-01-27,Undertale OST
+B_TXN_1077,2023-01-27,Stardew Valley
+B_TXN_1078,2023-04-01,Celeste
+B_TXN_1078,2023-04-01,Enter the Gungeon
+B_TXN_1078,2023-04-01,Omori
+B_TXN_1078,2023-04-01,Terraria
+B_TXN_1078,2023-04-01,Hollow Knight OST
+B_TXN_1078,2023-04-01,Deltarune
+B_TXN_1079,2023-01-15,Hollow Knight OST
+B_TXN_1079,2023-01-15,Stardew Valley
+B_TXN_1079,2023-01-15,Celeste OST
+B_TXN_1079,2023-01-15,Terraria
+B_TXN_1080,2023-10-31,Undertale
+B_TXN_1080,2023-10-31,Undertale OST
+B_TXN_1080,2023-10-31,Deltarune
+B_TXN_1081,2023-08-03,Ori and the Blind Forest
+B_TXN_1082,2023-12-13,Celeste
+B_TXN_1082,2023-12-13,Celeste OST
+B_TXN_1082,2023-12-13,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1083,2023-04-27,Cuphead
+B_TXN_1083,2023-04-27,Celeste
+B_TXN_1083,2023-04-27,Celeste OST
+B_TXN_1084,2023-07-31,Shovel Knight
+B_TXN_1084,2023-07-31,Stardew Valley
+B_TXN_1084,2023-07-31,Terraria
+B_TXN_1085,2023-07-12,Undertale
+B_TXN_1085,2023-07-12,Hollow Knight OST
+B_TXN_1085,2023-07-12,Disco Elysium
+B_TXN_1085,2023-07-12,Hades OST
+B_TXN_1085,2023-07-12,Binding of Isaac: Rebirth
+B_TXN_1086,2023-01-28,Hades
+B_TXN_1086,2023-01-28,Dead Cells
+B_TXN_1087,2023-03-16,Celeste
+B_TXN_1087,2023-03-16,Disco Elysium
+B_TXN_1087,2023-03-16,Hollow Knight
+B_TXN_1087,2023-03-16,Deltarune
+B_TXN_1087,2023-03-16,Binding of Isaac: Rebirth
+B_TXN_1088,2023-04-02,Ori and the Blind Forest
+B_TXN_1088,2023-04-02,Enter the Gungeon
+B_TXN_1088,2023-04-02,Risk of Rain 2
+B_TXN_1089,2023-04-10,Nuclear Throne
+B_TXN_1089,2023-04-10,Enter the Gungeon
+B_TXN_1089,2023-04-10,Omori
+B_TXN_1090,2023-05-19,Axiom Verge
+B_TXN_1090,2023-05-19,Omori
+B_TXN_1090,2023-05-19,Hollow Knight
+B_TXN_1090,2023-05-19,Deltarune
+B_TXN_1090,2023-05-19,Dead Cells
+B_TXN_1091,2023-04-14,Axiom Verge
+B_TXN_1091,2023-04-14,Shovel Knight
+B_TXN_1091,2023-04-14,Nuclear Throne
+B_TXN_1092,2023-05-24,Cuphead
+B_TXN_1092,2023-05-24,Celeste
+B_TXN_1092,2023-05-24,Cuphead: The Delicious Last Course DLC
+B_TXN_1093,2023-08-27,Enter the Gungeon
+B_TXN_1093,2023-08-27,Nuclear Throne
+B_TXN_1094,2023-03-29,Undertale
+B_TXN_1094,2023-03-29,Deltarune
+B_TXN_1095,2023-06-01,Nuclear Throne
+B_TXN_1095,2023-06-01,Enter the Gungeon
+B_TXN_1095,2023-06-01,Risk of Rain 2
+B_TXN_1096,2023-03-29,Hollow Knight
+B_TXN_1096,2023-03-29,Axiom Verge
+B_TXN_1096,2023-03-29,Shovel Knight
+B_TXN_1096,2023-03-29,Hades
+B_TXN_1097,2023-10-11,Axiom Verge
+B_TXN_1097,2023-10-11,Stardew Valley
+B_TXN_1098,2023-02-14,Disco Elysium
+B_TXN_1098,2023-02-14,Ori and the Blind Forest
+B_TXN_1098,2023-02-14,Binding of Isaac: Rebirth
+B_TXN_1099,2023-09-25,Hollow Knight
+B_TXN_1099,2023-09-25,Stardew Valley
+B_TXN_1100,2023-05-23,Undertale
+B_TXN_1100,2023-05-23,Deltarune
+B_TXN_1101,2023-08-08,Celeste
+B_TXN_1101,2023-08-08,Cuphead: The Delicious Last Course DLC
+B_TXN_1101,2023-08-08,Undertale
+B_TXN_1101,2023-08-08,Terraria
+B_TXN_1101,2023-08-08,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1101,2023-08-08,Binding of Isaac: Rebirth
+B_TXN_1102,2023-05-07,Stardew Valley
+B_TXN_1102,2023-05-07,Omori
+B_TXN_1103,2023-08-11,Stardew Valley
+B_TXN_1103,2023-08-11,Undertale OST
+B_TXN_1103,2023-08-11,Terraria
+B_TXN_1104,2023-10-30,Celeste
+B_TXN_1104,2023-10-30,Hollow Knight OST
+B_TXN_1104,2023-10-30,Dead Cells: Fatal Falls DLC
+B_TXN_1104,2023-10-30,Hades OST
+B_TXN_1104,2023-10-30,Shovel Knight
+B_TXN_1105,2023-10-21,Binding of Isaac: Rebirth
+B_TXN_1105,2023-10-21,Omori
+B_TXN_1105,2023-10-21,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1106,2023-01-03,Shovel Knight
+B_TXN_1107,2023-08-29,Hades
+B_TXN_1107,2023-08-29,Dead Cells: Fatal Falls DLC
+B_TXN_1107,2023-08-29,Ori and the Blind Forest
+B_TXN_1107,2023-08-29,Dead Cells
+B_TXN_1108,2023-09-16,Ori and the Blind Forest
+B_TXN_1108,2023-09-16,Enter the Gungeon
+B_TXN_1109,2023-09-29,Stardew Valley
+B_TXN_1109,2023-09-29,Terraria
+B_TXN_1110,2023-12-23,Dead Cells: Fatal Falls DLC
+B_TXN_1110,2023-12-23,Dead Cells
+B_TXN_1111,2023-05-04,Risk of Rain 2
+B_TXN_1111,2023-05-04,Binding of Isaac: Rebirth
+B_TXN_1112,2023-01-07,Hades
+B_TXN_1112,2023-01-07,Hades OST
+B_TXN_1113,2023-05-03,Undertale
+B_TXN_1113,2023-05-03,Omori
+B_TXN_1113,2023-05-03,Dead Cells
+B_TXN_1114,2023-02-16,Nuclear Throne
+B_TXN_1114,2023-02-16,Enter the Gungeon
+B_TXN_1114,2023-02-16,Dead Cells: Fatal Falls DLC
+B_TXN_1114,2023-02-16,Cuphead
+B_TXN_1114,2023-02-16,Deltarune
+B_TXN_1114,2023-02-16,Ori and the Blind Forest
+B_TXN_1115,2023-12-09,Disco Elysium
+B_TXN_1115,2023-12-09,Cuphead
+B_TXN_1115,2023-12-09,Undertale
+B_TXN_1115,2023-12-09,Risk of Rain 2
+B_TXN_1116,2023-12-27,Axiom Verge
+B_TXN_1116,2023-12-27,Enter the Gungeon
+B_TXN_1116,2023-12-27,Nuclear Throne
+B_TXN_1116,2023-12-27,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1116,2023-12-27,Hollow Knight
+B_TXN_1116,2023-12-27,Stardew Valley
+B_TXN_1116,2023-12-27,Deltarune
+B_TXN_1117,2023-10-20,Cuphead OST
+B_TXN_1118,2023-01-13,Hades
+B_TXN_1118,2023-01-13,Ori and the Blind Forest
+B_TXN_1118,2023-01-13,Risk of Rain 2
+B_TXN_1118,2023-01-13,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1119,2023-03-12,Celeste
+B_TXN_1119,2023-03-12,Cuphead: The Delicious Last Course DLC
+B_TXN_1119,2023-03-12,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1119,2023-03-12,Dead Cells: Fatal Falls DLC
+B_TXN_1119,2023-03-12,Dead Cells
+B_TXN_1120,2023-07-27,Undertale
+B_TXN_1120,2023-07-27,Stardew Valley
+B_TXN_1120,2023-07-27,Cuphead: The Delicious Last Course DLC
+B_TXN_1121,2023-04-05,Shovel Knight
+B_TXN_1122,2023-07-09,Dead Cells: Fatal Falls DLC
+B_TXN_1122,2023-07-09,Stardew Valley
+B_TXN_1122,2023-07-09,Terraria
+B_TXN_1123,2023-01-01,Hollow Knight
+B_TXN_1123,2023-01-01,Celeste
+B_TXN_1123,2023-01-01,Hades OST
+B_TXN_1123,2023-01-01,Dead Cells
+B_TXN_1124,2023-12-20,Nuclear Throne
+B_TXN_1124,2023-12-20,Enter the Gungeon
+B_TXN_1125,2023-01-17,Hades
+B_TXN_1125,2023-01-17,Hades OST
+B_TXN_1126,2023-10-22,Hollow Knight
+B_TXN_1126,2023-10-22,Hollow Knight OST
+B_TXN_1127,2023-12-17,Disco Elysium
+B_TXN_1127,2023-12-17,Terraria
+B_TXN_1128,2023-06-21,Hades
+B_TXN_1128,2023-06-21,Celeste OST
+B_TXN_1128,2023-06-21,Hades OST
+B_TXN_1129,2023-01-29,Stardew Valley
+B_TXN_1129,2023-01-29,Deltarune
+B_TXN_1130,2023-12-12,Cuphead OST
+B_TXN_1130,2023-12-12,Hollow Knight
+B_TXN_1130,2023-12-12,Disco Elysium
+B_TXN_1130,2023-12-12,Cuphead
+B_TXN_1130,2023-12-12,Deltarune
+B_TXN_1130,2023-12-12,Binding of Isaac: Rebirth
+B_TXN_1131,2023-01-21,Hollow Knight
+B_TXN_1131,2023-01-21,Celeste
+B_TXN_1131,2023-01-21,Ori and the Blind Forest
+B_TXN_1131,2023-01-21,Hollow Knight OST
+B_TXN_1132,2023-03-31,Axiom Verge
+B_TXN_1132,2023-03-31,Stardew Valley
+B_TXN_1132,2023-03-31,Dead Cells
+B_TXN_1133,2023-04-15,Cuphead
+B_TXN_1133,2023-04-15,Stardew Valley
+B_TXN_1134,2023-06-21,Undertale
+B_TXN_1134,2023-06-21,Omori
+B_TXN_1135,2023-09-02,Nuclear Throne
+B_TXN_1135,2023-09-02,Enter the Gungeon
+B_TXN_1135,2023-09-02,Risk of Rain 2
+B_TXN_1136,2023-12-26,Hades
+B_TXN_1136,2023-12-26,Terraria
+B_TXN_1136,2023-12-26,Celeste
+B_TXN_1136,2023-12-26,Deltarune
+B_TXN_1137,2023-04-26,Stardew Valley
+B_TXN_1137,2023-04-26,Terraria
+B_TXN_1138,2023-05-17,Celeste
+B_TXN_1138,2023-05-17,Stardew Valley
+B_TXN_1138,2023-05-17,Celeste OST
+B_TXN_1139,2023-08-20,Undertale
+B_TXN_1139,2023-08-20,Omori
+B_TXN_1139,2023-08-20,Deltarune
+B_TXN_1140,2023-09-27,Cuphead: The Delicious Last Course DLC
+B_TXN_1140,2023-09-27,Undertale
+B_TXN_1140,2023-09-27,Nuclear Throne
+B_TXN_1140,2023-09-27,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1140,2023-09-27,Shovel Knight
+B_TXN_1140,2023-09-27,Dead Cells
+B_TXN_1141,2023-08-29,Hollow Knight
+B_TXN_1141,2023-08-29,Axiom Verge
+B_TXN_1141,2023-08-29,Cuphead
+B_TXN_1141,2023-08-29,Binding of Isaac: Rebirth
+B_TXN_1142,2023-09-30,Hades
+B_TXN_1142,2023-09-30,Cuphead
+B_TXN_1142,2023-09-30,Disco Elysium
+B_TXN_1142,2023-09-30,Dead Cells
+B_TXN_1143,2023-12-21,Hollow Knight
+B_TXN_1143,2023-12-21,Ori and the Blind Forest
+B_TXN_1144,2023-02-03,Terraria
+B_TXN_1144,2023-02-03,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1144,2023-02-03,Deltarune
+B_TXN_1144,2023-02-03,Binding of Isaac: Rebirth
+B_TXN_1144,2023-02-03,Hades
+B_TXN_1144,2023-02-03,Ori and the Blind Forest
+B_TXN_1144,2023-02-03,Dead Cells
+B_TXN_1145,2023-08-23,Disco Elysium
+B_TXN_1145,2023-08-23,Undertale
+B_TXN_1146,2023-04-02,Risk of Rain 2
+B_TXN_1146,2023-04-02,Enter the Gungeon
+B_TXN_1146,2023-04-02,Hollow Knight
+B_TXN_1146,2023-04-02,Hades
+B_TXN_1146,2023-04-02,Ori and the Blind Forest
+B_TXN_1147,2023-02-09,Undertale
+B_TXN_1147,2023-02-09,Undertale OST
+B_TXN_1147,2023-02-09,Omori
+B_TXN_1147,2023-02-09,Cuphead: The Delicious Last Course DLC
+B_TXN_1148,2023-05-22,Celeste
+B_TXN_1148,2023-05-22,Omori
+B_TXN_1148,2023-05-22,Celeste OST
+B_TXN_1148,2023-05-22,Disco Elysium
+B_TXN_1148,2023-05-22,Deltarune
+B_TXN_1149,2023-03-17,Hades
+B_TXN_1149,2023-03-17,Cuphead
+B_TXN_1149,2023-03-17,Hades OST
+B_TXN_1150,2023-04-15,Cuphead: The Delicious Last Course DLC
+B_TXN_1150,2023-04-15,Cuphead OST
+B_TXN_1150,2023-04-15,Cuphead
+B_TXN_1150,2023-04-15,Hades OST
+B_TXN_1150,2023-04-15,Shovel Knight
+B_TXN_1151,2023-12-16,Hades
+B_TXN_1151,2023-12-16,Risk of Rain 2
+B_TXN_1152,2023-03-09,Dead Cells: Fatal Falls DLC
+B_TXN_1152,2023-03-09,Terraria
+B_TXN_1153,2023-08-04,Celeste
+B_TXN_1153,2023-08-04,Terraria
+B_TXN_1153,2023-08-04,Hollow Knight
+B_TXN_1153,2023-08-04,Disco Elysium
+B_TXN_1153,2023-08-04,Dead Cells
+B_TXN_1154,2023-04-29,Hollow Knight
+B_TXN_1154,2023-04-29,Axiom Verge
+B_TXN_1154,2023-04-29,Ori and the Blind Forest
+B_TXN_1155,2023-06-21,Dead Cells: Fatal Falls DLC
+B_TXN_1155,2023-06-21,Dead Cells
+B_TXN_1156,2023-06-25,Undertale
+B_TXN_1156,2023-06-25,Omori
+B_TXN_1156,2023-06-25,Deltarune
+B_TXN_1157,2023-06-17,Cuphead
+B_TXN_1157,2023-06-17,Undertale OST
+B_TXN_1158,2023-12-07,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1158,2023-12-07,Stardew Valley
+B_TXN_1158,2023-12-07,Binding of Isaac: Rebirth
+B_TXN_1159,2023-10-08,Axiom Verge
+B_TXN_1159,2023-10-08,Celeste
+B_TXN_1159,2023-10-08,Terraria
+B_TXN_1159,2023-10-08,Disco Elysium
+B_TXN_1159,2023-10-08,Deltarune
+B_TXN_1160,2023-06-05,Stardew Valley
+B_TXN_1161,2023-05-14,Cuphead
+B_TXN_1161,2023-05-14,Celeste
+B_TXN_1161,2023-05-14,Enter the Gungeon
+B_TXN_1162,2023-05-28,Hades
+B_TXN_1162,2023-05-28,Dead Cells: Fatal Falls DLC
+B_TXN_1162,2023-05-28,Dead Cells
+B_TXN_1163,2023-01-25,Stardew Valley
+B_TXN_1163,2023-01-25,Binding of Isaac: Rebirth
+B_TXN_1164,2023-05-26,Hollow Knight
+B_TXN_1164,2023-05-26,Ori and the Blind Forest
+B_TXN_1165,2023-03-27,Celeste
+B_TXN_1165,2023-03-27,Enter the Gungeon
+B_TXN_1165,2023-03-27,Hollow Knight OST
+B_TXN_1166,2023-03-24,Celeste
+B_TXN_1166,2023-03-24,Hades OST
+B_TXN_1167,2023-05-27,Celeste
+B_TXN_1167,2023-05-27,Undertale
+B_TXN_1167,2023-05-27,Hollow Knight OST
+B_TXN_1167,2023-05-27,Binding of Isaac: Afterbirth+ DLC
+B_TXN_1167,2023-05-27,Disco Elysium
+B_TXN_1167,2023-05-27,Deltarune
+B_TXN_1167,2023-05-27,Undertale OST
+B_TXN_1168,2023-03-31,Hollow Knight
+B_TXN_1168,2023-03-31,Enter the Gungeon
+B_TXN_1168,2023-03-31,Nuclear Throne
+B_TXN_1169,2023-12-08,Ori and the Blind Forest
+B_TXN_1169,2023-12-08,Deltarune
+B_TXN_1169,2023-12-08,Dead Cells
+B_TXN_1170,2023-06-12,Hades
+B_TXN_1170,2023-06-12,Risk of Rain 2
+B_TXN_1170,2023-06-12,Dead Cells
+B_TXN_1171,2023-12-29,Hollow Knight
+B_TXN_1171,2023-12-29,Axiom Verge
+B_TXN_1171,2023-12-29,Celeste
+B_TXN_1171,2023-12-29,Ori and the Blind Forest
+B_TXN_1172,2023-06-12,Undertale
+B_TXN_1172,2023-06-12,Undertale OST
+B_TXN_1173,2023-03-17,Hollow Knight OST
+B_TXN_1174,2023-03-25,Hades
+B_TXN_1174,2023-03-25,Omori
+B_TXN_1174,2023-03-25,Risk of Rain 2
+B_TXN_1174,2023-03-25,Cuphead: The Delicious Last Course DLC
+B_TXN_1175,2023-03-04,Celeste
+B_TXN_1175,2023-03-04,Terraria
+B_TXN_1175,2023-03-04,Cuphead: The Delicious Last Course DLC
+B_TXN_1176,2023-07-27,Disco Elysium
+B_TXN_1176,2023-07-27,Ori and the Blind Forest
+B_TXN_1176,2023-07-27,Stardew Valley
+B_TXN_1177,2023-03-16,Omori
+B_TXN_1177,2023-03-16,Hades OST
+B_TXN_1177,2023-03-16,Cuphead: The Delicious Last Course DLC
+B_TXN_1178,2023-10-07,Cuphead
+B_TXN_1178,2023-10-07,Celeste
+B_TXN_1179,2023-05-29,Hollow Knight
+B_TXN_1179,2023-05-29,Celeste
+B_TXN_1180,2023-10-21,Ori and the Blind Forest
+B_TXN_1180,2023-10-21,Binding of Isaac: Rebirth
+B_TXN_1181,2023-06-23,Hollow Knight
+B_TXN_1181,2023-06-23,Cuphead
+B_TXN_1181,2023-06-23,Shovel Knight
+B_TXN_1181,2023-06-23,Stardew Valley
+B_TXN_1182,2023-03-13,Hades
+B_TXN_1183,2023-03-01,Undertale
+B_TXN_1183,2023-03-01,Omori
+B_TXN_1183,2023-03-01,Dead Cells: Fatal Falls DLC
+B_TXN_1183,2023-03-01,Hades
+B_TXN_1183,2023-03-01,Ori and the Blind Forest
+B_TXN_1183,2023-03-01,Dead Cells
+B_TXN_1184,2023-02-17,Disco Elysium
+B_TXN_1184,2023-02-17,Undertale
+B_TXN_1184,2023-02-17,Shovel Knight
+B_TXN_1184,2023-02-17,Deltarune
+B_TXN_1185,2023-11-08,Hollow Knight
+B_TXN_1185,2023-11-08,Cuphead
+B_TXN_1185,2023-11-08,Ori and the Blind Forest
+B_TXN_1186,2023-05-23,Hollow Knight
+B_TXN_1186,2023-05-23,Ori and the Blind Forest
+B_TXN_1187,2023-08-17,Hades
+B_TXN_1187,2023-08-17,Hollow Knight
+B_TXN_1187,2023-08-17,Dead Cells: Fatal Falls DLC
+B_TXN_1187,2023-08-17,Dead Cells
+B_TXN_1188,2023-02-14,Nuclear Throne
+B_TXN_1188,2023-02-14,Omori
+B_TXN_1188,2023-02-14,Cuphead: The Delicious Last Course DLC
+B_TXN_1189,2023-07-21,Enter the Gungeon
+B_TXN_1189,2023-07-21,Binding of Isaac: Rebirth
+B_TXN_1190,2023-06-12,Celeste
+B_TXN_1190,2023-06-12,Celeste OST
+B_TXN_1191,2023-09-19,Cuphead OST
+B_TXN_1192,2023-07-04,Enter the Gungeon
+B_TXN_1192,2023-07-04,Hollow Knight OST
+B_TXN_1192,2023-07-04,Deltarune
+B_TXN_1192,2023-07-04,Binding of Isaac: Rebirth
+B_TXN_1192,2023-07-04,Dead Cells
+B_TXN_1193,2023-08-07,Disco Elysium
+B_TXN_1194,2023-07-10,Disco Elysium
+B_TXN_1194,2023-07-10,Ori and the Blind Forest
+B_TXN_1194,2023-07-10,Hades OST
+B_TXN_1194,2023-07-10,Terraria
+B_TXN_1195,2023-06-26,Disco Elysium
+B_TXN_1195,2023-06-26,Undertale
+B_TXN_1196,2023-10-15,Enter the Gungeon
+B_TXN_1196,2023-10-15,Risk of Rain 2
+B_TXN_1197,2023-08-16,Hades
+B_TXN_1197,2023-08-16,Risk of Rain 2
+B_TXN_1198,2023-08-15,Dead Cells: Fatal Falls DLC
+B_TXN_1198,2023-08-15,Dead Cells
+B_TXN_1199,2023-08-01,Undertale
+B_TXN_1199,2023-08-01,Omori
+B_TXN_1199,2023-08-01,Hollow Knight OST
+B_TXN_1199,2023-08-01,Hollow Knight
+B_TXN_1199,2023-08-01,Hades
+B_TXN_1199,2023-08-01,Ori and the Blind Forest
+B_TXN_1200,2023-02-14,Enter the Gungeon
+B_TXN_1200,2023-02-14,Risk of Rain 2

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Orbitron:wght@400;600;700;900&family=Rajdhani:wght@300;400;500;600;700&family=Share+Tech+Mono&display=swap');
+
+:root {
+  /* Fonts */
+  --font-primary: 'Inter', sans-serif;
+  --font-heading: 'Orbitron', monospace;
+  --font-subheading: 'Rajdhani', sans-serif;
+  --font-mono: 'Share Tech Mono', monospace;
+
+  /* Discord-inspired Dark Theme with Neon Accents */
+  --bg-void:       #1e1f22; /* Discord servers sidebar */
+  --bg-deep:       #2b2d31; /* Discord channels sidebar */
+  --bg-panel:      #313338; /* Discord main chat area */
+  --bg-card:       #2b2d31;
+  --bg-hover:      #3f4147;
+  --bg-active:     #404249;
+  --border:        #1e1f22;
+  --border-bright: #3f4147;
+
+  /* Retain Neon Accents */
+  --neon-cyan:     #00f5ff;
+  --neon-purple:   #bf5fff;
+  --neon-green:    #00ff88;
+  --neon-orange:   #ff6b35;
+  --neon-pink:     #ff2d78;
+
+  /* Text Colors */
+  --text-primary:  #dbdee1;
+  --text-secondary:#b5bac1;
+  --text-muted:    #80848e;
+  --accent:        #00f5ff;
+
+  /* Glow Effects */
+  --glow-cyan:     0 0 15px rgba(0, 245, 255, 0.25);
+  --glow-purple:   0 0 15px rgba(191, 95, 255, 0.25);
+  --glow-green:    0 0 15px rgba(0, 255, 136, 0.2);
+
+  /* Elevation */
+  --shadow-md:     0 4px 6px rgba(0, 0, 0, 0.2);
+  --shadow-lg:     0 8px 15px rgba(0, 0, 0, 0.3);
+}

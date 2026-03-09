@@ -1,0 +1,4511 @@
+transaction_id,date,item
+A_TXN_0001,2023-01-13,Elden Ring OST
+A_TXN_0001,2023-01-13,Civilization VI
+A_TXN_0002,2023-03-13,Horizon Zero Dawn
+A_TXN_0002,2023-03-13,God of War
+A_TXN_0002,2023-03-13,Cyberpunk 2077
+A_TXN_0003,2023-02-14,Planet Coaster
+A_TXN_0003,2023-02-14,Hades OST
+A_TXN_0003,2023-02-14,Hades
+A_TXN_0003,2023-02-14,Among Us
+A_TXN_0003,2023-02-14,Elden Ring
+A_TXN_0004,2023-02-17,Horizon Zero Dawn
+A_TXN_0004,2023-02-17,God of War
+A_TXN_0005,2023-09-16,Counter-Strike 2
+A_TXN_0005,2023-09-16,Valorant
+A_TXN_0006,2023-11-05,Counter-Strike 2
+A_TXN_0006,2023-11-05,Overwatch 2
+A_TXN_0006,2023-11-05,Hades
+A_TXN_0007,2023-04-12,Counter-Strike 2
+A_TXN_0007,2023-04-12,Valorant
+A_TXN_0008,2023-11-29,Overwatch 2
+A_TXN_0008,2023-11-29,Total War: Warhammer III
+A_TXN_0009,2023-12-26,Battlefield 2042
+A_TXN_0010,2023-01-04,Hades
+A_TXN_0010,2023-01-04,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0010,2023-01-04,Cyberpunk 2077
+A_TXN_0011,2023-04-21,The Witcher 3
+A_TXN_0011,2023-04-21,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0011,2023-04-21,Cyberpunk 2077
+A_TXN_0012,2023-06-22,Cyberpunk 2077 OST
+A_TXN_0012,2023-06-22,Cities: Skylines
+A_TXN_0012,2023-06-22,Counter-Strike 2
+A_TXN_0012,2023-06-22,Terraria
+A_TXN_0012,2023-06-22,Red Dead Redemption 2
+A_TXN_0012,2023-06-22,Overwatch 2
+A_TXN_0013,2023-02-22,Call of Duty MW3
+A_TXN_0014,2023-02-19,The Witcher 3: Blood and Wine DLC
+A_TXN_0014,2023-02-19,The Witcher 3
+A_TXN_0015,2023-06-26,Stardew Valley
+A_TXN_0015,2023-06-26,Terraria
+A_TXN_0016,2023-11-06,Battlefield 2042
+A_TXN_0016,2023-11-06,Hollow Knight
+A_TXN_0017,2023-01-23,Hades
+A_TXN_0017,2023-01-23,Hades OST
+A_TXN_0018,2023-10-02,Hades
+A_TXN_0018,2023-10-02,The Witcher 3: Blood and Wine DLC
+A_TXN_0018,2023-10-02,Elden Ring OST
+A_TXN_0018,2023-10-02,Civilization VI: New Frontier Pass
+A_TXN_0019,2023-07-13,Horizon Zero Dawn
+A_TXN_0019,2023-07-13,God of War
+A_TXN_0020,2023-05-31,Counter-Strike 2
+A_TXN_0020,2023-05-31,Valorant
+A_TXN_0021,2023-11-13,Planet Coaster
+A_TXN_0021,2023-11-13,Ghost of Tsushima
+A_TXN_0022,2023-07-05,Counter-Strike 2
+A_TXN_0022,2023-07-05,Hollow Knight
+A_TXN_0023,2023-12-27,Cities: Skylines
+A_TXN_0024,2023-12-05,Stardew Valley
+A_TXN_0024,2023-12-05,Stardew Valley OST
+A_TXN_0025,2023-05-29,Horizon Zero Dawn
+A_TXN_0025,2023-05-29,God of War
+A_TXN_0025,2023-05-29,Cities: Skylines
+A_TXN_0025,2023-05-29,Elden Ring
+A_TXN_0026,2023-04-30,Total War: Warhammer III
+A_TXN_0026,2023-04-30,Cyberpunk 2077
+A_TXN_0026,2023-04-30,Among Us
+A_TXN_0026,2023-04-30,Apex Legends
+A_TXN_0027,2023-07-14,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0028,2023-05-23,Counter-Strike 2
+A_TXN_0028,2023-05-23,Cyberpunk 2077
+A_TXN_0028,2023-05-23,Apex Legends
+A_TXN_0029,2023-03-25,Civilization VI
+A_TXN_0029,2023-03-25,Civilization VI: New Frontier Pass
+A_TXN_0030,2023-04-18,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0030,2023-04-18,Call of Duty MW3
+A_TXN_0030,2023-04-18,Cyberpunk 2077
+A_TXN_0031,2023-12-26,Among Us
+A_TXN_0032,2023-11-28,Hollow Knight
+A_TXN_0032,2023-11-28,Total War: Warhammer III
+A_TXN_0032,2023-11-28,Celeste
+A_TXN_0032,2023-11-28,Call of Duty MW3
+A_TXN_0033,2023-08-25,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0033,2023-08-25,Cyberpunk 2077
+A_TXN_0033,2023-08-25,Elden Ring
+A_TXN_0034,2023-12-17,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0034,2023-12-17,Elden Ring
+A_TXN_0035,2023-01-29,Counter-Strike 2
+A_TXN_0035,2023-01-29,The Witcher 3: Blood and Wine DLC
+A_TXN_0035,2023-01-29,Battlefield 2042
+A_TXN_0036,2023-01-17,Counter-Strike 2
+A_TXN_0036,2023-01-17,Valorant
+A_TXN_0037,2023-06-11,Counter-Strike 2
+A_TXN_0037,2023-06-11,God of War
+A_TXN_0037,2023-06-11,Death Stranding
+A_TXN_0037,2023-06-11,Cyberpunk 2077
+A_TXN_0038,2023-02-03,Cities: Skylines
+A_TXN_0038,2023-02-03,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0038,2023-02-03,God of War
+A_TXN_0038,2023-02-03,Stardew Valley
+A_TXN_0038,2023-02-03,The Witcher 3: Blood and Wine DLC
+A_TXN_0039,2023-10-18,Cities: Skylines
+A_TXN_0039,2023-10-18,The Witcher 3: Blood and Wine DLC
+A_TXN_0039,2023-10-18,Planet Coaster
+A_TXN_0040,2023-06-11,Red Dead Redemption 2
+A_TXN_0040,2023-06-11,Death Stranding
+A_TXN_0041,2023-09-13,Cities: Skylines
+A_TXN_0041,2023-09-13,Planet Coaster
+A_TXN_0042,2023-05-07,Valorant
+A_TXN_0042,2023-05-07,Battlefield 2042
+A_TXN_0042,2023-05-07,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0042,2023-05-07,Cyberpunk 2077
+A_TXN_0042,2023-05-07,Elden Ring
+A_TXN_0043,2023-08-08,The Witcher 3: Blood and Wine DLC
+A_TXN_0043,2023-08-08,The Witcher 3
+A_TXN_0044,2023-07-24,Counter-Strike 2
+A_TXN_0044,2023-07-24,Elden Ring OST
+A_TXN_0045,2023-03-12,Among Us
+A_TXN_0045,2023-03-12,Apex Legends
+A_TXN_0045,2023-03-12,Hades OST
+A_TXN_0046,2023-02-16,Battlefield 2042
+A_TXN_0046,2023-02-16,Counter-Strike 2
+A_TXN_0046,2023-02-16,Ghost of Tsushima
+A_TXN_0046,2023-02-16,Hades
+A_TXN_0046,2023-02-16,Cyberpunk 2077
+A_TXN_0046,2023-02-16,Elden Ring
+A_TXN_0047,2023-02-26,The Witcher 3: Blood and Wine DLC
+A_TXN_0047,2023-02-26,Death Stranding
+A_TXN_0048,2023-03-20,Call of Duty MW3
+A_TXN_0049,2023-11-18,Total War: Warhammer III
+A_TXN_0049,2023-11-18,Terraria
+A_TXN_0049,2023-11-18,Hollow Knight
+A_TXN_0049,2023-11-18,Stardew Valley
+A_TXN_0049,2023-11-18,Death Stranding
+A_TXN_0049,2023-11-18,Among Us
+A_TXN_0049,2023-11-18,Apex Legends
+A_TXN_0050,2023-12-15,Cities: Skylines
+A_TXN_0050,2023-12-15,Planet Coaster
+A_TXN_0051,2023-07-15,Horizon Zero Dawn
+A_TXN_0051,2023-07-15,God of War
+A_TXN_0052,2023-10-11,Hades
+A_TXN_0052,2023-10-11,Celeste
+A_TXN_0053,2023-10-02,Battlefield 2042
+A_TXN_0053,2023-10-02,Elden Ring OST
+A_TXN_0053,2023-10-02,Elden Ring
+A_TXN_0054,2023-05-31,God of War
+A_TXN_0054,2023-05-31,Stardew Valley
+A_TXN_0055,2023-08-21,The Witcher 3
+A_TXN_0055,2023-08-21,Civilization VI: New Frontier Pass
+A_TXN_0055,2023-08-21,Valorant
+A_TXN_0056,2023-01-02,Red Dead Redemption 2
+A_TXN_0056,2023-01-02,Civilization VI: New Frontier Pass
+A_TXN_0057,2023-05-15,Cities: Skylines
+A_TXN_0057,2023-05-15,Hollow Knight
+A_TXN_0057,2023-05-15,Stardew Valley
+A_TXN_0057,2023-05-15,Ghost of Tsushima
+A_TXN_0057,2023-05-15,Death Stranding
+A_TXN_0058,2023-04-02,The Witcher 3: Blood and Wine DLC
+A_TXN_0059,2023-11-24,Terraria
+A_TXN_0059,2023-11-24,Stardew Valley
+A_TXN_0059,2023-11-24,The Witcher 3: Blood and Wine DLC
+A_TXN_0059,2023-11-24,Among Us
+A_TXN_0059,2023-11-24,Apex Legends
+A_TXN_0060,2023-04-12,Total War: Warhammer III
+A_TXN_0060,2023-04-12,God of War
+A_TXN_0060,2023-04-12,Stardew Valley
+A_TXN_0060,2023-04-12,Red Dead Redemption 2
+A_TXN_0060,2023-04-12,The Witcher 3: Blood and Wine DLC
+A_TXN_0061,2023-09-29,Red Dead Redemption 2
+A_TXN_0061,2023-09-29,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0061,2023-09-29,Elden Ring
+A_TXN_0062,2023-07-05,God of War
+A_TXN_0062,2023-07-05,Cyberpunk 2077
+A_TXN_0062,2023-07-05,Elden Ring
+A_TXN_0063,2023-06-07,Stardew Valley
+A_TXN_0063,2023-06-07,Death Stranding
+A_TXN_0063,2023-06-07,Terraria
+A_TXN_0064,2023-05-03,Counter-Strike 2
+A_TXN_0064,2023-05-03,Death Stranding
+A_TXN_0064,2023-05-03,Civilization VI
+A_TXN_0064,2023-05-03,Stardew Valley
+A_TXN_0065,2023-02-13,Red Dead Redemption 2
+A_TXN_0065,2023-02-13,Celeste
+A_TXN_0065,2023-02-13,Stardew Valley
+A_TXN_0065,2023-02-13,Stardew Valley OST
+A_TXN_0066,2023-02-05,Death Stranding
+A_TXN_0066,2023-02-05,Ghost of Tsushima
+A_TXN_0067,2023-09-30,Cities: Skylines
+A_TXN_0067,2023-09-30,Celeste
+A_TXN_0067,2023-09-30,Valorant
+A_TXN_0067,2023-09-30,Battlefield 2042
+A_TXN_0067,2023-09-30,Call of Duty MW3
+A_TXN_0067,2023-09-30,Stardew Valley
+A_TXN_0067,2023-09-30,The Witcher 3: Blood and Wine DLC
+A_TXN_0068,2023-03-07,Among Us
+A_TXN_0069,2023-11-07,The Witcher 3
+A_TXN_0069,2023-11-07,Elden Ring
+A_TXN_0070,2023-10-04,Horizon Zero Dawn
+A_TXN_0070,2023-10-04,Elden Ring OST
+A_TXN_0070,2023-10-04,God of War
+A_TXN_0071,2023-12-20,Cyberpunk 2077 OST
+A_TXN_0071,2023-12-20,Overwatch 2
+A_TXN_0071,2023-12-20,Apex Legends
+A_TXN_0071,2023-12-20,Civilization VI: New Frontier Pass
+A_TXN_0071,2023-12-20,The Witcher 3: Blood and Wine DLC
+A_TXN_0071,2023-12-20,Elden Ring
+A_TXN_0072,2023-06-09,Valorant
+A_TXN_0072,2023-06-09,Counter-Strike 2
+A_TXN_0072,2023-06-09,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0072,2023-06-09,Hollow Knight
+A_TXN_0072,2023-06-09,God of War
+A_TXN_0072,2023-06-09,Elden Ring
+A_TXN_0073,2023-12-10,Hades
+A_TXN_0073,2023-12-10,Celeste
+A_TXN_0073,2023-12-10,Stardew Valley OST
+A_TXN_0073,2023-12-10,Terraria
+A_TXN_0073,2023-12-10,Red Dead Redemption 2
+A_TXN_0073,2023-12-10,The Witcher 3
+A_TXN_0074,2023-08-13,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0074,2023-08-13,Civilization VI
+A_TXN_0074,2023-08-13,Terraria
+A_TXN_0075,2023-09-22,Counter-Strike 2
+A_TXN_0075,2023-09-22,Cities: Skylines
+A_TXN_0075,2023-09-22,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0075,2023-09-22,Apex Legends
+A_TXN_0076,2023-08-20,Cities: Skylines
+A_TXN_0076,2023-08-20,Battlefield 2042
+A_TXN_0076,2023-08-20,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0076,2023-08-20,Stardew Valley
+A_TXN_0076,2023-08-20,Among Us
+A_TXN_0077,2023-04-26,Counter-Strike 2
+A_TXN_0077,2023-04-26,Valorant
+A_TXN_0078,2023-01-11,Hades
+A_TXN_0078,2023-01-11,Celeste
+A_TXN_0079,2023-10-29,Call of Duty MW3
+A_TXN_0080,2023-10-29,Counter-Strike 2
+A_TXN_0080,2023-10-29,Hades
+A_TXN_0080,2023-10-29,Elden Ring
+A_TXN_0081,2023-02-06,Cities: Skylines
+A_TXN_0081,2023-02-06,Planet Coaster
+A_TXN_0082,2023-01-17,The Witcher 3: Blood and Wine DLC
+A_TXN_0082,2023-01-17,Cyberpunk 2077
+A_TXN_0082,2023-01-17,The Witcher 3
+A_TXN_0083,2023-02-06,Hades
+A_TXN_0083,2023-02-06,Horizon Zero Dawn
+A_TXN_0083,2023-02-06,Total War: Warhammer III
+A_TXN_0084,2023-10-20,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0084,2023-10-20,Cyberpunk 2077
+A_TXN_0085,2023-05-05,Hollow Knight
+A_TXN_0085,2023-05-05,Stardew Valley
+A_TXN_0085,2023-05-05,Among Us
+A_TXN_0086,2023-08-31,Cities: Skylines
+A_TXN_0086,2023-08-31,Battlefield 2042
+A_TXN_0086,2023-08-31,Counter-Strike 2
+A_TXN_0086,2023-08-31,Ghost of Tsushima
+A_TXN_0086,2023-08-31,Overwatch 2
+A_TXN_0086,2023-08-31,Cyberpunk 2077
+A_TXN_0086,2023-08-31,Elden Ring
+A_TXN_0087,2023-04-08,Valorant
+A_TXN_0087,2023-04-08,Terraria
+A_TXN_0087,2023-04-08,Planet Coaster
+A_TXN_0087,2023-04-08,Hollow Knight
+A_TXN_0087,2023-04-08,God of War
+A_TXN_0087,2023-04-08,Ghost of Tsushima
+A_TXN_0088,2023-07-30,Counter-Strike 2
+A_TXN_0088,2023-07-30,Cyberpunk 2077 OST
+A_TXN_0088,2023-07-30,Stardew Valley
+A_TXN_0088,2023-07-30,Stardew Valley OST
+A_TXN_0089,2023-01-28,Hollow Knight
+A_TXN_0089,2023-01-28,Overwatch 2
+A_TXN_0089,2023-01-28,Hades
+A_TXN_0089,2023-01-28,Ghost of Tsushima
+A_TXN_0090,2023-02-20,Civilization VI
+A_TXN_0090,2023-02-20,Elden Ring
+A_TXN_0091,2023-04-09,The Witcher 3
+A_TXN_0091,2023-04-09,Cyberpunk 2077
+A_TXN_0091,2023-04-09,Elden Ring
+A_TXN_0092,2023-08-18,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0092,2023-08-18,Elden Ring
+A_TXN_0093,2023-03-13,Red Dead Redemption 2
+A_TXN_0093,2023-03-13,Overwatch 2
+A_TXN_0093,2023-03-13,Call of Duty MW3
+A_TXN_0093,2023-03-13,God of War
+A_TXN_0094,2023-02-08,Hades
+A_TXN_0094,2023-02-08,Celeste
+A_TXN_0094,2023-02-08,Hollow Knight
+A_TXN_0095,2023-10-04,The Witcher 3
+A_TXN_0095,2023-10-04,Cyberpunk 2077
+A_TXN_0095,2023-10-04,Valorant
+A_TXN_0096,2023-01-08,Battlefield 2042
+A_TXN_0096,2023-01-08,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0096,2023-01-08,Stardew Valley
+A_TXN_0097,2023-09-06,The Witcher 3
+A_TXN_0097,2023-09-06,Cyberpunk 2077
+A_TXN_0098,2023-01-02,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0098,2023-01-02,Cyberpunk 2077
+A_TXN_0098,2023-01-02,Elden Ring
+A_TXN_0099,2023-05-16,Elden Ring OST
+A_TXN_0099,2023-05-16,Celeste
+A_TXN_0099,2023-05-16,Valorant
+A_TXN_0100,2023-08-21,Hollow Knight
+A_TXN_0100,2023-08-21,Overwatch 2
+A_TXN_0100,2023-08-21,Elden Ring OST
+A_TXN_0101,2023-12-23,Cyberpunk 2077 OST
+A_TXN_0101,2023-12-23,The Witcher 3: Blood and Wine DLC
+A_TXN_0102,2023-03-21,Cyberpunk 2077
+A_TXN_0103,2023-02-01,Elden Ring OST
+A_TXN_0103,2023-02-01,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0103,2023-02-01,The Witcher 3
+A_TXN_0103,2023-02-01,Elden Ring
+A_TXN_0104,2023-01-30,Terraria
+A_TXN_0105,2023-09-02,Counter-Strike 2
+A_TXN_0105,2023-09-02,Valorant
+A_TXN_0106,2023-02-11,Cities: Skylines
+A_TXN_0106,2023-02-11,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0106,2023-02-11,The Witcher 3
+A_TXN_0106,2023-02-11,Elden Ring
+A_TXN_0107,2023-05-01,The Witcher 3: Blood and Wine DLC
+A_TXN_0107,2023-05-01,Cyberpunk 2077
+A_TXN_0107,2023-05-01,The Witcher 3
+A_TXN_0108,2023-10-24,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0108,2023-10-24,Stardew Valley
+A_TXN_0108,2023-10-24,Civilization VI
+A_TXN_0109,2023-11-14,Counter-Strike 2
+A_TXN_0109,2023-11-14,Cities: Skylines
+A_TXN_0109,2023-11-14,God of War
+A_TXN_0109,2023-11-14,Civilization VI
+A_TXN_0110,2023-12-03,Total War: Warhammer III
+A_TXN_0110,2023-12-03,Valorant
+A_TXN_0110,2023-12-03,Counter-Strike 2
+A_TXN_0110,2023-12-03,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0110,2023-12-03,Civilization VI: New Frontier Pass
+A_TXN_0110,2023-12-03,Overwatch 2
+A_TXN_0110,2023-12-03,Apex Legends
+A_TXN_0111,2023-05-14,Red Dead Redemption 2
+A_TXN_0111,2023-05-14,The Witcher 3: Blood and Wine DLC
+A_TXN_0111,2023-05-14,Battlefield 2042
+A_TXN_0111,2023-05-14,Civilization VI
+A_TXN_0112,2023-06-10,Counter-Strike 2
+A_TXN_0112,2023-06-10,The Witcher 3: Blood and Wine DLC
+A_TXN_0112,2023-06-10,Elden Ring
+A_TXN_0112,2023-06-10,Valorant
+A_TXN_0113,2023-05-03,Celeste
+A_TXN_0113,2023-05-03,Counter-Strike 2
+A_TXN_0113,2023-05-03,Stardew Valley
+A_TXN_0113,2023-05-03,Red Dead Redemption 2
+A_TXN_0113,2023-05-03,Elden Ring OST
+A_TXN_0114,2023-03-09,Counter-Strike 2
+A_TXN_0114,2023-03-09,Valorant
+A_TXN_0115,2023-06-03,Civilization VI
+A_TXN_0115,2023-06-03,Terraria
+A_TXN_0116,2023-02-07,Red Dead Redemption 2
+A_TXN_0116,2023-02-07,Cities: Skylines
+A_TXN_0116,2023-02-07,Call of Duty MW3
+A_TXN_0116,2023-02-07,Cyberpunk 2077
+A_TXN_0117,2023-01-05,Overwatch 2
+A_TXN_0117,2023-01-05,Apex Legends
+A_TXN_0117,2023-01-05,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0118,2023-02-07,The Witcher 3
+A_TXN_0119,2023-06-28,Hades
+A_TXN_0119,2023-06-28,Red Dead Redemption 2
+A_TXN_0119,2023-06-28,Celeste
+A_TXN_0119,2023-06-28,Among Us
+A_TXN_0120,2023-05-06,Planet Coaster
+A_TXN_0121,2023-07-09,Red Dead Redemption 2
+A_TXN_0121,2023-07-09,Cities: Skylines
+A_TXN_0121,2023-07-09,Stardew Valley OST
+A_TXN_0121,2023-07-09,Apex Legends
+A_TXN_0122,2023-08-13,Total War: Warhammer III
+A_TXN_0122,2023-08-13,Stardew Valley OST
+A_TXN_0122,2023-08-13,Valorant
+A_TXN_0122,2023-08-13,Stardew Valley
+A_TXN_0122,2023-08-13,Civilization VI
+A_TXN_0122,2023-08-13,Red Dead Redemption 2
+A_TXN_0123,2023-10-06,Red Dead Redemption 2
+A_TXN_0123,2023-10-06,Overwatch 2
+A_TXN_0123,2023-10-06,The Witcher 3: Blood and Wine DLC
+A_TXN_0124,2023-01-05,Call of Duty MW3
+A_TXN_0124,2023-01-05,Cyberpunk 2077
+A_TXN_0124,2023-01-05,Elden Ring
+A_TXN_0125,2023-02-23,The Witcher 3: Blood and Wine DLC
+A_TXN_0125,2023-02-23,The Witcher 3
+A_TXN_0126,2023-03-01,Total War: Warhammer III
+A_TXN_0126,2023-03-01,Celeste
+A_TXN_0126,2023-03-01,Civilization VI
+A_TXN_0127,2023-10-11,Cyberpunk 2077 OST
+A_TXN_0127,2023-10-11,Valorant
+A_TXN_0127,2023-10-11,Counter-Strike 2
+A_TXN_0127,2023-10-11,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0127,2023-10-11,Death Stranding
+A_TXN_0127,2023-10-11,Elden Ring
+A_TXN_0128,2023-12-18,Cyberpunk 2077 OST
+A_TXN_0128,2023-12-18,Cyberpunk 2077
+A_TXN_0128,2023-12-18,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0128,2023-12-18,The Witcher 3: Blood and Wine DLC
+A_TXN_0128,2023-12-18,The Witcher 3
+A_TXN_0128,2023-12-18,Elden Ring
+A_TXN_0129,2023-05-16,Hollow Knight
+A_TXN_0129,2023-05-16,Cyberpunk 2077
+A_TXN_0129,2023-05-16,Stardew Valley OST
+A_TXN_0130,2023-05-09,Celeste
+A_TXN_0130,2023-05-09,The Witcher 3: Blood and Wine DLC
+A_TXN_0130,2023-05-09,Terraria
+A_TXN_0130,2023-05-09,Hollow Knight
+A_TXN_0130,2023-05-09,Stardew Valley
+A_TXN_0130,2023-05-09,Overwatch 2
+A_TXN_0131,2023-01-27,Counter-Strike 2
+A_TXN_0132,2023-08-05,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0132,2023-08-05,God of War
+A_TXN_0132,2023-08-05,Ghost of Tsushima
+A_TXN_0132,2023-08-05,Hades
+A_TXN_0132,2023-08-05,Overwatch 2
+A_TXN_0132,2023-08-05,Cyberpunk 2077
+A_TXN_0133,2023-05-22,Celeste
+A_TXN_0133,2023-05-22,Apex Legends
+A_TXN_0134,2023-06-20,Hades
+A_TXN_0134,2023-06-20,Hades OST
+A_TXN_0135,2023-11-23,Cities: Skylines
+A_TXN_0135,2023-11-23,Counter-Strike 2
+A_TXN_0135,2023-11-23,Terraria
+A_TXN_0135,2023-11-23,Hollow Knight
+A_TXN_0135,2023-11-23,God of War
+A_TXN_0135,2023-11-23,The Witcher 3: Blood and Wine DLC
+A_TXN_0135,2023-11-23,Among Us
+A_TXN_0136,2023-03-24,Hades
+A_TXN_0136,2023-03-24,Elden Ring OST
+A_TXN_0136,2023-03-24,Among Us
+A_TXN_0136,2023-03-24,Valorant
+A_TXN_0137,2023-10-10,Cities: Skylines
+A_TXN_0137,2023-10-10,Stardew Valley OST
+A_TXN_0137,2023-10-10,Valorant
+A_TXN_0137,2023-10-10,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0137,2023-10-10,Cyberpunk 2077
+A_TXN_0137,2023-10-10,Elden Ring
+A_TXN_0138,2023-12-20,Hades
+A_TXN_0138,2023-12-20,Celeste
+A_TXN_0139,2023-10-07,Hades OST
+A_TXN_0139,2023-10-07,Planet Coaster
+A_TXN_0140,2023-01-19,Call of Duty MW3
+A_TXN_0140,2023-01-19,Cyberpunk 2077
+A_TXN_0140,2023-01-19,Valorant
+A_TXN_0140,2023-01-19,Ghost of Tsushima
+A_TXN_0141,2023-10-26,Cities: Skylines
+A_TXN_0141,2023-10-26,Total War: Warhammer III
+A_TXN_0141,2023-10-26,Stardew Valley OST
+A_TXN_0141,2023-10-26,Hollow Knight
+A_TXN_0141,2023-10-26,Elden Ring OST
+A_TXN_0142,2023-08-09,Cyberpunk 2077 OST
+A_TXN_0142,2023-08-09,Overwatch 2
+A_TXN_0142,2023-08-09,The Witcher 3
+A_TXN_0142,2023-08-09,Ghost of Tsushima
+A_TXN_0143,2023-03-07,Hades
+A_TXN_0143,2023-03-07,Death Stranding
+A_TXN_0143,2023-03-07,Terraria
+A_TXN_0144,2023-01-22,Red Dead Redemption 2
+A_TXN_0144,2023-01-22,Terraria
+A_TXN_0145,2023-01-21,Battlefield 2042
+A_TXN_0145,2023-01-21,Total War: Warhammer III
+A_TXN_0145,2023-01-21,Civilization VI
+A_TXN_0146,2023-04-18,Celeste
+A_TXN_0146,2023-04-18,Valorant
+A_TXN_0146,2023-04-18,Hollow Knight
+A_TXN_0146,2023-04-18,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0146,2023-04-18,The Witcher 3
+A_TXN_0147,2023-07-01,Civilization VI
+A_TXN_0148,2023-07-28,The Witcher 3
+A_TXN_0148,2023-07-28,Horizon Zero Dawn
+A_TXN_0148,2023-07-28,Among Us
+A_TXN_0149,2023-11-14,Apex Legends
+A_TXN_0150,2023-05-02,Overwatch 2
+A_TXN_0150,2023-05-02,Valorant
+A_TXN_0150,2023-05-02,The Witcher 3: Blood and Wine DLC
+A_TXN_0151,2023-03-25,Battlefield 2042
+A_TXN_0151,2023-03-25,Total War: Warhammer III
+A_TXN_0152,2023-01-13,Hades
+A_TXN_0152,2023-01-13,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0153,2023-07-30,Call of Duty MW3
+A_TXN_0153,2023-07-30,Civilization VI: New Frontier Pass
+A_TXN_0153,2023-07-30,Hades OST
+A_TXN_0153,2023-07-30,Ghost of Tsushima
+A_TXN_0153,2023-07-30,The Witcher 3
+A_TXN_0153,2023-07-30,Elden Ring
+A_TXN_0154,2023-12-09,Stardew Valley
+A_TXN_0154,2023-12-09,Death Stranding
+A_TXN_0154,2023-12-09,Apex Legends
+A_TXN_0155,2023-12-26,Cyberpunk 2077
+A_TXN_0155,2023-12-26,The Witcher 3
+A_TXN_0156,2023-04-24,The Witcher 3
+A_TXN_0156,2023-04-24,Elden Ring
+A_TXN_0157,2023-04-27,Stardew Valley
+A_TXN_0157,2023-04-27,Stardew Valley OST
+A_TXN_0158,2023-04-25,Apex Legends
+A_TXN_0159,2023-01-13,Terraria
+A_TXN_0159,2023-01-13,Call of Duty MW3
+A_TXN_0159,2023-01-13,God of War
+A_TXN_0159,2023-01-13,Horizon Zero Dawn
+A_TXN_0159,2023-01-13,Elden Ring
+A_TXN_0160,2023-07-24,Ghost of Tsushima
+A_TXN_0161,2023-06-18,Red Dead Redemption 2
+A_TXN_0162,2023-05-23,Call of Duty MW3
+A_TXN_0163,2023-02-05,Battlefield 2042
+A_TXN_0163,2023-02-05,Apex Legends
+A_TXN_0164,2023-10-02,Cities: Skylines
+A_TXN_0164,2023-10-02,Elden Ring OST
+A_TXN_0164,2023-10-02,Elden Ring
+A_TXN_0165,2023-06-19,Red Dead Redemption 2
+A_TXN_0165,2023-06-19,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0165,2023-06-19,Civilization VI: New Frontier Pass
+A_TXN_0166,2023-03-01,Ghost of Tsushima
+A_TXN_0167,2023-10-25,Horizon Zero Dawn
+A_TXN_0167,2023-10-25,Total War: Warhammer III
+A_TXN_0167,2023-10-25,God of War
+A_TXN_0167,2023-10-25,Civilization VI
+A_TXN_0168,2023-05-16,Hades
+A_TXN_0168,2023-05-16,Call of Duty MW3
+A_TXN_0169,2023-01-20,Call of Duty MW3
+A_TXN_0169,2023-01-20,Civilization VI
+A_TXN_0170,2023-08-11,God of War
+A_TXN_0170,2023-08-11,Ghost of Tsushima
+A_TXN_0171,2023-06-10,Battlefield 2042
+A_TXN_0171,2023-06-10,The Witcher 3: Blood and Wine DLC
+A_TXN_0171,2023-06-10,The Witcher 3
+A_TXN_0171,2023-06-10,Hollow Knight
+A_TXN_0172,2023-08-12,Overwatch 2
+A_TXN_0173,2023-11-07,Death Stranding
+A_TXN_0173,2023-11-07,Valorant
+A_TXN_0173,2023-11-07,Ghost of Tsushima
+A_TXN_0174,2023-03-01,Counter-Strike 2
+A_TXN_0175,2023-10-23,Counter-Strike 2
+A_TXN_0175,2023-10-23,The Witcher 3
+A_TXN_0176,2023-09-24,Cities: Skylines
+A_TXN_0176,2023-09-24,Terraria
+A_TXN_0176,2023-09-24,Hollow Knight
+A_TXN_0176,2023-09-24,Hades OST
+A_TXN_0176,2023-09-24,Hades
+A_TXN_0177,2023-10-03,Red Dead Redemption 2
+A_TXN_0177,2023-10-03,Hades
+A_TXN_0177,2023-10-03,Hollow Knight
+A_TXN_0178,2023-12-18,Counter-Strike 2
+A_TXN_0178,2023-12-18,Overwatch 2
+A_TXN_0178,2023-12-18,The Witcher 3
+A_TXN_0178,2023-12-18,Apex Legends
+A_TXN_0179,2023-12-10,Celeste
+A_TXN_0179,2023-12-10,Stardew Valley OST
+A_TXN_0179,2023-12-10,Apex Legends
+A_TXN_0180,2023-04-11,Red Dead Redemption 2
+A_TXN_0180,2023-04-11,Death Stranding
+A_TXN_0180,2023-04-11,The Witcher 3
+A_TXN_0181,2023-12-07,Horizon Zero Dawn
+A_TXN_0181,2023-12-07,God of War
+A_TXN_0181,2023-12-07,Ghost of Tsushima
+A_TXN_0182,2023-11-16,Counter-Strike 2
+A_TXN_0183,2023-03-05,The Witcher 3: Blood and Wine DLC
+A_TXN_0183,2023-03-05,The Witcher 3
+A_TXN_0184,2023-06-03,Hollow Knight
+A_TXN_0185,2023-12-08,Red Dead Redemption 2
+A_TXN_0185,2023-12-08,Hades OST
+A_TXN_0186,2023-07-26,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0186,2023-07-26,Hades OST
+A_TXN_0187,2023-10-11,God of War
+A_TXN_0187,2023-10-11,Civilization VI: New Frontier Pass
+A_TXN_0187,2023-10-11,Terraria
+A_TXN_0187,2023-10-11,Ghost of Tsushima
+A_TXN_0188,2023-08-04,Hades
+A_TXN_0188,2023-08-04,Counter-Strike 2
+A_TXN_0188,2023-08-04,Celeste
+A_TXN_0189,2023-03-31,Counter-Strike 2
+A_TXN_0189,2023-03-31,Horizon Zero Dawn
+A_TXN_0189,2023-03-31,God of War
+A_TXN_0189,2023-03-31,Overwatch 2
+A_TXN_0190,2023-11-12,Hades
+A_TXN_0190,2023-11-12,Death Stranding
+A_TXN_0190,2023-11-12,The Witcher 3
+A_TXN_0191,2023-07-27,God of War
+A_TXN_0191,2023-07-27,Celeste
+A_TXN_0192,2023-01-01,Hollow Knight
+A_TXN_0192,2023-01-01,Cyberpunk 2077
+A_TXN_0192,2023-01-01,Apex Legends
+A_TXN_0193,2023-06-14,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0193,2023-06-14,Cyberpunk 2077
+A_TXN_0193,2023-06-14,Elden Ring
+A_TXN_0194,2023-08-15,Cities: Skylines
+A_TXN_0194,2023-08-15,Total War: Warhammer III
+A_TXN_0194,2023-08-15,Counter-Strike 2
+A_TXN_0194,2023-08-15,Terraria
+A_TXN_0194,2023-08-15,Call of Duty MW3
+A_TXN_0194,2023-08-15,Ghost of Tsushima
+A_TXN_0194,2023-08-15,Hades
+A_TXN_0195,2023-12-12,Civilization VI: New Frontier Pass
+A_TXN_0195,2023-12-12,Apex Legends
+A_TXN_0196,2023-08-31,The Witcher 3
+A_TXN_0196,2023-08-31,Cyberpunk 2077 OST
+A_TXN_0196,2023-08-31,Civilization VI
+A_TXN_0196,2023-08-31,Cyberpunk 2077
+A_TXN_0197,2023-03-28,Celeste
+A_TXN_0197,2023-03-28,Planet Coaster
+A_TXN_0197,2023-03-28,The Witcher 3
+A_TXN_0197,2023-03-28,God of War
+A_TXN_0197,2023-03-28,Civilization VI
+A_TXN_0197,2023-03-28,Cyberpunk 2077
+A_TXN_0198,2023-05-26,Horizon Zero Dawn
+A_TXN_0198,2023-05-26,God of War
+A_TXN_0198,2023-05-26,Cities: Skylines
+A_TXN_0198,2023-05-26,Terraria
+A_TXN_0199,2023-09-21,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0199,2023-09-21,Valorant
+A_TXN_0199,2023-09-21,Apex Legends
+A_TXN_0200,2023-12-06,Counter-Strike 2
+A_TXN_0200,2023-12-06,Overwatch 2
+A_TXN_0200,2023-12-06,Call of Duty MW3
+A_TXN_0200,2023-12-06,Valorant
+A_TXN_0201,2023-11-21,Battlefield 2042
+A_TXN_0201,2023-11-21,The Witcher 3: Blood and Wine DLC
+A_TXN_0201,2023-11-21,Death Stranding
+A_TXN_0201,2023-11-21,Valorant
+A_TXN_0202,2023-02-17,The Witcher 3: Blood and Wine DLC
+A_TXN_0202,2023-02-17,Stardew Valley
+A_TXN_0202,2023-02-17,The Witcher 3
+A_TXN_0203,2023-04-26,Cities: Skylines
+A_TXN_0203,2023-04-26,Hollow Knight
+A_TXN_0203,2023-04-26,Stardew Valley
+A_TXN_0203,2023-04-26,Hades
+A_TXN_0203,2023-04-26,The Witcher 3
+A_TXN_0203,2023-04-26,Apex Legends
+A_TXN_0204,2023-03-17,Cities: Skylines
+A_TXN_0204,2023-03-17,Counter-Strike 2
+A_TXN_0204,2023-03-17,Civilization VI
+A_TXN_0204,2023-03-17,Ghost of Tsushima
+A_TXN_0204,2023-03-17,The Witcher 3
+A_TXN_0205,2023-05-06,Hades
+A_TXN_0205,2023-05-06,Celeste
+A_TXN_0206,2023-11-09,Red Dead Redemption 2
+A_TXN_0206,2023-11-09,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0206,2023-11-09,Apex Legends
+A_TXN_0206,2023-11-09,Planet Coaster
+A_TXN_0207,2023-11-19,The Witcher 3: Blood and Wine DLC
+A_TXN_0207,2023-11-19,Cyberpunk 2077
+A_TXN_0207,2023-11-19,The Witcher 3
+A_TXN_0207,2023-11-19,Valorant
+A_TXN_0208,2023-07-24,Among Us
+A_TXN_0208,2023-07-24,Death Stranding
+A_TXN_0208,2023-07-24,Cyberpunk 2077
+A_TXN_0208,2023-07-24,The Witcher 3
+A_TXN_0209,2023-02-24,Among Us
+A_TXN_0209,2023-02-24,Stardew Valley
+A_TXN_0209,2023-02-24,Stardew Valley OST
+A_TXN_0209,2023-02-24,Terraria
+A_TXN_0210,2023-04-23,God of War
+A_TXN_0210,2023-04-23,Apex Legends
+A_TXN_0210,2023-04-23,Ghost of Tsushima
+A_TXN_0211,2023-12-23,Celeste
+A_TXN_0211,2023-12-23,Valorant
+A_TXN_0211,2023-12-23,Call of Duty MW3
+A_TXN_0211,2023-12-23,Hades
+A_TXN_0211,2023-12-23,Elden Ring OST
+A_TXN_0212,2023-01-26,Celeste
+A_TXN_0213,2023-03-10,Hades
+A_TXN_0213,2023-03-10,Celeste
+A_TXN_0213,2023-03-10,Elden Ring
+A_TXN_0214,2023-12-08,Celeste
+A_TXN_0214,2023-12-08,Terraria
+A_TXN_0214,2023-12-08,Civilization VI: New Frontier Pass
+A_TXN_0214,2023-12-08,Among Us
+A_TXN_0214,2023-12-08,The Witcher 3
+A_TXN_0215,2023-08-15,Hades
+A_TXN_0215,2023-08-15,Overwatch 2
+A_TXN_0215,2023-08-15,Celeste
+A_TXN_0216,2023-09-16,Red Dead Redemption 2
+A_TXN_0216,2023-09-16,Overwatch 2
+A_TXN_0216,2023-09-16,Civilization VI: New Frontier Pass
+A_TXN_0216,2023-09-16,Stardew Valley OST
+A_TXN_0217,2023-03-23,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0217,2023-03-23,Cyberpunk 2077
+A_TXN_0217,2023-03-23,The Witcher 3
+A_TXN_0217,2023-03-23,Civilization VI: New Frontier Pass
+A_TXN_0218,2023-05-07,Hades
+A_TXN_0218,2023-05-07,Celeste
+A_TXN_0218,2023-05-07,Valorant
+A_TXN_0219,2023-11-23,Apex Legends
+A_TXN_0220,2023-08-14,Apex Legends
+A_TXN_0220,2023-08-14,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0220,2023-08-14,Cyberpunk 2077
+A_TXN_0220,2023-08-14,Elden Ring
+A_TXN_0221,2023-05-27,Hollow Knight
+A_TXN_0221,2023-05-27,Hades
+A_TXN_0222,2023-05-01,Civilization VI
+A_TXN_0222,2023-05-01,Overwatch 2
+A_TXN_0222,2023-05-01,Death Stranding
+A_TXN_0222,2023-05-01,The Witcher 3
+A_TXN_0222,2023-05-01,Apex Legends
+A_TXN_0223,2023-05-20,Battlefield 2042
+A_TXN_0224,2023-10-04,The Witcher 3: Blood and Wine DLC
+A_TXN_0224,2023-10-04,The Witcher 3
+A_TXN_0225,2023-03-19,Hades
+A_TXN_0225,2023-03-19,Celeste
+A_TXN_0226,2023-07-28,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0226,2023-07-28,Cyberpunk 2077
+A_TXN_0226,2023-07-28,Elden Ring
+A_TXN_0227,2023-02-01,Cyberpunk 2077 OST
+A_TXN_0227,2023-02-01,God of War
+A_TXN_0227,2023-02-01,Ghost of Tsushima
+A_TXN_0228,2023-08-04,Counter-Strike 2
+A_TXN_0228,2023-08-04,Valorant
+A_TXN_0229,2023-10-27,Stardew Valley OST
+A_TXN_0230,2023-10-22,Hades
+A_TXN_0230,2023-10-22,Cyberpunk 2077
+A_TXN_0230,2023-10-22,Hollow Knight
+A_TXN_0231,2023-01-04,Horizon Zero Dawn
+A_TXN_0231,2023-01-04,Call of Duty MW3
+A_TXN_0231,2023-01-04,Elden Ring
+A_TXN_0231,2023-01-04,The Witcher 3: Blood and Wine DLC
+A_TXN_0232,2023-08-03,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0232,2023-08-03,Total War: Warhammer III
+A_TXN_0232,2023-08-03,Cyberpunk 2077
+A_TXN_0233,2023-10-07,Hollow Knight
+A_TXN_0233,2023-10-07,Overwatch 2
+A_TXN_0234,2023-04-23,God of War
+A_TXN_0234,2023-04-23,Celeste
+A_TXN_0235,2023-05-20,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0235,2023-05-20,Elden Ring
+A_TXN_0236,2023-08-12,Valorant
+A_TXN_0236,2023-08-12,Apex Legends
+A_TXN_0236,2023-08-12,God of War
+A_TXN_0236,2023-08-12,Stardew Valley
+A_TXN_0236,2023-08-12,Ghost of Tsushima
+A_TXN_0236,2023-08-12,Elden Ring
+A_TXN_0237,2023-07-27,Terraria
+A_TXN_0237,2023-07-27,Stardew Valley
+A_TXN_0237,2023-07-27,Death Stranding
+A_TXN_0237,2023-07-27,Elden Ring
+A_TXN_0238,2023-03-26,Red Dead Redemption 2
+A_TXN_0239,2023-11-15,Red Dead Redemption 2
+A_TXN_0239,2023-11-15,God of War
+A_TXN_0239,2023-11-15,Stardew Valley
+A_TXN_0239,2023-11-15,Death Stranding
+A_TXN_0240,2023-07-21,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0240,2023-07-21,Among Us
+A_TXN_0241,2023-12-06,Counter-Strike 2
+A_TXN_0241,2023-12-06,Terraria
+A_TXN_0241,2023-12-06,Valorant
+A_TXN_0241,2023-12-06,Horizon Zero Dawn
+A_TXN_0242,2023-01-26,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0242,2023-01-26,Red Dead Redemption 2
+A_TXN_0242,2023-01-26,Horizon Zero Dawn
+A_TXN_0242,2023-01-26,The Witcher 3
+A_TXN_0242,2023-01-26,Elden Ring
+A_TXN_0243,2023-08-21,Horizon Zero Dawn
+A_TXN_0243,2023-08-21,God of War
+A_TXN_0243,2023-08-21,Ghost of Tsushima
+A_TXN_0244,2023-06-17,Overwatch 2
+A_TXN_0244,2023-06-17,Cities: Skylines
+A_TXN_0244,2023-06-17,The Witcher 3: Blood and Wine DLC
+A_TXN_0245,2023-07-14,God of War
+A_TXN_0245,2023-07-14,Ghost of Tsushima
+A_TXN_0246,2023-02-11,Hades
+A_TXN_0246,2023-02-11,Hades OST
+A_TXN_0247,2023-06-29,Stardew Valley
+A_TXN_0247,2023-06-29,Among Us
+A_TXN_0248,2023-02-05,Hollow Knight
+A_TXN_0248,2023-02-05,Hades
+A_TXN_0249,2023-11-30,Counter-Strike 2
+A_TXN_0249,2023-11-30,Elden Ring OST
+A_TXN_0250,2023-01-11,The Witcher 3: Blood and Wine DLC
+A_TXN_0250,2023-01-11,Cyberpunk 2077
+A_TXN_0250,2023-01-11,The Witcher 3
+A_TXN_0250,2023-01-11,Elden Ring
+A_TXN_0251,2023-11-15,Cities: Skylines
+A_TXN_0251,2023-11-15,Overwatch 2
+A_TXN_0251,2023-11-15,Call of Duty MW3
+A_TXN_0251,2023-11-15,The Witcher 3: Blood and Wine DLC
+A_TXN_0251,2023-11-15,Elden Ring
+A_TXN_0252,2023-03-06,Hollow Knight
+A_TXN_0252,2023-03-06,Hades
+A_TXN_0253,2023-02-28,Planet Coaster
+A_TXN_0253,2023-02-28,The Witcher 3
+A_TXN_0253,2023-02-28,Ghost of Tsushima
+A_TXN_0254,2023-04-22,Celeste
+A_TXN_0254,2023-04-22,Hollow Knight
+A_TXN_0254,2023-04-22,God of War
+A_TXN_0254,2023-04-22,Ghost of Tsushima
+A_TXN_0254,2023-04-22,The Witcher 3: Blood and Wine DLC
+A_TXN_0254,2023-04-22,The Witcher 3
+A_TXN_0254,2023-04-22,Elden Ring
+A_TXN_0255,2023-05-12,Hollow Knight
+A_TXN_0255,2023-05-12,Stardew Valley
+A_TXN_0256,2023-03-27,Horizon Zero Dawn
+A_TXN_0256,2023-03-27,The Witcher 3
+A_TXN_0256,2023-03-27,Elden Ring
+A_TXN_0256,2023-03-27,The Witcher 3: Blood and Wine DLC
+A_TXN_0257,2023-03-25,Overwatch 2
+A_TXN_0257,2023-03-25,Terraria
+A_TXN_0257,2023-03-25,God of War
+A_TXN_0257,2023-03-25,Hades
+A_TXN_0257,2023-03-25,The Witcher 3: Blood and Wine DLC
+A_TXN_0258,2023-06-09,Battlefield 2042
+A_TXN_0258,2023-06-09,Cyberpunk 2077
+A_TXN_0259,2023-06-09,Total War: Warhammer III
+A_TXN_0259,2023-06-09,Civilization VI
+A_TXN_0259,2023-06-09,Civilization VI: New Frontier Pass
+A_TXN_0260,2023-04-12,Hades
+A_TXN_0260,2023-04-12,Celeste
+A_TXN_0261,2023-12-20,Counter-Strike 2
+A_TXN_0261,2023-12-20,Valorant
+A_TXN_0262,2023-11-18,Among Us
+A_TXN_0262,2023-11-18,Apex Legends
+A_TXN_0263,2023-12-23,Hades
+A_TXN_0263,2023-12-23,Celeste
+A_TXN_0264,2023-12-17,Civilization VI: New Frontier Pass
+A_TXN_0264,2023-12-17,Terraria
+A_TXN_0265,2023-03-03,Hades
+A_TXN_0265,2023-03-03,Horizon Zero Dawn
+A_TXN_0265,2023-03-03,Elden Ring
+A_TXN_0265,2023-03-03,Ghost of Tsushima
+A_TXN_0266,2023-10-17,Battlefield 2042
+A_TXN_0267,2023-01-22,Red Dead Redemption 2
+A_TXN_0267,2023-01-22,Total War: Warhammer III
+A_TXN_0267,2023-01-22,Apex Legends
+A_TXN_0268,2023-08-08,Among Us
+A_TXN_0269,2023-02-05,Overwatch 2
+A_TXN_0269,2023-02-05,Terraria
+A_TXN_0269,2023-02-05,Ghost of Tsushima
+A_TXN_0270,2023-06-24,Hades
+A_TXN_0270,2023-06-24,Cities: Skylines
+A_TXN_0270,2023-06-24,Terraria
+A_TXN_0270,2023-06-24,Ghost of Tsushima
+A_TXN_0271,2023-01-07,Red Dead Redemption 2
+A_TXN_0271,2023-01-07,The Witcher 3: Blood and Wine DLC
+A_TXN_0272,2023-09-08,Elden Ring OST
+A_TXN_0273,2023-11-22,God of War
+A_TXN_0273,2023-11-22,Ghost of Tsushima
+A_TXN_0274,2023-08-24,Cities: Skylines
+A_TXN_0274,2023-08-24,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0274,2023-08-24,Civilization VI
+A_TXN_0275,2023-08-11,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0275,2023-08-11,Terraria
+A_TXN_0275,2023-08-11,Ghost of Tsushima
+A_TXN_0276,2023-04-01,Elden Ring OST
+A_TXN_0276,2023-04-01,Death Stranding
+A_TXN_0276,2023-04-01,Stardew Valley OST
+A_TXN_0277,2023-11-30,Among Us
+A_TXN_0278,2023-10-03,Celeste
+A_TXN_0278,2023-10-03,God of War
+A_TXN_0278,2023-10-03,Ghost of Tsushima
+A_TXN_0278,2023-10-03,The Witcher 3: Blood and Wine DLC
+A_TXN_0278,2023-10-03,Elden Ring
+A_TXN_0279,2023-08-27,Counter-Strike 2
+A_TXN_0279,2023-08-27,Civilization VI: New Frontier Pass
+A_TXN_0279,2023-08-27,Hades OST
+A_TXN_0280,2023-08-12,Counter-Strike 2
+A_TXN_0280,2023-08-12,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0280,2023-08-12,Planet Coaster
+A_TXN_0280,2023-08-12,Call of Duty MW3
+A_TXN_0280,2023-08-12,Hades
+A_TXN_0280,2023-08-12,Elden Ring
+A_TXN_0281,2023-05-06,The Witcher 3: Blood and Wine DLC
+A_TXN_0281,2023-05-06,Cyberpunk 2077
+A_TXN_0281,2023-05-06,The Witcher 3
+A_TXN_0282,2023-02-14,Terraria
+A_TXN_0283,2023-08-19,Stardew Valley
+A_TXN_0283,2023-08-19,Among Us
+A_TXN_0284,2023-08-26,Counter-Strike 2
+A_TXN_0284,2023-08-26,Valorant
+A_TXN_0285,2023-12-09,Counter-Strike 2
+A_TXN_0285,2023-12-09,Cities: Skylines
+A_TXN_0285,2023-12-09,Stardew Valley
+A_TXN_0286,2023-04-04,Hollow Knight
+A_TXN_0286,2023-04-04,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0286,2023-04-04,Hades
+A_TXN_0286,2023-04-04,Death Stranding
+A_TXN_0286,2023-04-04,Elden Ring
+A_TXN_0287,2023-07-01,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0287,2023-07-01,Cyberpunk 2077
+A_TXN_0288,2023-06-24,Cities: Skylines
+A_TXN_0288,2023-06-24,Elden Ring OST
+A_TXN_0288,2023-06-24,Stardew Valley OST
+A_TXN_0289,2023-11-02,Total War: Warhammer III
+A_TXN_0289,2023-11-02,Civilization VI
+A_TXN_0290,2023-12-26,Call of Duty MW3
+A_TXN_0290,2023-12-26,Stardew Valley
+A_TXN_0291,2023-10-12,Total War: Warhammer III
+A_TXN_0291,2023-10-12,Stardew Valley OST
+A_TXN_0291,2023-10-12,Valorant
+A_TXN_0291,2023-10-12,Civilization VI
+A_TXN_0291,2023-10-12,Overwatch 2
+A_TXN_0292,2023-01-06,Red Dead Redemption 2
+A_TXN_0292,2023-01-06,Apex Legends
+A_TXN_0293,2023-04-08,Counter-Strike 2
+A_TXN_0293,2023-04-08,Death Stranding
+A_TXN_0294,2023-12-20,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0294,2023-12-20,Elden Ring
+A_TXN_0295,2023-09-01,Total War: Warhammer III
+A_TXN_0295,2023-09-01,Valorant
+A_TXN_0295,2023-09-01,Terraria
+A_TXN_0295,2023-09-01,Horizon Zero Dawn
+A_TXN_0295,2023-09-01,Red Dead Redemption 2
+A_TXN_0295,2023-09-01,Overwatch 2
+A_TXN_0295,2023-09-01,Elden Ring OST
+A_TXN_0296,2023-09-09,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0296,2023-09-09,Elden Ring OST
+A_TXN_0297,2023-07-27,Hades
+A_TXN_0297,2023-07-27,Celeste
+A_TXN_0297,2023-07-27,Hollow Knight
+A_TXN_0298,2023-06-06,Stardew Valley OST
+A_TXN_0299,2023-07-08,Elden Ring OST
+A_TXN_0299,2023-07-08,Stardew Valley
+A_TXN_0300,2023-08-31,Battlefield 2042
+A_TXN_0300,2023-08-31,God of War
+A_TXN_0300,2023-08-31,Death Stranding
+A_TXN_0301,2023-10-09,Horizon Zero Dawn
+A_TXN_0301,2023-10-09,God of War
+A_TXN_0302,2023-06-19,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0302,2023-06-19,Cyberpunk 2077
+A_TXN_0302,2023-06-19,Apex Legends
+A_TXN_0302,2023-06-19,Hades OST
+A_TXN_0303,2023-08-21,Stardew Valley OST
+A_TXN_0303,2023-08-21,Valorant
+A_TXN_0303,2023-08-21,Terraria
+A_TXN_0303,2023-08-21,God of War
+A_TXN_0303,2023-08-21,Civilization VI
+A_TXN_0304,2023-05-09,Cities: Skylines
+A_TXN_0304,2023-05-09,Planet Coaster
+A_TXN_0305,2023-04-29,Hollow Knight
+A_TXN_0305,2023-04-29,Death Stranding
+A_TXN_0306,2023-04-09,Hades
+A_TXN_0306,2023-04-09,Red Dead Redemption 2
+A_TXN_0306,2023-04-09,Celeste
+A_TXN_0307,2023-10-02,Cyberpunk 2077 OST
+A_TXN_0307,2023-10-02,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0307,2023-10-02,God of War
+A_TXN_0307,2023-10-02,Ghost of Tsushima
+A_TXN_0307,2023-10-02,The Witcher 3
+A_TXN_0308,2023-12-20,Cities: Skylines
+A_TXN_0308,2023-12-20,Valorant
+A_TXN_0308,2023-12-20,Hollow Knight
+A_TXN_0308,2023-12-20,Stardew Valley
+A_TXN_0308,2023-12-20,Red Dead Redemption 2
+A_TXN_0309,2023-04-21,God of War
+A_TXN_0309,2023-04-21,Ghost of Tsushima
+A_TXN_0310,2023-09-05,Battlefield 2042
+A_TXN_0310,2023-09-05,Red Dead Redemption 2
+A_TXN_0310,2023-09-05,Death Stranding
+A_TXN_0310,2023-09-05,Terraria
+A_TXN_0311,2023-10-29,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0311,2023-10-29,Elden Ring
+A_TXN_0312,2023-09-26,Hades
+A_TXN_0312,2023-09-26,Call of Duty MW3
+A_TXN_0312,2023-09-26,Planet Coaster
+A_TXN_0313,2023-02-21,Celeste
+A_TXN_0313,2023-02-21,Terraria
+A_TXN_0314,2023-06-01,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0314,2023-06-01,Cities: Skylines
+A_TXN_0315,2023-04-02,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0315,2023-04-02,Among Us
+A_TXN_0315,2023-04-02,Elden Ring
+A_TXN_0316,2023-12-29,Hades
+A_TXN_0316,2023-12-29,Stardew Valley
+A_TXN_0316,2023-12-29,Civilization VI
+A_TXN_0316,2023-12-29,Terraria
+A_TXN_0317,2023-05-21,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0317,2023-05-21,Cyberpunk 2077
+A_TXN_0318,2023-11-23,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0318,2023-11-23,Planet Coaster
+A_TXN_0318,2023-11-23,Elden Ring OST
+A_TXN_0318,2023-11-23,The Witcher 3
+A_TXN_0318,2023-11-23,Elden Ring
+A_TXN_0319,2023-09-09,Apex Legends
+A_TXN_0320,2023-05-26,Horizon Zero Dawn
+A_TXN_0320,2023-05-26,God of War
+A_TXN_0320,2023-05-26,Cities: Skylines
+A_TXN_0320,2023-05-26,Ghost of Tsushima
+A_TXN_0321,2023-08-29,Battlefield 2042
+A_TXN_0321,2023-08-29,Counter-Strike 2
+A_TXN_0321,2023-08-29,Hades
+A_TXN_0321,2023-08-29,Elden Ring
+A_TXN_0322,2023-05-10,Cyberpunk 2077 OST
+A_TXN_0322,2023-05-10,Total War: Warhammer III
+A_TXN_0322,2023-05-10,Terraria
+A_TXN_0322,2023-05-10,Hollow Knight
+A_TXN_0322,2023-05-10,Stardew Valley
+A_TXN_0322,2023-05-10,Ghost of Tsushima
+A_TXN_0322,2023-05-10,Red Dead Redemption 2
+A_TXN_0323,2023-07-25,Stardew Valley
+A_TXN_0323,2023-07-25,Civilization VI: New Frontier Pass
+A_TXN_0324,2023-10-23,Civilization VI
+A_TXN_0324,2023-10-23,Civilization VI: New Frontier Pass
+A_TXN_0325,2023-06-05,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0325,2023-06-05,Cyberpunk 2077
+A_TXN_0325,2023-06-05,Cyberpunk 2077 OST
+A_TXN_0326,2023-05-08,Stardew Valley
+A_TXN_0326,2023-05-08,Among Us
+A_TXN_0327,2023-08-02,Hades
+A_TXN_0327,2023-08-02,Celeste
+A_TXN_0328,2023-09-25,Hades
+A_TXN_0328,2023-09-25,Celeste
+A_TXN_0329,2023-08-15,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0329,2023-08-15,Cyberpunk 2077
+A_TXN_0330,2023-10-29,Counter-Strike 2
+A_TXN_0330,2023-10-29,Call of Duty MW3
+A_TXN_0330,2023-10-29,Civilization VI
+A_TXN_0330,2023-10-29,Hades OST
+A_TXN_0330,2023-10-29,Hades
+A_TXN_0330,2023-10-29,The Witcher 3
+A_TXN_0330,2023-10-29,Elden Ring
+A_TXN_0331,2023-06-06,Overwatch 2
+A_TXN_0331,2023-06-06,Stardew Valley OST
+A_TXN_0331,2023-06-06,Terraria
+A_TXN_0331,2023-06-06,Ghost of Tsushima
+A_TXN_0332,2023-10-19,Overwatch 2
+A_TXN_0332,2023-10-19,God of War
+A_TXN_0333,2023-11-09,Red Dead Redemption 2
+A_TXN_0333,2023-11-09,Death Stranding
+A_TXN_0333,2023-11-09,Stardew Valley
+A_TXN_0333,2023-11-09,Terraria
+A_TXN_0334,2023-02-20,Elden Ring OST
+A_TXN_0334,2023-02-20,The Witcher 3
+A_TXN_0335,2023-04-17,Overwatch 2
+A_TXN_0335,2023-04-17,Elden Ring OST
+A_TXN_0336,2023-05-16,Stardew Valley OST
+A_TXN_0336,2023-05-16,Valorant
+A_TXN_0336,2023-05-16,Ghost of Tsushima
+A_TXN_0337,2023-03-22,The Witcher 3: Blood and Wine DLC
+A_TXN_0337,2023-03-22,Death Stranding
+A_TXN_0338,2023-12-19,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0338,2023-12-19,The Witcher 3
+A_TXN_0338,2023-12-19,Elden Ring
+A_TXN_0339,2023-11-01,Call of Duty MW3
+A_TXN_0339,2023-11-01,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0339,2023-11-01,Apex Legends
+A_TXN_0340,2023-05-28,Total War: Warhammer III
+A_TXN_0340,2023-05-28,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0340,2023-05-28,God of War
+A_TXN_0340,2023-05-28,Stardew Valley
+A_TXN_0340,2023-05-28,Horizon Zero Dawn
+A_TXN_0340,2023-05-28,The Witcher 3
+A_TXN_0341,2023-12-26,Civilization VI: New Frontier Pass
+A_TXN_0342,2023-02-06,Cities: Skylines
+A_TXN_0342,2023-02-06,Call of Duty MW3
+A_TXN_0342,2023-02-06,The Witcher 3
+A_TXN_0343,2023-05-16,Terraria
+A_TXN_0344,2023-11-17,Horizon Zero Dawn
+A_TXN_0344,2023-11-17,Call of Duty MW3
+A_TXN_0345,2023-04-12,Celeste
+A_TXN_0346,2023-10-06,Counter-Strike 2
+A_TXN_0346,2023-10-06,Cities: Skylines
+A_TXN_0347,2023-01-31,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0347,2023-01-31,The Witcher 3
+A_TXN_0347,2023-01-31,Elden Ring OST
+A_TXN_0347,2023-01-31,Cyberpunk 2077
+A_TXN_0347,2023-01-31,Elden Ring
+A_TXN_0348,2023-06-07,Counter-Strike 2
+A_TXN_0348,2023-06-07,Valorant
+A_TXN_0349,2023-08-13,Hades
+A_TXN_0349,2023-08-13,Counter-Strike 2
+A_TXN_0350,2023-12-19,Total War: Warhammer III
+A_TXN_0350,2023-12-19,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0350,2023-12-19,Elden Ring
+A_TXN_0351,2023-06-05,Call of Duty MW3
+A_TXN_0352,2023-12-25,Death Stranding
+A_TXN_0353,2023-08-13,Celeste
+A_TXN_0353,2023-08-13,Battlefield 2042
+A_TXN_0353,2023-08-13,The Witcher 3
+A_TXN_0353,2023-08-13,Hades
+A_TXN_0353,2023-08-13,The Witcher 3: Blood and Wine DLC
+A_TXN_0353,2023-08-13,Among Us
+A_TXN_0353,2023-08-13,Elden Ring
+A_TXN_0354,2023-02-11,Battlefield 2042
+A_TXN_0354,2023-02-11,Red Dead Redemption 2
+A_TXN_0355,2023-01-14,Cyberpunk 2077
+A_TXN_0355,2023-01-14,Elden Ring
+A_TXN_0356,2023-10-22,The Witcher 3
+A_TXN_0356,2023-10-22,Elden Ring
+A_TXN_0357,2023-01-11,Cities: Skylines
+A_TXN_0357,2023-01-11,Terraria
+A_TXN_0357,2023-01-11,Horizon Zero Dawn
+A_TXN_0358,2023-12-11,Red Dead Redemption 2
+A_TXN_0359,2023-10-23,Among Us
+A_TXN_0359,2023-10-23,Elden Ring
+A_TXN_0359,2023-10-23,Civilization VI: New Frontier Pass
+A_TXN_0360,2023-03-31,Hollow Knight
+A_TXN_0360,2023-03-31,Hades
+A_TXN_0361,2023-11-30,Cities: Skylines
+A_TXN_0361,2023-11-30,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0361,2023-11-30,Among Us
+A_TXN_0361,2023-11-30,Cyberpunk 2077
+A_TXN_0362,2023-05-23,Red Dead Redemption 2
+A_TXN_0362,2023-05-23,Cities: Skylines
+A_TXN_0363,2023-10-27,Cities: Skylines
+A_TXN_0363,2023-10-27,Hollow Knight
+A_TXN_0363,2023-10-27,Stardew Valley
+A_TXN_0363,2023-10-27,Hades
+A_TXN_0363,2023-10-27,Overwatch 2
+A_TXN_0364,2023-02-16,Red Dead Redemption 2
+A_TXN_0364,2023-02-16,Civilization VI
+A_TXN_0364,2023-02-16,Civilization VI: New Frontier Pass
+A_TXN_0365,2023-07-29,Ghost of Tsushima
+A_TXN_0366,2023-12-10,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0366,2023-12-10,Cyberpunk 2077
+A_TXN_0367,2023-03-24,Hades
+A_TXN_0367,2023-03-24,Hades OST
+A_TXN_0368,2023-05-28,God of War
+A_TXN_0368,2023-05-28,Ghost of Tsushima
+A_TXN_0369,2023-01-19,Battlefield 2042
+A_TXN_0369,2023-01-19,Stardew Valley
+A_TXN_0369,2023-01-19,Among Us
+A_TXN_0369,2023-01-19,Hollow Knight
+A_TXN_0370,2023-06-11,Stardew Valley OST
+A_TXN_0370,2023-06-11,Hades OST
+A_TXN_0371,2023-03-01,Horizon Zero Dawn
+A_TXN_0371,2023-03-01,God of War
+A_TXN_0371,2023-03-01,Terraria
+A_TXN_0372,2023-12-03,Elden Ring
+A_TXN_0373,2023-10-05,Call of Duty MW3
+A_TXN_0373,2023-10-05,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0374,2023-09-23,Overwatch 2
+A_TXN_0374,2023-09-23,Total War: Warhammer III
+A_TXN_0374,2023-09-23,Civilization VI
+A_TXN_0374,2023-09-23,Civilization VI: New Frontier Pass
+A_TXN_0375,2023-07-05,Stardew Valley OST
+A_TXN_0375,2023-07-05,Apex Legends
+A_TXN_0376,2023-09-13,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0377,2023-11-17,Overwatch 2
+A_TXN_0377,2023-11-17,Call of Duty MW3
+A_TXN_0377,2023-11-17,Among Us
+A_TXN_0378,2023-01-27,Overwatch 2
+A_TXN_0378,2023-01-27,Ghost of Tsushima
+A_TXN_0378,2023-01-27,Hades
+A_TXN_0378,2023-01-27,The Witcher 3: Blood and Wine DLC
+A_TXN_0378,2023-01-27,The Witcher 3
+A_TXN_0379,2023-10-09,God of War
+A_TXN_0379,2023-10-09,Stardew Valley
+A_TXN_0379,2023-10-09,Civilization VI
+A_TXN_0379,2023-10-09,Hades
+A_TXN_0379,2023-10-09,Horizon Zero Dawn
+A_TXN_0380,2023-05-28,Stardew Valley
+A_TXN_0380,2023-05-28,Among Us
+A_TXN_0381,2023-03-04,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0381,2023-03-04,Call of Duty MW3
+A_TXN_0381,2023-03-04,God of War
+A_TXN_0381,2023-03-04,Hades OST
+A_TXN_0381,2023-03-04,Death Stranding
+A_TXN_0382,2023-11-19,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0382,2023-11-19,Cyberpunk 2077
+A_TXN_0383,2023-11-08,Battlefield 2042
+A_TXN_0383,2023-11-08,Apex Legends
+A_TXN_0384,2023-06-09,God of War
+A_TXN_0384,2023-06-09,Hades OST
+A_TXN_0384,2023-06-09,Valorant
+A_TXN_0385,2023-02-28,Stardew Valley
+A_TXN_0385,2023-02-28,Among Us
+A_TXN_0386,2023-03-02,Total War: Warhammer III
+A_TXN_0386,2023-03-02,The Witcher 3
+A_TXN_0387,2023-11-28,Battlefield 2042
+A_TXN_0387,2023-11-28,God of War
+A_TXN_0387,2023-11-28,Overwatch 2
+A_TXN_0387,2023-11-28,Death Stranding
+A_TXN_0387,2023-11-28,Cyberpunk 2077
+A_TXN_0387,2023-11-28,Apex Legends
+A_TXN_0388,2023-03-20,Hades
+A_TXN_0388,2023-03-20,Overwatch 2
+A_TXN_0388,2023-03-20,Among Us
+A_TXN_0388,2023-03-20,Ghost of Tsushima
+A_TXN_0389,2023-09-18,God of War
+A_TXN_0390,2023-09-05,Civilization VI
+A_TXN_0391,2023-08-30,Cities: Skylines
+A_TXN_0391,2023-08-30,Call of Duty MW3
+A_TXN_0391,2023-08-30,Planet Coaster
+A_TXN_0392,2023-10-10,Horizon Zero Dawn
+A_TXN_0392,2023-10-10,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0392,2023-10-10,Elden Ring
+A_TXN_0393,2023-04-08,God of War
+A_TXN_0393,2023-04-08,Ghost of Tsushima
+A_TXN_0394,2023-09-18,Hollow Knight
+A_TXN_0395,2023-08-01,Counter-Strike 2
+A_TXN_0395,2023-08-01,Civilization VI: New Frontier Pass
+A_TXN_0395,2023-08-01,Overwatch 2
+A_TXN_0395,2023-08-01,Elden Ring OST
+A_TXN_0395,2023-08-01,The Witcher 3
+A_TXN_0395,2023-08-01,Elden Ring
+A_TXN_0396,2023-06-02,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0396,2023-06-02,Cyberpunk 2077
+A_TXN_0396,2023-06-02,The Witcher 3
+A_TXN_0396,2023-06-02,Elden Ring
+A_TXN_0397,2023-10-24,Stardew Valley OST
+A_TXN_0398,2023-06-26,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0398,2023-06-26,Stardew Valley
+A_TXN_0398,2023-06-26,Overwatch 2
+A_TXN_0398,2023-06-26,Elden Ring OST
+A_TXN_0398,2023-06-26,The Witcher 3
+A_TXN_0398,2023-06-26,Elden Ring
+A_TXN_0399,2023-06-20,Call of Duty MW3
+A_TXN_0399,2023-06-20,The Witcher 3
+A_TXN_0399,2023-06-20,Terraria
+A_TXN_0400,2023-10-06,Counter-Strike 2
+A_TXN_0401,2023-06-14,Horizon Zero Dawn
+A_TXN_0401,2023-06-14,God of War
+A_TXN_0401,2023-06-14,Hades OST
+A_TXN_0401,2023-06-14,Terraria
+A_TXN_0402,2023-12-24,Terraria
+A_TXN_0403,2023-07-16,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0403,2023-07-16,Elden Ring
+A_TXN_0404,2023-07-30,Stardew Valley
+A_TXN_0404,2023-07-30,Terraria
+A_TXN_0405,2023-08-31,Battlefield 2042
+A_TXN_0405,2023-08-31,Terraria
+A_TXN_0405,2023-08-31,Elden Ring OST
+A_TXN_0405,2023-08-31,Elden Ring
+A_TXN_0406,2023-07-15,Celeste
+A_TXN_0406,2023-07-15,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0406,2023-07-15,Elden Ring
+A_TXN_0407,2023-12-06,Stardew Valley OST
+A_TXN_0407,2023-12-06,Valorant
+A_TXN_0407,2023-12-06,Terraria
+A_TXN_0407,2023-12-06,Stardew Valley
+A_TXN_0407,2023-12-06,Red Dead Redemption 2
+A_TXN_0407,2023-12-06,Horizon Zero Dawn
+A_TXN_0408,2023-11-30,Hades OST
+A_TXN_0409,2023-09-11,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0409,2023-09-11,Total War: Warhammer III
+A_TXN_0410,2023-10-30,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0410,2023-10-30,Total War: Warhammer III
+A_TXN_0410,2023-10-30,Civilization VI
+A_TXN_0411,2023-02-21,Counter-Strike 2
+A_TXN_0411,2023-02-21,Terraria
+A_TXN_0412,2023-08-14,Cities: Skylines
+A_TXN_0412,2023-08-14,Total War: Warhammer III
+A_TXN_0412,2023-08-14,Overwatch 2
+A_TXN_0412,2023-08-14,The Witcher 3
+A_TXN_0413,2023-12-02,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0413,2023-12-02,Cyberpunk 2077
+A_TXN_0413,2023-12-02,The Witcher 3
+A_TXN_0413,2023-12-02,Elden Ring
+A_TXN_0414,2023-03-21,Valorant
+A_TXN_0414,2023-03-21,Apex Legends
+A_TXN_0415,2023-05-16,Counter-Strike 2
+A_TXN_0415,2023-05-16,Overwatch 2
+A_TXN_0415,2023-05-16,Valorant
+A_TXN_0416,2023-06-23,Death Stranding
+A_TXN_0416,2023-06-23,Apex Legends
+A_TXN_0417,2023-06-18,Hades
+A_TXN_0417,2023-06-18,Celeste
+A_TXN_0417,2023-06-18,Hollow Knight
+A_TXN_0418,2023-06-12,Hades
+A_TXN_0418,2023-06-12,Call of Duty MW3
+A_TXN_0418,2023-06-12,Valorant
+A_TXN_0419,2023-11-17,Valorant
+A_TXN_0419,2023-11-17,Battlefield 2042
+A_TXN_0419,2023-11-17,Call of Duty MW3
+A_TXN_0419,2023-11-17,Elden Ring
+A_TXN_0419,2023-11-17,Apex Legends
+A_TXN_0420,2023-09-07,Hollow Knight
+A_TXN_0420,2023-09-07,Celeste
+A_TXN_0421,2023-01-19,Cities: Skylines
+A_TXN_0421,2023-01-19,Total War: Warhammer III
+A_TXN_0421,2023-01-19,Among Us
+A_TXN_0422,2023-04-27,The Witcher 3: Blood and Wine DLC
+A_TXN_0422,2023-04-27,Stardew Valley
+A_TXN_0422,2023-04-27,Horizon Zero Dawn
+A_TXN_0422,2023-04-27,Elden Ring OST
+A_TXN_0422,2023-04-27,Cyberpunk 2077
+A_TXN_0422,2023-04-27,Elden Ring
+A_TXN_0423,2023-08-11,Cyberpunk 2077
+A_TXN_0423,2023-08-11,Civilization VI: New Frontier Pass
+A_TXN_0424,2023-02-20,Cities: Skylines
+A_TXN_0424,2023-02-20,Counter-Strike 2
+A_TXN_0424,2023-02-20,Call of Duty MW3
+A_TXN_0424,2023-02-20,Ghost of Tsushima
+A_TXN_0424,2023-02-20,Red Dead Redemption 2
+A_TXN_0424,2023-02-20,Apex Legends
+A_TXN_0425,2023-12-27,Counter-Strike 2
+A_TXN_0425,2023-12-27,Hades
+A_TXN_0425,2023-12-27,Among Us
+A_TXN_0426,2023-08-16,The Witcher 3
+A_TXN_0426,2023-08-16,Valorant
+A_TXN_0427,2023-06-03,Stardew Valley
+A_TXN_0427,2023-06-03,Terraria
+A_TXN_0428,2023-01-24,Hollow Knight
+A_TXN_0429,2023-06-16,Red Dead Redemption 2
+A_TXN_0429,2023-06-16,Cyberpunk 2077 OST
+A_TXN_0429,2023-06-16,Celeste
+A_TXN_0429,2023-06-16,Ghost of Tsushima
+A_TXN_0430,2023-05-31,Hollow Knight
+A_TXN_0430,2023-05-31,Cities: Skylines
+A_TXN_0430,2023-05-31,Cyberpunk 2077
+A_TXN_0431,2023-08-09,Hades
+A_TXN_0431,2023-08-09,Cities: Skylines
+A_TXN_0431,2023-08-09,Elden Ring OST
+A_TXN_0432,2023-03-16,Valorant
+A_TXN_0432,2023-03-16,Planet Coaster
+A_TXN_0432,2023-03-16,Hades
+A_TXN_0432,2023-03-16,Horizon Zero Dawn
+A_TXN_0432,2023-03-16,Death Stranding
+A_TXN_0433,2023-05-06,Total War: Warhammer III
+A_TXN_0433,2023-05-06,Planet Coaster
+A_TXN_0433,2023-05-06,Ghost of Tsushima
+A_TXN_0433,2023-05-06,Death Stranding
+A_TXN_0433,2023-05-06,Apex Legends
+A_TXN_0434,2023-10-17,Red Dead Redemption 2
+A_TXN_0434,2023-10-17,Terraria
+A_TXN_0435,2023-12-16,Hades
+A_TXN_0435,2023-12-16,Overwatch 2
+A_TXN_0435,2023-12-16,God of War
+A_TXN_0436,2023-03-29,Red Dead Redemption 2
+A_TXN_0436,2023-03-29,Horizon Zero Dawn
+A_TXN_0436,2023-03-29,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0436,2023-03-29,Elden Ring
+A_TXN_0437,2023-12-16,Hades
+A_TXN_0437,2023-12-16,Hades OST
+A_TXN_0437,2023-12-16,Hollow Knight
+A_TXN_0438,2023-10-26,Counter-Strike 2
+A_TXN_0438,2023-10-26,Valorant
+A_TXN_0439,2023-03-15,Battlefield 2042
+A_TXN_0439,2023-03-15,The Witcher 3
+A_TXN_0439,2023-03-15,Stardew Valley OST
+A_TXN_0440,2023-11-23,Counter-Strike 2
+A_TXN_0440,2023-11-23,Overwatch 2
+A_TXN_0440,2023-11-23,Valorant
+A_TXN_0441,2023-05-11,The Witcher 3
+A_TXN_0441,2023-05-11,Stardew Valley
+A_TXN_0441,2023-05-11,Stardew Valley OST
+A_TXN_0441,2023-05-11,Terraria
+A_TXN_0442,2023-08-27,Among Us
+A_TXN_0443,2023-12-13,Red Dead Redemption 2
+A_TXN_0443,2023-12-13,Cyberpunk 2077
+A_TXN_0443,2023-12-13,Ghost of Tsushima
+A_TXN_0444,2023-02-07,Counter-Strike 2
+A_TXN_0444,2023-02-07,Horizon Zero Dawn
+A_TXN_0444,2023-02-07,Death Stranding
+A_TXN_0444,2023-02-07,Cyberpunk 2077
+A_TXN_0444,2023-02-07,Apex Legends
+A_TXN_0445,2023-08-06,Cities: Skylines
+A_TXN_0445,2023-08-06,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0445,2023-08-06,Cyberpunk 2077
+A_TXN_0446,2023-08-22,Hollow Knight
+A_TXN_0446,2023-08-22,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0447,2023-04-12,Hollow Knight
+A_TXN_0447,2023-04-12,Counter-Strike 2
+A_TXN_0447,2023-04-12,Apex Legends
+A_TXN_0448,2023-09-05,Celeste
+A_TXN_0448,2023-09-05,Stardew Valley
+A_TXN_0448,2023-09-05,Stardew Valley OST
+A_TXN_0449,2023-02-24,Cyberpunk 2077 OST
+A_TXN_0449,2023-02-24,Call of Duty MW3
+A_TXN_0449,2023-02-24,Celeste
+A_TXN_0449,2023-02-24,Cyberpunk 2077
+A_TXN_0450,2023-10-20,Stardew Valley
+A_TXN_0450,2023-10-20,Terraria
+A_TXN_0451,2023-06-01,Hollow Knight
+A_TXN_0451,2023-06-01,Hades
+A_TXN_0452,2023-12-25,Overwatch 2
+A_TXN_0453,2023-06-01,Terraria
+A_TXN_0453,2023-06-01,Cities: Skylines
+A_TXN_0453,2023-06-01,Apex Legends
+A_TXN_0453,2023-06-01,Civilization VI: New Frontier Pass
+A_TXN_0454,2023-12-04,Counter-Strike 2
+A_TXN_0454,2023-12-04,Valorant
+A_TXN_0455,2023-01-05,Stardew Valley OST
+A_TXN_0456,2023-12-18,Battlefield 2042
+A_TXN_0456,2023-12-18,Planet Coaster
+A_TXN_0456,2023-12-18,Hollow Knight
+A_TXN_0456,2023-12-18,Stardew Valley
+A_TXN_0456,2023-12-18,Red Dead Redemption 2
+A_TXN_0457,2023-09-12,Total War: Warhammer III
+A_TXN_0457,2023-09-12,Among Us
+A_TXN_0457,2023-09-12,The Witcher 3
+A_TXN_0457,2023-09-12,Planet Coaster
+A_TXN_0458,2023-05-27,Counter-Strike 2
+A_TXN_0459,2023-04-28,Red Dead Redemption 2
+A_TXN_0459,2023-04-28,Apex Legends
+A_TXN_0460,2023-06-30,Valorant
+A_TXN_0460,2023-06-30,Counter-Strike 2
+A_TXN_0460,2023-06-30,Battlefield 2042
+A_TXN_0460,2023-06-30,Hollow Knight
+A_TXN_0460,2023-06-30,Hades
+A_TXN_0460,2023-06-30,Overwatch 2
+A_TXN_0461,2023-04-23,Stardew Valley OST
+A_TXN_0461,2023-04-23,Battlefield 2042
+A_TXN_0461,2023-04-23,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0461,2023-04-23,Civilization VI: New Frontier Pass
+A_TXN_0461,2023-04-23,Horizon Zero Dawn
+A_TXN_0462,2023-11-14,Cities: Skylines
+A_TXN_0463,2023-12-04,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0463,2023-12-04,Cyberpunk 2077
+A_TXN_0464,2023-03-12,Cities: Skylines
+A_TXN_0464,2023-03-12,Valorant
+A_TXN_0464,2023-03-12,Counter-Strike 2
+A_TXN_0464,2023-03-12,God of War
+A_TXN_0464,2023-03-12,Red Dead Redemption 2
+A_TXN_0465,2023-11-18,Stardew Valley
+A_TXN_0465,2023-11-18,Hades OST
+A_TXN_0465,2023-11-18,Apex Legends
+A_TXN_0466,2023-08-14,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0466,2023-08-14,Cyberpunk 2077
+A_TXN_0466,2023-08-14,The Witcher 3
+A_TXN_0466,2023-08-14,Elden Ring
+A_TXN_0467,2023-01-18,Total War: Warhammer III
+A_TXN_0467,2023-01-18,Battlefield 2042
+A_TXN_0467,2023-01-18,Call of Duty MW3
+A_TXN_0467,2023-01-18,God of War
+A_TXN_0467,2023-01-18,Hades
+A_TXN_0468,2023-06-01,Cyberpunk 2077
+A_TXN_0468,2023-06-01,The Witcher 3
+A_TXN_0469,2023-07-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0469,2023-07-07,Cyberpunk 2077
+A_TXN_0469,2023-07-07,Elden Ring
+A_TXN_0469,2023-07-07,Cyberpunk 2077 OST
+A_TXN_0470,2023-05-12,The Witcher 3
+A_TXN_0471,2023-09-04,Cyberpunk 2077 OST
+A_TXN_0471,2023-09-04,Counter-Strike 2
+A_TXN_0471,2023-09-04,Battlefield 2042
+A_TXN_0471,2023-09-04,Hollow Knight
+A_TXN_0471,2023-09-04,Red Dead Redemption 2
+A_TXN_0471,2023-09-04,Overwatch 2
+A_TXN_0472,2023-06-01,Hades
+A_TXN_0472,2023-06-01,Horizon Zero Dawn
+A_TXN_0472,2023-06-01,Stardew Valley
+A_TXN_0473,2023-03-14,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0473,2023-03-14,Cyberpunk 2077
+A_TXN_0473,2023-03-14,Cyberpunk 2077 OST
+A_TXN_0474,2023-04-26,Stardew Valley OST
+A_TXN_0474,2023-04-26,Call of Duty MW3
+A_TXN_0474,2023-04-26,Cyberpunk 2077
+A_TXN_0474,2023-04-26,Terraria
+A_TXN_0475,2023-12-13,Cyberpunk 2077
+A_TXN_0475,2023-12-13,Counter-Strike 2
+A_TXN_0475,2023-12-13,Battlefield 2042
+A_TXN_0475,2023-12-13,Terraria
+A_TXN_0475,2023-12-13,Red Dead Redemption 2
+A_TXN_0475,2023-12-13,Death Stranding
+A_TXN_0475,2023-12-13,The Witcher 3
+A_TXN_0476,2023-07-23,Cities: Skylines
+A_TXN_0476,2023-07-23,Counter-Strike 2
+A_TXN_0476,2023-07-23,Hollow Knight
+A_TXN_0476,2023-07-23,Stardew Valley
+A_TXN_0476,2023-07-23,Hades
+A_TXN_0476,2023-07-23,Overwatch 2
+A_TXN_0476,2023-07-23,The Witcher 3
+A_TXN_0477,2023-10-13,Valorant
+A_TXN_0477,2023-10-13,Planet Coaster
+A_TXN_0477,2023-10-13,Horizon Zero Dawn
+A_TXN_0477,2023-10-13,Overwatch 2
+A_TXN_0477,2023-10-13,Apex Legends
+A_TXN_0478,2023-07-22,Total War: Warhammer III
+A_TXN_0478,2023-07-22,Valorant
+A_TXN_0478,2023-07-22,Civilization VI
+A_TXN_0478,2023-07-22,Elden Ring
+A_TXN_0479,2023-12-11,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0479,2023-12-11,Elden Ring
+A_TXN_0479,2023-12-11,Ghost of Tsushima
+A_TXN_0480,2023-07-10,Hollow Knight
+A_TXN_0480,2023-07-10,The Witcher 3: Blood and Wine DLC
+A_TXN_0480,2023-07-10,The Witcher 3
+A_TXN_0480,2023-07-10,Elden Ring
+A_TXN_0481,2023-10-15,Elden Ring OST
+A_TXN_0481,2023-10-15,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0481,2023-10-15,The Witcher 3
+A_TXN_0481,2023-10-15,Elden Ring
+A_TXN_0482,2023-11-09,Hades
+A_TXN_0482,2023-11-09,Hades OST
+A_TXN_0483,2023-02-02,Red Dead Redemption 2
+A_TXN_0483,2023-02-02,Cyberpunk 2077 OST
+A_TXN_0483,2023-02-02,Call of Duty MW3
+A_TXN_0483,2023-02-02,Cyberpunk 2077
+A_TXN_0484,2023-11-22,Red Dead Redemption 2
+A_TXN_0484,2023-11-22,Overwatch 2
+A_TXN_0484,2023-11-22,Planet Coaster
+A_TXN_0485,2023-07-29,Counter-Strike 2
+A_TXN_0485,2023-07-29,Cyberpunk 2077
+A_TXN_0485,2023-07-29,The Witcher 3
+A_TXN_0486,2023-03-01,Total War: Warhammer III
+A_TXN_0486,2023-03-01,The Witcher 3: Blood and Wine DLC
+A_TXN_0486,2023-03-01,Call of Duty MW3
+A_TXN_0486,2023-03-01,Valorant
+A_TXN_0487,2023-01-20,Total War: Warhammer III
+A_TXN_0487,2023-01-20,Counter-Strike 2
+A_TXN_0487,2023-01-20,Terraria
+A_TXN_0487,2023-01-20,Civilization VI
+A_TXN_0487,2023-01-20,Ghost of Tsushima
+A_TXN_0487,2023-01-20,Overwatch 2
+A_TXN_0488,2023-03-11,The Witcher 3: Blood and Wine DLC
+A_TXN_0488,2023-03-11,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0488,2023-03-11,The Witcher 3
+A_TXN_0488,2023-03-11,Elden Ring
+A_TXN_0489,2023-12-23,The Witcher 3: Blood and Wine DLC
+A_TXN_0489,2023-12-23,Stardew Valley
+A_TXN_0490,2023-03-21,Hades
+A_TXN_0490,2023-03-21,Cyberpunk 2077
+A_TXN_0490,2023-03-21,Hollow Knight
+A_TXN_0491,2023-11-12,Battlefield 2042
+A_TXN_0491,2023-11-12,Civilization VI
+A_TXN_0491,2023-11-12,The Witcher 3
+A_TXN_0492,2023-08-16,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0492,2023-08-16,The Witcher 3
+A_TXN_0492,2023-08-16,Elden Ring
+A_TXN_0493,2023-05-01,Among Us
+A_TXN_0494,2023-11-27,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0494,2023-11-27,Cyberpunk 2077
+A_TXN_0495,2023-07-23,Cyberpunk 2077 OST
+A_TXN_0496,2023-05-22,Counter-Strike 2
+A_TXN_0496,2023-05-22,Total War: Warhammer III
+A_TXN_0496,2023-05-22,Stardew Valley
+A_TXN_0496,2023-05-22,Apex Legends
+A_TXN_0497,2023-08-21,Horizon Zero Dawn
+A_TXN_0497,2023-08-21,God of War
+A_TXN_0497,2023-08-21,Ghost of Tsushima
+A_TXN_0498,2023-01-11,Stardew Valley
+A_TXN_0498,2023-01-11,Stardew Valley OST
+A_TXN_0498,2023-01-11,Terraria
+A_TXN_0499,2023-06-20,Red Dead Redemption 2
+A_TXN_0499,2023-06-20,God of War
+A_TXN_0499,2023-06-20,Elden Ring
+A_TXN_0499,2023-06-20,Ghost of Tsushima
+A_TXN_0500,2023-03-06,Total War: Warhammer III
+A_TXN_0500,2023-03-06,Valorant
+A_TXN_0500,2023-03-06,Counter-Strike 2
+A_TXN_0500,2023-03-06,Stardew Valley
+A_TXN_0500,2023-03-06,Horizon Zero Dawn
+A_TXN_0500,2023-03-06,The Witcher 3
+A_TXN_0501,2023-04-16,Hollow Knight
+A_TXN_0501,2023-04-16,Total War: Warhammer III
+A_TXN_0501,2023-04-16,Stardew Valley
+A_TXN_0502,2023-10-11,Hades
+A_TXN_0502,2023-10-11,Hades OST
+A_TXN_0503,2023-04-21,Counter-Strike 2
+A_TXN_0503,2023-04-21,Hades
+A_TXN_0503,2023-04-21,Hades OST
+A_TXN_0503,2023-04-21,Valorant
+A_TXN_0504,2023-03-17,Cities: Skylines
+A_TXN_0504,2023-03-17,Total War: Warhammer III
+A_TXN_0504,2023-03-17,Civilization VI
+A_TXN_0505,2023-03-16,The Witcher 3: Blood and Wine DLC
+A_TXN_0505,2023-03-16,Cyberpunk 2077
+A_TXN_0505,2023-03-16,The Witcher 3
+A_TXN_0506,2023-10-04,Death Stranding
+A_TXN_0506,2023-10-04,Civilization VI: New Frontier Pass
+A_TXN_0507,2023-05-09,Hades
+A_TXN_0507,2023-05-09,Overwatch 2
+A_TXN_0508,2023-03-31,Counter-Strike 2
+A_TXN_0508,2023-03-31,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0508,2023-03-31,Stardew Valley
+A_TXN_0508,2023-03-31,Horizon Zero Dawn
+A_TXN_0508,2023-03-31,Death Stranding
+A_TXN_0508,2023-03-31,The Witcher 3
+A_TXN_0509,2023-01-14,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0509,2023-01-14,Civilization VI: New Frontier Pass
+A_TXN_0509,2023-01-14,Elden Ring
+A_TXN_0509,2023-01-14,Ghost of Tsushima
+A_TXN_0510,2023-03-09,Total War: Warhammer III
+A_TXN_0510,2023-03-09,Call of Duty MW3
+A_TXN_0510,2023-03-09,Among Us
+A_TXN_0510,2023-03-09,Planet Coaster
+A_TXN_0511,2023-05-02,Hollow Knight
+A_TXN_0511,2023-05-02,God of War
+A_TXN_0511,2023-05-02,Ghost of Tsushima
+A_TXN_0512,2023-01-09,Cities: Skylines
+A_TXN_0512,2023-01-09,Cyberpunk 2077
+A_TXN_0512,2023-01-09,God of War
+A_TXN_0512,2023-01-09,Civilization VI: New Frontier Pass
+A_TXN_0512,2023-01-09,Horizon Zero Dawn
+A_TXN_0512,2023-01-09,Among Us
+A_TXN_0512,2023-01-09,The Witcher 3
+A_TXN_0513,2023-01-27,Cities: Skylines
+A_TXN_0513,2023-01-27,Civilization VI
+A_TXN_0513,2023-01-27,Planet Coaster
+A_TXN_0514,2023-02-02,Hades
+A_TXN_0514,2023-02-02,Celeste
+A_TXN_0514,2023-02-02,Hades OST
+A_TXN_0515,2023-07-05,Counter-Strike 2
+A_TXN_0515,2023-07-05,Celeste
+A_TXN_0515,2023-07-05,Terraria
+A_TXN_0516,2023-11-11,Total War: Warhammer III
+A_TXN_0516,2023-11-11,Terraria
+A_TXN_0516,2023-11-11,Call of Duty MW3
+A_TXN_0516,2023-11-11,God of War
+A_TXN_0516,2023-11-11,Stardew Valley
+A_TXN_0517,2023-12-04,God of War
+A_TXN_0517,2023-12-04,Ghost of Tsushima
+A_TXN_0518,2023-08-23,Red Dead Redemption 2
+A_TXN_0518,2023-08-23,Cities: Skylines
+A_TXN_0518,2023-08-23,Stardew Valley OST
+A_TXN_0518,2023-08-23,Valorant
+A_TXN_0519,2023-01-16,Hollow Knight
+A_TXN_0519,2023-01-16,Civilization VI
+A_TXN_0520,2023-07-25,God of War
+A_TXN_0520,2023-07-25,Apex Legends
+A_TXN_0520,2023-07-25,Ghost of Tsushima
+A_TXN_0521,2023-02-25,Hollow Knight
+A_TXN_0521,2023-02-25,Total War: Warhammer III
+A_TXN_0521,2023-02-25,Civilization VI
+A_TXN_0521,2023-02-25,Elden Ring
+A_TXN_0522,2023-08-16,Cyberpunk 2077 OST
+A_TXN_0522,2023-08-16,Apex Legends
+A_TXN_0523,2023-02-03,The Witcher 3: Blood and Wine DLC
+A_TXN_0523,2023-02-03,The Witcher 3
+A_TXN_0523,2023-02-03,Elden Ring
+A_TXN_0524,2023-11-16,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0524,2023-11-16,Cyberpunk 2077
+A_TXN_0525,2023-11-21,Valorant
+A_TXN_0525,2023-11-21,Terraria
+A_TXN_0525,2023-11-21,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0525,2023-11-21,Hades
+A_TXN_0525,2023-11-21,Overwatch 2
+A_TXN_0525,2023-11-21,Among Us
+A_TXN_0525,2023-11-21,Apex Legends
+A_TXN_0526,2023-11-02,Hades
+A_TXN_0527,2023-08-21,Red Dead Redemption 2
+A_TXN_0527,2023-08-21,Cities: Skylines
+A_TXN_0528,2023-09-16,Call of Duty MW3
+A_TXN_0528,2023-09-16,Stardew Valley
+A_TXN_0528,2023-09-16,Cyberpunk 2077
+A_TXN_0529,2023-02-20,Hades
+A_TXN_0529,2023-02-20,Celeste
+A_TXN_0529,2023-02-20,Terraria
+A_TXN_0530,2023-02-28,Battlefield 2042
+A_TXN_0530,2023-02-28,Planet Coaster
+A_TXN_0530,2023-02-28,Cyberpunk 2077
+A_TXN_0530,2023-02-28,Ghost of Tsushima
+A_TXN_0531,2023-12-02,Apex Legends
+A_TXN_0532,2023-10-10,Battlefield 2042
+A_TXN_0532,2023-10-10,Cities: Skylines
+A_TXN_0532,2023-10-10,Overwatch 2
+A_TXN_0532,2023-10-10,Among Us
+A_TXN_0533,2023-04-21,Apex Legends
+A_TXN_0534,2023-08-09,Red Dead Redemption 2
+A_TXN_0534,2023-08-09,Death Stranding
+A_TXN_0535,2023-06-23,Total War: Warhammer III
+A_TXN_0535,2023-06-23,Civilization VI
+A_TXN_0535,2023-06-23,Civilization VI: New Frontier Pass
+A_TXN_0536,2023-07-24,Total War: Warhammer III
+A_TXN_0536,2023-07-24,Valorant
+A_TXN_0536,2023-07-24,Planet Coaster
+A_TXN_0536,2023-07-24,Stardew Valley
+A_TXN_0536,2023-07-24,Civilization VI: New Frontier Pass
+A_TXN_0536,2023-07-24,Overwatch 2
+A_TXN_0536,2023-07-24,The Witcher 3
+A_TXN_0537,2023-02-18,Hades
+A_TXN_0537,2023-02-18,Celeste
+A_TXN_0538,2023-06-10,Apex Legends
+A_TXN_0539,2023-08-31,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0539,2023-08-31,Cyberpunk 2077
+A_TXN_0539,2023-08-31,The Witcher 3
+A_TXN_0539,2023-08-31,Elden Ring
+A_TXN_0540,2023-02-13,Cities: Skylines
+A_TXN_0540,2023-02-13,Planet Coaster
+A_TXN_0541,2023-02-17,Battlefield 2042
+A_TXN_0541,2023-02-17,Counter-Strike 2
+A_TXN_0542,2023-07-10,Cities: Skylines
+A_TXN_0542,2023-07-10,Planet Coaster
+A_TXN_0542,2023-07-10,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0542,2023-07-10,God of War
+A_TXN_0542,2023-07-10,Ghost of Tsushima
+A_TXN_0542,2023-07-10,Overwatch 2
+A_TXN_0543,2023-03-08,Call of Duty MW3
+A_TXN_0543,2023-03-08,The Witcher 3
+A_TXN_0544,2023-10-28,Among Us
+A_TXN_0545,2023-10-15,Overwatch 2
+A_TXN_0545,2023-10-15,Total War: Warhammer III
+A_TXN_0545,2023-10-15,Civilization VI
+A_TXN_0546,2023-12-07,Hades
+A_TXN_0547,2023-01-27,Civilization VI
+A_TXN_0548,2023-11-04,Counter-Strike 2
+A_TXN_0548,2023-11-04,Cyberpunk 2077 OST
+A_TXN_0548,2023-11-04,Cyberpunk 2077
+A_TXN_0549,2023-02-23,God of War
+A_TXN_0549,2023-02-23,Ghost of Tsushima
+A_TXN_0550,2023-04-19,Total War: Warhammer III
+A_TXN_0550,2023-04-19,Civilization VI
+A_TXN_0550,2023-04-19,Ghost of Tsushima
+A_TXN_0550,2023-04-19,Overwatch 2
+A_TXN_0550,2023-04-19,Cyberpunk 2077
+A_TXN_0551,2023-10-12,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0551,2023-10-12,Cyberpunk 2077
+A_TXN_0551,2023-10-12,Elden Ring
+A_TXN_0552,2023-08-08,Elden Ring
+A_TXN_0552,2023-08-08,Valorant
+A_TXN_0552,2023-08-08,Hollow Knight
+A_TXN_0552,2023-08-08,The Witcher 3
+A_TXN_0552,2023-08-08,Apex Legends
+A_TXN_0553,2023-11-26,Cyberpunk 2077 OST
+A_TXN_0553,2023-11-26,Celeste
+A_TXN_0553,2023-11-26,Terraria
+A_TXN_0553,2023-11-26,Civilization VI: New Frontier Pass
+A_TXN_0553,2023-11-26,Elden Ring
+A_TXN_0554,2023-10-13,Overwatch 2
+A_TXN_0555,2023-12-22,Civilization VI
+A_TXN_0555,2023-12-22,Civilization VI: New Frontier Pass
+A_TXN_0556,2023-04-03,Celeste
+A_TXN_0556,2023-04-03,Call of Duty MW3
+A_TXN_0556,2023-04-03,God of War
+A_TXN_0556,2023-04-03,Stardew Valley
+A_TXN_0556,2023-04-03,Hades OST
+A_TXN_0556,2023-04-03,Ghost of Tsushima
+A_TXN_0556,2023-04-03,Horizon Zero Dawn
+A_TXN_0557,2023-05-20,Death Stranding
+A_TXN_0557,2023-05-20,The Witcher 3
+A_TXN_0557,2023-05-20,Apex Legends
+A_TXN_0558,2023-06-08,Celeste
+A_TXN_0558,2023-06-08,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0559,2023-03-15,The Witcher 3: Blood and Wine DLC
+A_TXN_0559,2023-03-15,Cyberpunk 2077
+A_TXN_0559,2023-03-15,The Witcher 3
+A_TXN_0560,2023-07-25,Hollow Knight
+A_TXN_0560,2023-07-25,Red Dead Redemption 2
+A_TXN_0560,2023-07-25,Overwatch 2
+A_TXN_0560,2023-07-25,Among Us
+A_TXN_0560,2023-07-25,Cyberpunk 2077
+A_TXN_0561,2023-01-16,Elden Ring OST
+A_TXN_0561,2023-01-16,God of War
+A_TXN_0561,2023-01-16,Ghost of Tsushima
+A_TXN_0562,2023-09-29,Valorant
+A_TXN_0562,2023-09-29,Call of Duty MW3
+A_TXN_0562,2023-09-29,Stardew Valley
+A_TXN_0562,2023-09-29,Terraria
+A_TXN_0563,2023-08-03,Hollow Knight
+A_TXN_0563,2023-08-03,Hades
+A_TXN_0563,2023-08-03,Cyberpunk 2077
+A_TXN_0564,2023-03-22,Cities: Skylines
+A_TXN_0564,2023-03-22,Call of Duty MW3
+A_TXN_0564,2023-03-22,Cyberpunk 2077
+A_TXN_0565,2023-06-16,Horizon Zero Dawn
+A_TXN_0565,2023-06-16,God of War
+A_TXN_0565,2023-06-16,Apex Legends
+A_TXN_0565,2023-06-16,Ghost of Tsushima
+A_TXN_0566,2023-10-18,Battlefield 2042
+A_TXN_0566,2023-10-18,Horizon Zero Dawn
+A_TXN_0566,2023-10-18,Death Stranding
+A_TXN_0566,2023-10-18,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0567,2023-01-27,Total War: Warhammer III
+A_TXN_0567,2023-01-27,Stardew Valley OST
+A_TXN_0568,2023-08-15,The Witcher 3
+A_TXN_0568,2023-08-15,Cyberpunk 2077 OST
+A_TXN_0568,2023-08-15,Cyberpunk 2077
+A_TXN_0568,2023-08-15,Elden Ring
+A_TXN_0569,2023-09-06,Hollow Knight
+A_TXN_0569,2023-09-06,The Witcher 3: Blood and Wine DLC
+A_TXN_0570,2023-11-07,Red Dead Redemption 2
+A_TXN_0570,2023-11-07,Stardew Valley
+A_TXN_0570,2023-11-07,Planet Coaster
+A_TXN_0571,2023-05-20,Cyberpunk 2077 OST
+A_TXN_0571,2023-05-20,Total War: Warhammer III
+A_TXN_0572,2023-09-20,Hollow Knight
+A_TXN_0572,2023-09-20,Hades
+A_TXN_0573,2023-08-09,Cities: Skylines
+A_TXN_0573,2023-08-09,Planet Coaster
+A_TXN_0574,2023-09-27,Cities: Skylines
+A_TXN_0574,2023-09-27,Stardew Valley
+A_TXN_0574,2023-09-27,Stardew Valley OST
+A_TXN_0575,2023-01-24,Hollow Knight
+A_TXN_0575,2023-01-24,The Witcher 3: Blood and Wine DLC
+A_TXN_0576,2023-11-03,Stardew Valley
+A_TXN_0576,2023-11-03,Terraria
+A_TXN_0577,2023-04-15,Counter-Strike 2
+A_TXN_0577,2023-04-15,The Witcher 3: Blood and Wine DLC
+A_TXN_0577,2023-04-15,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0577,2023-04-15,Valorant
+A_TXN_0578,2023-04-19,Stardew Valley
+A_TXN_0578,2023-04-19,Stardew Valley OST
+A_TXN_0579,2023-05-11,Horizon Zero Dawn
+A_TXN_0580,2023-03-03,The Witcher 3: Blood and Wine DLC
+A_TXN_0580,2023-03-03,The Witcher 3
+A_TXN_0581,2023-07-14,Cyberpunk 2077
+A_TXN_0581,2023-07-14,The Witcher 3
+A_TXN_0581,2023-07-14,Elden Ring
+A_TXN_0582,2023-12-09,Hades
+A_TXN_0582,2023-12-09,Hollow Knight
+A_TXN_0583,2023-02-06,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0584,2023-07-23,Battlefield 2042
+A_TXN_0584,2023-07-23,Stardew Valley OST
+A_TXN_0584,2023-07-23,Hades OST
+A_TXN_0584,2023-07-23,Valorant
+A_TXN_0585,2023-02-09,Stardew Valley
+A_TXN_0585,2023-02-09,Among Us
+A_TXN_0585,2023-02-09,Terraria
+A_TXN_0586,2023-10-22,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0587,2023-11-24,God of War
+A_TXN_0587,2023-11-24,Elden Ring
+A_TXN_0588,2023-02-28,Hollow Knight
+A_TXN_0588,2023-02-28,Hades
+A_TXN_0588,2023-02-28,Among Us
+A_TXN_0589,2023-08-24,Cyberpunk 2077 OST
+A_TXN_0589,2023-08-24,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0589,2023-08-24,God of War
+A_TXN_0589,2023-08-24,Civilization VI
+A_TXN_0589,2023-08-24,Cyberpunk 2077
+A_TXN_0590,2023-07-05,Hollow Knight
+A_TXN_0590,2023-07-05,Counter-Strike 2
+A_TXN_0590,2023-07-05,Among Us
+A_TXN_0590,2023-07-05,Call of Duty MW3
+A_TXN_0591,2023-02-15,Call of Duty MW3
+A_TXN_0591,2023-02-15,God of War
+A_TXN_0591,2023-02-15,Apex Legends
+A_TXN_0591,2023-02-15,Planet Coaster
+A_TXN_0592,2023-02-24,Red Dead Redemption 2
+A_TXN_0592,2023-02-24,Death Stranding
+A_TXN_0592,2023-02-24,The Witcher 3
+A_TXN_0592,2023-02-24,Planet Coaster
+A_TXN_0593,2023-05-05,Overwatch 2
+A_TXN_0593,2023-05-05,Civilization VI
+A_TXN_0594,2023-06-08,Hades
+A_TXN_0594,2023-06-08,Celeste
+A_TXN_0594,2023-06-08,Hollow Knight
+A_TXN_0595,2023-04-24,Call of Duty MW3
+A_TXN_0595,2023-04-24,Planet Coaster
+A_TXN_0596,2023-02-28,Cyberpunk 2077
+A_TXN_0596,2023-02-28,Counter-Strike 2
+A_TXN_0596,2023-02-28,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0596,2023-02-28,Terraria
+A_TXN_0596,2023-02-28,God of War
+A_TXN_0596,2023-02-28,Stardew Valley
+A_TXN_0596,2023-02-28,The Witcher 3
+A_TXN_0597,2023-04-10,Counter-Strike 2
+A_TXN_0597,2023-04-10,Planet Coaster
+A_TXN_0598,2023-06-28,Battlefield 2042
+A_TXN_0598,2023-06-28,Counter-Strike 2
+A_TXN_0598,2023-06-28,Terraria
+A_TXN_0599,2023-02-22,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0599,2023-02-22,Cyberpunk 2077
+A_TXN_0599,2023-02-22,Elden Ring
+A_TXN_0600,2023-12-02,Stardew Valley
+A_TXN_0600,2023-12-02,Stardew Valley OST
+A_TXN_0600,2023-12-02,Terraria
+A_TXN_0601,2023-11-18,Cities: Skylines
+A_TXN_0601,2023-11-18,Total War: Warhammer III
+A_TXN_0601,2023-11-18,Terraria
+A_TXN_0601,2023-11-18,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0601,2023-11-18,Ghost of Tsushima
+A_TXN_0601,2023-11-18,Cyberpunk 2077
+A_TXN_0602,2023-10-16,Celeste
+A_TXN_0602,2023-10-16,Terraria
+A_TXN_0602,2023-10-16,Call of Duty MW3
+A_TXN_0602,2023-10-16,Red Dead Redemption 2
+A_TXN_0602,2023-10-16,Overwatch 2
+A_TXN_0603,2023-08-18,Valorant
+A_TXN_0603,2023-08-18,Hollow Knight
+A_TXN_0603,2023-08-18,Hades OST
+A_TXN_0603,2023-08-18,Red Dead Redemption 2
+A_TXN_0603,2023-08-18,Overwatch 2
+A_TXN_0604,2023-11-26,Civilization VI
+A_TXN_0605,2023-11-16,Cities: Skylines
+A_TXN_0605,2023-11-16,Counter-Strike 2
+A_TXN_0605,2023-11-16,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0605,2023-11-16,Civilization VI
+A_TXN_0605,2023-11-16,The Witcher 3: Blood and Wine DLC
+A_TXN_0606,2023-11-18,Cyberpunk 2077 OST
+A_TXN_0607,2023-08-14,Counter-Strike 2
+A_TXN_0607,2023-08-14,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0607,2023-08-14,Red Dead Redemption 2
+A_TXN_0607,2023-08-14,Planet Coaster
+A_TXN_0608,2023-08-15,Hollow Knight
+A_TXN_0608,2023-08-15,Red Dead Redemption 2
+A_TXN_0608,2023-08-15,Hades
+A_TXN_0608,2023-08-15,Death Stranding
+A_TXN_0609,2023-11-20,Call of Duty MW3
+A_TXN_0610,2023-09-17,Hades
+A_TXN_0610,2023-09-17,Celeste
+A_TXN_0610,2023-09-17,Hades OST
+A_TXN_0610,2023-09-17,Hollow Knight
+A_TXN_0611,2023-08-25,Counter-Strike 2
+A_TXN_0611,2023-08-25,Valorant
+A_TXN_0612,2023-02-16,The Witcher 3
+A_TXN_0612,2023-02-16,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0612,2023-02-16,Cyberpunk 2077
+A_TXN_0612,2023-02-16,The Witcher 3: Blood and Wine DLC
+A_TXN_0613,2023-09-17,Terraria
+A_TXN_0613,2023-09-17,God of War
+A_TXN_0613,2023-09-17,Hades
+A_TXN_0613,2023-09-17,The Witcher 3: Blood and Wine DLC
+A_TXN_0613,2023-09-17,Cyberpunk 2077
+A_TXN_0614,2023-10-25,Cities: Skylines
+A_TXN_0614,2023-10-25,Elden Ring
+A_TXN_0615,2023-01-22,Battlefield 2042
+A_TXN_0615,2023-01-22,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0615,2023-01-22,Stardew Valley OST
+A_TXN_0616,2023-10-20,Planet Coaster
+A_TXN_0617,2023-03-19,Red Dead Redemption 2
+A_TXN_0617,2023-03-19,The Witcher 3: Blood and Wine DLC
+A_TXN_0617,2023-03-19,The Witcher 3
+A_TXN_0618,2023-08-19,Celeste
+A_TXN_0618,2023-08-19,Battlefield 2042
+A_TXN_0618,2023-08-19,Terraria
+A_TXN_0618,2023-08-19,Planet Coaster
+A_TXN_0618,2023-08-19,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0619,2023-06-25,Counter-Strike 2
+A_TXN_0619,2023-06-25,Valorant
+A_TXN_0620,2023-02-13,Hades
+A_TXN_0620,2023-02-13,Total War: Warhammer III
+A_TXN_0621,2023-09-16,Stardew Valley
+A_TXN_0621,2023-09-16,Hades
+A_TXN_0621,2023-09-16,Overwatch 2
+A_TXN_0621,2023-09-16,Death Stranding
+A_TXN_0621,2023-09-16,Among Us
+A_TXN_0622,2023-11-27,Red Dead Redemption 2
+A_TXN_0622,2023-11-27,Call of Duty MW3
+A_TXN_0622,2023-11-27,Valorant
+A_TXN_0623,2023-05-07,Hades
+A_TXN_0623,2023-05-07,Elden Ring OST
+A_TXN_0623,2023-05-07,Elden Ring
+A_TXN_0624,2023-12-29,Battlefield 2042
+A_TXN_0624,2023-12-29,Stardew Valley
+A_TXN_0624,2023-12-29,Cyberpunk 2077
+A_TXN_0624,2023-12-29,Ghost of Tsushima
+A_TXN_0625,2023-08-13,Call of Duty MW3
+A_TXN_0625,2023-08-13,Cyberpunk 2077
+A_TXN_0626,2023-09-26,Ghost of Tsushima
+A_TXN_0627,2023-09-25,Counter-Strike 2
+A_TXN_0627,2023-09-25,Battlefield 2042
+A_TXN_0627,2023-09-25,Call of Duty MW3
+A_TXN_0627,2023-09-25,Hades
+A_TXN_0627,2023-09-25,Horizon Zero Dawn
+A_TXN_0627,2023-09-25,Elden Ring
+A_TXN_0627,2023-09-25,Apex Legends
+A_TXN_0628,2023-07-06,Horizon Zero Dawn
+A_TXN_0629,2023-07-10,Red Dead Redemption 2
+A_TXN_0630,2023-07-18,Cities: Skylines
+A_TXN_0630,2023-07-18,Celeste
+A_TXN_0631,2023-06-23,Counter-Strike 2
+A_TXN_0631,2023-06-23,Civilization VI: New Frontier Pass
+A_TXN_0631,2023-06-23,Valorant
+A_TXN_0632,2023-06-21,Hades
+A_TXN_0632,2023-06-21,Hollow Knight
+A_TXN_0633,2023-02-03,Apex Legends
+A_TXN_0634,2023-10-13,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0634,2023-10-13,Call of Duty MW3
+A_TXN_0634,2023-10-13,Cyberpunk 2077
+A_TXN_0635,2023-05-26,The Witcher 3
+A_TXN_0635,2023-05-26,Stardew Valley OST
+A_TXN_0635,2023-05-26,Valorant
+A_TXN_0635,2023-05-26,Ghost of Tsushima
+A_TXN_0636,2023-12-03,Counter-Strike 2
+A_TXN_0636,2023-12-03,Valorant
+A_TXN_0637,2023-11-05,Cyberpunk 2077 OST
+A_TXN_0637,2023-11-05,Counter-Strike 2
+A_TXN_0637,2023-11-05,Planet Coaster
+A_TXN_0637,2023-11-05,Hades
+A_TXN_0637,2023-11-05,Among Us
+A_TXN_0638,2023-06-29,Stardew Valley
+A_TXN_0638,2023-06-29,Cyberpunk 2077
+A_TXN_0638,2023-06-29,Elden Ring
+A_TXN_0638,2023-06-29,Ghost of Tsushima
+A_TXN_0639,2023-03-08,Hades
+A_TXN_0639,2023-03-08,Hades OST
+A_TXN_0640,2023-07-12,Cyberpunk 2077
+A_TXN_0640,2023-07-12,The Witcher 3
+A_TXN_0640,2023-07-12,Valorant
+A_TXN_0641,2023-11-26,The Witcher 3
+A_TXN_0641,2023-11-26,Apex Legends
+A_TXN_0642,2023-12-10,Cyberpunk 2077
+A_TXN_0642,2023-12-10,Civilization VI
+A_TXN_0643,2023-12-26,Apex Legends
+A_TXN_0644,2023-12-17,Terraria
+A_TXN_0644,2023-12-17,Stardew Valley
+A_TXN_0644,2023-12-17,Hades
+A_TXN_0644,2023-12-17,The Witcher 3: Blood and Wine DLC
+A_TXN_0644,2023-12-17,Elden Ring
+A_TXN_0644,2023-12-17,Apex Legends
+A_TXN_0645,2023-02-17,The Witcher 3
+A_TXN_0645,2023-02-17,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0645,2023-02-17,Among Us
+A_TXN_0646,2023-04-03,Cyberpunk 2077
+A_TXN_0646,2023-04-03,Hollow Knight
+A_TXN_0646,2023-04-03,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0646,2023-04-03,The Witcher 3
+A_TXN_0646,2023-04-03,Elden Ring
+A_TXN_0647,2023-06-24,Counter-Strike 2
+A_TXN_0647,2023-06-24,Call of Duty MW3
+A_TXN_0648,2023-02-09,The Witcher 3
+A_TXN_0648,2023-02-09,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0648,2023-02-09,Cyberpunk 2077
+A_TXN_0648,2023-02-09,Cyberpunk 2077 OST
+A_TXN_0649,2023-02-21,Hades
+A_TXN_0649,2023-02-21,Celeste
+A_TXN_0650,2023-10-04,Stardew Valley
+A_TXN_0650,2023-10-04,Among Us
+A_TXN_0651,2023-09-27,Counter-Strike 2
+A_TXN_0651,2023-09-27,Overwatch 2
+A_TXN_0651,2023-09-27,Terraria
+A_TXN_0651,2023-09-27,Ghost of Tsushima
+A_TXN_0652,2023-01-20,Overwatch 2
+A_TXN_0652,2023-01-20,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0652,2023-01-20,Cities: Skylines
+A_TXN_0652,2023-01-20,Planet Coaster
+A_TXN_0653,2023-12-05,Celeste
+A_TXN_0653,2023-12-05,Counter-Strike 2
+A_TXN_0653,2023-12-05,Hades
+A_TXN_0653,2023-12-05,Overwatch 2
+A_TXN_0653,2023-12-05,Apex Legends
+A_TXN_0654,2023-11-13,Valorant
+A_TXN_0654,2023-11-13,God of War
+A_TXN_0654,2023-11-13,Stardew Valley
+A_TXN_0654,2023-11-13,Terraria
+A_TXN_0655,2023-12-21,The Witcher 3: Blood and Wine DLC
+A_TXN_0655,2023-12-21,Cyberpunk 2077
+A_TXN_0655,2023-12-21,The Witcher 3
+A_TXN_0655,2023-12-21,Elden Ring
+A_TXN_0656,2023-11-16,Apex Legends
+A_TXN_0656,2023-11-16,God of War
+A_TXN_0656,2023-11-16,Stardew Valley
+A_TXN_0656,2023-11-16,Cyberpunk 2077
+A_TXN_0656,2023-11-16,Elden Ring
+A_TXN_0657,2023-03-26,Counter-Strike 2
+A_TXN_0657,2023-03-26,Terraria
+A_TXN_0658,2023-08-13,Horizon Zero Dawn
+A_TXN_0658,2023-08-13,Stardew Valley OST
+A_TXN_0658,2023-08-13,Apex Legends
+A_TXN_0659,2023-07-06,Stardew Valley
+A_TXN_0659,2023-07-06,Terraria
+A_TXN_0660,2023-12-13,Call of Duty MW3
+A_TXN_0661,2023-05-02,Battlefield 2042
+A_TXN_0662,2023-11-09,Valorant
+A_TXN_0662,2023-11-09,Counter-Strike 2
+A_TXN_0662,2023-11-09,God of War
+A_TXN_0662,2023-11-09,Civilization VI
+A_TXN_0662,2023-11-09,Overwatch 2
+A_TXN_0662,2023-11-09,Elden Ring
+A_TXN_0663,2023-10-01,Cyberpunk 2077 OST
+A_TXN_0663,2023-10-01,Counter-Strike 2
+A_TXN_0663,2023-10-01,The Witcher 3
+A_TXN_0663,2023-10-01,Cyberpunk 2077
+A_TXN_0663,2023-10-01,Elden Ring
+A_TXN_0664,2023-04-10,Stardew Valley OST
+A_TXN_0664,2023-04-10,Counter-Strike 2
+A_TXN_0664,2023-04-10,Planet Coaster
+A_TXN_0664,2023-04-10,Hades OST
+A_TXN_0664,2023-04-10,Hades
+A_TXN_0665,2023-10-20,Total War: Warhammer III
+A_TXN_0665,2023-10-20,Valorant
+A_TXN_0665,2023-10-20,Planet Coaster
+A_TXN_0665,2023-10-20,Hollow Knight
+A_TXN_0665,2023-10-20,God of War
+A_TXN_0665,2023-10-20,Apex Legends
+A_TXN_0666,2023-08-25,Counter-Strike 2
+A_TXN_0666,2023-08-25,Ghost of Tsushima
+A_TXN_0667,2023-03-24,The Witcher 3
+A_TXN_0667,2023-03-24,Cyberpunk 2077
+A_TXN_0668,2023-11-06,Cyberpunk 2077 OST
+A_TXN_0668,2023-11-06,Ghost of Tsushima
+A_TXN_0669,2023-03-12,Celeste
+A_TXN_0669,2023-03-12,The Witcher 3
+A_TXN_0669,2023-03-12,Apex Legends
+A_TXN_0670,2023-07-10,Stardew Valley
+A_TXN_0670,2023-07-10,Terraria
+A_TXN_0671,2023-02-22,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0671,2023-02-22,Stardew Valley OST
+A_TXN_0671,2023-02-22,Valorant
+A_TXN_0672,2023-09-22,Hades
+A_TXN_0672,2023-09-22,Horizon Zero Dawn
+A_TXN_0672,2023-09-22,Celeste
+A_TXN_0673,2023-09-20,Elden Ring OST
+A_TXN_0673,2023-09-20,Cyberpunk 2077
+A_TXN_0673,2023-09-20,Elden Ring
+A_TXN_0674,2023-08-12,Hollow Knight
+A_TXN_0674,2023-08-12,Hades
+A_TXN_0675,2023-04-24,Cyberpunk 2077 OST
+A_TXN_0675,2023-04-24,Cyberpunk 2077
+A_TXN_0676,2023-06-28,Cities: Skylines
+A_TXN_0676,2023-06-28,Hollow Knight
+A_TXN_0676,2023-06-28,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0676,2023-06-28,Among Us
+A_TXN_0676,2023-06-28,The Witcher 3
+A_TXN_0677,2023-08-01,Cities: Skylines
+A_TXN_0678,2023-09-15,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0678,2023-09-15,Cyberpunk 2077
+A_TXN_0679,2023-04-25,The Witcher 3
+A_TXN_0679,2023-04-25,Call of Duty MW3
+A_TXN_0679,2023-04-25,Hades OST
+A_TXN_0679,2023-04-25,The Witcher 3: Blood and Wine DLC
+A_TXN_0679,2023-04-25,Cyberpunk 2077
+A_TXN_0679,2023-04-25,Elden Ring
+A_TXN_0680,2023-02-20,Hades
+A_TXN_0680,2023-02-20,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0680,2023-02-20,Elden Ring
+A_TXN_0681,2023-11-29,Counter-Strike 2
+A_TXN_0681,2023-11-29,Horizon Zero Dawn
+A_TXN_0682,2023-03-16,Battlefield 2042
+A_TXN_0682,2023-03-16,Call of Duty MW3
+A_TXN_0682,2023-03-16,Celeste
+A_TXN_0682,2023-03-16,Valorant
+A_TXN_0683,2023-05-27,Total War: Warhammer III
+A_TXN_0683,2023-05-27,Valorant
+A_TXN_0683,2023-05-27,Planet Coaster
+A_TXN_0683,2023-05-27,Hades OST
+A_TXN_0683,2023-05-27,Hades
+A_TXN_0684,2023-08-30,Red Dead Redemption 2
+A_TXN_0684,2023-08-30,Cyberpunk 2077 OST
+A_TXN_0684,2023-08-30,Horizon Zero Dawn
+A_TXN_0685,2023-12-23,The Witcher 3: Blood and Wine DLC
+A_TXN_0685,2023-12-23,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0685,2023-12-23,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0685,2023-12-23,Overwatch 2
+A_TXN_0685,2023-12-23,Cyberpunk 2077
+A_TXN_0686,2023-03-13,Battlefield 2042
+A_TXN_0686,2023-03-13,Stardew Valley
+A_TXN_0687,2023-01-10,Terraria
+A_TXN_0687,2023-01-10,Call of Duty MW3
+A_TXN_0687,2023-01-10,Among Us
+A_TXN_0687,2023-01-10,The Witcher 3
+A_TXN_0687,2023-01-10,Elden Ring
+A_TXN_0688,2023-05-12,Cities: Skylines
+A_TXN_0688,2023-05-12,Apex Legends
+A_TXN_0689,2023-03-18,Horizon Zero Dawn
+A_TXN_0689,2023-03-18,God of War
+A_TXN_0690,2023-05-28,Stardew Valley OST
+A_TXN_0690,2023-05-28,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0690,2023-05-28,Terraria
+A_TXN_0690,2023-05-28,Planet Coaster
+A_TXN_0690,2023-05-28,Cyberpunk 2077
+A_TXN_0690,2023-05-28,Elden Ring
+A_TXN_0691,2023-11-15,Elden Ring OST
+A_TXN_0691,2023-11-15,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0691,2023-11-15,The Witcher 3
+A_TXN_0691,2023-11-15,Elden Ring
+A_TXN_0692,2023-02-26,The Witcher 3
+A_TXN_0692,2023-02-26,Total War: Warhammer III
+A_TXN_0692,2023-02-26,Civilization VI
+A_TXN_0692,2023-02-26,Planet Coaster
+A_TXN_0693,2023-09-13,Hades
+A_TXN_0693,2023-09-13,Total War: Warhammer III
+A_TXN_0693,2023-09-13,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0694,2023-11-02,Call of Duty MW3
+A_TXN_0695,2023-11-20,Valorant
+A_TXN_0696,2023-11-11,The Witcher 3
+A_TXN_0696,2023-11-11,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0696,2023-11-11,Cyberpunk 2077
+A_TXN_0696,2023-11-11,Cyberpunk 2077 OST
+A_TXN_0697,2023-06-30,Red Dead Redemption 2
+A_TXN_0697,2023-06-30,Cities: Skylines
+A_TXN_0698,2023-07-04,Cyberpunk 2077 OST
+A_TXN_0698,2023-07-04,Cyberpunk 2077
+A_TXN_0698,2023-07-04,Battlefield 2042
+A_TXN_0698,2023-07-04,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0698,2023-07-04,The Witcher 3
+A_TXN_0698,2023-07-04,Elden Ring
+A_TXN_0699,2023-10-11,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0699,2023-10-11,Cyberpunk 2077
+A_TXN_0699,2023-10-11,Elden Ring
+A_TXN_0700,2023-08-29,Cities: Skylines
+A_TXN_0700,2023-08-29,Among Us
+A_TXN_0700,2023-08-29,Planet Coaster
+A_TXN_0701,2023-07-02,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0701,2023-07-02,Cyberpunk 2077
+A_TXN_0701,2023-07-02,Elden Ring
+A_TXN_0702,2023-06-26,Counter-Strike 2
+A_TXN_0702,2023-06-26,Death Stranding
+A_TXN_0703,2023-12-03,Cities: Skylines
+A_TXN_0703,2023-12-03,Planet Coaster
+A_TXN_0704,2023-10-25,Valorant
+A_TXN_0704,2023-10-25,Counter-Strike 2
+A_TXN_0704,2023-10-25,Call of Duty MW3
+A_TXN_0704,2023-10-25,The Witcher 3: Blood and Wine DLC
+A_TXN_0704,2023-10-25,Death Stranding
+A_TXN_0705,2023-06-20,Hades
+A_TXN_0705,2023-06-20,Hades OST
+A_TXN_0705,2023-06-20,Apex Legends
+A_TXN_0706,2023-11-26,The Witcher 3: Blood and Wine DLC
+A_TXN_0706,2023-11-26,Cyberpunk 2077
+A_TXN_0706,2023-11-26,The Witcher 3
+A_TXN_0706,2023-11-26,Elden Ring
+A_TXN_0707,2023-03-31,Celeste
+A_TXN_0707,2023-03-31,Battlefield 2042
+A_TXN_0707,2023-03-31,Stardew Valley
+A_TXN_0707,2023-03-31,Overwatch 2
+A_TXN_0707,2023-03-31,Cyberpunk 2077
+A_TXN_0708,2023-12-17,Death Stranding
+A_TXN_0708,2023-12-17,Among Us
+A_TXN_0708,2023-12-17,Planet Coaster
+A_TXN_0709,2023-12-23,Hollow Knight
+A_TXN_0709,2023-12-23,Total War: Warhammer III
+A_TXN_0709,2023-12-23,Battlefield 2042
+A_TXN_0709,2023-12-23,The Witcher 3
+A_TXN_0710,2023-09-03,Battlefield 2042
+A_TXN_0710,2023-09-03,Counter-Strike 2
+A_TXN_0711,2023-08-23,Stardew Valley
+A_TXN_0711,2023-08-23,Among Us
+A_TXN_0712,2023-04-13,Total War: Warhammer III
+A_TXN_0712,2023-04-13,Civilization VI
+A_TXN_0712,2023-04-13,Civilization VI: New Frontier Pass
+A_TXN_0713,2023-10-06,The Witcher 3
+A_TXN_0713,2023-10-06,Elden Ring
+A_TXN_0714,2023-01-25,The Witcher 3
+A_TXN_0714,2023-01-25,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0714,2023-01-25,Cyberpunk 2077
+A_TXN_0715,2023-06-19,Cyberpunk 2077
+A_TXN_0715,2023-06-19,Among Us
+A_TXN_0716,2023-08-14,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0716,2023-08-14,Civilization VI
+A_TXN_0716,2023-08-14,Elden Ring
+A_TXN_0716,2023-08-14,Ghost of Tsushima
+A_TXN_0717,2023-07-17,Red Dead Redemption 2
+A_TXN_0717,2023-07-17,Apex Legends
+A_TXN_0718,2023-04-06,Cities: Skylines
+A_TXN_0718,2023-04-06,Planet Coaster
+A_TXN_0719,2023-09-12,Cities: Skylines
+A_TXN_0719,2023-09-12,The Witcher 3: Blood and Wine DLC
+A_TXN_0720,2023-09-23,The Witcher 3: Blood and Wine DLC
+A_TXN_0720,2023-09-23,The Witcher 3
+A_TXN_0721,2023-02-12,Cyberpunk 2077 OST
+A_TXN_0721,2023-02-12,Cyberpunk 2077
+A_TXN_0722,2023-02-10,Terraria
+A_TXN_0723,2023-04-03,Stardew Valley
+A_TXN_0723,2023-04-03,Among Us
+A_TXN_0723,2023-04-03,Valorant
+A_TXN_0724,2023-02-10,Horizon Zero Dawn
+A_TXN_0724,2023-02-10,God of War
+A_TXN_0725,2023-06-01,Cyberpunk 2077 OST
+A_TXN_0725,2023-06-01,Total War: Warhammer III
+A_TXN_0725,2023-06-01,Stardew Valley
+A_TXN_0725,2023-06-01,Terraria
+A_TXN_0726,2023-11-05,Total War: Warhammer III
+A_TXN_0726,2023-11-05,Cyberpunk 2077
+A_TXN_0726,2023-11-05,Counter-Strike 2
+A_TXN_0726,2023-11-05,Stardew Valley
+A_TXN_0726,2023-11-05,Red Dead Redemption 2
+A_TXN_0726,2023-11-05,Among Us
+A_TXN_0727,2023-03-27,Battlefield 2042
+A_TXN_0727,2023-03-27,Cyberpunk 2077 OST
+A_TXN_0728,2023-12-20,Overwatch 2
+A_TXN_0728,2023-12-20,Horizon Zero Dawn
+A_TXN_0729,2023-08-16,Cyberpunk 2077
+A_TXN_0729,2023-08-16,Apex Legends
+A_TXN_0730,2023-01-22,Horizon Zero Dawn
+A_TXN_0730,2023-01-22,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0730,2023-01-22,Valorant
+A_TXN_0730,2023-01-22,Planet Coaster
+A_TXN_0731,2023-06-30,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0731,2023-06-30,Call of Duty MW3
+A_TXN_0731,2023-06-30,Horizon Zero Dawn
+A_TXN_0732,2023-01-30,Hades
+A_TXN_0732,2023-01-30,Counter-Strike 2
+A_TXN_0732,2023-01-30,The Witcher 3
+A_TXN_0733,2023-07-06,Counter-Strike 2
+A_TXN_0733,2023-07-06,Civilization VI
+A_TXN_0733,2023-07-06,Civilization VI: New Frontier Pass
+A_TXN_0734,2023-12-14,Horizon Zero Dawn
+A_TXN_0734,2023-12-14,Among Us
+A_TXN_0734,2023-12-14,Valorant
+A_TXN_0735,2023-01-16,Valorant
+A_TXN_0735,2023-01-16,Counter-Strike 2
+A_TXN_0735,2023-01-16,Red Dead Redemption 2
+A_TXN_0735,2023-01-16,Cyberpunk 2077
+A_TXN_0735,2023-01-16,Apex Legends
+A_TXN_0736,2023-11-08,God of War
+A_TXN_0736,2023-11-08,Planet Coaster
+A_TXN_0736,2023-11-08,Ghost of Tsushima
+A_TXN_0737,2023-08-13,Valorant
+A_TXN_0738,2023-07-16,Elden Ring OST
+A_TXN_0738,2023-07-16,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0738,2023-07-16,Elden Ring
+A_TXN_0739,2023-01-17,Valorant
+A_TXN_0740,2023-12-14,Hollow Knight
+A_TXN_0740,2023-12-14,Hades
+A_TXN_0740,2023-12-14,Valorant
+A_TXN_0741,2023-08-19,Call of Duty MW3
+A_TXN_0742,2023-07-09,Total War: Warhammer III
+A_TXN_0742,2023-07-09,Battlefield 2042
+A_TXN_0742,2023-07-09,Counter-Strike 2
+A_TXN_0742,2023-07-09,Terraria
+A_TXN_0742,2023-07-09,Hades OST
+A_TXN_0742,2023-07-09,The Witcher 3
+A_TXN_0743,2023-02-09,Total War: Warhammer III
+A_TXN_0743,2023-02-09,Civilization VI
+A_TXN_0744,2023-11-29,The Witcher 3: Blood and Wine DLC
+A_TXN_0744,2023-11-29,Cyberpunk 2077
+A_TXN_0744,2023-11-29,The Witcher 3
+A_TXN_0744,2023-11-29,Ghost of Tsushima
+A_TXN_0745,2023-02-28,Counter-Strike 2
+A_TXN_0745,2023-02-28,Valorant
+A_TXN_0746,2023-01-14,Battlefield 2042
+A_TXN_0746,2023-01-14,Counter-Strike 2
+A_TXN_0746,2023-01-14,Elden Ring
+A_TXN_0746,2023-01-14,Apex Legends
+A_TXN_0747,2023-09-13,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0747,2023-09-13,Hades OST
+A_TXN_0747,2023-09-13,Elden Ring
+A_TXN_0748,2023-10-15,Total War: Warhammer III
+A_TXN_0748,2023-10-15,Valorant
+A_TXN_0748,2023-10-15,Counter-Strike 2
+A_TXN_0748,2023-10-15,Overwatch 2
+A_TXN_0748,2023-10-15,Cyberpunk 2077
+A_TXN_0749,2023-05-14,God of War
+A_TXN_0749,2023-05-14,Ghost of Tsushima
+A_TXN_0750,2023-11-10,Total War: Warhammer III
+A_TXN_0750,2023-11-10,Civilization VI
+A_TXN_0750,2023-11-10,Call of Duty MW3
+A_TXN_0751,2023-09-09,Cyberpunk 2077 OST
+A_TXN_0752,2023-03-11,Cyberpunk 2077 OST
+A_TXN_0752,2023-03-11,Total War: Warhammer III
+A_TXN_0752,2023-03-11,Stardew Valley OST
+A_TXN_0752,2023-03-11,Hollow Knight
+A_TXN_0752,2023-03-11,Civilization VI
+A_TXN_0752,2023-03-11,Cyberpunk 2077
+A_TXN_0753,2023-02-07,Horizon Zero Dawn
+A_TXN_0753,2023-02-07,Death Stranding
+A_TXN_0754,2023-02-14,Hades
+A_TXN_0755,2023-06-13,Cities: Skylines
+A_TXN_0755,2023-06-13,Celeste
+A_TXN_0755,2023-06-13,Stardew Valley
+A_TXN_0755,2023-06-13,The Witcher 3
+A_TXN_0756,2023-12-30,Terraria
+A_TXN_0756,2023-12-30,Ghost of Tsushima
+A_TXN_0757,2023-10-05,The Witcher 3: Blood and Wine DLC
+A_TXN_0757,2023-10-05,The Witcher 3
+A_TXN_0758,2023-05-29,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0758,2023-05-29,Call of Duty MW3
+A_TXN_0759,2023-11-23,The Witcher 3
+A_TXN_0759,2023-11-23,Stardew Valley
+A_TXN_0759,2023-11-23,Cyberpunk 2077
+A_TXN_0759,2023-11-23,Elden Ring
+A_TXN_0760,2023-04-13,The Witcher 3: Blood and Wine DLC
+A_TXN_0760,2023-04-13,Cyberpunk 2077
+A_TXN_0760,2023-04-13,The Witcher 3
+A_TXN_0760,2023-04-13,Elden Ring
+A_TXN_0761,2023-05-02,Battlefield 2042
+A_TXN_0761,2023-05-02,Terraria
+A_TXN_0761,2023-05-02,Hollow Knight
+A_TXN_0761,2023-05-02,Ghost of Tsushima
+A_TXN_0761,2023-05-02,Death Stranding
+A_TXN_0761,2023-05-02,Cyberpunk 2077
+A_TXN_0762,2023-09-10,Hollow Knight
+A_TXN_0762,2023-09-10,Overwatch 2
+A_TXN_0762,2023-09-10,Call of Duty MW3
+A_TXN_0762,2023-09-10,Cyberpunk 2077
+A_TXN_0763,2023-01-14,Overwatch 2
+A_TXN_0764,2023-03-08,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0764,2023-03-08,Cyberpunk 2077
+A_TXN_0765,2023-02-14,Cities: Skylines
+A_TXN_0765,2023-02-14,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0765,2023-02-14,Death Stranding
+A_TXN_0765,2023-02-14,Hades OST
+A_TXN_0766,2023-07-23,Stardew Valley OST
+A_TXN_0766,2023-07-23,God of War
+A_TXN_0766,2023-07-23,Hades OST
+A_TXN_0766,2023-07-23,Horizon Zero Dawn
+A_TXN_0766,2023-07-23,Elden Ring OST
+A_TXN_0766,2023-07-23,Among Us
+A_TXN_0767,2023-09-03,Hades
+A_TXN_0767,2023-09-03,Overwatch 2
+A_TXN_0767,2023-09-03,Ghost of Tsushima
+A_TXN_0768,2023-02-07,Hades
+A_TXN_0769,2023-06-12,Cities: Skylines
+A_TXN_0769,2023-06-12,Cyberpunk 2077 OST
+A_TXN_0769,2023-06-12,Battlefield 2042
+A_TXN_0769,2023-06-12,The Witcher 3: Blood and Wine DLC
+A_TXN_0769,2023-06-12,God of War
+A_TXN_0769,2023-06-12,Horizon Zero Dawn
+A_TXN_0769,2023-06-12,Elden Ring OST
+A_TXN_0770,2023-12-15,Terraria
+A_TXN_0770,2023-12-15,Call of Duty MW3
+A_TXN_0770,2023-12-15,God of War
+A_TXN_0770,2023-12-15,Stardew Valley
+A_TXN_0770,2023-12-15,Civilization VI
+A_TXN_0770,2023-12-15,Ghost of Tsushima
+A_TXN_0770,2023-12-15,Among Us
+A_TXN_0771,2023-03-07,Celeste
+A_TXN_0772,2023-10-10,Battlefield 2042
+A_TXN_0772,2023-10-10,Apex Legends
+A_TXN_0772,2023-10-10,Civilization VI: New Frontier Pass
+A_TXN_0772,2023-10-10,Elden Ring
+A_TXN_0773,2023-08-10,Stardew Valley
+A_TXN_0773,2023-08-10,Terraria
+A_TXN_0774,2023-01-29,Counter-Strike 2
+A_TXN_0774,2023-01-29,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0775,2023-03-05,Red Dead Redemption 2
+A_TXN_0775,2023-03-05,Overwatch 2
+A_TXN_0775,2023-03-05,Call of Duty MW3
+A_TXN_0775,2023-03-05,Elden Ring
+A_TXN_0776,2023-12-30,The Witcher 3: Blood and Wine DLC
+A_TXN_0776,2023-12-30,Cyberpunk 2077
+A_TXN_0776,2023-12-30,The Witcher 3
+A_TXN_0777,2023-09-23,Counter-Strike 2
+A_TXN_0777,2023-09-23,Valorant
+A_TXN_0778,2023-02-10,Total War: Warhammer III
+A_TXN_0778,2023-02-10,Stardew Valley OST
+A_TXN_0778,2023-02-10,Valorant
+A_TXN_0778,2023-02-10,Cyberpunk 2077
+A_TXN_0778,2023-02-10,Apex Legends
+A_TXN_0779,2023-11-22,Civilization VI
+A_TXN_0779,2023-11-22,Celeste
+A_TXN_0779,2023-11-22,Civilization VI: New Frontier Pass
+A_TXN_0779,2023-11-22,Elden Ring OST
+A_TXN_0780,2023-05-21,Cities: Skylines
+A_TXN_0780,2023-05-21,Ghost of Tsushima
+A_TXN_0781,2023-03-06,Stardew Valley
+A_TXN_0781,2023-03-06,Death Stranding
+A_TXN_0781,2023-03-06,Apex Legends
+A_TXN_0782,2023-11-11,Civilization VI: New Frontier Pass
+A_TXN_0783,2023-10-01,Battlefield 2042
+A_TXN_0784,2023-03-29,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0784,2023-03-29,Elden Ring
+A_TXN_0785,2023-11-06,God of War
+A_TXN_0786,2023-10-16,Celeste
+A_TXN_0786,2023-10-16,Counter-Strike 2
+A_TXN_0786,2023-10-16,Battlefield 2042
+A_TXN_0786,2023-10-16,Overwatch 2
+A_TXN_0786,2023-10-16,Elden Ring OST
+A_TXN_0787,2023-01-15,Counter-Strike 2
+A_TXN_0787,2023-01-15,The Witcher 3: Blood and Wine DLC
+A_TXN_0787,2023-01-15,Apex Legends
+A_TXN_0787,2023-01-15,Valorant
+A_TXN_0788,2023-11-25,Total War: Warhammer III
+A_TXN_0788,2023-11-25,Battlefield 2042
+A_TXN_0788,2023-11-25,Overwatch 2
+A_TXN_0788,2023-11-25,Call of Duty MW3
+A_TXN_0788,2023-11-25,The Witcher 3: Blood and Wine DLC
+A_TXN_0788,2023-11-25,The Witcher 3
+A_TXN_0789,2023-10-20,Hades
+A_TXN_0789,2023-10-20,Celeste
+A_TXN_0789,2023-10-20,Hollow Knight
+A_TXN_0790,2023-08-02,Apex Legends
+A_TXN_0791,2023-01-16,Valorant
+A_TXN_0791,2023-01-16,Battlefield 2042
+A_TXN_0791,2023-01-16,Horizon Zero Dawn
+A_TXN_0791,2023-01-16,Elden Ring OST
+A_TXN_0791,2023-01-16,Cyberpunk 2077
+A_TXN_0792,2023-11-18,Terraria
+A_TXN_0792,2023-11-18,Total War: Warhammer III
+A_TXN_0792,2023-11-18,Apex Legends
+A_TXN_0792,2023-11-18,Planet Coaster
+A_TXN_0793,2023-05-06,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0793,2023-05-06,Cyberpunk 2077
+A_TXN_0793,2023-05-06,The Witcher 3
+A_TXN_0794,2023-12-17,Counter-Strike 2
+A_TXN_0794,2023-12-17,Overwatch 2
+A_TXN_0794,2023-12-17,Elden Ring
+A_TXN_0795,2023-08-21,Total War: Warhammer III
+A_TXN_0796,2023-01-31,Counter-Strike 2
+A_TXN_0796,2023-01-31,Valorant
+A_TXN_0797,2023-03-15,The Witcher 3
+A_TXN_0797,2023-03-15,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0797,2023-03-15,Cyberpunk 2077
+A_TXN_0797,2023-03-15,Elden Ring
+A_TXN_0798,2023-06-10,Cyberpunk 2077 OST
+A_TXN_0798,2023-06-10,Counter-Strike 2
+A_TXN_0798,2023-06-10,Terraria
+A_TXN_0798,2023-06-10,Civilization VI
+A_TXN_0798,2023-06-10,Death Stranding
+A_TXN_0798,2023-06-10,Among Us
+A_TXN_0798,2023-06-10,Elden Ring
+A_TXN_0799,2023-06-13,Counter-Strike 2
+A_TXN_0799,2023-06-13,Overwatch 2
+A_TXN_0799,2023-06-13,Cities: Skylines
+A_TXN_0799,2023-06-13,Among Us
+A_TXN_0800,2023-06-26,Apex Legends
+A_TXN_0801,2023-03-08,Cities: Skylines
+A_TXN_0801,2023-03-08,Stardew Valley OST
+A_TXN_0801,2023-03-08,Valorant
+A_TXN_0801,2023-03-08,Civilization VI
+A_TXN_0801,2023-03-08,Hades
+A_TXN_0802,2023-03-04,The Witcher 3
+A_TXN_0802,2023-03-04,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0802,2023-03-04,Cyberpunk 2077
+A_TXN_0802,2023-03-04,Cyberpunk 2077 OST
+A_TXN_0803,2023-05-07,God of War
+A_TXN_0803,2023-05-07,Stardew Valley
+A_TXN_0803,2023-05-07,Among Us
+A_TXN_0804,2023-01-26,Hades
+A_TXN_0804,2023-01-26,Elden Ring OST
+A_TXN_0804,2023-01-26,Celeste
+A_TXN_0804,2023-01-26,Elden Ring
+A_TXN_0805,2023-05-08,Hades
+A_TXN_0805,2023-05-08,Hades OST
+A_TXN_0805,2023-05-08,Hollow Knight
+A_TXN_0806,2023-03-23,Civilization VI
+A_TXN_0806,2023-03-23,Among Us
+A_TXN_0807,2023-06-17,Battlefield 2042
+A_TXN_0808,2023-10-23,Civilization VI: New Frontier Pass
+A_TXN_0808,2023-10-23,Apex Legends
+A_TXN_0808,2023-10-23,Planet Coaster
+A_TXN_0809,2023-04-08,Call of Duty MW3
+A_TXN_0809,2023-04-08,Among Us
+A_TXN_0809,2023-04-08,Civilization VI: New Frontier Pass
+A_TXN_0810,2023-09-13,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0810,2023-09-13,Among Us
+A_TXN_0810,2023-09-13,Ghost of Tsushima
+A_TXN_0811,2023-08-28,Horizon Zero Dawn
+A_TXN_0811,2023-08-28,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0811,2023-08-28,Hades OST
+A_TXN_0811,2023-08-28,Apex Legends
+A_TXN_0812,2023-06-07,Battlefield 2042
+A_TXN_0812,2023-06-07,Elden Ring OST
+A_TXN_0812,2023-06-07,Celeste
+A_TXN_0812,2023-06-07,Among Us
+A_TXN_0813,2023-07-21,Horizon Zero Dawn
+A_TXN_0813,2023-07-21,God of War
+A_TXN_0814,2023-04-21,Elden Ring
+A_TXN_0814,2023-04-21,Civilization VI
+A_TXN_0814,2023-04-21,Valorant
+A_TXN_0814,2023-04-21,Civilization VI: New Frontier Pass
+A_TXN_0815,2023-12-01,Elden Ring OST
+A_TXN_0815,2023-12-01,The Witcher 3
+A_TXN_0815,2023-12-01,Elden Ring
+A_TXN_0815,2023-12-01,Among Us
+A_TXN_0816,2023-12-11,Cities: Skylines
+A_TXN_0816,2023-12-11,Cyberpunk 2077
+A_TXN_0816,2023-12-11,Hollow Knight
+A_TXN_0816,2023-12-11,Hades OST
+A_TXN_0816,2023-12-11,Overwatch 2
+A_TXN_0816,2023-12-11,Death Stranding
+A_TXN_0816,2023-12-11,Among Us
+A_TXN_0817,2023-10-02,God of War
+A_TXN_0817,2023-10-02,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0817,2023-10-02,Among Us
+A_TXN_0818,2023-02-25,Hollow Knight
+A_TXN_0818,2023-02-25,Hades
+A_TXN_0818,2023-02-25,The Witcher 3
+A_TXN_0818,2023-02-25,Valorant
+A_TXN_0819,2023-07-07,Cities: Skylines
+A_TXN_0819,2023-07-07,Counter-Strike 2
+A_TXN_0819,2023-07-07,Terraria
+A_TXN_0819,2023-07-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0819,2023-07-07,God of War
+A_TXN_0820,2023-10-19,Celeste
+A_TXN_0820,2023-10-19,Stardew Valley
+A_TXN_0821,2023-07-05,The Witcher 3: Blood and Wine DLC
+A_TXN_0821,2023-07-05,Terraria
+A_TXN_0821,2023-07-05,The Witcher 3
+A_TXN_0821,2023-07-05,Elden Ring
+A_TXN_0822,2023-02-07,Hollow Knight
+A_TXN_0823,2023-08-19,Counter-Strike 2
+A_TXN_0823,2023-08-19,Apex Legends
+A_TXN_0824,2023-10-09,Valorant
+A_TXN_0824,2023-10-09,Civilization VI
+A_TXN_0824,2023-10-09,Apex Legends
+A_TXN_0825,2023-11-16,Total War: Warhammer III
+A_TXN_0825,2023-11-16,Civilization VI
+A_TXN_0826,2023-12-15,Overwatch 2
+A_TXN_0826,2023-12-15,Terraria
+A_TXN_0827,2023-06-23,The Witcher 3
+A_TXN_0827,2023-06-23,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0827,2023-06-23,Cyberpunk 2077
+A_TXN_0827,2023-06-23,Cyberpunk 2077 OST
+A_TXN_0828,2023-07-07,Elden Ring OST
+A_TXN_0828,2023-07-07,Stardew Valley
+A_TXN_0829,2023-09-14,Horizon Zero Dawn
+A_TXN_0829,2023-09-14,Stardew Valley
+A_TXN_0829,2023-09-14,Terraria
+A_TXN_0830,2023-06-20,Total War: Warhammer III
+A_TXN_0830,2023-06-20,Civilization VI
+A_TXN_0830,2023-06-20,Civilization VI: New Frontier Pass
+A_TXN_0831,2023-09-23,Ghost of Tsushima
+A_TXN_0832,2023-08-22,Overwatch 2
+A_TXN_0832,2023-08-22,Hades OST
+A_TXN_0833,2023-03-18,Battlefield 2042
+A_TXN_0834,2023-09-21,Hades OST
+A_TXN_0835,2023-11-10,Counter-Strike 2
+A_TXN_0835,2023-11-10,Valorant
+A_TXN_0836,2023-07-21,Overwatch 2
+A_TXN_0836,2023-07-21,Valorant
+A_TXN_0836,2023-07-21,Among Us
+A_TXN_0836,2023-07-21,Apex Legends
+A_TXN_0837,2023-06-03,Horizon Zero Dawn
+A_TXN_0837,2023-06-03,Call of Duty MW3
+A_TXN_0838,2023-09-17,Counter-Strike 2
+A_TXN_0838,2023-09-17,Stardew Valley
+A_TXN_0839,2023-06-03,Red Dead Redemption 2
+A_TXN_0839,2023-06-03,Counter-Strike 2
+A_TXN_0839,2023-06-03,Stardew Valley
+A_TXN_0839,2023-06-03,Hades
+A_TXN_0839,2023-06-03,Elden Ring OST
+A_TXN_0839,2023-06-03,Cyberpunk 2077
+A_TXN_0840,2023-01-09,Cyberpunk 2077 OST
+A_TXN_0840,2023-01-09,Elden Ring
+A_TXN_0840,2023-01-09,Ghost of Tsushima
+A_TXN_0841,2023-12-11,Among Us
+A_TXN_0841,2023-12-11,Terraria
+A_TXN_0842,2023-08-02,Counter-Strike 2
+A_TXN_0842,2023-08-02,Valorant
+A_TXN_0842,2023-08-02,Ghost of Tsushima
+A_TXN_0843,2023-12-19,Red Dead Redemption 2
+A_TXN_0843,2023-12-19,Elden Ring OST
+A_TXN_0843,2023-12-19,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0844,2023-11-02,Elden Ring OST
+A_TXN_0845,2023-12-02,Hades
+A_TXN_0845,2023-12-02,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0845,2023-12-02,Cyberpunk 2077
+A_TXN_0845,2023-12-02,Horizon Zero Dawn
+A_TXN_0846,2023-10-24,Celeste
+A_TXN_0846,2023-10-24,Valorant
+A_TXN_0846,2023-10-24,Elden Ring
+A_TXN_0846,2023-10-24,Terraria
+A_TXN_0847,2023-10-23,Overwatch 2
+A_TXN_0847,2023-10-23,Cyberpunk 2077 OST
+A_TXN_0848,2023-01-27,Cities: Skylines
+A_TXN_0848,2023-01-27,Planet Coaster
+A_TXN_0849,2023-03-29,Terraria
+A_TXN_0850,2023-09-26,The Witcher 3: Blood and Wine DLC
+A_TXN_0850,2023-09-26,Civilization VI
+A_TXN_0850,2023-09-26,Ghost of Tsushima
+A_TXN_0850,2023-09-26,Red Dead Redemption 2
+A_TXN_0850,2023-09-26,Overwatch 2
+A_TXN_0850,2023-09-26,Among Us
+A_TXN_0850,2023-09-26,Elden Ring
+A_TXN_0851,2023-03-17,Hades
+A_TXN_0852,2023-12-25,Stardew Valley
+A_TXN_0852,2023-12-25,Death Stranding
+A_TXN_0852,2023-12-25,Terraria
+A_TXN_0853,2023-02-26,Red Dead Redemption 2
+A_TXN_0853,2023-02-26,Horizon Zero Dawn
+A_TXN_0853,2023-02-26,Civilization VI
+A_TXN_0853,2023-02-26,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0854,2023-08-14,God of War
+A_TXN_0854,2023-08-14,Ghost of Tsushima
+A_TXN_0855,2023-03-19,God of War
+A_TXN_0855,2023-03-19,Ghost of Tsushima
+A_TXN_0856,2023-08-30,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0856,2023-08-30,Cyberpunk 2077
+A_TXN_0857,2023-02-01,Hades
+A_TXN_0857,2023-02-01,Civilization VI
+A_TXN_0858,2023-12-28,Red Dead Redemption 2
+A_TXN_0858,2023-12-28,Elden Ring OST
+A_TXN_0858,2023-12-28,Planet Coaster
+A_TXN_0859,2023-04-17,Hollow Knight
+A_TXN_0859,2023-04-17,Cities: Skylines
+A_TXN_0859,2023-04-17,Civilization VI: New Frontier Pass
+A_TXN_0859,2023-04-17,Planet Coaster
+A_TXN_0860,2023-07-12,Hades
+A_TXN_0860,2023-07-12,Civilization VI
+A_TXN_0861,2023-06-10,Battlefield 2042
+A_TXN_0861,2023-06-10,Cyberpunk 2077
+A_TXN_0861,2023-06-10,Apex Legends
+A_TXN_0861,2023-06-10,Civilization VI: New Frontier Pass
+A_TXN_0862,2023-08-24,Hollow Knight
+A_TXN_0862,2023-08-24,Apex Legends
+A_TXN_0862,2023-08-24,Ghost of Tsushima
+A_TXN_0863,2023-06-25,Cities: Skylines
+A_TXN_0863,2023-06-25,Terraria
+A_TXN_0863,2023-06-25,Stardew Valley
+A_TXN_0863,2023-06-25,Ghost of Tsushima
+A_TXN_0863,2023-06-25,Overwatch 2
+A_TXN_0864,2023-10-07,Overwatch 2
+A_TXN_0864,2023-10-07,Stardew Valley
+A_TXN_0864,2023-10-07,Civilization VI: New Frontier Pass
+A_TXN_0864,2023-10-07,Cyberpunk 2077
+A_TXN_0865,2023-12-15,Counter-Strike 2
+A_TXN_0865,2023-12-15,Overwatch 2
+A_TXN_0865,2023-12-15,Battlefield 2042
+A_TXN_0865,2023-12-15,Elden Ring
+A_TXN_0866,2023-11-26,Call of Duty MW3
+A_TXN_0867,2023-12-21,Total War: Warhammer III
+A_TXN_0867,2023-12-21,Valorant
+A_TXN_0867,2023-12-21,Stardew Valley
+A_TXN_0867,2023-12-21,Ghost of Tsushima
+A_TXN_0867,2023-12-21,Red Dead Redemption 2
+A_TXN_0868,2023-05-07,God of War
+A_TXN_0868,2023-05-07,Ghost of Tsushima
+A_TXN_0869,2023-06-02,Horizon Zero Dawn
+A_TXN_0869,2023-06-02,God of War
+A_TXN_0869,2023-06-02,Ghost of Tsushima
+A_TXN_0870,2023-12-27,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0870,2023-12-27,Cities: Skylines
+A_TXN_0870,2023-12-27,Terraria
+A_TXN_0871,2023-12-27,Counter-Strike 2
+A_TXN_0871,2023-12-27,Valorant
+A_TXN_0872,2023-09-03,Battlefield 2042
+A_TXN_0872,2023-09-03,Ghost of Tsushima
+A_TXN_0873,2023-06-28,Cities: Skylines
+A_TXN_0873,2023-06-28,Apex Legends
+A_TXN_0873,2023-06-28,Planet Coaster
+A_TXN_0874,2023-05-21,The Witcher 3: Blood and Wine DLC
+A_TXN_0874,2023-05-21,The Witcher 3
+A_TXN_0875,2023-10-21,Valorant
+A_TXN_0875,2023-10-21,Counter-Strike 2
+A_TXN_0875,2023-10-21,Battlefield 2042
+A_TXN_0875,2023-10-21,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0875,2023-10-21,Elden Ring OST
+A_TXN_0875,2023-10-21,Apex Legends
+A_TXN_0876,2023-07-14,Valorant
+A_TXN_0877,2023-07-22,Battlefield 2042
+A_TXN_0877,2023-07-22,Horizon Zero Dawn
+A_TXN_0877,2023-07-22,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0878,2023-03-16,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0878,2023-03-16,Civilization VI
+A_TXN_0878,2023-03-16,Planet Coaster
+A_TXN_0879,2023-06-27,Hades
+A_TXN_0879,2023-06-27,Hades OST
+A_TXN_0879,2023-06-27,Hollow Knight
+A_TXN_0880,2023-12-02,Terraria
+A_TXN_0881,2023-09-03,Stardew Valley
+A_TXN_0881,2023-09-03,Terraria
+A_TXN_0882,2023-10-15,Cyberpunk 2077
+A_TXN_0882,2023-10-15,The Witcher 3
+A_TXN_0882,2023-10-15,Elden Ring
+A_TXN_0883,2023-05-05,Elden Ring OST
+A_TXN_0883,2023-05-05,Elden Ring
+A_TXN_0884,2023-04-26,Battlefield 2042
+A_TXN_0884,2023-04-26,God of War
+A_TXN_0884,2023-04-26,Civilization VI
+A_TXN_0884,2023-04-26,Civilization VI: New Frontier Pass
+A_TXN_0885,2023-02-21,Elden Ring OST
+A_TXN_0885,2023-02-21,Elden Ring
+A_TXN_0886,2023-03-12,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0887,2023-01-03,Red Dead Redemption 2
+A_TXN_0887,2023-01-03,Apex Legends
+A_TXN_0888,2023-10-09,Battlefield 2042
+A_TXN_0888,2023-10-09,Hades
+A_TXN_0889,2023-09-01,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0889,2023-09-01,Cyberpunk 2077
+A_TXN_0890,2023-09-02,Cyberpunk 2077 OST
+A_TXN_0890,2023-09-02,Death Stranding
+A_TXN_0891,2023-05-28,Hollow Knight
+A_TXN_0891,2023-05-28,Overwatch 2
+A_TXN_0891,2023-05-28,Valorant
+A_TXN_0892,2023-11-27,Stardew Valley
+A_TXN_0892,2023-11-27,Among Us
+A_TXN_0892,2023-11-27,Terraria
+A_TXN_0893,2023-01-31,Battlefield 2042
+A_TXN_0894,2023-02-15,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0894,2023-02-15,Stardew Valley
+A_TXN_0895,2023-01-20,Hades
+A_TXN_0895,2023-01-20,The Witcher 3: Blood and Wine DLC
+A_TXN_0895,2023-01-20,The Witcher 3
+A_TXN_0896,2023-03-31,Apex Legends
+A_TXN_0897,2023-04-01,Terraria
+A_TXN_0898,2023-01-19,The Witcher 3: Blood and Wine DLC
+A_TXN_0898,2023-01-19,Valorant
+A_TXN_0899,2023-07-23,Battlefield 2042
+A_TXN_0899,2023-07-23,Overwatch 2
+A_TXN_0900,2023-04-06,Cities: Skylines
+A_TXN_0901,2023-05-29,Call of Duty MW3
+A_TXN_0902,2023-02-24,Stardew Valley
+A_TXN_0902,2023-02-24,Terraria
+A_TXN_0902,2023-02-24,Ghost of Tsushima
+A_TXN_0903,2023-06-21,Among Us
+A_TXN_0904,2023-11-25,Cities: Skylines
+A_TXN_0904,2023-11-25,Call of Duty MW3
+A_TXN_0904,2023-11-25,Planet Coaster
+A_TXN_0905,2023-09-10,Cities: Skylines
+A_TXN_0905,2023-09-10,Overwatch 2
+A_TXN_0906,2023-03-10,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0907,2023-09-16,Cities: Skylines
+A_TXN_0907,2023-09-16,Valorant
+A_TXN_0907,2023-09-16,Call of Duty MW3
+A_TXN_0907,2023-09-16,The Witcher 3: Blood and Wine DLC
+A_TXN_0907,2023-09-16,Cyberpunk 2077
+A_TXN_0908,2023-08-23,The Witcher 3
+A_TXN_0908,2023-08-23,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0908,2023-08-23,Cyberpunk 2077
+A_TXN_0908,2023-08-23,Cyberpunk 2077 OST
+A_TXN_0909,2023-04-06,Valorant
+A_TXN_0909,2023-04-06,Hollow Knight
+A_TXN_0909,2023-04-06,Stardew Valley
+A_TXN_0909,2023-04-06,Hades OST
+A_TXN_0909,2023-04-06,Cyberpunk 2077
+A_TXN_0910,2023-06-22,Counter-Strike 2
+A_TXN_0910,2023-06-22,Valorant
+A_TXN_0911,2023-06-01,Counter-Strike 2
+A_TXN_0911,2023-06-01,Overwatch 2
+A_TXN_0911,2023-06-01,Celeste
+A_TXN_0911,2023-06-01,Stardew Valley OST
+A_TXN_0912,2023-10-18,Cyberpunk 2077
+A_TXN_0912,2023-10-18,Apex Legends
+A_TXN_0913,2023-12-12,Call of Duty MW3
+A_TXN_0913,2023-12-12,Among Us
+A_TXN_0914,2023-03-31,Horizon Zero Dawn
+A_TXN_0914,2023-03-31,Among Us
+A_TXN_0914,2023-03-31,Elden Ring
+A_TXN_0915,2023-11-09,Cities: Skylines
+A_TXN_0915,2023-11-09,Call of Duty MW3
+A_TXN_0915,2023-11-09,Elden Ring
+A_TXN_0916,2023-07-27,Hollow Knight
+A_TXN_0916,2023-07-27,Total War: Warhammer III
+A_TXN_0916,2023-07-27,Celeste
+A_TXN_0916,2023-07-27,Cyberpunk 2077
+A_TXN_0917,2023-02-14,Battlefield 2042
+A_TXN_0917,2023-02-14,Cities: Skylines
+A_TXN_0917,2023-02-14,The Witcher 3
+A_TXN_0917,2023-02-14,Civilization VI
+A_TXN_0918,2023-09-02,Hades
+A_TXN_0918,2023-09-02,Civilization VI
+A_TXN_0918,2023-09-02,Hollow Knight
+A_TXN_0919,2023-05-08,Horizon Zero Dawn
+A_TXN_0919,2023-05-08,God of War
+A_TXN_0920,2023-08-17,Stardew Valley
+A_TXN_0920,2023-08-17,Civilization VI
+A_TXN_0920,2023-08-17,Civilization VI: New Frontier Pass
+A_TXN_0920,2023-08-17,Hades
+A_TXN_0920,2023-08-17,The Witcher 3: Blood and Wine DLC
+A_TXN_0921,2023-06-18,Celeste
+A_TXN_0921,2023-06-18,Call of Duty MW3
+A_TXN_0921,2023-06-18,God of War
+A_TXN_0921,2023-06-18,Stardew Valley
+A_TXN_0921,2023-06-18,Among Us
+A_TXN_0922,2023-10-21,Horizon Zero Dawn
+A_TXN_0922,2023-10-21,God of War
+A_TXN_0923,2023-01-06,Horizon Zero Dawn
+A_TXN_0923,2023-01-06,Death Stranding
+A_TXN_0924,2023-07-04,The Witcher 3: Blood and Wine DLC
+A_TXN_0924,2023-07-04,The Witcher 3
+A_TXN_0925,2023-03-02,Horizon Zero Dawn
+A_TXN_0925,2023-03-02,God of War
+A_TXN_0925,2023-03-02,Cyberpunk 2077
+A_TXN_0926,2023-03-23,Stardew Valley
+A_TXN_0926,2023-03-23,Valorant
+A_TXN_0926,2023-03-23,Planet Coaster
+A_TXN_0927,2023-09-15,Elden Ring OST
+A_TXN_0927,2023-09-15,Stardew Valley
+A_TXN_0927,2023-09-15,Terraria
+A_TXN_0927,2023-09-15,Ghost of Tsushima
+A_TXN_0928,2023-12-27,Horizon Zero Dawn
+A_TXN_0928,2023-12-27,Ghost of Tsushima
+A_TXN_0929,2023-12-20,Hades
+A_TXN_0929,2023-12-20,Horizon Zero Dawn
+A_TXN_0929,2023-12-20,Ghost of Tsushima
+A_TXN_0930,2023-06-01,Cities: Skylines
+A_TXN_0930,2023-06-01,Total War: Warhammer III
+A_TXN_0930,2023-06-01,Planet Coaster
+A_TXN_0931,2023-03-10,Red Dead Redemption 2
+A_TXN_0931,2023-03-10,Horizon Zero Dawn
+A_TXN_0931,2023-03-10,God of War
+A_TXN_0931,2023-03-10,Ghost of Tsushima
+A_TXN_0932,2023-09-02,Overwatch 2
+A_TXN_0932,2023-09-02,Elden Ring
+A_TXN_0932,2023-09-02,Apex Legends
+A_TXN_0933,2023-10-09,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0933,2023-10-09,Elden Ring
+A_TXN_0934,2023-08-30,Celeste
+A_TXN_0934,2023-08-30,Counter-Strike 2
+A_TXN_0934,2023-08-30,Terraria
+A_TXN_0934,2023-08-30,Death Stranding
+A_TXN_0934,2023-08-30,Elden Ring
+A_TXN_0935,2023-12-07,Stardew Valley OST
+A_TXN_0935,2023-12-07,Counter-Strike 2
+A_TXN_0935,2023-12-07,Planet Coaster
+A_TXN_0935,2023-12-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0935,2023-12-07,The Witcher 3: Blood and Wine DLC
+A_TXN_0936,2023-05-07,Red Dead Redemption 2
+A_TXN_0936,2023-05-07,Celeste
+A_TXN_0936,2023-05-07,Cyberpunk 2077
+A_TXN_0936,2023-05-07,Ghost of Tsushima
+A_TXN_0937,2023-11-02,Cities: Skylines
+A_TXN_0937,2023-11-02,Stardew Valley OST
+A_TXN_0937,2023-11-02,Counter-Strike 2
+A_TXN_0937,2023-11-02,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0937,2023-11-02,Civilization VI
+A_TXN_0937,2023-11-02,Death Stranding
+A_TXN_0937,2023-11-02,Elden Ring
+A_TXN_0938,2023-12-27,The Witcher 3: Blood and Wine DLC
+A_TXN_0938,2023-12-27,Cyberpunk 2077
+A_TXN_0938,2023-12-27,The Witcher 3
+A_TXN_0939,2023-07-05,Apex Legends
+A_TXN_0940,2023-10-16,Hades
+A_TXN_0940,2023-10-16,Counter-Strike 2
+A_TXN_0940,2023-10-16,Celeste
+A_TXN_0940,2023-10-16,Stardew Valley
+A_TXN_0941,2023-10-02,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0941,2023-10-02,Cyberpunk 2077
+A_TXN_0941,2023-10-02,Elden Ring
+A_TXN_0942,2023-03-01,Total War: Warhammer III
+A_TXN_0942,2023-03-01,Stardew Valley
+A_TXN_0942,2023-03-01,Stardew Valley OST
+A_TXN_0942,2023-03-01,Terraria
+A_TXN_0943,2023-10-26,Planet Coaster
+A_TXN_0944,2023-09-19,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0944,2023-09-19,Celeste
+A_TXN_0944,2023-09-19,Stardew Valley
+A_TXN_0945,2023-01-29,Civilization VI
+A_TXN_0945,2023-01-29,Celeste
+A_TXN_0945,2023-01-29,Stardew Valley OST
+A_TXN_0946,2023-09-20,Among Us
+A_TXN_0946,2023-09-20,Valorant
+A_TXN_0947,2023-12-11,Hades
+A_TXN_0947,2023-12-11,Civilization VI: New Frontier Pass
+A_TXN_0948,2023-06-07,Stardew Valley OST
+A_TXN_0948,2023-06-07,Hollow Knight
+A_TXN_0948,2023-06-07,Hades OST
+A_TXN_0948,2023-06-07,Horizon Zero Dawn
+A_TXN_0948,2023-06-07,Apex Legends
+A_TXN_0949,2023-07-22,Hades
+A_TXN_0949,2023-07-22,Cities: Skylines
+A_TXN_0949,2023-07-22,Among Us
+A_TXN_0950,2023-05-11,Overwatch 2
+A_TXN_0951,2023-04-22,Apex Legends
+A_TXN_0951,2023-04-22,Terraria
+A_TXN_0951,2023-04-22,Elden Ring OST
+A_TXN_0952,2023-10-24,Battlefield 2042
+A_TXN_0953,2023-08-05,Stardew Valley
+A_TXN_0953,2023-08-05,Terraria
+A_TXN_0953,2023-08-05,Ghost of Tsushima
+A_TXN_0954,2023-02-05,Stardew Valley
+A_TXN_0954,2023-02-05,Terraria
+A_TXN_0955,2023-05-27,Overwatch 2
+A_TXN_0955,2023-05-27,God of War
+A_TXN_0955,2023-05-27,Among Us
+A_TXN_0956,2023-03-11,God of War
+A_TXN_0956,2023-03-11,Elden Ring
+A_TXN_0956,2023-03-11,Planet Coaster
+A_TXN_0957,2023-08-04,Hades
+A_TXN_0957,2023-08-04,Cities: Skylines
+A_TXN_0957,2023-08-04,Among Us
+A_TXN_0957,2023-08-04,Planet Coaster
+A_TXN_0958,2023-07-15,Celeste
+A_TXN_0958,2023-07-15,Valorant
+A_TXN_0958,2023-07-15,Hollow Knight
+A_TXN_0958,2023-07-15,Call of Duty MW3
+A_TXN_0958,2023-07-15,God of War
+A_TXN_0958,2023-07-15,Hades
+A_TXN_0959,2023-07-13,Civilization VI
+A_TXN_0959,2023-07-13,Civilization VI: New Frontier Pass
+A_TXN_0960,2023-10-04,Hades
+A_TXN_0960,2023-10-04,Cyberpunk 2077
+A_TXN_0960,2023-10-04,Apex Legends
+A_TXN_0961,2023-03-10,Overwatch 2
+A_TXN_0962,2023-10-03,Hades
+A_TXN_0962,2023-10-03,Celeste
+A_TXN_0962,2023-10-03,Hollow Knight
+A_TXN_0963,2023-03-07,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0963,2023-03-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0963,2023-03-07,Stardew Valley
+A_TXN_0963,2023-03-07,Horizon Zero Dawn
+A_TXN_0963,2023-03-07,Cyberpunk 2077
+A_TXN_0964,2023-04-25,Cities: Skylines
+A_TXN_0964,2023-04-25,Stardew Valley OST
+A_TXN_0964,2023-04-25,Counter-Strike 2
+A_TXN_0964,2023-04-25,Civilization VI
+A_TXN_0964,2023-04-25,Horizon Zero Dawn
+A_TXN_0965,2023-01-12,The Witcher 3: Blood and Wine DLC
+A_TXN_0966,2023-08-26,Call of Duty MW3
+A_TXN_0966,2023-08-26,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0966,2023-08-26,Hades OST
+A_TXN_0967,2023-12-11,Apex Legends
+A_TXN_0968,2023-08-06,Hades OST
+A_TXN_0969,2023-04-28,Red Dead Redemption 2
+A_TXN_0969,2023-04-28,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0969,2023-04-28,Civilization VI: New Frontier Pass
+A_TXN_0969,2023-04-28,Elden Ring
+A_TXN_0970,2023-02-27,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0970,2023-02-27,Cyberpunk 2077
+A_TXN_0970,2023-02-27,Elden Ring
+A_TXN_0970,2023-02-27,Cyberpunk 2077 OST
+A_TXN_0971,2023-01-17,Call of Duty MW3
+A_TXN_0971,2023-01-17,Death Stranding
+A_TXN_0972,2023-12-05,Red Dead Redemption 2
+A_TXN_0972,2023-12-05,God of War
+A_TXN_0973,2023-01-09,Hades OST
+A_TXN_0974,2023-02-04,Hades
+A_TXN_0974,2023-02-04,Overwatch 2
+A_TXN_0974,2023-02-04,Hades OST
+A_TXN_0974,2023-02-04,Ghost of Tsushima
+A_TXN_0975,2023-01-18,Counter-Strike 2
+A_TXN_0975,2023-01-18,Death Stranding
+A_TXN_0975,2023-01-18,The Witcher 3
+A_TXN_0975,2023-01-18,Valorant
+A_TXN_0976,2023-08-17,Terraria
+A_TXN_0976,2023-08-17,Apex Legends
+A_TXN_0977,2023-12-27,Horizon Zero Dawn
+A_TXN_0978,2023-08-13,The Witcher 3: Blood and Wine DLC
+A_TXN_0978,2023-08-13,Cyberpunk 2077
+A_TXN_0978,2023-08-13,The Witcher 3
+A_TXN_0978,2023-08-13,Apex Legends
+A_TXN_0979,2023-01-29,Call of Duty MW3
+A_TXN_0979,2023-01-29,God of War
+A_TXN_0979,2023-01-29,Ghost of Tsushima
+A_TXN_0979,2023-01-29,Red Dead Redemption 2
+A_TXN_0979,2023-01-29,Horizon Zero Dawn
+A_TXN_0980,2023-05-29,Hades
+A_TXN_0980,2023-05-29,Celeste
+A_TXN_0981,2023-10-23,Battlefield 2042
+A_TXN_0981,2023-10-23,Celeste
+A_TXN_0981,2023-10-23,The Witcher 3
+A_TXN_0981,2023-10-23,Elden Ring
+A_TXN_0982,2023-06-04,Stardew Valley
+A_TXN_0983,2023-03-15,Red Dead Redemption 2
+A_TXN_0983,2023-03-15,Call of Duty MW3
+A_TXN_0984,2023-09-24,Counter-Strike 2
+A_TXN_0984,2023-09-24,Planet Coaster
+A_TXN_0985,2023-04-24,Overwatch 2
+A_TXN_0986,2023-05-21,Celeste
+A_TXN_0986,2023-05-21,Among Us
+A_TXN_0987,2023-10-30,Total War: Warhammer III
+A_TXN_0987,2023-10-30,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0987,2023-10-30,Civilization VI
+A_TXN_0988,2023-03-31,Hollow Knight
+A_TXN_0988,2023-03-31,Planet Coaster
+A_TXN_0989,2023-08-07,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_0989,2023-08-07,Planet Coaster
+A_TXN_0989,2023-08-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_0989,2023-08-07,Call of Duty MW3
+A_TXN_0989,2023-08-07,Civilization VI
+A_TXN_0989,2023-08-07,Horizon Zero Dawn
+A_TXN_0989,2023-08-07,Apex Legends
+A_TXN_0990,2023-10-12,Overwatch 2
+A_TXN_0990,2023-10-12,Apex Legends
+A_TXN_0991,2023-12-10,Horizon Zero Dawn
+A_TXN_0991,2023-12-10,Elden Ring OST
+A_TXN_0991,2023-12-10,God of War
+A_TXN_0991,2023-12-10,The Witcher 3
+A_TXN_0992,2023-09-26,Call of Duty MW3
+A_TXN_0992,2023-09-26,Celeste
+A_TXN_0992,2023-09-26,Stardew Valley
+A_TXN_0993,2023-08-02,Hollow Knight
+A_TXN_0993,2023-08-02,Hades
+A_TXN_0994,2023-10-03,Stardew Valley
+A_TXN_0994,2023-10-03,Among Us
+A_TXN_0994,2023-10-03,Terraria
+A_TXN_0995,2023-04-26,Celeste
+A_TXN_0996,2023-12-29,God of War
+A_TXN_0996,2023-12-29,Ghost of Tsushima
+A_TXN_0997,2023-01-30,God of War
+A_TXN_0997,2023-01-30,Ghost of Tsushima
+A_TXN_0998,2023-08-02,Counter-Strike 2
+A_TXN_0998,2023-08-02,Celeste
+A_TXN_0998,2023-08-02,Civilization VI: New Frontier Pass
+A_TXN_0998,2023-08-02,Hades OST
+A_TXN_0999,2023-03-10,Valorant
+A_TXN_1000,2023-07-18,Red Dead Redemption 2
+A_TXN_1000,2023-07-18,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1000,2023-07-18,Apex Legends
+A_TXN_1000,2023-07-18,Hollow Knight
+A_TXN_1001,2023-11-28,Horizon Zero Dawn
+A_TXN_1001,2023-11-28,God of War
+A_TXN_1001,2023-11-28,Terraria
+A_TXN_1001,2023-11-28,Ghost of Tsushima
+A_TXN_1002,2023-08-19,Horizon Zero Dawn
+A_TXN_1002,2023-08-19,God of War
+A_TXN_1003,2023-02-17,Cities: Skylines
+A_TXN_1003,2023-02-17,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1003,2023-02-17,Stardew Valley
+A_TXN_1003,2023-02-17,Ghost of Tsushima
+A_TXN_1003,2023-02-17,Elden Ring
+A_TXN_1004,2023-07-13,Overwatch 2
+A_TXN_1004,2023-07-13,Cyberpunk 2077
+A_TXN_1004,2023-07-13,The Witcher 3
+A_TXN_1004,2023-07-13,Apex Legends
+A_TXN_1005,2023-12-11,Call of Duty MW3
+A_TXN_1006,2023-10-28,Counter-Strike 2
+A_TXN_1006,2023-10-28,Horizon Zero Dawn
+A_TXN_1006,2023-10-28,Elden Ring OST
+A_TXN_1006,2023-10-28,The Witcher 3
+A_TXN_1006,2023-10-28,Elden Ring
+A_TXN_1007,2023-10-14,The Witcher 3: Blood and Wine DLC
+A_TXN_1007,2023-10-14,Call of Duty MW3
+A_TXN_1008,2023-04-17,Total War: Warhammer III
+A_TXN_1008,2023-04-17,Civilization VI
+A_TXN_1009,2023-06-20,Call of Duty MW3
+A_TXN_1010,2023-04-08,Hades
+A_TXN_1010,2023-04-08,Celeste
+A_TXN_1010,2023-04-08,Hades OST
+A_TXN_1011,2023-03-02,Total War: Warhammer III
+A_TXN_1011,2023-03-02,Valorant
+A_TXN_1011,2023-03-02,Planet Coaster
+A_TXN_1011,2023-03-02,Apex Legends
+A_TXN_1011,2023-03-02,God of War
+A_TXN_1011,2023-03-02,Horizon Zero Dawn
+A_TXN_1011,2023-03-02,Elden Ring
+A_TXN_1012,2023-12-23,Hades
+A_TXN_1012,2023-12-23,The Witcher 3: Blood and Wine DLC
+A_TXN_1012,2023-12-23,Battlefield 2042
+A_TXN_1013,2023-05-25,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1013,2023-05-25,Cyberpunk 2077
+A_TXN_1013,2023-05-25,Elden Ring
+A_TXN_1014,2023-07-14,Overwatch 2
+A_TXN_1014,2023-07-14,God of War
+A_TXN_1014,2023-07-14,Planet Coaster
+A_TXN_1015,2023-08-27,Overwatch 2
+A_TXN_1016,2023-09-12,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1016,2023-09-12,Cyberpunk 2077
+A_TXN_1016,2023-09-12,Cyberpunk 2077 OST
+A_TXN_1017,2023-08-27,Red Dead Redemption 2
+A_TXN_1017,2023-08-27,Counter-Strike 2
+A_TXN_1017,2023-08-27,God of War
+A_TXN_1017,2023-08-27,Hades
+A_TXN_1018,2023-08-29,Cities: Skylines
+A_TXN_1018,2023-08-29,Planet Coaster
+A_TXN_1019,2023-04-15,Total War: Warhammer III
+A_TXN_1019,2023-04-15,Civilization VI
+A_TXN_1020,2023-07-31,Total War: Warhammer III
+A_TXN_1020,2023-07-31,Civilization VI
+A_TXN_1021,2023-04-24,Stardew Valley
+A_TXN_1021,2023-04-24,Terraria
+A_TXN_1022,2023-01-09,Cyberpunk 2077
+A_TXN_1022,2023-01-09,Civilization VI: New Frontier Pass
+A_TXN_1022,2023-01-09,Valorant
+A_TXN_1023,2023-10-27,Cities: Skylines
+A_TXN_1023,2023-10-27,Planet Coaster
+A_TXN_1024,2023-08-02,Total War: Warhammer III
+A_TXN_1024,2023-08-02,Death Stranding
+A_TXN_1024,2023-08-02,Apex Legends
+A_TXN_1025,2023-04-11,Cyberpunk 2077 OST
+A_TXN_1026,2023-07-14,Civilization VI
+A_TXN_1026,2023-07-14,Civilization VI: New Frontier Pass
+A_TXN_1026,2023-07-14,Ghost of Tsushima
+A_TXN_1027,2023-05-06,Counter-Strike 2
+A_TXN_1027,2023-05-06,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1027,2023-05-06,Terraria
+A_TXN_1028,2023-12-02,Cyberpunk 2077 OST
+A_TXN_1028,2023-12-02,Counter-Strike 2
+A_TXN_1028,2023-12-02,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1028,2023-12-02,Civilization VI
+A_TXN_1028,2023-12-02,Ghost of Tsushima
+A_TXN_1028,2023-12-02,Cyberpunk 2077
+A_TXN_1029,2023-06-22,Among Us
+A_TXN_1030,2023-11-25,Hades
+A_TXN_1030,2023-11-25,Counter-Strike 2
+A_TXN_1030,2023-11-25,Hades OST
+A_TXN_1030,2023-11-25,Stardew Valley OST
+A_TXN_1031,2023-03-13,The Witcher 3
+A_TXN_1031,2023-03-13,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1031,2023-03-13,Cyberpunk 2077
+A_TXN_1032,2023-09-08,Apex Legends
+A_TXN_1032,2023-09-08,Ghost of Tsushima
+A_TXN_1033,2023-10-05,Civilization VI
+A_TXN_1033,2023-10-05,God of War
+A_TXN_1033,2023-10-05,Civilization VI: New Frontier Pass
+A_TXN_1033,2023-10-05,Apex Legends
+A_TXN_1034,2023-02-08,Hades
+A_TXN_1034,2023-02-08,Cyberpunk 2077
+A_TXN_1034,2023-02-08,God of War
+A_TXN_1034,2023-02-08,Red Dead Redemption 2
+A_TXN_1034,2023-02-08,The Witcher 3
+A_TXN_1035,2023-12-09,Battlefield 2042
+A_TXN_1035,2023-12-09,Call of Duty MW3
+A_TXN_1035,2023-12-09,Stardew Valley
+A_TXN_1035,2023-12-09,Civilization VI
+A_TXN_1035,2023-12-09,Ghost of Tsushima
+A_TXN_1035,2023-12-09,Overwatch 2
+A_TXN_1036,2023-01-04,Hades
+A_TXN_1036,2023-01-04,The Witcher 3: Blood and Wine DLC
+A_TXN_1036,2023-01-04,Celeste
+A_TXN_1036,2023-01-04,Cities: Skylines
+A_TXN_1037,2023-01-05,Cyberpunk 2077 OST
+A_TXN_1037,2023-01-05,Cyberpunk 2077
+A_TXN_1037,2023-01-05,Elden Ring
+A_TXN_1037,2023-01-05,Horizon Zero Dawn
+A_TXN_1038,2023-08-22,Counter-Strike 2
+A_TXN_1038,2023-08-22,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1038,2023-08-22,Valorant
+A_TXN_1039,2023-11-13,Counter-Strike 2
+A_TXN_1039,2023-11-13,Terraria
+A_TXN_1039,2023-11-13,Ghost of Tsushima
+A_TXN_1039,2023-11-13,The Witcher 3: Blood and Wine DLC
+A_TXN_1039,2023-11-13,The Witcher 3
+A_TXN_1040,2023-09-05,God of War
+A_TXN_1041,2023-12-04,Overwatch 2
+A_TXN_1041,2023-12-04,Planet Coaster
+A_TXN_1042,2023-10-10,Total War: Warhammer III
+A_TXN_1042,2023-10-10,Civilization VI
+A_TXN_1042,2023-10-10,Civilization VI: New Frontier Pass
+A_TXN_1043,2023-01-09,Counter-Strike 2
+A_TXN_1043,2023-01-09,Call of Duty MW3
+A_TXN_1043,2023-01-09,Hades
+A_TXN_1044,2023-05-27,Horizon Zero Dawn
+A_TXN_1044,2023-05-27,God of War
+A_TXN_1045,2023-12-24,Hollow Knight
+A_TXN_1045,2023-12-24,Hades
+A_TXN_1046,2023-12-12,Planet Coaster
+A_TXN_1046,2023-12-12,Stardew Valley
+A_TXN_1046,2023-12-12,Civilization VI
+A_TXN_1046,2023-12-12,Civilization VI: New Frontier Pass
+A_TXN_1046,2023-12-12,Apex Legends
+A_TXN_1047,2023-02-19,The Witcher 3: Blood and Wine DLC
+A_TXN_1047,2023-02-19,Stardew Valley
+A_TXN_1047,2023-02-19,Among Us
+A_TXN_1048,2023-05-04,Counter-Strike 2
+A_TXN_1048,2023-05-04,Elden Ring
+A_TXN_1049,2023-09-27,Red Dead Redemption 2
+A_TXN_1049,2023-09-27,Cities: Skylines
+A_TXN_1049,2023-09-27,Celeste
+A_TXN_1049,2023-09-27,Planet Coaster
+A_TXN_1050,2023-02-10,The Witcher 3: Blood and Wine DLC
+A_TXN_1050,2023-02-10,The Witcher 3
+A_TXN_1050,2023-02-10,Elden Ring
+A_TXN_1051,2023-07-27,God of War
+A_TXN_1051,2023-07-27,Stardew Valley
+A_TXN_1051,2023-07-27,Civilization VI
+A_TXN_1051,2023-07-27,Hades
+A_TXN_1051,2023-07-27,Horizon Zero Dawn
+A_TXN_1051,2023-07-27,Cyberpunk 2077
+A_TXN_1051,2023-07-27,Elden Ring
+A_TXN_1052,2023-08-24,Red Dead Redemption 2
+A_TXN_1052,2023-08-24,Celeste
+A_TXN_1052,2023-08-24,God of War
+A_TXN_1053,2023-12-23,Cities: Skylines
+A_TXN_1053,2023-12-23,Civilization VI: New Frontier Pass
+A_TXN_1054,2023-12-17,Terraria
+A_TXN_1054,2023-12-17,God of War
+A_TXN_1054,2023-12-17,Hades OST
+A_TXN_1054,2023-12-17,Ghost of Tsushima
+A_TXN_1054,2023-12-17,Overwatch 2
+A_TXN_1054,2023-12-17,Cyberpunk 2077
+A_TXN_1054,2023-12-17,Apex Legends
+A_TXN_1055,2023-02-11,Hades
+A_TXN_1055,2023-02-11,Death Stranding
+A_TXN_1056,2023-11-29,Celeste
+A_TXN_1056,2023-11-29,Apex Legends
+A_TXN_1057,2023-02-17,Cities: Skylines
+A_TXN_1057,2023-02-17,Call of Duty MW3
+A_TXN_1057,2023-02-17,Apex Legends
+A_TXN_1057,2023-02-17,Planet Coaster
+A_TXN_1058,2023-07-13,Red Dead Redemption 2
+A_TXN_1058,2023-07-13,Horizon Zero Dawn
+A_TXN_1059,2023-10-10,Call of Duty MW3
+A_TXN_1059,2023-10-10,Planet Coaster
+A_TXN_1060,2023-11-23,Cities: Skylines
+A_TXN_1060,2023-11-23,Valorant
+A_TXN_1061,2023-03-29,Counter-Strike 2
+A_TXN_1061,2023-03-29,Call of Duty MW3
+A_TXN_1061,2023-03-29,Civilization VI: New Frontier Pass
+A_TXN_1061,2023-03-29,Valorant
+A_TXN_1062,2023-08-11,Civilization VI
+A_TXN_1062,2023-08-11,Civilization VI: New Frontier Pass
+A_TXN_1063,2023-06-19,Hollow Knight
+A_TXN_1063,2023-06-19,Call of Duty MW3
+A_TXN_1063,2023-06-19,Elden Ring
+A_TXN_1064,2023-02-18,God of War
+A_TXN_1064,2023-02-18,Stardew Valley
+A_TXN_1065,2023-01-22,Celeste
+A_TXN_1065,2023-01-22,Cyberpunk 2077
+A_TXN_1065,2023-01-22,Valorant
+A_TXN_1065,2023-01-22,Civilization VI: New Frontier Pass
+A_TXN_1065,2023-01-22,Hades
+A_TXN_1065,2023-01-22,Among Us
+A_TXN_1065,2023-01-22,The Witcher 3
+A_TXN_1066,2023-05-19,Apex Legends
+A_TXN_1066,2023-05-19,Cyberpunk 2077
+A_TXN_1066,2023-05-19,Elden Ring
+A_TXN_1067,2023-02-08,Counter-Strike 2
+A_TXN_1067,2023-02-08,Valorant
+A_TXN_1067,2023-02-08,Planet Coaster
+A_TXN_1068,2023-12-03,Hades
+A_TXN_1068,2023-12-03,Ghost of Tsushima
+A_TXN_1068,2023-12-03,Apex Legends
+A_TXN_1068,2023-12-03,Hollow Knight
+A_TXN_1069,2023-01-17,Apex Legends
+A_TXN_1070,2023-06-11,Stardew Valley
+A_TXN_1070,2023-06-11,Terraria
+A_TXN_1071,2023-07-23,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1071,2023-07-23,Cyberpunk 2077
+A_TXN_1071,2023-07-23,Elden Ring
+A_TXN_1071,2023-07-23,Cyberpunk 2077 OST
+A_TXN_1072,2023-10-16,Horizon Zero Dawn
+A_TXN_1072,2023-10-16,God of War
+A_TXN_1073,2023-07-19,Cities: Skylines
+A_TXN_1073,2023-07-19,Planet Coaster
+A_TXN_1074,2023-12-13,Overwatch 2
+A_TXN_1075,2023-06-19,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1076,2023-07-16,Battlefield 2042
+A_TXN_1076,2023-07-16,Death Stranding
+A_TXN_1076,2023-07-16,Civilization VI
+A_TXN_1077,2023-03-13,Valorant
+A_TXN_1077,2023-03-13,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1077,2023-03-13,Stardew Valley
+A_TXN_1077,2023-03-13,Civilization VI: New Frontier Pass
+A_TXN_1077,2023-03-13,The Witcher 3: Blood and Wine DLC
+A_TXN_1077,2023-03-13,Death Stranding
+A_TXN_1078,2023-12-19,Hollow Knight
+A_TXN_1078,2023-12-19,Overwatch 2
+A_TXN_1078,2023-12-19,Civilization VI
+A_TXN_1078,2023-12-19,Terraria
+A_TXN_1079,2023-01-28,Hollow Knight
+A_TXN_1079,2023-01-28,The Witcher 3: Blood and Wine DLC
+A_TXN_1079,2023-01-28,The Witcher 3
+A_TXN_1079,2023-01-28,Planet Coaster
+A_TXN_1080,2023-02-20,Overwatch 2
+A_TXN_1080,2023-02-20,Ghost of Tsushima
+A_TXN_1080,2023-02-20,Valorant
+A_TXN_1080,2023-02-20,The Witcher 3: Blood and Wine DLC
+A_TXN_1081,2023-08-12,Battlefield 2042
+A_TXN_1081,2023-08-12,Call of Duty MW3
+A_TXN_1081,2023-08-12,Celeste
+A_TXN_1081,2023-08-12,Counter-Strike 2
+A_TXN_1082,2023-11-01,Elden Ring OST
+A_TXN_1082,2023-11-01,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1082,2023-11-01,Elden Ring
+A_TXN_1083,2023-08-19,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1083,2023-08-19,Cyberpunk 2077
+A_TXN_1083,2023-08-19,The Witcher 3
+A_TXN_1083,2023-08-19,Elden Ring
+A_TXN_1084,2023-07-02,Cyberpunk 2077 OST
+A_TXN_1084,2023-07-02,Cities: Skylines
+A_TXN_1084,2023-07-02,Valorant
+A_TXN_1084,2023-07-02,Terraria
+A_TXN_1084,2023-07-02,Elden Ring OST
+A_TXN_1084,2023-07-02,Among Us
+A_TXN_1084,2023-07-02,Apex Legends
+A_TXN_1085,2023-07-12,Total War: Warhammer III
+A_TXN_1085,2023-07-12,Ghost of Tsushima
+A_TXN_1086,2023-11-13,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1086,2023-11-13,Terraria
+A_TXN_1086,2023-11-13,The Witcher 3
+A_TXN_1086,2023-11-13,Stardew Valley
+A_TXN_1086,2023-11-13,Hades
+A_TXN_1086,2023-11-13,Cyberpunk 2077
+A_TXN_1086,2023-11-13,Elden Ring
+A_TXN_1087,2023-02-07,Counter-Strike 2
+A_TXN_1087,2023-02-07,God of War
+A_TXN_1087,2023-02-07,Ghost of Tsushima
+A_TXN_1087,2023-02-07,Hades
+A_TXN_1087,2023-02-07,Horizon Zero Dawn
+A_TXN_1087,2023-02-07,Death Stranding
+A_TXN_1088,2023-03-20,Counter-Strike 2
+A_TXN_1088,2023-03-20,God of War
+A_TXN_1088,2023-03-20,Valorant
+A_TXN_1089,2023-11-21,Valorant
+A_TXN_1090,2023-07-19,Red Dead Redemption 2
+A_TXN_1090,2023-07-19,The Witcher 3: Blood and Wine DLC
+A_TXN_1090,2023-07-19,The Witcher 3
+A_TXN_1090,2023-07-19,Valorant
+A_TXN_1091,2023-07-04,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1091,2023-07-04,The Witcher 3
+A_TXN_1091,2023-07-04,Elden Ring OST
+A_TXN_1091,2023-07-04,Cyberpunk 2077
+A_TXN_1091,2023-07-04,Elden Ring
+A_TXN_1092,2023-08-09,Hades
+A_TXN_1092,2023-08-09,Celeste
+A_TXN_1092,2023-08-09,Hollow Knight
+A_TXN_1093,2023-08-18,Death Stranding
+A_TXN_1094,2023-09-20,Planet Coaster
+A_TXN_1095,2023-02-17,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1095,2023-02-17,Overwatch 2
+A_TXN_1095,2023-02-17,The Witcher 3
+A_TXN_1095,2023-02-17,Civilization VI: New Frontier Pass
+A_TXN_1095,2023-02-17,The Witcher 3: Blood and Wine DLC
+A_TXN_1095,2023-02-17,Death Stranding
+A_TXN_1095,2023-02-17,Cyberpunk 2077
+A_TXN_1096,2023-07-31,Cyberpunk 2077
+A_TXN_1096,2023-07-31,Elden Ring
+A_TXN_1097,2023-02-13,Celeste
+A_TXN_1097,2023-02-13,Elden Ring
+A_TXN_1097,2023-02-13,Valorant
+A_TXN_1098,2023-10-14,Cities: Skylines
+A_TXN_1099,2023-07-14,Cyberpunk 2077
+A_TXN_1099,2023-07-14,Elden Ring
+A_TXN_1100,2023-05-18,Counter-Strike 2
+A_TXN_1100,2023-05-18,Hades OST
+A_TXN_1100,2023-05-18,Valorant
+A_TXN_1101,2023-09-10,God of War
+A_TXN_1101,2023-09-10,Among Us
+A_TXN_1101,2023-09-10,Ghost of Tsushima
+A_TXN_1102,2023-03-27,The Witcher 3: Blood and Wine DLC
+A_TXN_1102,2023-03-27,The Witcher 3
+A_TXN_1103,2023-08-04,Hollow Knight
+A_TXN_1103,2023-08-04,Cyberpunk 2077
+A_TXN_1104,2023-02-09,Cities: Skylines
+A_TXN_1104,2023-02-09,Planet Coaster
+A_TXN_1105,2023-07-04,Red Dead Redemption 2
+A_TXN_1105,2023-07-04,Cities: Skylines
+A_TXN_1105,2023-07-04,Death Stranding
+A_TXN_1105,2023-07-04,Civilization VI: New Frontier Pass
+A_TXN_1106,2023-05-09,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1106,2023-05-09,Apex Legends
+A_TXN_1107,2023-11-17,Horizon Zero Dawn
+A_TXN_1108,2023-01-04,The Witcher 3
+A_TXN_1108,2023-01-04,Call of Duty MW3
+A_TXN_1108,2023-01-04,Overwatch 2
+A_TXN_1108,2023-01-04,Cyberpunk 2077
+A_TXN_1109,2023-06-20,Hollow Knight
+A_TXN_1109,2023-06-20,Valorant
+A_TXN_1110,2023-07-14,Celeste
+A_TXN_1111,2023-06-18,Total War: Warhammer III
+A_TXN_1111,2023-06-18,God of War
+A_TXN_1111,2023-06-18,The Witcher 3
+A_TXN_1111,2023-06-18,Ghost of Tsushima
+A_TXN_1112,2023-08-09,Terraria
+A_TXN_1112,2023-08-09,Valorant
+A_TXN_1113,2023-06-14,Cyberpunk 2077
+A_TXN_1113,2023-06-14,Elden Ring
+A_TXN_1114,2023-12-22,Horizon Zero Dawn
+A_TXN_1114,2023-12-22,Terraria
+A_TXN_1115,2023-06-10,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1115,2023-06-10,God of War
+A_TXN_1115,2023-06-10,Ghost of Tsushima
+A_TXN_1116,2023-07-23,Valorant
+A_TXN_1116,2023-07-23,Counter-Strike 2
+A_TXN_1116,2023-07-23,Terraria
+A_TXN_1116,2023-07-23,Planet Coaster
+A_TXN_1116,2023-07-23,Death Stranding
+A_TXN_1117,2023-05-30,God of War
+A_TXN_1117,2023-05-30,Valorant
+A_TXN_1117,2023-05-30,Planet Coaster
+A_TXN_1118,2023-12-22,Red Dead Redemption 2
+A_TXN_1118,2023-12-22,Terraria
+A_TXN_1118,2023-12-22,Apex Legends
+A_TXN_1118,2023-12-22,Ghost of Tsushima
+A_TXN_1119,2023-05-05,Cities: Skylines
+A_TXN_1119,2023-05-05,Celeste
+A_TXN_1119,2023-05-05,Stardew Valley OST
+A_TXN_1119,2023-05-05,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1119,2023-05-05,God of War
+A_TXN_1119,2023-05-05,Stardew Valley
+A_TXN_1119,2023-05-05,Hades OST
+A_TXN_1120,2023-06-16,Hades
+A_TXN_1120,2023-06-16,Call of Duty MW3
+A_TXN_1121,2023-07-12,Overwatch 2
+A_TXN_1121,2023-07-12,Apex Legends
+A_TXN_1122,2023-07-21,Horizon Zero Dawn
+A_TXN_1122,2023-07-21,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1122,2023-07-21,Elden Ring
+A_TXN_1123,2023-10-16,Cities: Skylines
+A_TXN_1123,2023-10-16,Total War: Warhammer III
+A_TXN_1123,2023-10-16,Terraria
+A_TXN_1123,2023-10-16,Planet Coaster
+A_TXN_1123,2023-10-16,Hollow Knight
+A_TXN_1123,2023-10-16,Elden Ring
+A_TXN_1124,2023-10-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1124,2023-10-07,Cyberpunk 2077
+A_TXN_1125,2023-10-09,Total War: Warhammer III
+A_TXN_1125,2023-10-09,Valorant
+A_TXN_1125,2023-10-09,Counter-Strike 2
+A_TXN_1125,2023-10-09,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1125,2023-10-09,Ghost of Tsushima
+A_TXN_1125,2023-10-09,Red Dead Redemption 2
+A_TXN_1125,2023-10-09,Horizon Zero Dawn
+A_TXN_1126,2023-08-25,Hades
+A_TXN_1126,2023-08-25,Hades OST
+A_TXN_1127,2023-04-18,Counter-Strike 2
+A_TXN_1127,2023-04-18,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1127,2023-04-18,Terraria
+A_TXN_1128,2023-07-29,Hades
+A_TXN_1128,2023-07-29,Terraria
+A_TXN_1128,2023-07-29,Hollow Knight
+A_TXN_1129,2023-12-11,Overwatch 2
+A_TXN_1129,2023-12-11,Total War: Warhammer III
+A_TXN_1129,2023-12-11,Ghost of Tsushima
+A_TXN_1130,2023-11-21,Death Stranding
+A_TXN_1130,2023-11-21,Terraria
+A_TXN_1131,2023-03-20,Total War: Warhammer III
+A_TXN_1131,2023-03-20,Civilization VI
+A_TXN_1131,2023-03-20,Civilization VI: New Frontier Pass
+A_TXN_1132,2023-09-03,Cyberpunk 2077 OST
+A_TXN_1132,2023-09-03,Cyberpunk 2077
+A_TXN_1133,2023-12-21,Hades
+A_TXN_1134,2023-10-02,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1134,2023-10-02,Civilization VI
+A_TXN_1134,2023-10-02,Cyberpunk 2077
+A_TXN_1134,2023-10-02,Apex Legends
+A_TXN_1135,2023-02-13,Civilization VI: New Frontier Pass
+A_TXN_1135,2023-02-13,Apex Legends
+A_TXN_1136,2023-11-10,Elden Ring OST
+A_TXN_1136,2023-11-10,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1136,2023-11-10,Cyberpunk 2077
+A_TXN_1136,2023-11-10,Elden Ring
+A_TXN_1137,2023-11-27,God of War
+A_TXN_1137,2023-11-27,Ghost of Tsushima
+A_TXN_1138,2023-08-09,Stardew Valley
+A_TXN_1139,2023-02-20,Hollow Knight
+A_TXN_1139,2023-02-20,Hades
+A_TXN_1140,2023-09-19,Counter-Strike 2
+A_TXN_1140,2023-09-19,Valorant
+A_TXN_1141,2023-10-13,Cyberpunk 2077 OST
+A_TXN_1141,2023-10-13,Cyberpunk 2077
+A_TXN_1141,2023-10-13,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1142,2023-10-22,Battlefield 2042
+A_TXN_1142,2023-10-22,Celeste
+A_TXN_1142,2023-10-22,Cyberpunk 2077
+A_TXN_1143,2023-12-14,Hades
+A_TXN_1143,2023-12-14,Hades OST
+A_TXN_1143,2023-12-14,Hollow Knight
+A_TXN_1144,2023-09-14,The Witcher 3: Blood and Wine DLC
+A_TXN_1144,2023-09-14,The Witcher 3
+A_TXN_1145,2023-06-01,The Witcher 3
+A_TXN_1145,2023-06-01,Elden Ring
+A_TXN_1146,2023-02-13,Counter-Strike 2
+A_TXN_1146,2023-02-13,The Witcher 3: Blood and Wine DLC
+A_TXN_1146,2023-02-13,Among Us
+A_TXN_1146,2023-02-13,Hollow Knight
+A_TXN_1147,2023-03-14,Counter-Strike 2
+A_TXN_1147,2023-03-14,Elden Ring OST
+A_TXN_1147,2023-03-14,Stardew Valley
+A_TXN_1147,2023-03-14,Terraria
+A_TXN_1148,2023-06-25,God of War
+A_TXN_1148,2023-06-25,Ghost of Tsushima
+A_TXN_1149,2023-09-01,Stardew Valley
+A_TXN_1149,2023-09-01,Terraria
+A_TXN_1150,2023-02-04,Hades
+A_TXN_1150,2023-02-04,Hades OST
+A_TXN_1150,2023-02-04,Elden Ring
+A_TXN_1151,2023-12-30,Counter-Strike 2
+A_TXN_1151,2023-12-30,Apex Legends
+A_TXN_1151,2023-12-30,Terraria
+A_TXN_1151,2023-12-30,Hollow Knight
+A_TXN_1152,2023-02-28,Red Dead Redemption 2
+A_TXN_1153,2023-06-25,Red Dead Redemption 2
+A_TXN_1153,2023-06-25,Civilization VI
+A_TXN_1153,2023-06-25,Stardew Valley
+A_TXN_1153,2023-06-25,Civilization VI: New Frontier Pass
+A_TXN_1154,2023-12-13,Total War: Warhammer III
+A_TXN_1154,2023-12-13,Among Us
+A_TXN_1155,2023-10-10,Elden Ring
+A_TXN_1156,2023-03-23,Hollow Knight
+A_TXN_1156,2023-03-23,Elden Ring
+A_TXN_1156,2023-03-23,Apex Legends
+A_TXN_1156,2023-03-23,Ghost of Tsushima
+A_TXN_1157,2023-08-07,Cyberpunk 2077 OST
+A_TXN_1157,2023-08-07,Celeste
+A_TXN_1157,2023-08-07,Battlefield 2042
+A_TXN_1157,2023-08-07,Hollow Knight
+A_TXN_1157,2023-08-07,Red Dead Redemption 2
+A_TXN_1158,2023-04-05,Hades
+A_TXN_1158,2023-04-05,Hollow Knight
+A_TXN_1159,2023-04-06,Red Dead Redemption 2
+A_TXN_1159,2023-04-06,Death Stranding
+A_TXN_1160,2023-11-24,Red Dead Redemption 2
+A_TXN_1160,2023-11-24,God of War
+A_TXN_1161,2023-12-03,Cities: Skylines
+A_TXN_1161,2023-12-03,Celeste
+A_TXN_1161,2023-12-03,Stardew Valley OST
+A_TXN_1161,2023-12-03,Counter-Strike 2
+A_TXN_1161,2023-12-03,Hollow Knight
+A_TXN_1161,2023-12-03,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1161,2023-12-03,Overwatch 2
+A_TXN_1162,2023-01-15,Terraria
+A_TXN_1162,2023-01-15,Valorant
+A_TXN_1163,2023-04-12,Counter-Strike 2
+A_TXN_1163,2023-04-12,Stardew Valley
+A_TXN_1163,2023-04-12,The Witcher 3
+A_TXN_1164,2023-08-08,Celeste
+A_TXN_1165,2023-12-27,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1165,2023-12-27,Civilization VI
+A_TXN_1165,2023-12-27,Among Us
+A_TXN_1166,2023-12-27,Total War: Warhammer III
+A_TXN_1166,2023-12-27,Civilization VI
+A_TXN_1166,2023-12-27,Civilization VI: New Frontier Pass
+A_TXN_1167,2023-02-22,Horizon Zero Dawn
+A_TXN_1167,2023-02-22,God of War
+A_TXN_1167,2023-02-22,Elden Ring
+A_TXN_1168,2023-10-02,Hades
+A_TXN_1168,2023-10-02,Overwatch 2
+A_TXN_1169,2023-06-16,Horizon Zero Dawn
+A_TXN_1169,2023-06-16,God of War
+A_TXN_1169,2023-06-16,The Witcher 3
+A_TXN_1169,2023-06-16,Cyberpunk 2077 OST
+A_TXN_1170,2023-04-11,Call of Duty MW3
+A_TXN_1171,2023-05-15,Hollow Knight
+A_TXN_1171,2023-05-15,Red Dead Redemption 2
+A_TXN_1171,2023-05-15,Cyberpunk 2077
+A_TXN_1172,2023-09-08,Celeste
+A_TXN_1173,2023-09-28,Cities: Skylines
+A_TXN_1173,2023-09-28,Death Stranding
+A_TXN_1173,2023-09-28,Stardew Valley
+A_TXN_1174,2023-11-24,Battlefield 2042
+A_TXN_1175,2023-07-18,Counter-Strike 2
+A_TXN_1175,2023-07-18,God of War
+A_TXN_1175,2023-07-18,Ghost of Tsushima
+A_TXN_1176,2023-10-28,The Witcher 3: Blood and Wine DLC
+A_TXN_1176,2023-10-28,Celeste
+A_TXN_1176,2023-10-28,Cities: Skylines
+A_TXN_1177,2023-02-28,Horizon Zero Dawn
+A_TXN_1177,2023-02-28,Call of Duty MW3
+A_TXN_1177,2023-02-28,Stardew Valley
+A_TXN_1177,2023-02-28,Apex Legends
+A_TXN_1178,2023-08-23,Hollow Knight
+A_TXN_1178,2023-08-23,The Witcher 3: Blood and Wine DLC
+A_TXN_1178,2023-08-23,Hades
+A_TXN_1178,2023-08-23,Apex Legends
+A_TXN_1179,2023-12-11,Counter-Strike 2
+A_TXN_1180,2023-06-02,Total War: Warhammer III
+A_TXN_1181,2023-11-11,Terraria
+A_TXN_1181,2023-11-11,Valorant
+A_TXN_1181,2023-11-11,Civilization VI
+A_TXN_1181,2023-11-11,Apex Legends
+A_TXN_1182,2023-12-11,Civilization VI: New Frontier Pass
+A_TXN_1182,2023-12-11,Valorant
+A_TXN_1183,2023-04-04,The Witcher 3: Blood and Wine DLC
+A_TXN_1183,2023-04-04,Cyberpunk 2077
+A_TXN_1183,2023-04-04,The Witcher 3
+A_TXN_1183,2023-04-04,Elden Ring
+A_TXN_1184,2023-03-14,Cyberpunk 2077
+A_TXN_1184,2023-03-14,Hades OST
+A_TXN_1184,2023-03-14,Valorant
+A_TXN_1185,2023-09-19,Battlefield 2042
+A_TXN_1185,2023-09-19,God of War
+A_TXN_1186,2023-11-02,Overwatch 2
+A_TXN_1186,2023-11-02,Stardew Valley OST
+A_TXN_1186,2023-11-02,Apex Legends
+A_TXN_1187,2023-11-22,The Witcher 3: Blood and Wine DLC
+A_TXN_1187,2023-11-22,Cyberpunk 2077
+A_TXN_1187,2023-11-22,The Witcher 3
+A_TXN_1187,2023-11-22,Elden Ring
+A_TXN_1188,2023-11-27,Cities: Skylines
+A_TXN_1188,2023-11-27,Valorant
+A_TXN_1188,2023-11-27,Stardew Valley
+A_TXN_1188,2023-11-27,Overwatch 2
+A_TXN_1188,2023-11-27,Cyberpunk 2077
+A_TXN_1189,2023-05-28,Cyberpunk 2077 OST
+A_TXN_1189,2023-05-28,Terraria
+A_TXN_1189,2023-05-28,Call of Duty MW3
+A_TXN_1189,2023-05-28,Stardew Valley
+A_TXN_1189,2023-05-28,Among Us
+A_TXN_1189,2023-05-28,The Witcher 3
+A_TXN_1190,2023-06-11,Hades
+A_TXN_1190,2023-06-11,Celeste
+A_TXN_1190,2023-06-11,Valorant
+A_TXN_1191,2023-01-05,The Witcher 3
+A_TXN_1191,2023-01-05,Valorant
+A_TXN_1192,2023-07-16,Total War: Warhammer III
+A_TXN_1192,2023-07-16,Civilization VI
+A_TXN_1192,2023-07-16,Civilization VI: New Frontier Pass
+A_TXN_1193,2023-08-01,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1193,2023-08-01,Cyberpunk 2077
+A_TXN_1194,2023-10-17,Hades
+A_TXN_1194,2023-10-17,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1194,2023-10-17,Celeste
+A_TXN_1195,2023-01-16,Hollow Knight
+A_TXN_1195,2023-01-16,Cities: Skylines
+A_TXN_1195,2023-01-16,Apex Legends
+A_TXN_1196,2023-04-23,Celeste
+A_TXN_1197,2023-05-21,Valorant
+A_TXN_1197,2023-05-21,Counter-Strike 2
+A_TXN_1197,2023-05-21,Hades
+A_TXN_1197,2023-05-21,Overwatch 2
+A_TXN_1197,2023-05-21,The Witcher 3
+A_TXN_1198,2023-05-28,Elden Ring OST
+A_TXN_1198,2023-05-28,Elden Ring
+A_TXN_1199,2023-09-11,Hades
+A_TXN_1199,2023-09-11,Red Dead Redemption 2
+A_TXN_1199,2023-09-11,Hades OST
+A_TXN_1199,2023-09-11,Planet Coaster
+A_TXN_1200,2023-10-06,Stardew Valley
+A_TXN_1200,2023-10-06,Among Us
+A_TXN_1200,2023-10-06,Terraria
+A_TXN_1201,2023-07-07,Total War: Warhammer III
+A_TXN_1201,2023-07-07,The Witcher 3
+A_TXN_1201,2023-07-07,Elden Ring OST
+A_TXN_1201,2023-07-07,Ghost of Tsushima
+A_TXN_1202,2023-01-22,Valorant
+A_TXN_1202,2023-01-22,God of War
+A_TXN_1202,2023-01-22,Hades OST
+A_TXN_1202,2023-01-22,Among Us
+A_TXN_1202,2023-01-22,Elden Ring
+A_TXN_1203,2023-08-14,Celeste
+A_TXN_1203,2023-08-14,Civilization VI: New Frontier Pass
+A_TXN_1203,2023-08-14,Terraria
+A_TXN_1204,2023-08-06,Cities: Skylines
+A_TXN_1204,2023-08-06,Elden Ring OST
+A_TXN_1204,2023-08-06,Elden Ring
+A_TXN_1205,2023-02-22,Cities: Skylines
+A_TXN_1205,2023-02-22,Valorant
+A_TXN_1205,2023-02-22,Counter-Strike 2
+A_TXN_1205,2023-02-22,Stardew Valley
+A_TXN_1205,2023-02-22,Red Dead Redemption 2
+A_TXN_1205,2023-02-22,Overwatch 2
+A_TXN_1205,2023-02-22,The Witcher 3
+A_TXN_1206,2023-01-17,Hades
+A_TXN_1206,2023-01-17,Celeste
+A_TXN_1207,2023-06-28,Valorant
+A_TXN_1207,2023-06-28,Overwatch 2
+A_TXN_1207,2023-06-28,Planet Coaster
+A_TXN_1207,2023-06-28,Horizon Zero Dawn
+A_TXN_1207,2023-06-28,Cyberpunk 2077
+A_TXN_1208,2023-03-02,Hades
+A_TXN_1208,2023-03-02,Cities: Skylines
+A_TXN_1208,2023-03-02,Apex Legends
+A_TXN_1208,2023-03-02,Hollow Knight
+A_TXN_1209,2023-05-02,Total War: Warhammer III
+A_TXN_1209,2023-05-02,Stardew Valley
+A_TXN_1209,2023-05-02,Planet Coaster
+A_TXN_1210,2023-10-29,Counter-Strike 2
+A_TXN_1210,2023-10-29,Cyberpunk 2077 OST
+A_TXN_1210,2023-10-29,Valorant
+A_TXN_1211,2023-08-08,Hades
+A_TXN_1211,2023-08-08,Death Stranding
+A_TXN_1211,2023-08-08,Stardew Valley
+A_TXN_1212,2023-04-16,Horizon Zero Dawn
+A_TXN_1212,2023-04-16,God of War
+A_TXN_1212,2023-04-16,Ghost of Tsushima
+A_TXN_1213,2023-09-30,Hades
+A_TXN_1214,2023-10-03,Hollow Knight
+A_TXN_1214,2023-10-03,Hades
+A_TXN_1214,2023-10-03,Death Stranding
+A_TXN_1214,2023-10-03,Terraria
+A_TXN_1215,2023-03-28,Overwatch 2
+A_TXN_1216,2023-05-29,God of War
+A_TXN_1216,2023-05-29,Ghost of Tsushima
+A_TXN_1217,2023-09-21,Cyberpunk 2077
+A_TXN_1217,2023-09-21,Valorant
+A_TXN_1218,2023-12-14,Battlefield 2042
+A_TXN_1218,2023-12-14,Call of Duty MW3
+A_TXN_1219,2023-03-11,The Witcher 3
+A_TXN_1219,2023-03-11,Planet Coaster
+A_TXN_1220,2023-12-02,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1220,2023-12-02,Celeste
+A_TXN_1220,2023-12-02,Cyberpunk 2077
+A_TXN_1221,2023-03-09,Red Dead Redemption 2
+A_TXN_1221,2023-03-09,Cyberpunk 2077 OST
+A_TXN_1221,2023-03-09,Cyberpunk 2077
+A_TXN_1222,2023-05-07,God of War
+A_TXN_1222,2023-05-07,Ghost of Tsushima
+A_TXN_1223,2023-10-23,Elden Ring OST
+A_TXN_1223,2023-10-23,Stardew Valley
+A_TXN_1223,2023-10-23,Cyberpunk 2077
+A_TXN_1224,2023-11-18,Counter-Strike 2
+A_TXN_1224,2023-11-18,The Witcher 3
+A_TXN_1224,2023-11-18,God of War
+A_TXN_1224,2023-11-18,Cyberpunk 2077
+A_TXN_1225,2023-08-01,Battlefield 2042
+A_TXN_1226,2023-07-12,Stardew Valley OST
+A_TXN_1226,2023-07-12,Apex Legends
+A_TXN_1227,2023-11-21,Elden Ring OST
+A_TXN_1227,2023-11-21,The Witcher 3
+A_TXN_1227,2023-11-21,Valorant
+A_TXN_1228,2023-12-22,Terraria
+A_TXN_1228,2023-12-22,Cyberpunk 2077
+A_TXN_1228,2023-12-22,Elden Ring
+A_TXN_1229,2023-07-08,Call of Duty MW3
+A_TXN_1229,2023-07-08,Elden Ring
+A_TXN_1229,2023-07-08,Valorant
+A_TXN_1230,2023-10-25,Red Dead Redemption 2
+A_TXN_1230,2023-10-25,God of War
+A_TXN_1231,2023-08-23,Valorant
+A_TXN_1231,2023-08-23,Counter-Strike 2
+A_TXN_1231,2023-08-23,Hades OST
+A_TXN_1231,2023-08-23,Hades
+A_TXN_1231,2023-08-23,Death Stranding
+A_TXN_1231,2023-08-23,Among Us
+A_TXN_1232,2023-02-02,God of War
+A_TXN_1233,2023-07-23,Hollow Knight
+A_TXN_1233,2023-07-23,Call of Duty MW3
+A_TXN_1233,2023-07-23,Civilization VI: New Frontier Pass
+A_TXN_1233,2023-07-23,Terraria
+A_TXN_1234,2023-08-08,Counter-Strike 2
+A_TXN_1234,2023-08-08,Valorant
+A_TXN_1235,2023-09-11,Total War: Warhammer III
+A_TXN_1235,2023-09-11,Stardew Valley OST
+A_TXN_1236,2023-05-26,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1236,2023-05-26,Cyberpunk 2077
+A_TXN_1237,2023-06-22,God of War
+A_TXN_1237,2023-06-22,Death Stranding
+A_TXN_1237,2023-06-22,Hades OST
+A_TXN_1237,2023-06-22,Valorant
+A_TXN_1238,2023-10-08,Overwatch 2
+A_TXN_1238,2023-10-08,Celeste
+A_TXN_1238,2023-10-08,Civilization VI
+A_TXN_1238,2023-10-08,Apex Legends
+A_TXN_1239,2023-10-17,Cities: Skylines
+A_TXN_1239,2023-10-17,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1239,2023-10-17,Cyberpunk 2077
+A_TXN_1239,2023-10-17,Terraria
+A_TXN_1240,2023-06-25,Valorant
+A_TXN_1241,2023-01-25,Battlefield 2042
+A_TXN_1241,2023-01-25,Stardew Valley OST
+A_TXN_1241,2023-01-25,Valorant
+A_TXN_1242,2023-11-17,Stardew Valley
+A_TXN_1242,2023-11-17,Terraria
+A_TXN_1243,2023-03-22,The Witcher 3: Blood and Wine DLC
+A_TXN_1243,2023-03-22,Cyberpunk 2077
+A_TXN_1243,2023-03-22,The Witcher 3
+A_TXN_1244,2023-01-01,Elden Ring OST
+A_TXN_1245,2023-08-08,Stardew Valley OST
+A_TXN_1245,2023-08-08,Terraria
+A_TXN_1245,2023-08-08,Horizon Zero Dawn
+A_TXN_1245,2023-08-08,The Witcher 3: Blood and Wine DLC
+A_TXN_1245,2023-08-08,Apex Legends
+A_TXN_1246,2023-12-19,Counter-Strike 2
+A_TXN_1246,2023-12-19,Apex Legends
+A_TXN_1246,2023-12-19,Valorant
+A_TXN_1247,2023-11-29,God of War
+A_TXN_1247,2023-11-29,Celeste
+A_TXN_1247,2023-11-29,Call of Duty MW3
+A_TXN_1248,2023-05-21,Hades
+A_TXN_1248,2023-05-21,Horizon Zero Dawn
+A_TXN_1248,2023-05-21,Celeste
+A_TXN_1249,2023-11-29,Apex Legends
+A_TXN_1249,2023-11-29,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1249,2023-11-29,The Witcher 3
+A_TXN_1249,2023-11-29,Elden Ring
+A_TXN_1250,2023-07-22,Hades
+A_TXN_1250,2023-07-22,Celeste
+A_TXN_1250,2023-07-22,Terraria
+A_TXN_1250,2023-07-22,Ghost of Tsushima
+A_TXN_1251,2023-12-25,Hades
+A_TXN_1251,2023-12-25,Cities: Skylines
+A_TXN_1251,2023-12-25,Civilization VI
+A_TXN_1252,2023-02-18,The Witcher 3: Blood and Wine DLC
+A_TXN_1252,2023-02-18,Cyberpunk 2077
+A_TXN_1252,2023-02-18,The Witcher 3
+A_TXN_1253,2023-01-01,Hades
+A_TXN_1253,2023-01-01,Overwatch 2
+A_TXN_1254,2023-02-09,Counter-Strike 2
+A_TXN_1254,2023-02-09,Elden Ring
+A_TXN_1254,2023-02-09,Valorant
+A_TXN_1255,2023-04-26,Counter-Strike 2
+A_TXN_1255,2023-04-26,Civilization VI
+A_TXN_1255,2023-04-26,Valorant
+A_TXN_1256,2023-08-16,Celeste
+A_TXN_1257,2023-03-03,Hollow Knight
+A_TXN_1257,2023-03-03,Call of Duty MW3
+A_TXN_1257,2023-03-03,God of War
+A_TXN_1257,2023-03-03,Stardew Valley
+A_TXN_1257,2023-03-03,Ghost of Tsushima
+A_TXN_1257,2023-03-03,Red Dead Redemption 2
+A_TXN_1258,2023-08-05,Battlefield 2042
+A_TXN_1258,2023-08-05,The Witcher 3: Blood and Wine DLC
+A_TXN_1259,2023-02-22,Cyberpunk 2077
+A_TXN_1259,2023-02-22,The Witcher 3
+A_TXN_1259,2023-02-22,Elden Ring
+A_TXN_1260,2023-07-08,Cities: Skylines
+A_TXN_1260,2023-07-08,Celeste
+A_TXN_1260,2023-07-08,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1260,2023-07-08,Hades
+A_TXN_1260,2023-07-08,Overwatch 2
+A_TXN_1261,2023-03-12,The Witcher 3: Blood and Wine DLC
+A_TXN_1261,2023-03-12,God of War
+A_TXN_1261,2023-03-12,Celeste
+A_TXN_1261,2023-03-12,Ghost of Tsushima
+A_TXN_1262,2023-03-10,God of War
+A_TXN_1262,2023-03-10,Ghost of Tsushima
+A_TXN_1263,2023-12-13,Hollow Knight
+A_TXN_1263,2023-12-13,Hades
+A_TXN_1264,2023-11-29,Hades
+A_TXN_1264,2023-11-29,Celeste
+A_TXN_1264,2023-11-29,Hades OST
+A_TXN_1265,2023-03-26,Red Dead Redemption 2
+A_TXN_1266,2023-08-14,Battlefield 2042
+A_TXN_1267,2023-04-20,Counter-Strike 2
+A_TXN_1267,2023-04-20,Valorant
+A_TXN_1268,2023-04-22,Terraria
+A_TXN_1268,2023-04-22,Elden Ring OST
+A_TXN_1268,2023-04-22,Stardew Valley
+A_TXN_1268,2023-04-22,Elden Ring
+A_TXN_1269,2023-02-21,Civilization VI
+A_TXN_1269,2023-02-21,God of War
+A_TXN_1269,2023-02-21,Civilization VI: New Frontier Pass
+A_TXN_1269,2023-02-21,Elden Ring
+A_TXN_1270,2023-03-13,Celeste
+A_TXN_1270,2023-03-13,Stardew Valley OST
+A_TXN_1270,2023-03-13,Terraria
+A_TXN_1270,2023-03-13,Civilization VI: New Frontier Pass
+A_TXN_1270,2023-03-13,Overwatch 2
+A_TXN_1271,2023-10-29,Counter-Strike 2
+A_TXN_1271,2023-10-29,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1271,2023-10-29,Death Stranding
+A_TXN_1271,2023-10-29,Cyberpunk 2077
+A_TXN_1272,2023-06-29,Battlefield 2042
+A_TXN_1272,2023-06-29,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1272,2023-06-29,Ghost of Tsushima
+A_TXN_1272,2023-06-29,Death Stranding
+A_TXN_1272,2023-06-29,The Witcher 3
+A_TXN_1273,2023-08-08,Counter-Strike 2
+A_TXN_1273,2023-08-08,Death Stranding
+A_TXN_1273,2023-08-08,Civilization VI
+A_TXN_1274,2023-03-13,Horizon Zero Dawn
+A_TXN_1274,2023-03-13,God of War
+A_TXN_1275,2023-11-04,Total War: Warhammer III
+A_TXN_1275,2023-11-04,Stardew Valley OST
+A_TXN_1275,2023-11-04,Counter-Strike 2
+A_TXN_1275,2023-11-04,Terraria
+A_TXN_1275,2023-11-04,Stardew Valley
+A_TXN_1275,2023-11-04,Civilization VI: New Frontier Pass
+A_TXN_1275,2023-11-04,Among Us
+A_TXN_1276,2023-11-08,Celeste
+A_TXN_1276,2023-11-08,Valorant
+A_TXN_1276,2023-11-08,Terraria
+A_TXN_1276,2023-11-08,The Witcher 3
+A_TXN_1276,2023-11-08,Horizon Zero Dawn
+A_TXN_1276,2023-11-08,Among Us
+A_TXN_1277,2023-12-20,Counter-Strike 2
+A_TXN_1277,2023-12-20,Overwatch 2
+A_TXN_1277,2023-12-20,Valorant
+A_TXN_1278,2023-06-04,Death Stranding
+A_TXN_1278,2023-06-04,Civilization VI
+A_TXN_1278,2023-06-04,Civilization VI: New Frontier Pass
+A_TXN_1279,2023-11-07,God of War
+A_TXN_1279,2023-11-07,Ghost of Tsushima
+A_TXN_1280,2023-07-20,Total War: Warhammer III
+A_TXN_1281,2023-06-01,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1281,2023-06-01,God of War
+A_TXN_1281,2023-06-01,Civilization VI
+A_TXN_1281,2023-06-01,The Witcher 3: Blood and Wine DLC
+A_TXN_1281,2023-06-01,Apex Legends
+A_TXN_1282,2023-05-03,Valorant
+A_TXN_1282,2023-05-03,Call of Duty MW3
+A_TXN_1282,2023-05-03,Ghost of Tsushima
+A_TXN_1282,2023-05-03,Red Dead Redemption 2
+A_TXN_1282,2023-05-03,Cyberpunk 2077
+A_TXN_1282,2023-05-03,Apex Legends
+A_TXN_1283,2023-02-27,Cities: Skylines
+A_TXN_1283,2023-02-27,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1284,2023-11-23,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1284,2023-11-23,Elden Ring
+A_TXN_1285,2023-09-28,Total War: Warhammer III
+A_TXN_1285,2023-09-28,Terraria
+A_TXN_1285,2023-09-28,Elden Ring OST
+A_TXN_1285,2023-09-28,The Witcher 3
+A_TXN_1285,2023-09-28,Apex Legends
+A_TXN_1286,2023-06-12,Battlefield 2042
+A_TXN_1286,2023-06-12,Stardew Valley
+A_TXN_1286,2023-06-12,Terraria
+A_TXN_1287,2023-10-19,Counter-Strike 2
+A_TXN_1287,2023-10-19,Valorant
+A_TXN_1288,2023-10-07,Elden Ring OST
+A_TXN_1288,2023-10-07,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1288,2023-10-07,The Witcher 3
+A_TXN_1288,2023-10-07,Elden Ring
+A_TXN_1289,2023-08-30,Civilization VI
+A_TXN_1289,2023-08-30,Terraria
+A_TXN_1290,2023-02-07,Counter-Strike 2
+A_TXN_1290,2023-02-07,Elden Ring OST
+A_TXN_1290,2023-02-07,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1290,2023-02-07,The Witcher 3
+A_TXN_1291,2023-05-15,Total War: Warhammer III
+A_TXN_1291,2023-05-15,Civilization VI
+A_TXN_1291,2023-05-15,Terraria
+A_TXN_1291,2023-05-15,Civilization VI: New Frontier Pass
+A_TXN_1292,2023-01-31,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1292,2023-01-31,Cyberpunk 2077
+A_TXN_1293,2023-08-01,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1293,2023-08-01,Cyberpunk 2077
+A_TXN_1294,2023-08-05,Call of Duty MW3
+A_TXN_1294,2023-08-05,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1294,2023-08-05,God of War
+A_TXN_1294,2023-08-05,Valorant
+A_TXN_1295,2023-02-12,Hollow Knight
+A_TXN_1295,2023-02-12,Horizon Zero Dawn
+A_TXN_1295,2023-02-12,Battlefield 2042
+A_TXN_1295,2023-02-12,Among Us
+A_TXN_1296,2023-11-24,Call of Duty MW3
+A_TXN_1296,2023-11-24,Among Us
+A_TXN_1296,2023-11-24,Planet Coaster
+A_TXN_1297,2023-11-12,Planet Coaster
+A_TXN_1298,2023-02-12,Apex Legends
+A_TXN_1298,2023-02-12,Stardew Valley
+A_TXN_1298,2023-02-12,Terraria
+A_TXN_1299,2023-09-19,Valorant
+A_TXN_1299,2023-09-19,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1299,2023-09-19,Red Dead Redemption 2
+A_TXN_1299,2023-09-19,Among Us
+A_TXN_1299,2023-09-19,Cyberpunk 2077
+A_TXN_1300,2023-03-21,Total War: Warhammer III
+A_TXN_1300,2023-03-21,Counter-Strike 2
+A_TXN_1300,2023-03-21,Terraria
+A_TXN_1300,2023-03-21,Stardew Valley
+A_TXN_1300,2023-03-21,Ghost of Tsushima
+A_TXN_1300,2023-03-21,Elden Ring OST
+A_TXN_1301,2023-11-29,The Witcher 3: Blood and Wine DLC
+A_TXN_1301,2023-11-29,The Witcher 3
+A_TXN_1302,2023-02-03,Hollow Knight
+A_TXN_1303,2023-06-08,Battlefield 2042
+A_TXN_1303,2023-06-08,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1303,2023-06-08,Hades OST
+A_TXN_1303,2023-06-08,Ghost of Tsushima
+A_TXN_1303,2023-06-08,Overwatch 2
+A_TXN_1303,2023-06-08,The Witcher 3
+A_TXN_1303,2023-06-08,Apex Legends
+A_TXN_1304,2023-05-03,Terraria
+A_TXN_1305,2023-02-14,Counter-Strike 2
+A_TXN_1305,2023-02-14,Overwatch 2
+A_TXN_1305,2023-02-14,Valorant
+A_TXN_1306,2023-03-01,Horizon Zero Dawn
+A_TXN_1306,2023-03-01,Stardew Valley
+A_TXN_1306,2023-03-01,Overwatch 2
+A_TXN_1306,2023-03-01,Planet Coaster
+A_TXN_1307,2023-11-08,Civilization VI
+A_TXN_1307,2023-11-08,Ghost of Tsushima
+A_TXN_1308,2023-12-08,Counter-Strike 2
+A_TXN_1308,2023-12-08,Hades
+A_TXN_1308,2023-12-08,Valorant
+A_TXN_1309,2023-12-03,Elden Ring
+A_TXN_1309,2023-12-03,Civilization VI: New Frontier Pass
+A_TXN_1309,2023-12-03,Horizon Zero Dawn
+A_TXN_1309,2023-12-03,Overwatch 2
+A_TXN_1309,2023-12-03,Death Stranding
+A_TXN_1309,2023-12-03,Cyberpunk 2077
+A_TXN_1309,2023-12-03,Apex Legends
+A_TXN_1310,2023-03-03,Cyberpunk 2077
+A_TXN_1310,2023-03-03,Planet Coaster
+A_TXN_1310,2023-03-03,God of War
+A_TXN_1310,2023-03-03,Civilization VI
+A_TXN_1310,2023-03-03,The Witcher 3
+A_TXN_1311,2023-03-12,The Witcher 3
+A_TXN_1311,2023-03-12,Overwatch 2
+A_TXN_1311,2023-03-12,Civilization VI
+A_TXN_1311,2023-03-12,Civilization VI: New Frontier Pass
+A_TXN_1312,2023-12-26,Hades
+A_TXN_1312,2023-12-26,Valorant
+A_TXN_1312,2023-12-26,Apex Legends
+A_TXN_1313,2023-01-06,Red Dead Redemption 2
+A_TXN_1313,2023-01-06,Death Stranding
+A_TXN_1313,2023-01-06,Stardew Valley OST
+A_TXN_1313,2023-01-06,Elden Ring
+A_TXN_1314,2023-06-27,Horizon Zero Dawn
+A_TXN_1314,2023-06-27,God of War
+A_TXN_1315,2023-05-13,Valorant
+A_TXN_1316,2023-03-27,Battlefield 2042
+A_TXN_1316,2023-03-27,Overwatch 2
+A_TXN_1316,2023-03-27,Terraria
+A_TXN_1316,2023-03-27,Apex Legends
+A_TXN_1317,2023-05-18,Total War: Warhammer III
+A_TXN_1317,2023-05-18,Stardew Valley OST
+A_TXN_1317,2023-05-18,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1317,2023-05-18,Call of Duty MW3
+A_TXN_1317,2023-05-18,Elden Ring
+A_TXN_1318,2023-03-02,Civilization VI
+A_TXN_1318,2023-03-02,Stardew Valley OST
+A_TXN_1318,2023-03-02,Ghost of Tsushima
+A_TXN_1319,2023-01-16,Red Dead Redemption 2
+A_TXN_1319,2023-01-16,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1319,2023-01-16,Stardew Valley OST
+A_TXN_1320,2023-06-21,Death Stranding
+A_TXN_1320,2023-06-21,Valorant
+A_TXN_1320,2023-06-21,Elden Ring
+A_TXN_1320,2023-06-21,Apex Legends
+A_TXN_1321,2023-08-08,Counter-Strike 2
+A_TXN_1321,2023-08-08,Elden Ring
+A_TXN_1321,2023-08-08,Apex Legends
+A_TXN_1321,2023-08-08,Planet Coaster
+A_TXN_1322,2023-05-20,Death Stranding
+A_TXN_1322,2023-05-20,Cyberpunk 2077
+A_TXN_1323,2023-05-15,Hollow Knight
+A_TXN_1324,2023-10-23,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1324,2023-10-23,Valorant
+A_TXN_1325,2023-11-18,Call of Duty MW3
+A_TXN_1325,2023-11-18,Red Dead Redemption 2
+A_TXN_1325,2023-11-18,Elden Ring OST
+A_TXN_1325,2023-11-18,Cyberpunk 2077
+A_TXN_1325,2023-11-18,Apex Legends
+A_TXN_1326,2023-08-22,Counter-Strike 2
+A_TXN_1326,2023-08-22,Valorant
+A_TXN_1327,2023-10-18,Horizon Zero Dawn
+A_TXN_1327,2023-10-18,God of War
+A_TXN_1328,2023-10-21,The Witcher 3: Blood and Wine DLC
+A_TXN_1328,2023-10-21,Stardew Valley
+A_TXN_1328,2023-10-21,The Witcher 3
+A_TXN_1328,2023-10-21,Elden Ring
+A_TXN_1329,2023-01-07,The Witcher 3
+A_TXN_1329,2023-01-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1329,2023-01-07,Cyberpunk 2077
+A_TXN_1330,2023-08-30,Planet Coaster
+A_TXN_1330,2023-08-30,Hollow Knight
+A_TXN_1330,2023-08-30,God of War
+A_TXN_1330,2023-08-30,Horizon Zero Dawn
+A_TXN_1330,2023-08-30,Cyberpunk 2077
+A_TXN_1331,2023-03-18,Total War: Warhammer III
+A_TXN_1331,2023-03-18,Battlefield 2042
+A_TXN_1331,2023-03-18,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1331,2023-03-18,God of War
+A_TXN_1331,2023-03-18,Ghost of Tsushima
+A_TXN_1331,2023-03-18,Elden Ring
+A_TXN_1332,2023-01-19,Cities: Skylines
+A_TXN_1332,2023-01-19,Counter-Strike 2
+A_TXN_1332,2023-01-19,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1332,2023-01-19,Horizon Zero Dawn
+A_TXN_1332,2023-01-19,The Witcher 3: Blood and Wine DLC
+A_TXN_1332,2023-01-19,The Witcher 3
+A_TXN_1333,2023-12-02,Hollow Knight
+A_TXN_1333,2023-12-02,Valorant
+A_TXN_1334,2023-06-14,Terraria
+A_TXN_1335,2023-06-13,Counter-Strike 2
+A_TXN_1335,2023-06-13,Valorant
+A_TXN_1336,2023-02-09,Cities: Skylines
+A_TXN_1336,2023-02-09,Civilization VI
+A_TXN_1336,2023-02-09,Planet Coaster
+A_TXN_1337,2023-12-11,Hollow Knight
+A_TXN_1337,2023-12-11,Horizon Zero Dawn
+A_TXN_1337,2023-12-11,God of War
+A_TXN_1338,2023-04-02,Valorant
+A_TXN_1339,2023-08-27,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1339,2023-08-27,The Witcher 3
+A_TXN_1339,2023-08-27,Elden Ring
+A_TXN_1340,2023-06-09,Cyberpunk 2077 OST
+A_TXN_1340,2023-06-09,Apex Legends
+A_TXN_1341,2023-01-05,God of War
+A_TXN_1341,2023-01-05,Ghost of Tsushima
+A_TXN_1342,2023-05-30,Elden Ring OST
+A_TXN_1342,2023-05-30,The Witcher 3
+A_TXN_1343,2023-10-16,Red Dead Redemption 2
+A_TXN_1343,2023-10-16,Total War: Warhammer III
+A_TXN_1343,2023-10-16,Hades OST
+A_TXN_1343,2023-10-16,Valorant
+A_TXN_1344,2023-07-08,Stardew Valley
+A_TXN_1344,2023-07-08,Among Us
+A_TXN_1345,2023-04-11,The Witcher 3: Blood and Wine DLC
+A_TXN_1345,2023-04-11,The Witcher 3
+A_TXN_1346,2023-10-07,Cities: Skylines
+A_TXN_1346,2023-10-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1346,2023-10-07,Stardew Valley
+A_TXN_1346,2023-10-07,The Witcher 3: Blood and Wine DLC
+A_TXN_1346,2023-10-07,Cyberpunk 2077
+A_TXN_1346,2023-10-07,Apex Legends
+A_TXN_1347,2023-07-29,Stardew Valley
+A_TXN_1347,2023-07-29,Among Us
+A_TXN_1347,2023-07-29,Terraria
+A_TXN_1348,2023-12-22,The Witcher 3: Blood and Wine DLC
+A_TXN_1348,2023-12-22,The Witcher 3
+A_TXN_1348,2023-12-22,Elden Ring
+A_TXN_1349,2023-06-21,Cities: Skylines
+A_TXN_1349,2023-06-21,The Witcher 3
+A_TXN_1349,2023-06-21,Valorant
+A_TXN_1350,2023-01-01,Death Stranding
+A_TXN_1351,2023-06-07,Hades
+A_TXN_1351,2023-06-07,Stardew Valley
+A_TXN_1352,2023-02-23,Horizon Zero Dawn
+A_TXN_1352,2023-02-23,Apex Legends
+A_TXN_1352,2023-02-23,Planet Coaster
+A_TXN_1353,2023-05-02,Cities: Skylines
+A_TXN_1353,2023-05-02,Planet Coaster
+A_TXN_1354,2023-08-03,Red Dead Redemption 2
+A_TXN_1355,2023-09-09,Counter-Strike 2
+A_TXN_1355,2023-09-09,Terraria
+A_TXN_1355,2023-09-09,Apex Legends
+A_TXN_1355,2023-09-09,Cyberpunk 2077
+A_TXN_1355,2023-09-09,Elden Ring
+A_TXN_1356,2023-01-31,Red Dead Redemption 2
+A_TXN_1356,2023-01-31,Death Stranding
+A_TXN_1356,2023-01-31,Valorant
+A_TXN_1357,2023-03-14,Counter-Strike 2
+A_TXN_1358,2023-02-17,The Witcher 3: Blood and Wine DLC
+A_TXN_1359,2023-01-23,Call of Duty MW3
+A_TXN_1360,2023-09-24,Counter-Strike 2
+A_TXN_1361,2023-08-23,Cyberpunk 2077 OST
+A_TXN_1361,2023-08-23,Hollow Knight
+A_TXN_1361,2023-08-23,God of War
+A_TXN_1361,2023-08-23,Civilization VI
+A_TXN_1361,2023-08-23,Horizon Zero Dawn
+A_TXN_1362,2023-02-13,Counter-Strike 2
+A_TXN_1362,2023-02-13,The Witcher 3: Blood and Wine DLC
+A_TXN_1362,2023-02-13,Hollow Knight
+A_TXN_1362,2023-02-13,God of War
+A_TXN_1362,2023-02-13,Horizon Zero Dawn
+A_TXN_1363,2023-11-23,Civilization VI
+A_TXN_1363,2023-11-23,Apex Legends
+A_TXN_1364,2023-10-18,Total War: Warhammer III
+A_TXN_1364,2023-10-18,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1364,2023-10-18,Civilization VI
+A_TXN_1364,2023-10-18,Ghost of Tsushima
+A_TXN_1364,2023-10-18,Hades
+A_TXN_1364,2023-10-18,Cyberpunk 2077
+A_TXN_1365,2023-02-01,Death Stranding
+A_TXN_1365,2023-02-01,Civilization VI
+A_TXN_1366,2023-08-11,Cyberpunk 2077 OST
+A_TXN_1366,2023-08-11,The Witcher 3: Blood and Wine DLC
+A_TXN_1366,2023-08-11,Call of Duty MW3
+A_TXN_1366,2023-08-11,Overwatch 2
+A_TXN_1366,2023-08-11,Apex Legends
+A_TXN_1367,2023-03-08,Cities: Skylines
+A_TXN_1367,2023-03-08,Total War: Warhammer III
+A_TXN_1367,2023-03-08,Apex Legends
+A_TXN_1368,2023-05-14,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1368,2023-05-14,Elden Ring
+A_TXN_1369,2023-07-21,Cities: Skylines
+A_TXN_1369,2023-07-21,Elden Ring OST
+A_TXN_1370,2023-06-12,Cities: Skylines
+A_TXN_1370,2023-06-12,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1370,2023-06-12,Civilization VI
+A_TXN_1371,2023-10-27,The Witcher 3
+A_TXN_1371,2023-10-27,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1371,2023-10-27,Cyberpunk 2077
+A_TXN_1372,2023-02-24,Stardew Valley
+A_TXN_1372,2023-02-24,Terraria
+A_TXN_1373,2023-07-28,Civilization VI
+A_TXN_1373,2023-07-28,Civilization VI: New Frontier Pass
+A_TXN_1374,2023-08-20,Stardew Valley
+A_TXN_1374,2023-08-20,Stardew Valley OST
+A_TXN_1374,2023-08-20,Terraria
+A_TXN_1375,2023-03-03,Total War: Warhammer III
+A_TXN_1375,2023-03-03,Civilization VI
+A_TXN_1375,2023-03-03,Civilization VI: New Frontier Pass
+A_TXN_1376,2023-12-18,Counter-Strike 2
+A_TXN_1376,2023-12-18,Horizon Zero Dawn
+A_TXN_1376,2023-12-18,God of War
+A_TXN_1377,2023-06-05,Horizon Zero Dawn
+A_TXN_1377,2023-06-05,Call of Duty MW3
+A_TXN_1377,2023-06-05,Hades OST
+A_TXN_1377,2023-06-05,Among Us
+A_TXN_1378,2023-12-27,The Witcher 3: Blood and Wine DLC
+A_TXN_1378,2023-12-27,Hollow Knight
+A_TXN_1378,2023-12-27,Call of Duty MW3
+A_TXN_1378,2023-12-27,Ghost of Tsushima
+A_TXN_1378,2023-12-27,Overwatch 2
+A_TXN_1378,2023-12-27,Among Us
+A_TXN_1379,2023-06-17,The Witcher 3: Blood and Wine DLC
+A_TXN_1379,2023-06-17,The Witcher 3
+A_TXN_1380,2023-01-26,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1380,2023-01-26,Elden Ring
+A_TXN_1381,2023-05-14,Hades OST
+A_TXN_1382,2023-03-31,Terraria
+A_TXN_1382,2023-03-31,Planet Coaster
+A_TXN_1383,2023-08-20,God of War
+A_TXN_1383,2023-08-20,Among Us
+A_TXN_1383,2023-08-20,Ghost of Tsushima
+A_TXN_1384,2023-02-18,Total War: Warhammer III
+A_TXN_1384,2023-02-18,Civilization VI
+A_TXN_1384,2023-02-18,Hades OST
+A_TXN_1385,2023-08-25,Stardew Valley
+A_TXN_1385,2023-08-25,Cyberpunk 2077
+A_TXN_1385,2023-08-25,Apex Legends
+A_TXN_1386,2023-02-01,Cities: Skylines
+A_TXN_1386,2023-02-01,Counter-Strike 2
+A_TXN_1386,2023-02-01,The Witcher 3
+A_TXN_1386,2023-02-01,Cyberpunk 2077
+A_TXN_1386,2023-02-01,Elden Ring
+A_TXN_1387,2023-04-24,Call of Duty MW3
+A_TXN_1387,2023-04-24,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1387,2023-04-24,Valorant
+A_TXN_1388,2023-07-25,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1388,2023-07-25,Cyberpunk 2077
+A_TXN_1389,2023-11-19,Total War: Warhammer III
+A_TXN_1389,2023-11-19,Civilization VI
+A_TXN_1390,2023-10-28,Horizon Zero Dawn
+A_TXN_1390,2023-10-28,God of War
+A_TXN_1390,2023-10-28,Overwatch 2
+A_TXN_1390,2023-10-28,Among Us
+A_TXN_1391,2023-02-03,Among Us
+A_TXN_1391,2023-02-03,Stardew Valley
+A_TXN_1391,2023-02-03,Stardew Valley OST
+A_TXN_1392,2023-11-27,Horizon Zero Dawn
+A_TXN_1392,2023-11-27,God of War
+A_TXN_1393,2023-03-07,Counter-Strike 2
+A_TXN_1394,2023-06-19,Terraria
+A_TXN_1394,2023-06-19,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1394,2023-06-19,Elden Ring
+A_TXN_1395,2023-08-25,Elden Ring OST
+A_TXN_1395,2023-08-25,Elden Ring
+A_TXN_1396,2023-10-21,Hollow Knight
+A_TXN_1396,2023-10-21,Civilization VI
+A_TXN_1396,2023-10-21,Civilization VI: New Frontier Pass
+A_TXN_1396,2023-10-21,Ghost of Tsushima
+A_TXN_1397,2023-07-22,Among Us
+A_TXN_1398,2023-07-15,Counter-Strike 2
+A_TXN_1399,2023-03-30,Hades
+A_TXN_1399,2023-03-30,God of War
+A_TXN_1399,2023-03-30,Celeste
+A_TXN_1400,2023-08-17,Hades
+A_TXN_1400,2023-08-17,Celeste
+A_TXN_1401,2023-01-18,Total War: Warhammer III
+A_TXN_1401,2023-01-18,Terraria
+A_TXN_1401,2023-01-18,Civilization VI: New Frontier Pass
+A_TXN_1401,2023-01-18,Hades
+A_TXN_1401,2023-01-18,Horizon Zero Dawn
+A_TXN_1401,2023-01-18,Among Us
+A_TXN_1402,2023-09-13,Hades
+A_TXN_1402,2023-09-13,Call of Duty MW3
+A_TXN_1402,2023-09-13,Hollow Knight
+A_TXN_1403,2023-07-30,Battlefield 2042
+A_TXN_1403,2023-07-30,Horizon Zero Dawn
+A_TXN_1404,2023-02-14,Red Dead Redemption 2
+A_TXN_1404,2023-02-14,Overwatch 2
+A_TXN_1404,2023-02-14,God of War
+A_TXN_1404,2023-02-14,Stardew Valley
+A_TXN_1405,2023-03-12,God of War
+A_TXN_1405,2023-03-12,Ghost of Tsushima
+A_TXN_1406,2023-08-03,Battlefield 2042
+A_TXN_1406,2023-08-03,Civilization VI: New Frontier Pass
+A_TXN_1406,2023-08-03,Apex Legends
+A_TXN_1407,2023-09-27,Civilization VI
+A_TXN_1407,2023-09-27,Civilization VI: New Frontier Pass
+A_TXN_1408,2023-05-08,Call of Duty MW3
+A_TXN_1409,2023-10-06,Civilization VI: New Frontier Pass
+A_TXN_1409,2023-10-06,Elden Ring
+A_TXN_1410,2023-07-03,Red Dead Redemption 2
+A_TXN_1410,2023-07-03,Call of Duty MW3
+A_TXN_1410,2023-07-03,Civilization VI
+A_TXN_1411,2023-09-03,Battlefield 2042
+A_TXN_1411,2023-09-03,Red Dead Redemption 2
+A_TXN_1411,2023-09-03,Call of Duty MW3
+A_TXN_1411,2023-09-03,Hades
+A_TXN_1411,2023-09-03,Overwatch 2
+A_TXN_1411,2023-09-03,Death Stranding
+A_TXN_1411,2023-09-03,Cyberpunk 2077
+A_TXN_1412,2023-10-06,Battlefield 2042
+A_TXN_1412,2023-10-06,Horizon Zero Dawn
+A_TXN_1412,2023-10-06,Total War: Warhammer III
+A_TXN_1412,2023-10-06,Death Stranding
+A_TXN_1413,2023-06-26,Celeste
+A_TXN_1414,2023-06-13,Cyberpunk 2077
+A_TXN_1414,2023-06-13,The Witcher 3
+A_TXN_1414,2023-06-13,Elden Ring
+A_TXN_1415,2023-01-16,Planet Coaster
+A_TXN_1416,2023-09-29,Cyberpunk 2077 OST
+A_TXN_1416,2023-09-29,Cyberpunk 2077
+A_TXN_1417,2023-10-27,Ghost of Tsushima
+A_TXN_1417,2023-10-27,Planet Coaster
+A_TXN_1418,2023-05-17,The Witcher 3
+A_TXN_1418,2023-05-17,Elden Ring
+A_TXN_1419,2023-01-29,Celeste
+A_TXN_1419,2023-01-29,Apex Legends
+A_TXN_1420,2023-04-23,Red Dead Redemption 2
+A_TXN_1420,2023-04-23,Apex Legends
+A_TXN_1421,2023-07-18,Total War: Warhammer III
+A_TXN_1422,2023-03-30,Counter-Strike 2
+A_TXN_1422,2023-03-30,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1422,2023-03-30,Stardew Valley
+A_TXN_1422,2023-03-30,Hades OST
+A_TXN_1422,2023-03-30,Hades
+A_TXN_1422,2023-03-30,Among Us
+A_TXN_1423,2023-04-01,Call of Duty MW3
+A_TXN_1423,2023-04-01,Civilization VI
+A_TXN_1424,2023-06-12,Counter-Strike 2
+A_TXN_1424,2023-06-12,Valorant
+A_TXN_1425,2023-12-25,Cyberpunk 2077
+A_TXN_1425,2023-12-25,Call of Duty MW3
+A_TXN_1425,2023-12-25,Hades
+A_TXN_1425,2023-12-25,The Witcher 3: Blood and Wine DLC
+A_TXN_1425,2023-12-25,The Witcher 3
+A_TXN_1426,2023-10-18,God of War
+A_TXN_1426,2023-10-18,Apex Legends
+A_TXN_1426,2023-10-18,Ghost of Tsushima
+A_TXN_1427,2023-10-16,Cyberpunk 2077 OST
+A_TXN_1427,2023-10-16,Celeste
+A_TXN_1427,2023-10-16,Battlefield 2042
+A_TXN_1427,2023-10-16,Red Dead Redemption 2
+A_TXN_1427,2023-10-16,Elden Ring
+A_TXN_1428,2023-09-10,Hades
+A_TXN_1428,2023-09-10,Red Dead Redemption 2
+A_TXN_1429,2023-03-31,The Witcher 3
+A_TXN_1429,2023-03-31,Celeste
+A_TXN_1429,2023-03-31,Civilization VI: New Frontier Pass
+A_TXN_1430,2023-02-16,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1430,2023-02-16,Total War: Warhammer III
+A_TXN_1430,2023-02-16,Valorant
+A_TXN_1431,2023-11-05,The Witcher 3: Blood and Wine DLC
+A_TXN_1431,2023-11-05,Stardew Valley
+A_TXN_1431,2023-11-05,The Witcher 3
+A_TXN_1432,2023-09-27,Counter-Strike 2
+A_TXN_1432,2023-09-27,Valorant
+A_TXN_1433,2023-06-19,The Witcher 3: Blood and Wine DLC
+A_TXN_1433,2023-06-19,The Witcher 3
+A_TXN_1434,2023-04-14,Counter-Strike 2
+A_TXN_1434,2023-04-14,God of War
+A_TXN_1434,2023-04-14,Civilization VI
+A_TXN_1434,2023-04-14,Terraria
+A_TXN_1435,2023-03-08,Hades
+A_TXN_1435,2023-03-08,Death Stranding
+A_TXN_1436,2023-04-01,Counter-Strike 2
+A_TXN_1437,2023-01-12,Cyberpunk 2077
+A_TXN_1437,2023-01-12,The Witcher 3
+A_TXN_1438,2023-12-27,Total War: Warhammer III
+A_TXN_1438,2023-12-27,Celeste
+A_TXN_1438,2023-12-27,Overwatch 2
+A_TXN_1438,2023-12-27,God of War
+A_TXN_1438,2023-12-27,Horizon Zero Dawn
+A_TXN_1438,2023-12-27,The Witcher 3
+A_TXN_1438,2023-12-27,Elden Ring
+A_TXN_1439,2023-03-14,Overwatch 2
+A_TXN_1440,2023-09-27,Red Dead Redemption 2
+A_TXN_1440,2023-09-27,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1440,2023-09-27,The Witcher 3: Blood and Wine DLC
+A_TXN_1440,2023-09-27,Hollow Knight
+A_TXN_1441,2023-02-07,The Witcher 3
+A_TXN_1441,2023-02-07,Planet Coaster
+A_TXN_1442,2023-07-22,Terraria
+A_TXN_1442,2023-07-22,Civilization VI
+A_TXN_1442,2023-07-22,Civilization VI: New Frontier Pass
+A_TXN_1442,2023-07-22,Ghost of Tsushima
+A_TXN_1442,2023-07-22,Elden Ring OST
+A_TXN_1442,2023-07-22,Apex Legends
+A_TXN_1443,2023-06-22,Total War: Warhammer III
+A_TXN_1443,2023-06-22,Among Us
+A_TXN_1444,2023-03-11,Cities: Skylines
+A_TXN_1444,2023-03-11,God of War
+A_TXN_1444,2023-03-11,Civilization VI
+A_TXN_1444,2023-03-11,Horizon Zero Dawn
+A_TXN_1444,2023-03-11,Cyberpunk 2077
+A_TXN_1445,2023-08-12,Counter-Strike 2
+A_TXN_1445,2023-08-12,Stardew Valley OST
+A_TXN_1446,2023-09-07,Among Us
+A_TXN_1446,2023-09-07,Valorant
+A_TXN_1446,2023-09-07,Hades OST
+A_TXN_1447,2023-11-29,Overwatch 2
+A_TXN_1447,2023-11-29,Elden Ring OST
+A_TXN_1447,2023-11-29,God of War
+A_TXN_1447,2023-11-29,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1448,2023-12-29,Counter-Strike 2
+A_TXN_1448,2023-12-29,Civilization VI
+A_TXN_1449,2023-07-02,Hades
+A_TXN_1449,2023-07-02,Overwatch 2
+A_TXN_1450,2023-04-25,Counter-Strike 2
+A_TXN_1450,2023-04-25,Call of Duty MW3
+A_TXN_1450,2023-04-25,Death Stranding
+A_TXN_1450,2023-04-25,Cyberpunk 2077
+A_TXN_1451,2023-12-07,Apex Legends
+A_TXN_1452,2023-03-07,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1452,2023-03-07,Cyberpunk 2077
+A_TXN_1453,2023-01-01,The Witcher 3
+A_TXN_1453,2023-01-01,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1453,2023-01-01,Cyberpunk 2077
+A_TXN_1454,2023-10-21,Overwatch 2
+A_TXN_1454,2023-10-21,Among Us
+A_TXN_1454,2023-10-21,Terraria
+A_TXN_1455,2023-07-20,Battlefield 2042
+A_TXN_1455,2023-07-20,Elden Ring
+A_TXN_1456,2023-04-04,Apex Legends
+A_TXN_1456,2023-04-04,Stardew Valley
+A_TXN_1456,2023-04-04,Elden Ring
+A_TXN_1457,2023-11-05,Cities: Skylines
+A_TXN_1457,2023-11-05,Celeste
+A_TXN_1457,2023-11-05,Battlefield 2042
+A_TXN_1457,2023-11-05,The Witcher 3: Blood and Wine DLC
+A_TXN_1457,2023-11-05,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1457,2023-11-05,Overwatch 2
+A_TXN_1457,2023-11-05,Among Us
+A_TXN_1458,2023-06-12,Call of Duty MW3
+A_TXN_1458,2023-06-12,Valorant
+A_TXN_1459,2023-11-10,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1459,2023-11-10,Terraria
+A_TXN_1459,2023-11-10,Hollow Knight
+A_TXN_1459,2023-11-10,Call of Duty MW3
+A_TXN_1459,2023-11-10,Red Dead Redemption 2
+A_TXN_1459,2023-11-10,Cyberpunk 2077
+A_TXN_1460,2023-10-17,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1460,2023-10-17,Cyberpunk 2077
+A_TXN_1461,2023-09-12,Cities: Skylines
+A_TXN_1461,2023-09-12,Planet Coaster
+A_TXN_1462,2023-03-27,Cyberpunk 2077 OST
+A_TXN_1462,2023-03-27,Cyberpunk 2077
+A_TXN_1462,2023-03-27,Elden Ring
+A_TXN_1463,2023-11-22,Total War: Warhammer III
+A_TXN_1463,2023-11-22,Battlefield 2042
+A_TXN_1463,2023-11-22,Counter-Strike 2
+A_TXN_1463,2023-11-22,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1463,2023-11-22,Call of Duty MW3
+A_TXN_1463,2023-11-22,Horizon Zero Dawn
+A_TXN_1463,2023-11-22,The Witcher 3
+A_TXN_1464,2023-02-15,God of War
+A_TXN_1464,2023-02-15,Death Stranding
+A_TXN_1465,2023-12-10,Elden Ring OST
+A_TXN_1465,2023-12-10,Apex Legends
+A_TXN_1466,2023-11-24,Stardew Valley OST
+A_TXN_1466,2023-11-24,Cyberpunk 2077
+A_TXN_1466,2023-11-24,Call of Duty MW3
+A_TXN_1466,2023-11-24,God of War
+A_TXN_1466,2023-11-24,Red Dead Redemption 2
+A_TXN_1466,2023-11-24,The Witcher 3: Blood and Wine DLC
+A_TXN_1466,2023-11-24,Among Us
+A_TXN_1467,2023-06-21,Counter-Strike 2
+A_TXN_1467,2023-06-21,Total War: Warhammer III
+A_TXN_1467,2023-06-21,God of War
+A_TXN_1467,2023-06-21,Elden Ring
+A_TXN_1468,2023-08-17,Call of Duty MW3
+A_TXN_1469,2023-01-06,Overwatch 2
+A_TXN_1469,2023-01-06,Total War: Warhammer III
+A_TXN_1469,2023-01-06,Elden Ring
+A_TXN_1470,2023-05-08,Total War: Warhammer III
+A_TXN_1470,2023-05-08,Civilization VI
+A_TXN_1471,2023-12-21,Valorant
+A_TXN_1471,2023-12-21,Hollow Knight
+A_TXN_1471,2023-12-21,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1471,2023-12-21,Call of Duty MW3
+A_TXN_1471,2023-12-21,Overwatch 2
+A_TXN_1472,2023-02-04,Cyberpunk 2077 OST
+A_TXN_1472,2023-02-04,Battlefield 2042
+A_TXN_1472,2023-02-04,Civilization VI: New Frontier Pass
+A_TXN_1472,2023-02-04,Hades
+A_TXN_1472,2023-02-04,Apex Legends
+A_TXN_1473,2023-02-25,God of War
+A_TXN_1473,2023-02-25,Ghost of Tsushima
+A_TXN_1474,2023-08-03,Celeste
+A_TXN_1474,2023-08-03,Counter-Strike 2
+A_TXN_1474,2023-08-03,The Witcher 3
+A_TXN_1474,2023-08-03,Ghost of Tsushima
+A_TXN_1474,2023-08-03,The Witcher 3: Blood and Wine DLC
+A_TXN_1474,2023-08-03,Cyberpunk 2077
+A_TXN_1475,2023-07-31,Cyberpunk 2077
+A_TXN_1475,2023-07-31,Stardew Valley OST
+A_TXN_1476,2023-09-10,Red Dead Redemption 2
+A_TXN_1476,2023-09-10,Overwatch 2
+A_TXN_1476,2023-09-10,God of War
+A_TXN_1477,2023-06-29,Counter-Strike 2
+A_TXN_1477,2023-06-29,Red Dead Redemption 2
+A_TXN_1477,2023-06-29,Ghost of Tsushima
+A_TXN_1478,2023-02-21,Cyberpunk 2077 OST
+A_TXN_1478,2023-02-21,Elden Ring OST
+A_TXN_1479,2023-10-23,The Witcher 3: Blood and Wine DLC
+A_TXN_1479,2023-10-23,Celeste
+A_TXN_1480,2023-12-18,Cities: Skylines
+A_TXN_1481,2023-04-26,Cyberpunk 2077 OST
+A_TXN_1481,2023-04-26,Hollow Knight
+A_TXN_1481,2023-04-26,God of War
+A_TXN_1481,2023-04-26,Ghost of Tsushima
+A_TXN_1481,2023-04-26,Red Dead Redemption 2
+A_TXN_1481,2023-04-26,Elden Ring
+A_TXN_1482,2023-02-07,Stardew Valley
+A_TXN_1482,2023-02-07,Terraria
+A_TXN_1483,2023-01-18,Counter-Strike 2
+A_TXN_1483,2023-01-18,Stardew Valley OST
+A_TXN_1483,2023-01-18,Valorant
+A_TXN_1483,2023-01-18,Hollow Knight
+A_TXN_1484,2023-06-13,Hades
+A_TXN_1484,2023-06-13,Hades OST
+A_TXN_1485,2023-05-14,Battlefield 2042
+A_TXN_1485,2023-05-14,Terraria
+A_TXN_1485,2023-05-14,Hollow Knight
+A_TXN_1485,2023-05-14,Hades
+A_TXN_1485,2023-05-14,Death Stranding
+A_TXN_1486,2023-02-07,Hades
+A_TXN_1486,2023-02-07,Stardew Valley OST
+A_TXN_1486,2023-02-07,Apex Legends
+A_TXN_1487,2023-03-24,Apex Legends
+A_TXN_1487,2023-03-24,God of War
+A_TXN_1487,2023-03-24,Valorant
+A_TXN_1487,2023-03-24,Ghost of Tsushima
+A_TXN_1488,2023-10-08,Total War: Warhammer III
+A_TXN_1488,2023-10-08,Call of Duty MW3
+A_TXN_1489,2023-02-17,Cities: Skylines
+A_TXN_1489,2023-02-17,Celeste
+A_TXN_1489,2023-02-17,Death Stranding
+A_TXN_1489,2023-02-17,Apex Legends
+A_TXN_1490,2023-06-23,Battlefield 2042
+A_TXN_1490,2023-06-23,Ghost of Tsushima
+A_TXN_1491,2023-01-16,Stardew Valley
+A_TXN_1492,2023-08-09,Overwatch 2
+A_TXN_1492,2023-08-09,Celeste
+A_TXN_1492,2023-08-09,Hades OST
+A_TXN_1493,2023-03-22,Celeste
+A_TXN_1493,2023-03-22,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1493,2023-03-22,The Witcher 3
+A_TXN_1493,2023-03-22,The Witcher 3: Blood and Wine DLC
+A_TXN_1493,2023-03-22,Among Us
+A_TXN_1494,2023-01-28,Red Dead Redemption 2
+A_TXN_1494,2023-01-28,Overwatch 2
+A_TXN_1495,2023-04-16,Elden Ring: Shadow of the Erdtree DLC
+A_TXN_1495,2023-04-16,Elden Ring
+A_TXN_1496,2023-07-29,Cyberpunk 2077 OST
+A_TXN_1496,2023-07-29,Ghost of Tsushima
+A_TXN_1497,2023-10-04,The Witcher 3: Blood and Wine DLC
+A_TXN_1497,2023-10-04,Cyberpunk 2077 OST
+A_TXN_1498,2023-05-25,Counter-Strike 2
+A_TXN_1498,2023-05-25,Valorant
+A_TXN_1499,2023-02-19,Stardew Valley
+A_TXN_1499,2023-02-19,Terraria
+A_TXN_1499,2023-02-19,Ghost of Tsushima
+A_TXN_1500,2023-07-04,The Witcher 3
+A_TXN_1500,2023-07-04,Cyberpunk 2077: Phantom Liberty DLC
+A_TXN_1500,2023-07-04,Cyberpunk 2077
+A_TXN_1500,2023-07-04,Elden Ring

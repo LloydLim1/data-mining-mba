@@ -1,0 +1,132 @@
+{
+  "Hollow Knight": {
+    "genre": "Metroidvania",
+    "price": 14.99,
+    "popularity": 0.38
+  },
+  "Celeste": {
+    "genre": "Platformer",
+    "price": 19.99,
+    "popularity": 0.35
+  },
+  "Hades": {
+    "genre": "Roguelike",
+    "price": 24.99,
+    "popularity": 0.4
+  },
+  "Dead Cells": {
+    "genre": "Roguelike",
+    "price": 24.99,
+    "popularity": 0.32
+  },
+  "Cuphead": {
+    "genre": "Platformer",
+    "price": 19.99,
+    "popularity": 0.3
+  },
+  "Shovel Knight": {
+    "genre": "Platformer",
+    "price": 14.99,
+    "popularity": 0.28
+  },
+  "Axiom Verge": {
+    "genre": "Metroidvania",
+    "price": 19.99,
+    "popularity": 0.22
+  },
+  "Ori and the Blind Forest": {
+    "genre": "Platformer",
+    "price": 19.99,
+    "popularity": 0.27
+  },
+  "Disco Elysium": {
+    "genre": "RPG",
+    "price": 29.99,
+    "popularity": 0.25
+  },
+  "Undertale": {
+    "genre": "RPG",
+    "price": 9.99,
+    "popularity": 0.34
+  },
+  "Deltarune": {
+    "genre": "RPG",
+    "price": 0.0,
+    "popularity": 0.28
+  },
+  "Omori": {
+    "genre": "RPG",
+    "price": 19.99,
+    "popularity": 0.26
+  },
+  "Stardew Valley": {
+    "genre": "Simulation",
+    "price": 14.99,
+    "popularity": 0.42
+  },
+  "Terraria": {
+    "genre": "Sandbox",
+    "price": 9.99,
+    "popularity": 0.36
+  },
+  "Risk of Rain 2": {
+    "genre": "Roguelike",
+    "price": 24.99,
+    "popularity": 0.3
+  },
+  "Enter the Gungeon": {
+    "genre": "Roguelike",
+    "price": 14.99,
+    "popularity": 0.28
+  },
+  "Binding of Isaac: Rebirth": {
+    "genre": "Roguelike",
+    "price": 14.99,
+    "popularity": 0.32
+  },
+  "Nuclear Throne": {
+    "genre": "Roguelike",
+    "price": 11.99,
+    "popularity": 0.22
+  },
+  "Dead Cells: Fatal Falls DLC": {
+    "genre": "DLC",
+    "price": 4.99,
+    "popularity": 0.18
+  },
+  "Cuphead: The Delicious Last Course DLC": {
+    "genre": "DLC",
+    "price": 7.99,
+    "popularity": 0.22
+  },
+  "Binding of Isaac: Afterbirth+ DLC": {
+    "genre": "DLC",
+    "price": 9.99,
+    "popularity": 0.2
+  },
+  "Hades OST": {
+    "genre": "Soundtrack",
+    "price": 7.99,
+    "popularity": 0.18
+  },
+  "Celeste OST": {
+    "genre": "Soundtrack",
+    "price": 7.99,
+    "popularity": 0.2
+  },
+  "Hollow Knight OST": {
+    "genre": "Soundtrack",
+    "price": 5.99,
+    "popularity": 0.16
+  },
+  "Undertale OST": {
+    "genre": "Soundtrack",
+    "price": 9.99,
+    "popularity": 0.22
+  },
+  "Cuphead OST": {
+    "genre": "Soundtrack",
+    "price": 9.99,
+    "popularity": 0.15
+  }
+}
