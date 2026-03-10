@@ -1,0 +1,28 @@
+# Data files (processed)
+data/processed/
+data/raw/dataset_*_transactions.json
+data/raw/games_metadata_*.json
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Environment
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
